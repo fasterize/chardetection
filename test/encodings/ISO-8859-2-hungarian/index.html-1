@@ -1,0 +1,2530 @@
+<!DOCTYPE html>
+<html lang="pl">
+	<head>
+		<meta charset="iso-8859-2" />
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
+		<meta http-equiv="X-UA-Compatible" content="IE=10" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Cache-Control" content="no-cache" />
+		<meta name="norton-safeweb-site-verification" content="cz3v43n3qn7dymr3750s6kcl3ufxzbugjimpp-n4uuglj0l502hoh7wfl5jbik63g1ty3ma6ubhkjq0plu1u7k8cbsvgwrj2sj7pe8fy9vzlfb9nqf3xrvijw7t51t7c" />
+		<title>money.pl - portal finansowy - wiadomości, notowania, kursy, wskaźniki, giełdy, fundusze, emerytury, podatki</title>
+				<meta name="description" content="Informacje finansowe z kraju i ze świata. Aktualne i archiwalne: notowania giełdowe, kursy walut, wskaźniki gospodarcze." />
+		<meta name="keywords" content="serwis finansowy, portal finansowy, gospodarka, biznes, podatki, notowania, kursy walut, gpw, giełda, wiadomości, banki, kredyty, fundusze, emerytury, ubezpieczenia, pieniądze" />
+		<link rel="dns-prefetch" href="//dot.wp.pl" />
+		<link rel="dns-prefetch" href="//static1.money.pl" />
+		<link rel="dns-prefetch" href="//money.wpcdn.pl" />
+		<link rel="preconnect" href="//a.wpimg.pl" crossorigin>
+		<link rel="preconnect" href="//v.wpimg.pl" crossorigin>
+		<link rel="preconnect" href="//static1.money.pl" crossorigin>
+		<link rel="preload" href="https://v.wpimg.pl/bnQud29mAR45KgldVwgbQTcaCkYWAQMaPlgWV14YDg8jWBNXWwsNACVbE11fC1A=" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://v.wpimg.pl/b250LndvAUJdbyEBChMbHVNfIhpLGgNGWh0uAgUVCR9CVS4ICxgWHEJfKghW" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://v.wpimg.pl/bnQud29mAR45KgldVwgbQTcaCkYWAQMaPlgGXVUJTxk0FwJdVxlMGT4TAgA=" as="font" type="font/woff2" crossorigin>
+						<meta name="robots" content="index,follow" />
+		<link rel="canonical" href="https://www.money.pl" />
+				<link href="https://plus.google.com/+moneypl/" rel="publisher" />
+<meta property="og:title" content="money.pl - portal finansowy - wiadomości, notowania, kursy, wskaźniki, giełdy, fundusze, emerytury, podatki" />
+		<meta property="og:description" content="Informacje finansowe z kraju i ze świata. Aktualne i archiwalne: notowania giełdowe, kursy walut, wskaźniki gospodarcze." />
+		<meta property="og:image" content="https://static1.money.pl/i/wp-money.png" />
+		<meta property="og:url" content="https://www.money.pl/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="www.money.pl" />
+		<meta property="og:locale" content="pl_PL" />
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content="https://www.money.pl/" />
+		<meta property="twitter:site" content="@Money_pl" />
+		<meta property="twitter:image" content="https://static1.money.pl/i/wp-money.png" />
+		<meta property="twitter:description" content="Informacje finansowe z kraju i ze świata. Aktualne i archiwalne: notowania giełdowe, kursy walut, wskaźniki gospodarcze." />
+		<meta property="twitter:domain" content="www.money.pl" />
+		<meta name="author" content="Grupa Wirtualna Polska" />
+		<meta property="fb:app_id" content="203880196374936" />
+		<meta property="fb:pages" content="90593452375" />
+		<meta property="fb:pages" content="115567901803497" />
+		<meta property="fb:pages" content="203367529692524" />
+		<meta property="logo" content="https://money.wpcdn.pl/i/logo/money_pl_meta.png" />
+				<link rel="stylesheet" type="text/css" href="https://money.wp.pl/ZS5taW4uOSNdKww4WhAjfEZbEj5AEHQ-XBpPNEcGZQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQxqKz4IayoFDGorPghrKgUMais-CGsqBQ==" />
+				<script>
+			var gfkSstConf = {};
+			var gfkSst = function(){};
+		</script>
+				<script>
+			var wp_pp_gemius_identifier = 'p3Y7KvLmnGwxSuNBD9f8iXXW7_YNvac8gsCGBMPueyD.m7';
+			var wp_pp_gemius_time_identifier = 'ciJAss_Qc2wUm8yyFO9OkbccXhZkwQdFF5NJ86cOh1j.u7';
+			var wp_pp_gemius_service = 'gapl';
+		</script>
+					    <script>
+	    <!-- //<![CDATA[
+	    var wp_cookie_info = false;
+	    var wp_dot_type = 'time,click';
+	    var wp_sn = 'money_money';
+	    var wp_dot_addparams = {"ver":"2015-05","ctype":"index","ccategory":"sg","abtest":"i"};
+	    	    var wp_mobile=0;
+	    			    // ]]> -->
+	    </script>
+
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=10">
+		<script type="text/javascript">
+		window.habahaba = 'citexstrongxinsxixbxvarxsampxem';
+		var rekid = '232410';
+		var wp_money_keywords = '';
+		var oas_target = '';
+		var gafReady = true;
+		</script>
+		<script  id="config" >window.gDataConfig={3:{placement:"/89844762/Desktop_Money.pl_728x90",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[970,100],[970,150],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180]],div:"div-gpt-ad-x03-750100-0"},5:{placement:"/89844762/Desktop_Money.pl_300x250",sizes:[300,250],div:"div-gpt-ad-x05-300250-0"},7:{placement:"/89844762/Desktop_Money.pl_160x600",sizes:[160,600],div:"div-gpt-ad-x07-160600-0"},11:{placement:"/89844762/Desktop_Money.pl_x11",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x11-300250-0"},12:{placement:"/89844762/Desktop_Money.pl_x12",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x12-300250-0"},13:{placement:"/89844762/Desktop_Money.pl_x13",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x13-300250-0"},14:{placement:"/89844762/Desktop_Money.pl_x14",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x14-300250-0"},15:{placement:"/89844762/Desktop_Money.pl_x15",sizes:[[750,100],[728,90],[750,200],[750,300],[300,250]],div:"div-gpt-ad-x15-970300-0"},18:{placement:"/89844762/Desktop_Money.pl_300x250_extra",sizes:[300,250],div:"div-gpt-ad-x18-300250-0"},29:{placement:"/89844762/Desktop_Money.pl_x29",sizes:[[300,250],[336,280],[640,280]],div:"div-gpt-ad-x29-300250-0"},32:{placement:"/89844762/Desktop_Money.pl_x32",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x32-300250-0"},34:{placement:"/89844762/Desktop_Money.pl_300x100",sizes:[300,250],div:"div-gpt-ad-x34-300100-0"},37:{placement:"/89844762/Desktop_Money.pl_300x600",sizes:[[300,250],[300,600]],div:"div-gpt-ad-x37-300600-0"},52:{placement:"/89844762/Desktop_Money.pl_x52",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180],[300,250]],div:"div-gpt-ad-x52-970300-0"},70:{placement:"/89844762/Desktop_Money.pl_W2_728x90",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[970,100],[970,150],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180]],div:"div-gpt-ad-x70-750100-0"},71:{placement:"/89844762/Desktop_Money.pl_W2_300x250",sizes:[300,250],div:"div-gpt-ad-x71-300250-0"},72:{placement:"/89844762/Desktop_Money.pl_x72",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x72-300250-0"},73:{placement:"/89844762/Desktop_Money.pl_x73",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x73-300250-0"},74:{placement:"/89844762/Desktop_Money.pl_x74",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x74-300250-0"},75:{placement:"/89844762/Desktop_Money.pl_x75",sizes:[[300,250],[336,280],[640,280]],div:"div-gpt-ad-x75-300250-0"},78:{placement:"/89844762/Desktop_Money.pl_W2_300x100",sizes:[300,250],div:"div-gpt-ad-x78-300100-0"},79:{placement:"/89844762/Desktop_Money.pl_W2_300x600",sizes:[[300,250],[300,600]],div:"div-gpt-ad-x79-300600-0"},90:{placement:"/89844762/Desktop_Money.pl_W3_728x90",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[970,100],[970,150],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180]],div:"div-gpt-ad-x90-750100-0"},91:{placement:"/89844762/Desktop_Money.pl_W3_300x250",sizes:[300,250],div:"div-gpt-ad-x91-300250-0"},92:{placement:"/89844762/Desktop_Money.pl_x92",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x92-300250-0"},93:{placement:"/89844762/Desktop_Money.pl_x93",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x93-300250-0"},94:{placement:"/89844762/Desktop_Money.pl_x94",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x94-300250-0"},95:{placement:"/89844762/Desktop_Money.pl_x95",sizes:[[300,250],[336,280],[640,280]],div:"div-gpt-ad-x95-300250-0"},98:{placement:"/89844762/Desktop_Money.pl_W3_300x100",sizes:[300,250],div:"div-gpt-ad-x98-300100-0"},99:{placement:"/89844762/Desktop_Money.pl_W3_300x600",sizes:[[300,250],[300,600]],div:"div-gpt-ad-x99-300600-0"},"3gielda":{placement:"/89844762/Desktop_Money.pl_x03_gielda",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[970,100],[970,150],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180]],div:"div-gpt-ad-x03-gielda-old",targeting:{tVer:"A"}},"5gielda":{placement:"/89844762/Desktop_Money.pl_x05_gielda",sizes:[300,250],div:"div-gpt-ad-x05-gielda-old",targeting:{tVer:"A"}},"14gielda":{placement:"/89844762/Desktop_Money.pl_x14_gielda",sizes:[[300,250],[336,280]],div:"div-gpt-ad-x14-gielda-old",targeting:{tVer:"A"}},"15gielda":{placement:"/89844762/Desktop_Money.pl_x15_gielda",sizes:[[750,100],[728,90],[750,200],[750,300],[300,250]],div:"div-gpt-ad-x15-gielda"},"18gielda":{placement:"/89844762/Desktop_Money.pl_x18_gielda",sizes:[300,250],div:"div-gpt-ad-x18-gielda-old",targeting:{tVer:"A"}},"34gielda":{placement:"/89844762/Desktop_Money.pl_x34_gielda",sizes:[300,250],div:"div-gpt-ad-x34-gielda-old",targeting:{tVer:"A"}},"37gielda":{placement:"/89844762/Desktop_Money.pl_x37_gielda",sizes:[[300,250],[300,600]],div:"div-gpt-ad-x37-gielda-old",targeting:{tVer:"A"}},"3gieldanew":{placement:"/89844762/Desktop_Money.pl_x03_gielda",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[970,100],[970,150],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180]],div:"div-gpt-ad-x03-gielda",targeting:{tVer:"A"}},"343gieldanew":{placement:"/89844762/Desktop_Money.pl_x34_gielda",sizes:[300,250],div:"div-gpt-ad-x34-gielda",targeting:{tVer:"A"}},"37gieldanew":{placement:"/89844762/Desktop_Money.pl_x37_gielda",sizes:[[300,250],[300,600]],div:"div-gpt-ad-x37-gielda",targeting:{tVer:"A"}},"53gieldanew":{placement:"/89844762/Desktop_Money.pl_x53_gielda",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[970,100],[970,150],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180]],div:"div-gpt-ad-x53-gielda",targeting:{tVer:"A"}},"3refresh":{placement:"/89844762/Desktop_Money.pl_x03_refresh",sizes:[[728,90],[750,100],[750,200],[750,300],[930,180],[950,90],[950,200],[960,90],[970,66],[970,90],[970,100],[970,150],[970,200],[970,250],[970,300],[980,90],[980,120]],div:"div-gpt-ad-x03-refresh"},"3sg":{placement:"/89844762/Desktop_Money.pl_x03_sg",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[970,100],[970,150],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180]],div:"div-gpt-ad-x03-sg"},"3sgold":{placement:"/89844762/Desktop_Money.pl_x03_sg_old",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[970,100],[970,150],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180]],div:"div-gpt-ad-x03-sg-old"},"5refresh":{placement:"/89844762/Desktop_Money.pl_x05_refresh",sizes:[[300,250]],div:"div-gpt-ad-x05-refresh"},"15sg":{placement:"/89844762/Desktop_Money.pl_x15_sg",sizes:[[750,100],[728,90],[750,200],[750,300],[300,250]],div:"div-gpt-ad-x15-sg"},"15sgold":{placement:"/89844762/Desktop_Money.pl_x15_sg_old",sizes:[[750,100],[728,90],[750,200],[750,300],[300,250]],div:"div-gpt-ad-x15-sg-old"},"34refresh":{placement:"/89844762/Desktop_Money.pl_x34_refresh",sizes:[[300,250]],div:"div-gpt-ad-x34-refresh"},"34sg":{placement:"/89844762/Desktop_Money.pl_x34_sg",sizes:[[300,250]],div:"div-gpt-ad-x34-sg"},"34sgold":{placement:"/89844762/Desktop_Money.pl_x34_sg_old",sizes:[[300,250]],div:"div-gpt-ad-x34-sg-old"},"37refresh":{placement:"/89844762/Desktop_Money.pl_x37_refresh",sizes:[[300,250]],div:"div-gpt-ad-x37-refresh"},"37sg":{placement:"/89844762/Desktop_Money.pl_x37_sg",sizes:[[300,250],[300,600]],div:"div-gpt-ad-x37-sg"},"37sgold":{placement:"/89844762/Desktop_Money.pl_x37_sg_old",sizes:[[300,250],[300,600]],div:"div-gpt-ad-x37-sg-old"},"53sg":{placement:"/89844762/Desktop_Money.pl_x53_sg",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180],[300,250]],div:"div-gpt-ad-x53-sg"},"53sgold":{placement:"/89844762/Desktop_Money.pl_x53_sg_old",sizes:[[750,100],[728,90],[750,200],[750,300],[970,200],[970,250],[970,300],[980,120],[980,90],[970,90],[970,66],[960,90],[950,90],[950,200],[930,180],[300,250]],div:"div-gpt-ad-x53-sg-old"},"79sg":{placement:"/89844762/Desktop_Money.pl_x79_sg",sizes:[[300,250],[300,600]],div:"div-gpt-ad-x79-sg"},"79sgold":{placement:"/89844762/Desktop_Money.pl_x79_sg_old",sizes:[[300,250],[300,600]],div:"div-gpt-ad-x79-sg-old"}},window.prebidConfig={apd:!0,blockList:[{text:["strategie/marketing_i_sprzedaz/artykul/jak;pokazac;zeby;nie;pokazac;oni;to;potrafia,227,0,1294819.html"],bidders:["sovrn"]}],floorprices:{default:{default:1.5,slot3:4,slot5:4,slot7:2,slot11:1.5,slot12:1.5,slot13:1.5,slot14:1.5,slot15:1.5,slot18:1.5,slot29:1.5,slot32:1.5,slot34:4,slot37:4,slot52:1.5,slot70:1.5,slot71:1.5,slot75:1.5,slot78:1.5,slot79:1.5,slot80:1.5,slot81:1.5,slot91:1.5,slot99:1.5,slot150:17},businessclick:{default:.2,slot3:.4,slot5:.4,slot34:.4,slot37:.4},xhb:{slot150:14},teads:{default:8}},hb:{blockbuckets:!0,units:[{code:"multi-3-15-70-90",disabled:!1,connected:["slot3","slot15","slot70","slot90"],sizes:[[728,90],[750,100],[750,200],[750,300],[970,100],[970,150],[970,200],[950,200],[970,250],[960,250],[970,300]],bids:[{bidder:"sovrn",params:{bidfloor:.45,sizes:[728,90],tagid:524205}},{bidder:"connectad",params:{siteId:"1009862",networkId:"10047"}}]},{code:"multi-3-18-50-70-90-53",disabled:!1,connected:["slot3","slot18","slot50","slot70","slot90","slot53"],sizes:[[728,90],[750,100],[750,200],[750,300],[970,100],[970,150],[970,200],[950,200],[970,250],[960,250],[970,300]],bids:[{bidder:"brainJuice",params:{member:3911,placementId:"12510926"}},{bidder:"brealtimeAst",params:{placementId:"12149382"}},{bidder:"businessclick",params:{id:"03609293b107be12293588a2c16e6ffdc645527126085c36dbe04d5dc8913140"}},{bidder:"indexExchange",params:{siteID:"268225",id:"desktop_money.pl_x3"}},{bidder:"openx",params:{delDomain:"wirtualn-d.openx.net",unit:"538629522"}},{bidder:"pubmatic",params:{adSlot:"Money_DMS_970x250@970x250",publisherId:"62652"}},{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:"32048",pageId:"550185",siteId:"73727"}}]},{code:"multi-5-34",disabled:!1,connected:["slot5","slot34"],sizes:[[300,250]],bids:[{bidder:"adform",params:{mid:93052}},{bidder:"appnexusAst",params:{placementId:"5663188"}},{bidder:"brainJuice",params:{member:3911,placementId:"12510931"}},{bidder:"brealtimeAst",params:{placementId:"9416543"}},{bidder:"indexExchange",params:{siteID:"268959",id:"desktop_money.pl_x5"}},{bidder:"connectad",params:{siteId:"1009860",networkId:"10047"}}]},{code:"multi-5-11-12-13-14-34",disabled:!1,connected:["slot5","slot11","slot12","slot13","slot14","slot34"],sizes:[[300,250]],bids:[{bidder:"openx",params:{delDomain:"wirtualn-d.openx.net",unit:"538629524"}},{bidder:"pubmatic",params:{adSlot:"Money_DMS_300x250@300x250",publisherId:"62652"}}]},{code:"multi-5-11-12-13-14-34-35-52-72-92",disabled:!1,connected:["slot5","slot11","slot12","slot13","slot14","slot34","slot35","slot52","slot72","slot92"],sizes:[[300,250]],bids:[{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:"32046",pageId:"550185",siteId:"73727"}},{bidder:"sovrn",params:{bidfloor:.45,sizes:[300,250],tagid:524209}}]},{code:"multi-11-12-13-14",disabled:!1,connected:["slot11","slot12","slot13","slot14"],sizes:[[300,250],[336,280],[640,100],[620,280]],bids:[{bidder:"adform",params:{mid:361855}},{bidder:"appnexusAst",params:{placementId:"11604148"}},{bidder:"brainJuice",params:{member:3911,placementId:"12519552"}},{bidder:"brealtimeAst",params:{placementId:"11218137"}},{bidder:"indexExchange",params:{siteID:"268960",id:"desktop_money.pl_x11"}},{bidder:"connectad",params:{siteId:"1009861",networkId:"10047"}}]},{code:"slot3",disabled:!1,sizes:[[728,90],[750,100],[750,200],[750,300],[970,100],[970,150],[970,200],[950,200],[970,250],[960,250],[970,300]],bids:[{bidder:"adform",params:{mid:120459}},{bidder:"appnexusAst",params:{placementId:"5663186"}},{bidder:"criteo",params:{zoneId:1023170}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"connectad",params:{siteId:"1009859",networkId:"10047"}}]},{code:"slot5",disabled:!1,sizes:[[300,250],[336,280],[640,100],[620,280]],bids:[{bidder:"businessclick",params:{id:"03609293b107be12293588a2c16e6ffd1ca20bcce0b50b29eb91204e2154b1ca"}},{bidder:"criteo",params:{zoneId:543742}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot7",disabled:!1,sizes:[[160,600]],bids:[{bidder:"adform",params:{mid:120457}}]},{code:"slot11",disabled:!1,sizes:[[300,250],[336,280],[640,100],[620,280]],bids:[{bidder:"criteo",params:{zoneId:543742}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot12",disabled:!1,sizes:[[300,250],[336,280],[640,100],[620,280]],bids:[{bidder:"criteo",params:{zoneId:543742}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot13",disabled:!1,sizes:[[300,250],[336,280],[640,100],[620,280]],bids:[{bidder:"criteo",params:{zoneId:543742}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot14",disabled:!1,sizes:[[300,250],[336,280],[640,100],[620,280]],bids:[{bidder:"criteo",params:{zoneId:543742}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot15",disabled:!1,sizes:[[750,100],[728,90],[750,200],[750,300],[300,250]],bids:[{bidder:"adform",params:{mid:361852}},{bidder:"appnexusAst",params:{placementId:"12692469"}},{bidder:"criteo",params:{zoneId:514159}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:"52591",pageId:"550185",siteId:"73727"}}]},{code:"slot18",disabled:!1,sizes:[[300,250],[728,90],[750,100],[750,200],[750,300],[930,180],[950,90],[950,200],[960,90],[970,66],[970,90],[970,100],[970,150],[970,200],[970,250],[970,300]],bids:[{bidder:"adform",params:{mid:120456}},{bidder:"appnexusAst",params:{placementId:"10662151"}},{bidder:"criteo",params:{zoneId:1023170}},{bidder:"pubmatic",params:{adSlot:"money_slot18@300x250",publisherId:"62652"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot29",disabled:!1,sizes:[[620,280],[300,250]],bids:[{bidder:"adform",params:{mid:336629}},{bidder:"appnexusAst",params:{placementId:"12923379"}},{bidder:"businessclick",params:{id:"03609293b107be12293588a2c16e6ffd013304ee200680ec2af7039d6976f67a"}},{bidder:"criteo",params:{zoneId:543739}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot32",disabled:!1,sizes:[[620,280],[300,250]],bids:[{bidder:"adform",params:{mid:336630}},{bidder:"appnexusAst",params:{placementId:"12923380"}},{bidder:"criteo",params:{zoneId:543742}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot34",disabled:!1,sizes:[[300,250]],bids:[{bidder:"businessclick",params:{id:"03609293b107be12293588a2c16e6ffdb43c0d2500f9e75c30615024a10bb48d"}},{bidder:"criteo",params:{zoneId:543739}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot37",disabled:!1,sizes:[[300,250],[300,600]],bids:[{bidder:"adform",params:{mid:93053}},{bidder:"appnexusAst",params:{placementId:"5663191"}},{bidder:"brainJuice",params:{member:3911,placementId:"12510930"}},{bidder:"brealtimeAst",params:{placementId:"9416542"}},{bidder:"businessclick",params:{id:"03609293b107be12293588a2c16e6ffd4dfdd1c3c6be3dadf23775d4bea85f91"}},{bidder:"criteo",params:{zoneId:543740}},{bidder:"indexExchange",params:{siteID:"268962",id:"desktop_money.pl_x37"}},{bidder:"openx",params:{delDomain:"wirtualn-d.openx.net",unit:"538629523"}},{bidder:"pubmatic",params:{adSlot:"Money_DMS_300x600@300x600",publisherId:"62652"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:32047,pageId:550185,siteId:73727}},{bidder:"sovrn",params:{bidfloor:1.2,sizes:[300,600],tagid:524208}},{bidder:"connectad",params:{siteId:"1009863",networkId:"10047"}}]},{code:"slot52",disabled:!1,sizes:[[728,90],[750,100],[750,200],[750,300],[970,100],[970,150],[970,200],[950,200],[970,250],[960,250],[970,300]],bids:[{bidder:"adform",params:{mid:361853}},{bidder:"appnexusAst",params:{placementId:"12923424"}},{bidder:"criteo",params:{zoneId:543739}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot53",disabled:!1,sizes:[[300,250],[728,90],[750,100],[750,200],[750,300],[930,180],[950,90],[950,200],[960,90],[970,66],[970,90],[970,100],[970,150],[970,200],[970,250],[970,300]],bids:[{bidder:"adform",params:{mid:361853}},{bidder:"appnexusAst",params:{placementId:"12692467"}},{bidder:"criteo",params:{zoneId:1023170}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot70",disabled:!1,sizes:[[970,250]],bids:[{bidder:"appnexusAst",params:{placementId:"12923435"}},{bidder:"criteo",params:{zoneId:1023170}},{bidder:"indexExchange",params:{siteID:"268963",id:"desktop_money.pl_x70"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"connectad",params:{siteId:"1009864",networkId:"10047"}}]},{code:"slot78",disabled:!1,sizes:[[300,250]],bids:[{bidder:"adform",params:{mid:336624}},{bidder:"appnexusAst",params:{placementId:"12923393"}},{bidder:"criteo",params:{zoneId:543739}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot79",disabled:!1,sizes:[[300,250],[300,600]],bids:[{bidder:"adform",params:{mid:120471}},{bidder:"appnexusAst",params:{placementId:"12923409"}},{bidder:"criteo",params:{zoneId:543740}},{bidder:"indexExchange",params:{siteID:"268964",id:"desktop_money.pl_x79"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"connectad",params:{siteId:"1009865",networkId:"10047"}}]},{code:"slot80",disabled:!1,mediaTypes:{banner:{sizes:[[1,1]]},native:{title:{required:!0},image:{required:!0}}},sizes:[[1,1]],bids:[{bidder:"criteo",params:{native:!0,zoneId:638810}},{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:"48567",pageId:"571310",siteId:"73727"}},{bidder:"appnexusAst",params:{placementId:13840724}},{bidder:"businessclick",params:{id:"03609293b107be12293588a2c16e6ffdb3f586916d6ddf79d45a231f8b418f01"}}]},{code:"slot81",disabled:!1,sizes:[[1,1]],bids:[{bidder:"criteo",params:{native:!0,zoneId:638810}}]},{code:"slot90",disabled:!1,sizes:[[970,250]],bids:[{bidder:"appnexusAst",params:{placementId:"12923436"}},{bidder:"criteo",params:{zoneId:1023170}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot98",disabled:!1,sizes:[[300,250]],bids:[{bidder:"appnexusAst",params:{placementId:"12923394"}},{bidder:"criteo",params:{zoneId:543739}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot99",disabled:!1,sizes:[[300,250],[300,600]],bids:[{bidder:"adform",params:{mid:120465}},{bidder:"appnexusAst",params:{placementId:"12923415"}},{bidder:"criteo",params:{zoneId:543740}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}}]},{code:"slot150",disabled:!1,sizes:[[640,360],[640,480]],mediaTypes:{video:{context:"instream",playerSize:[640,480]}},bids:[{bidder:"appnexusAst",params:{placementId:"9380893",video:{skippable:!1,playback_method:["auto_play_sound_off"]}}},{bidder:"brainJuice",params:{member:3911,placementId:"12934951",video:{skippable:!1,playback_method:["auto_play_sound_off"]}}},{bidder:"xhb",params:{placementId:"13159281",referrer:"money.pl",video:{skippable:!1,playback_method:["click_to_play"]}}},{bidder:"openx",params:{delDomain:"wirtualn-d.openx.net",unit:"540094710"}},{bidder:"pubmatic",params:{publisherId:"62652",adSlot:"1560601@0x0",video:{mimes:["video/mp4","video/x-flv","video/webm"],skippable:!0,minduration:5,maxduration:30}}}]},{code:"slot35",disabled:!1,sizes:[[300,250],[300,600]],bids:[{bidder:"adform",params:{mid:598410}},{bidder:"appnexusAst",params:{placementId:"13896215"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"criteo",params:{zoneId:543740}},{bidder:"openx",params:{delDomain:"wirtualn-d.openx.net",unit:"540292457"}},{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:"54834",pageId:"550185",siteId:"73727"}}]},{code:"slot36",disabled:!1,sizes:[[300,250],[300,600]],bids:[{bidder:"adform",params:{mid:598409}},{bidder:"appnexusAst",params:{placementId:"13896220"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"criteo",params:{zoneId:543740}},{bidder:"openx",params:{delDomain:"wirtualn-d.openx.net",unit:"540292456"}},{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:"67462",pageId:"550185",siteId:"73727"}}]},{code:"slot50",disabled:!1,sizes:[[728,90],[750,100],[750,200],[750,300],[970,100],[970,150],[970,200],[950,200],[970,250],[960,250],[970,300]],bids:[{bidder:"adform",params:{mid:598414}},{bidder:"appnexusAst",params:{placementId:"13896227"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"criteo",params:{zoneId:1023170}},{bidder:"openx",params:{delDomain:"wirtualn-d.openx.net",unit:"540292455"}},{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:"52681",pageId:"550185",siteId:"73727"}}]},{code:"slot59",disabled:!1,sizes:[[300,250],[300,600]],bids:[{bidder:"adform",params:{mid:598412}},{bidder:"appnexusAst",params:{placementId:"13896223"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"criteo",params:{zoneId:543740}},{bidder:"openx",params:{delDomain:"wirtualn-d.openx.net",unit:"540292458"}},{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:"52683",pageId:"550185",siteId:"73727"}}]},{code:"slot58",disabled:!1,sizes:[[300,250]],bids:[{bidder:"adform",params:{mid:598411}},{bidder:"appnexusAst",params:{placementId:"13896228"}},{bidder:"rtbhouse",params:{region:"prebid-eu",publisherId:"XNEdtxheGMSt"}},{bidder:"criteo",params:{zoneId:543739}},{bidder:"openx",params:{delDomain:"wirtualn-d.openx.net",unit:"540292459"}},{bidder:"smartadserver",params:{domain:"//prg.smartadserver.com",formatId:"69074",pageId:"550185",siteId:"73727"}}]}],limits:{adform:{capping:3},appnexusAst:{capping:3},brealtimeAst:{capping:3},criteo:{capping:3},openx:{capping:3},pubmatic:{capping:3},smartadserver:{capping:3},smartnative:{capping:3},sovrn:{capping:99},xhb:{capping:3,diceroll:.15}}},slotStatus:!1,sendWave:!1,requestStatus:!0,priorities:{xhb:{slot150:{level:14}}}},window.vhbConfig={disabled:!1,donotfetch:!0},window.nativeConfig={index:{80:[0,4],itemsInRow:!1},article:{80:[1,2],81:[3,5],itemsInRow:!1},gallery:{80:[1,2],itemsInRow:!1}},window.VETconfig={slots:[5,37,11,12,13,14,15],platforms:["sovrn","appnexusAst","adform","smartadserver"],script:"//get.s-onetag.com/523bec8b-0a87-4167-bf36-5b05a7273ea1/tag.min.js"};</script>
+		
+		<script src="https://money.wp.pl/Lm1pbi5qLx1ZLw8GWxQ1QltfCBhAFD4UHEFMURtCYgBYHkwDRk4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEzJuLz02ai4TMm4vPTZqLhMybi89NmouEw=="></script>
+		<script>
+		var WP = [];
+		var __mnySiteFnc = [];
+		var __wpApi = {
+		  apiStreamADrail: function () {},
+		  apiTextLinks: function () {},
+		  apiContentBox: function () {}
+		};
+				if(typeof WP.$ === 'undefined') { WP.$ = jQuery; }		
+		var WPsocial = {config: function(p1, p2) {}};
+		if(!WP.player) { WP.player = function(params) { WP.push(function() { WP.player(params); }); }; }
+		WP.push(function () {
+								WP.gaf.loadAndRunBunch();
+		WP.getScript('https://www.wp.pl/webpush/static/js/webpush.desktop.js?va9');
+WP.getScript('https://money.wp.pl/YnVuZGxlOh4-KjcoFgkgQTxaODIWCDULJVo5KBUBNgAJFy8pHAA8QDwGZTEZVX8xCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBjEJKgUYJzMGMQkqBRgnMwYxCSoFGCczBg==');
+WP.getScript('https://money.wp.pl/dW5kbGUuByddNA8oOxAdeF9EADI7EQgyRkQKNwoXETlRBwdpPwZbIVRSRBgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOwhqND0YCio7CGo0PRgKKjsIajQ9GAoqOw==');
+		});
+		</script>
+    	<meta property="logo" content="https://money2.wpcdn.pl/static/MoneyLogo.png" />
+    	<meta name="gaf" content="NDEwNjcw" />
+		<script src="https://money.wp.pl/MjAxODEwPwFuHy4iax0-VTMOcnVjBSgBKBw8eXdEf15wSGk0LQMgBnwPODNrGiIEJAFhNClSf19zPmkUEjYSCyUaK3l3UT4aKBZyCgEyOiQrGzhiIxs-HiAMJiB4USwONysjKzEEcFpwSGkbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1Hg==" charset="UTF-8"></script>
+		<script src="https://money.wp.pl/MjAxODEwLhopJzwwIVg6GisLIy0nWDoaKwsjLSdaPg0gCGEuNkgSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEjUeJxAbGigSNR4nEBsaKBI1HicQGxooEg==" id="wpjslib" crossorigin charset="UTF-8"></script>
+
+								<script>
+		var _gaq = _gaq || [];
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-40724203-1', 'auto', { 'legacyCookieDomain': 'www.money.pl' });
+ga('set', 'dimension1', 'index');
+ga('set', 'dimension2', 'A');
+ga('send', 'pageview');
+		</script>
+	    				
+		<link rel="search" type="application/opensearchdescription+xml" title="Money.pl" href="https://www.money.pl/d/search.xml" />
+		<link rel="shortcut icon" href="https://v.wpimg.pl/aWNvbi5pDCRhH00PVAYINCEYTABWHw==" type="image/x-icon" />
+		<script type='text/javascript'>
+(function() {
+    function createCookie(name,value,days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime()+(days*24*60*60*1000));
+            var expires = "; expires="+date.toGMTString();
+        }
+        else var expires = "";
+        document.cookie = name+"="+value+expires+"; path=/; domain=.money.pl";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+
+    function getPlacement(e,isImage) {
+        var element,name,selector;
+        element = jQuery(e).parents('div:has(div.reklama,div.hd):first');
+        if (element.length) {
+            name = jQuery('.hd',element).text();
+            if (!name) {
+                if (jQuery('.reklama',element).length==1) {
+                    name = 'Reklama';
+                }
+            }
+            if (isImage) {
+                selector = 'a:gt(0):has(img)';
+            } else {
+                selector = 'a:gt(0):not(:has(img))';
+            }
+            return {'element':element,'name':name,'links':jQuery(selector,element)}
+        } else {
+            element = jQuery(e).parents('#dzialy');
+            if (element.length) {
+                element = jQuery(e).closest('ul');
+                name = jQuery(element).attr('id');
+                return {'element':element,'name':name,'links':jQuery(element).children().children('a')}
+            }
+        }
+        return false;
+    }
+
+    function getUser() {
+        var user = readCookie('mnyuser');
+        if (!user) {
+            user = readCookie('usertrack');
+            createCookie('mnyuser',user,30);
+        }
+        return user;
+    }
+})();
+</script><link rel="alternate" type="application/rss+xml" title="Money.pl Najważniejsze wiadomości" href="http://www.money.pl/rss/main.xml" />		<script type="text/javascript">
+		__mnySiteFnc.push(function() {
+			lazyload()
+		})
+		</script>
+	</head>
+	<body>
+		<cite><cite><cite><ins></ins></cite></cite></cite><cite><cite><strong><ins></ins></strong></cite></cite><cite><cite><ins><ins></ins></ins></cite></cite>
+<header id="fixedHeader" class="header-fixed brand-new-mny" data-st-area="headerMenu">
+    <div class="header-fixed__content">
+		<a href="https://www.money.pl/" class="header-fixed__logo">money.pl</a><form class="header-fixed__search" id="header-form-search" action="//www.money.pl/wyszukiwarka/" method="get" onsubmit="WP.cookie.set('nhs', 1, new Date(new Date().setMinutes(new Date().getMinutes()+1)), '/wyszukiwarka/', 'www.money.pl');return true">
+    <input class="search-input" type="text" placeholder="Szukaj w serwisie..." value="" name="q" />
+    <input class="search-submit" type="submit" value="" name="search" />
+</form>
+<nav class="header-fixed__categories">
+	        <li id="dropdownMain" class="active"><span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwv"  data-st-area="menuSG">Serwis finansowy</span></li>
+	        <li><span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ2llbGRhLw=="  data-st-area="menuGielda">Giełda</span></li>
+	        <li><span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvcGllbmlhZHplLw=="  data-st-area="menuWaluty">Waluty</span></li>
+	        <li><span data-b64="aHR0cDovL2RpcmVjdC5tb25leS5wbC8="  data-st-area="menuDirect">Pasaż finansowy</span></li>
+	        <li><span data-b64="aHR0cHM6Ly9tc3AubW9uZXkucGwv"  data-st-area="menuMSP">Firma</span></li>
+	        <li><span data-b64="aHR0cHM6Ly9tYW5hZ2VyLm1vbmV5LnBsLw=="  data-st-area="menuManager">Manager</span></li>
+	        <li><span data-b64="aHR0cHM6Ly9wcmFjYS5tb25leS5wbC8="  data-st-area="menuPraca">Praca</span></li>
+	    <li id="dropdownMore"><a href="#">Więcej</a></li>
+</nav>    </div>
+    </header>
+
+<header id="mainHeader" class="header brand-new-mny adsize_header" data-st-area="headerMenu">
+	<section class="header-top">
+		<section class="header-top-left">
+			<a href="https://www.money.pl/" class="header-top-left__logo">money.pl</a><h1 class="header-top-left__claim">Najpopularniejszy w Polsce portal o finansach i biznesie</h1>        </section>
+        <section class="header-top-right">
+			<div class="header-top-right__login">
+				<div class="login">
+					<i class="login__icon"></i>
+													<a class="login__label" href="https://konto.money.pl/">Zaloguj się</a>
+											</div>
+			</div>
+			<div class="header-top-right__socials">
+				<div class="wpsocial-shareBox wpsocials wpsocials--buttons">
+                   <div class="shareList">
+                        <div class="item tw">
+                            <a href="https://twitter.com/money_pl" rel="nofollow" class="twitter-follow-button" data-lang="pl" data-hashtags="" data-show-count="false"></a>
+                        </div>
+                        <div class="item fb-recommend">
+                            <div class="fb-like" data-href="https://www.facebook.com/portal.Moneypl" data-send="false" data-layout="button_count" data-width="40" data-show-faces="false" data-action="recommend" data-share="false"></div>
+                        </div>
+                    </div>
+                </div>
+			</div>
+		</section>
+	</section>
+	<section class="header-bottom">
+		<nav class="header-bottom__categories">
+			<li id="dropdownMain" class="active"><a href="https://www.money.pl/" data-st-area="menuSG">Serwis finansowy</a></li>
+			<li><a href="https://www.money.pl/gielda/" data-st-area="menuGielda">Giełda</a></li>
+			<li><a href="https://www.money.pl/pieniadze/" data-st-area="menuWaluty">Waluty</a></li>
+			<li><a href="http://direct.money.pl/" data-st-area="menuDirect">Pasaż finansowy</a></li>
+			<li><a href="https://msp.money.pl/" data-st-area="menuMSP">Firma</a></li>
+			<li><a href="https://manager.money.pl/" data-st-area="menuManager">Manager</a></li>
+			<li><a href="https://praca.money.pl/" data-st-area="menuPraca">Praca</a></li>
+		<li id="dropdownMore"><a href="#">Więcej</a></li>
+</nav>
+<form class="header-bottom__search" id="header-form-search" action="//www.money.pl/wyszukiwarka/" method="get" onsubmit="WP.cookie.set('nhs', 1, new Date(new Date().setMinutes(new Date().getMinutes()+1)), '/wyszukiwarka/', 'www.money.pl');return true">
+	<input class="search-input" type="text" placeholder="Szukaj w serwisie..." value="" name="q" />
+	<input class="search-submit" type="submit" value="" name="search" />
+</form>
+
+<section class="menu-primary hidden" id="menuPrimary">
+	<ul class="menu-primary__list">
+					<li class="drop-primary">
+				<div class="drop-primary__title"><a href="https://www.money.pl/banki/">Banki</a></div>
+									<ul class="drop-primary__list hidden">
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/banki/promocje/">Promocje</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/banki/kalkulatory/kredytowy/" rel="nofollow">Kalkulatory</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/banki/kalkulatory/kredytowy/">Kalkulator kredytowy</a></li>
+																					<li><a href="https://www.money.pl/banki/kalkulatory/lokatowy/">Kalkulator lokatowy</a></li>
+																					<li><a href="https://www.money.pl/banki/kalkulatory/koszty/">Kalkulator kosztów zakupu nieruchomości</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/banki/elixir/">Sesje Elixir</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/banki/wiadomosci/" rel="nofollow">Artykuły</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/banki/wiadomosci/">Wiadomości bankowe</a></li>
+																					<li><a href="https://www.money.pl/banki/raporty/">Raporty</a></li>
+																					<li><a href="https://www.money.pl/banki/poradniki/">Poradniki</a></li>
+																					<li><a href="https://www.money.pl/banki/edukacja/">Wszystko o...</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/banki/lokaty/12-miesieczne/">Lokaty 12-miesięcy</a></div>
+															</li>
+											</ul>
+							</li>
+					<li class="drop-primary">
+				<div class="drop-primary__title"><a href="https://www.money.pl/emerytury/">Emerytury</a></div>
+									<ul class="drop-primary__list hidden">
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/notowania/">Notowania OFE</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/archiwum/fundusze/" rel="nofollow">Archiwum OFE</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/emerytury/archiwum/fundusze/">wg funduszu</a></li>
+																					<li><a href="https://www.money.pl/emerytury/archiwum/data/">wg daty</a></li>
+																					<li><a href="https://www.money.pl/emerytury/archiwum/latami/">latami</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/wykresy/">Wykresy OFE</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/porownanie/">Porównanie OFE</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/portfel/">Struktura portfeli</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/profile/">Profile OFE</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/kalkulator/stopy/" rel="nofollow">Kalkulatory OFE</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/emerytury/kalkulator/prowizje/">Porównaj pobierane przez OFE prowizje</a></li>
+																					<li><a href="https://www.money.pl/emerytury/kalkulator/kapital/">Kapitał początkowy</a></li>
+																					<li><a href="https://www.money.pl/emerytury/kalkulator/stopy/">Oblicz stopę zwrotu</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/wskazniki/">Wskaźniki</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/bazy_adresowe/archiwa_panstwowe/">Bazy adresowe</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/ike/">IKE</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/strony/">Informacje o emeryturach</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/emerytury/wiadomosci/" rel="nofollow">Artykuły</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/emerytury/wiadomosci/">Wiadomości</a></li>
+																					<li><a href="https://www.money.pl/emerytury/poradniki/">Poradniki</a></li>
+																					<li><a href="https://www.money.pl/emerytury/raporty/">Raporty</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="http://direct.money.pl/emerytury/">Fundusze emerytalne</a></div>
+															</li>
+											</ul>
+							</li>
+					<li class="drop-primary">
+				<div class="drop-primary__title"><a href="https://www.money.pl/fundusze/">Fundusze</a></div>
+									<ul class="drop-primary__list hidden">
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/fundusze/notowania/">Notowania funduszy</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/fundusze/notowania/krajowe;-;akcji,-1.html">Krajowe akcji</a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/krajowe;-;papierow;dluznych,-2.html">Krajowe papierów dłużnych </a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/krajowe;-;rynku;pienieznego,-7.html">Krajowe rynku pieniężnego </a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/krajowe;-;zrownowazone,-8.html">Krajowe zrównoważone</a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/krajowe;-;stabilnego;wzrostu,-11.html">Krajowe stabilnego wzrostu</a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/krajowe;-;ochrony;kapitalu,-16.html">Krajowe ochrony kapitału</a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/krajowe;-;inne,-49.html">Krajowe inne</a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/zagraniczne;-;akcji,-51.html">Zagraniczne akcji</a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/zagraniczne;-;pieniezne,-55.html">Zagraniczne pieniężne</a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/zagraniczne;-;dluzne,-56.html">Zagraniczne dłużne</a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/zagraniczne;-;mieszane,-57.html">Zagraniczne mieszane</a></li>
+																					<li><a href="https://www.money.pl/fundusze/notowania/zagraniczne;-;ochrony;kapitalu,-58.html">Zagraniczne ochrony kapitału</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/fundusze/porownanie/">Porównanie stóp zwrotu</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/fundusze/wykresy/">Wykresy funduszy</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/fundusze/profile/">Profie funduszy</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/fundusze/archiwum/fundusze/" rel="nofollow">Archiwum funduszy</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/fundusze/archiwum/fundusze/">wg funduszu</a></li>
+																					<li><a href="https://www.money.pl/fundusze/archiwum/data/">wg daty notowania</a></li>
+																					<li><a href="https://www.money.pl/fundusze/archiwum/latami/">latami</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/fundusze/prowizje/">Prowizje</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/fundusze/kalkulator/zysk/" rel="nofollow">Kalkulatory funduszy</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/fundusze/kalkulator/zysk/">Oblicz zysk</a></li>
+																					<li><a href="https://www.money.pl/fundusze/kalkulator/prowizje/">Oblicz wysokość prowizji</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/fundusze/wiadomosci/" rel="nofollow">Artykuły</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/fundusze/wiadomosci/">Wiadomości</a></li>
+																					<li><a href="https://www.money.pl/fundusze/raporty/">Raporty</a></li>
+																					<li><a href="https://www.money.pl/fundusze/poradniki/">Poradniki</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/fundusze/edukacja/">Wszystko o...</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/portfel/">Portfel</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="http://direct.money.pl/funduszeinwestycyjne/">Fundusze inwestycyjne</a></div>
+															</li>
+											</ul>
+							</li>
+					<li class="drop-primary">
+				<div class="drop-primary__title"><a href="https://www.money.pl/gospodarka/">Gospodarka</a></div>
+									<ul class="drop-primary__list hidden">
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/gospodarka/wiadomosci/">Artykuły</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/gospodarka/polska/">Gospodarka - Polska</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/wiadomosci/">Gospodarka - Unia Europejska</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/swiat/">Gospodarka - świat</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/ngospodarka/ebiznes/">E-biznes</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/ngospodarka/telekomunikacja/">Telekomunikacja</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/raporty/">Raporty</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/wywiady/">Wywiady</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/komentarze/">Komentarze</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/gospodarka/wskazniki/pkb/" rel="nofollow">Statystyka</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/gospodarka/wskazniki/pkb/">PKB, bezrobocie, inflacja, podaż pieniądza</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/wskazniki/stopy/">Stopy procentowe</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/wskazniki/kursy/">Kursy walut</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/wskazniki/wynagrodzenie/">Wynagrodzenia</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/wskazniki/emerytury/">Emerytury i renty</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/wskazniki/handel/">Handel zagraniczny</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/gospodarka/inflacjabezrobocie/">Inflacja i bezrobocie</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/gospodarka/inflacjabezrobocie/wiadomosci/">Wiadomości</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/inflacjabezrobocie/archiwum/inflacja/">Inflacja - archiwum</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/inflacjabezrobocie/archiwum/bezrobocie/">Bezrobocie - archiwum</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/inflacjabezrobocie/edukacja/inflacja/">Wszystko o inflacji</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/inflacjabezrobocie/edukacja/bezrobocie/">Wszystko o bezrobociu</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/gospodarka/unia-europejska/wiadomosci/" rel="nofollow">Unia Europejska</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/wiadomosci/" rel="nofollow">Wiadomości</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/statystyka/francja,10.html">Francja</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/statystyka/grecja,8.html">Grecja</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/statystyka/hiszpania,9.html">Hiszpania</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/statystyka/irlandia,7.html">Irlandia</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/statystyka/niemcy,5.html">Niemcy</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/statystyka/wielka;brytania,27.html">Wielka Brytania</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/statystyka/wlochy,11.html">Włochy</a></li>
+																					<li><a href="https://www.money.pl/gospodarka/unia-europejska/statystyka/austria,19.html">pozostałe</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/rejestr-firm/">Rejestr firm</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/gospodarka/politycy/">Politycy</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://miasta.money.pl/">Miasta Polski</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/gospodarka/regiony-polski/dolnoslaskie/">Regiony - archiwum</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="http://direct.money.pl/mbank/mbizneskonto.html" class="yellow">Konto firmowe</a></div>
+															</li>
+											</ul>
+							</li>
+					<li class="drop-primary">
+				<div class="drop-primary__title"><a href="https://www.money.pl/podatki/">Podatki</a></div>
+									<ul class="drop-primary__list hidden">
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/pit/">PIT 2017</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/informator/">Informator - stawki</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/podatki/informator/zus/ubezpieczenia/">Składki ZUS</a></li>
+																					<li><a href="https://www.money.pl/podatki/informator/wynagrodzenia/">Wynagrodzenia</a></li>
+																					<li><a href="https://www.money.pl/podatki/informator/odsetki/">Odsetki</a></li>
+																					<li><a href="https://www.money.pl/podatki/informator/pcc/">PCC - stawki</a></li>
+																					<li><a href="https://www.money.pl/podatki/informator/nieruchomosci/">Nieruchomości</a></li>
+																					<li><a href="https://www.money.pl/podatki/informator/oplaty/">Opłaty lokalne</a></li>
+																					<li><a href="https://www.money.pl/podatki/informator/ryczalt/">Ryczałt - pojazdy</a></li>
+																					<li><a href="https://www.money.pl/podatki/informator/diety/diety_k/">Diety krajowe</a></li>
+																					<li><a href="https://www.money.pl/podatki/informator/diety/diety_z/">Diety zagraniczne</a></li>
+																					<li><a href="https://www.money.pl/podatki/informator/rozliczenia/">Rozliczenia gotówkowe</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/kalkulatory/plac/" rel="nofollow">Kalkulatory</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/podatki/kalkulatory/plac/">Kalkulator wynagrodzeń</a></li>
+																					<li><a href="https://www.money.pl/podatki/kalkulatory/odsetkowy/">Kalkulator odsetkowy</a></li>
+																					<li><a href="https://www.money.pl/podatki/kalkulatory/ryczaltowy/">Kalkulator ryczałtowy</a></li>
+																					<li><a href="https://www.money.pl/podatki/kalkulatory/diety/">Diety zagraniczne</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/oplaty_skarbowe/dokonanie_czynnosci_urzedowej/">Opłaty skarbowe </a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/formularze/">Formularze podatkowe</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/urzedy/">Urzędy skarbowe</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/zus/">ZUS</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/sady/">Sądy</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/akty_prawne/">Akty prawne</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/pkd/">PKD</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/pkd2007/">PKD 2007</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/wiadomosci/">Wiadomości </a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/poradniki/">Poradniki </a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/kalendarium/">Kalendarium</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/podatki/strony/">Informacje o podatkach</a></div>
+															</li>
+											</ul>
+							</li>
+					<li class="drop-primary">
+				<div class="drop-primary__title"><a href="https://www.money.pl/ubezpieczenia/">Ubezpieczenia</a></div>
+									<ul class="drop-primary__list hidden">
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/ubezpieczenia/towarzystwa/wizytowki/">Towarzystwa ubezpieczeń</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/ubezpieczenia/towarzystwa/skladki/">Porównanie towarzystw</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/ubezpieczenia/instytucje/">Instytucje</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/ubezpieczenia/posrednicy/">Pośrednicy</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/ubezpieczenia/strony/">Informacje o ubezpieczeniach</a></div>
+																	<ul class="drop-secondary__list hidden">
+																					<li><a href="https://www.money.pl/ubezpieczenia/zycie/">Na życie</a></li>
+																					<li><a href="https://www.money.pl/ubezpieczenia/komunikacyjne/">Komunikacyjne</a></li>
+																					<li><a href="https://www.money.pl/ubezpieczenia/mieszkaniowe/">Mieszkaniowe</a></li>
+																					<li><a href="https://www.money.pl/ubezpieczenia/oc/">OC w życiu prywatnym</a></li>
+																					<li><a href="https://www.money.pl/ubezpieczenia/nnw/">NNW</a></li>
+																			</ul>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/ubezpieczenia/wiadomosci/">Wiadomości </a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/ubezpieczenia/poradniki/">Poradniki</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="https://www.money.pl/ubezpieczenia/slownik/">Słownik ubezpieczeniowy</a></div>
+															</li>
+													<li class="drop-secondary">
+								<div class="drop-secondary__title"><a href="http://direct.money.pl/link4/" class="yellow">Ubezpieczenia on-line</a></div>
+															</li>
+											</ul>
+							</li>
+					<li class="drop-primary">
+				<div class="drop-primary__title"><a href="https://dot.wp.pl/redir?SN=money_reklama&par=src%3Dklik_menu&url=https://www.money.pl/eurobank/">Twoje finanse</a></div>
+							</li>
+			</ul>
+</section><section class="menu-secondary hidden" id="menuSecondary">
+	<div class="menu-secondary__content">
+					<ul class="menu-secondary__column">
+				<div class="column-title">Giełda i finanse</div>
+									<li class="column-entry"><a href="https://www.money.pl/gielda/na-zywo/">Giełda na żywo</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/banki/elixir/">Sesje ELIXIR</a></li>
+									<li class="column-entry"><a href="https://wibor.money.pl/">Depozyty złotowe WIBOR</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/gielda/indeksy_gpw/">Indeksy GPW</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/gielda/indeksy_gpw/wig20/">WIG20</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/gielda/indeksy_gpw/wig30/">WIG30</a></li>
+							</ul>
+					<ul class="menu-secondary__column">
+				<div class="column-title">Kariera</div>
+									<li class="column-entry"><a href="https://msp.money.pl/list-motywacyjny/">List motywacyjny</a></li>
+									<li class="column-entry"><a href="https://msp.money.pl/cv/">CV</a></li>
+									<li class="column-entry"><a href="https://praca.money.pl/praca-w-domu/">Praca w domu</a></li>
+									<li class="column-entry"><a href="https://praca.money.pl/praca_za_granica/">Praca za granicą</a></li>
+									<li class="column-entry"><a href="https://praca.money.pl/urzedy_pracy/">Urzędy pracy</a></li>
+									<li class="column-entry"><a href="https://praca.money.pl/praca-dla-studentow/">Praca dla studentów</a></li>
+							</ul>
+					<ul class="menu-secondary__column">
+				<div class="column-title">Firma</div>
+									<li class="column-entry"><a href="https://www.money.pl/sekcja/impactmobility2018/">Impact Mobility 18</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/rejestr-firm/">Rejestr firm</a></li>
+									<li class="column-entry"><a href="https://msp.money.pl/baza-firm/">Baza firm</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/rejestr-firm/kody-pocztowe/">Kody pocztowe</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/podatki/">Podatki</a></li>
+									<li class="column-entry"><a href="https://msp.money.pl/kalkulatory_i_wskazniki/wskazniki/ubezpieczenia/">Składki ZUS</a></li>
+									<li class="column-entry"><a href="https://msp.money.pl/wiadomosci/zakladam_firme/">Zakładam  firmę</a></li>
+									<li class="column-entry"><a href="https://przetargi.money.pl/">Przetargi i zamówienia publiczne</a></li>
+									<li class="column-entry"><a href="https://msp.money.pl/wzory-dokumentow/umowy,39,wzory_dokumentow.html">Wzory umów</a></li>
+									<li class="column-entry"><a href="https://msp.money.pl/wzory-dokumentow/">Wzory dokumentów</a></li>
+									<li class="column-entry"><a href="https://msp.money.pl/intel/">Firma Jutra</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/ey-przedsiebiorca-roku/">EY Przedsiębiorca Roku</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/impactmobility2018/">Impact Mobility ?18</a></li>
+							</ul>
+					<ul class="menu-secondary__column">
+				<div class="column-title">Finansowanie</div>
+									<li class="column-entry"><a href="https://www.totalmoney.pl/kredyty_gotowkowe">Kredyty gotówkowe</a></li>
+									<li class="column-entry"><a href="https://www.totalmoney.pl/kredyty_hipoteczne">Kredyty hipoteczne</a></li>
+									<li class="column-entry"><a href="http://direct.money.pl/lokaty/">Lokaty</a></li>
+									<li class="column-entry"><a href="http://direct.money.pl/kontaosobiste/">Konta osobiste</a></li>
+									<li class="column-entry"><a href="http://direct.money.pl/kontaoszczednosciowe/">Konta oszczędnościowe</a></li>
+									<li class="column-entry"><a href="https://www.totalmoney.pl/konta_firmowe">Konta firmowe</a></li>
+									<li class="column-entry"><a href="http://direct.money.pl/kredyty-na-start/">Kredyty na start</a></li>
+									<li class="column-entry"><a href="https://www.totalmoney.pl/kredyty_dla_firm">Kredyty firmowe</a></li>
+									<li class="column-entry"><a href="https://www.totalmoney.pl/szybkie_pozyczki_gotowkowe">Szybkie pożyczki</a></li>
+									<li class="column-entry"><a href="http://direct.money.pl/kartykredytowe/">Karty kredytowe</a></li>
+									<li class="column-entry"><a href="http://direct.money.pl/kredytysamochodowe/">Kredyty samochodowe</a></li>
+									<li class="column-entry"><a href="http://direct.money.pl/ubezpieczenieauta/">Ubezpieczenie auta</a></li>
+									<li class="column-entry"><a href="https://direct.money.pl/kredytygotowkowe/">Ranking kredytów gotówkowych</a></li>
+									<li class="column-entry"><a href="https://www.totalmoney.pl/">Porównywarka finansowa</a></li>
+							</ul>
+					<ul class="menu-secondary__column">
+				<div class="column-title">Pozostałe serwisy</div>
+									<li class="column-entry"><a href="https://www.money.pl/quizy/">Quizy</a></li>
+									<li class="column-entry"><a href="https://manager.money.pl/foto-news/">Galerie</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/rankingi/">Rankingi Money.pl</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/zwiazek-miast-polskich/">Związek Miast Polskich</a></li>
+									<li class="column-entry"><a href="https://manager.money.pl/">Manager</a></li>
+									<li class="column-entry"><a href="https://tech.money.pl/">Technologie</a></li>
+									<li class="column-entry"><a href="https://moto.money.pl/">Motoryzacja</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/forum/">Forum</a></li>
+									<li class="column-entry"><a href="https://agrobiznes.money.pl/">Agrobiznes</a></li>
+									<li class="column-entry"><a href="https://pogoda.money.pl/">Pogoda</a></li>
+									<li class="column-entry"><a href="https://prawo.money.pl/">Prawo</a></li>
+									<li class="column-entry"><a href="http://targinamedal.wp.pl/">Targi Na Medal</a></li>
+									<li class="column-entry"><a href="http://johndeere.wp.pl">John Deere</a></li>
+									<li class="column-entry"><a href="http://dailybanking.wp.pl/">Daily Banking</a></li>
+							</ul>
+					<ul class="menu-secondary__column">
+				<div class="column-title">Nieruchomości</div>
+									<li class="column-entry"><a href="https://dom.money.pl/">Nieruchomości</a></li>
+									<li class="column-entry"><a href="https://dom.money.pl/mieszkania/sprzedaz/">Mieszkania na sprzedaż</a></li>
+									<li class="column-entry"><a href="https://dom.money.pl/domy/sprzedaz/">Domy na sprzedaż</a></li>
+									<li class="column-entry"><a href="https://dom.money.pl/dzialki/sprzedaz/">Działki na sprzedaż</a></li>
+									<li class="column-entry"><a href="https://dom.money.pl/lokale/sprzedaz/">Lokale na sprzedaż</a></li>
+									<li class="column-entry"><a href="https://dom.money.pl/projekty_domow/">Projekty domów</a></li>
+									<li class="column-entry"><a href="https://dom.money.pl/budownictwo/">Budownictwo</a></li>
+							</ul>
+					<ul class="menu-secondary__column">
+				<div class="column-title">Kalkulatory</div>
+									<li class="column-entry"><a href="https://www.money.pl/kalkulatory/">Kalkulatory</a></li>
+									<li class="column-entry"><a href="https://www.money.pl/podatki/kalkulatory/plac/">Kalkulatory płac</a></li>
+									<li class="column-entry"><a href="http://direct.money.pl/kalkulatory/kalkulator-zdolnosci-kredytowej/">Kalkulator zdolności kredytowej</a></li>
+									<li class="column-entry"><a href="http://direct.money.pl/kalkulatory/kredytowy/">Kalkulator kredytowy</a></li>
+							</ul>
+					<ul class="menu-secondary__column">
+				<div class="column-title">Serwisy GWP</div>
+									<li class="column-entry"><a href="https://finanse.wp.pl/">finanse.wp.pl</a></li>
+									<li class="column-entry"><a href="https://www.biztok.pl">biztok.pl</a></li>
+									<li class="column-entry"><a href="https://wiadomosci.wp.pl/matura-6034426097431169c">Matura 2018</a></li>
+									<li class="column-entry"><a href="http://fabrykavwpoznan.wp.pl/">Volkswagen Poznań</a></li>
+							</ul>
+			</div>
+</section>	</section>
+</header>
+
+<script>
+function apiContentBox(e){if(0===$("#"+e.id).length){var i=e.id,t=e.url,o="string"==typeof e.image?e.image:widthPage(e.image),a="string"==typeof e.width?e.width:e.width+"px",r="string"==typeof e.height?e.height:e.height+"px",d=!0===e.scalable?"cover":"",n=!0===e.fixed?"fixed":"absolute",g=!0===e.repeat?"repeat":"no-repeat",p=e.backgroundColor,s="number"==typeof e.offsetTop?e.offsetTop:widthPage(e.offsetTop),f='<div id="'+i+'" style="position: relative;"><div style="top: '+s+"px;left: 0px; z-index: -1; position: "+n+"; background-position: 50% 0px; background-color: "+p+"; background-repeat: "+g+"; background-image: url(&quot;"+o+"&quot;); background-size: "+d+";width: "+a+";height: "+r+';"><a  href="'+t+'" target="_blank" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; "></a></div></div>'
+		$("body").css({position:"relative","z-index":-1}),$("#fixedHeader").after(f).parent().css({position:"relative","z-index":-1}),$(window).resize(function(){"string"!=typeof e.image&&$("#"+i+" > div").css({"background-image":"url("+widthPage(e.image)+")"})})}}function widthPage(e){var i=$("#mainHeader").outerWidth(!0)
+		return i<=900?e.narrow:i<1600?e.medium:e.wide}
+</script>
+		<div class="x03" style="text-align:center;"><cite><cite><cite><i></i></cite></cite></cite></div>		
+		<div class="container adsize_content">
+		    <main data-ajax-load-more="//www.money.pl/d/hp/stream.php?hp=1" data-ajax-load-more-articles="2418458,2418332,2418460,2418459,2418381,2418484,2418478,2418480,2418475,2418474,2418473,2418472,2418471,2418465,2418463,2418462,2418455,2418447,2418435,2418431,2418201,2418430,2418437,2418432,2418436,2418413,2418424,2418423,2418427,2418414,2418355,2418096,2417893,2417810,2417744,2417499,2416767,2417034,2417817,2416714,2416707,2416608,2416093,2415554">
+		    	
+
+<div class="glonews">
+	<ul class="glonews__entries">
+	
+			
+	
+
+			
+	
+<li class="entry entry--large  " data-st-area="glonewsJedynka">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/bezobslugowy-market,26,0,2418458.html">
+                	<div class="entry__crop">
+        		            		<img alt="Bezobsługowy market będzie otwarty w każdą niedzielę. Ale sieci i tak wolą kasjerów z krwi i kości" title="Bezobsługowy market będzie otwarty w każdą niedzielę. Ale sieci i tak wolą kasjerów z krwi i kości / fot: Bio Family" src="https://v.wpimg.pl/X2hwYi5qO0IAKDQGWxQhHQFYMUYHQWkdXEVuXgdAB1oYFXcDRRY=" class="entry__image" />
+            	        	</div>
+                <div class="entry__description">
+        	        		<h3 class="entry__title">Bezobsługowy market będzie otwarty w każdą niedzielę. Ale sieci i tak wolą kasjerów z krwi i kości</h3>
+        	        </div>
+        	        	        	<div class="icon-author">Mateusz Madejski</div>
+	        		    </a>
+</li>	
+	
+				
+	
+
+			
+	
+<li class="entry entry--medium  " data-st-area="glonews">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/polski-fundusz-rozwoju-przejmuje-kolejke-na,156,0,2418332.html">
+                	<div class="entry__crop">
+        		            		<img alt="Polski Fundusz Rozwoju przejmuje kolejkę na Kasprowy. Jakich inwestycji możemy się spodziewać" title="Polski Fundusz Rozwoju przejmuje kolejkę na Kasprowy. Jakich inwestycji możemy się spodziewać / fot: GERARD/REPORTER/EAST NEWS" src="https://v.wpimg.pl/X2hwbS5qO0IAKA88WxQhHQFYCnwHQ20dXEVVZAFEB1oYGkw5RRY=" class="entry__image" />
+            	        	</div>
+                <div class="entry__description">
+        	        		<h3 class="entry__title">Polski Fundusz Rozwoju przejmuje kolejkę na Kasprowy. Jakich inwestycji możemy się spodziewać</h3>
+        	        </div>
+        	        	        	<div class="icon-author">Jacek Bereźnicki</div>
+	        		    </a>
+</li>	
+	
+						
+	
+<li class="entry-small entry-small--comment   entry-small--transformer" data-st-area="glonews">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/budownictwo-samozatrudnienie-jednoosobowe,28,0,2418460.html">
+        <div class="entry__crop">
+        	            	<img alt="Budowlańcy uciekają przed ZUS. Ponad 27 tysięcy założyło własne firmy" title="Budowlańcy uciekają przed ZUS. Ponad 27 tysięcy założyło własne firmy" src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wHQmkdXEVVeg1CB1oYB00pRRY=" class="entry__image" />
+                    </div>
+                <div class="entry__description">
+        	        		<div class="entry__author">Jacek Frączyk</div>
+        	                    		<h3 class="entry__title">Budowlańcy uciekają przed ZUS. Ponad 27 tysięcy założyło własne firmy</h3>
+        	        </div>
+    </a>
+</li>	
+	
+				
+	
+
+			
+	
+<li class="entry   " data-st-area="glonews">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/plastikowe-jednorazowki-beda-zakazane-unia,27,0,2418459.html">
+                	<div class="entry__crop">
+        		            		<img alt="Plastikowe jednorazówki będą zakazane. Unia Europejska zdecydowała" title="Plastikowe jednorazówki będą zakazane. Unia Europejska zdecydowała / fot: FLPA/Colin Marshall" src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wHQGwdXEVUdAZFB1oYB00pRRY=" class="entry__image" />
+            	        	</div>
+                <div class="entry__description">
+        	        		<h3 class="entry__title">Plastikowe jednorazówki będą zakazane. Unia Europejska zdecydowała</h3>
+        	        </div>
+        	        		    </a>
+</li>	
+	
+				
+	
+
+			
+	
+<li class="entry   " data-st-area="glonews">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/s61-obwodnica-lomzy,205,0,2418381.html">
+                	<div class="entry__crop">
+        		            		<img alt="ViaBaltica. Pół miliarda złotych na 13 km S61. Wyzwaniem most przez rzekę" title="ViaBaltica. Pół miliarda złotych na 13 km S61. Wyzwaniem most przez rzekę / fot: BGK" src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wERmEdXEVUdQxIB1oYB00pRRY=" class="entry__image" />
+            	        	</div>
+                <div class="entry__description">
+        	        		<h3 class="entry__title">ViaBaltica. Pół miliarda złotych na 13 km S61. Wyzwaniem most przez rzekę</h3>
+        	        </div>
+        	        		    </a>
+</li>	
+	
+	
+</ul>	<div class="graphs">
+		
+<div class="graph">
+    <ul class="tabs">
+    	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" checked name="tabs-top" id="tab-top1" data-top-img-id="content-img-top-1" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=1539241200&de=1539270600&sdx=0&i=&ty=1&ug=1&s[0]=wig20&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=1">
+			            <label for="tab-top1"><h4>
+			            				            		WIG20
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-1" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość indeksu:<span class="value">2159,88</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-drop">-1,70%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/gielda/indeksy_gpw/wig20/"><img width="300" height="163" id="content-img-top-1" src="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=1539241200&de=1539270600&sdx=0&i=&ty=1&ug=1&s[0]=wig20&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=1" alt="wykres wig20" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" name="tabs-top" id="tab-top2" data-top-img-id="content-img-top-2" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=1539241200&de=1539270600&sdx=0&i=&ty=1&ug=1&s[0]=wig30&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=1">
+			            <label for="tab-top2"><h4>
+			            				            		WIG30
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-2" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość indeksu:<span class="value">2459,23</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-drop">-1,64%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/gielda/indeksy_gpw/wig30/"><img width="300" height="163" id="content-img-top-2" src="" alt="wykres wig30" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" name="tabs-top" id="tab-top3" data-top-img-id="content-img-top-3" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=1539241200&de=1539270600&sdx=0&i=&ty=1&ug=1&s[0]=wig&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=1">
+			            <label for="tab-top3"><h4>
+			            				            		WIG
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-3" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość indeksu:<span class="value">55941,06</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-drop">-1,56%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/gielda/indeksy_gpw/wig/"><img width="300" height="163" id="content-img-top-3" src="" alt="wykres wig" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" name="tabs-top" id="tab-top4" data-top-img-id="content-img-top-4" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=1539241200&de=1539270600&sdx=0&i=&ty=1&ug=1&s[0]=mwig40&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=1">
+			            <label for="tab-top4"><h4>
+			            				            		mWIG40
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-4" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość indeksu:<span class="value">3941,47</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-drop">-1,37%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/gielda/indeksy_gpw/mwig40/"><img width="300" height="163" id="content-img-top-4" src="" alt="wykres mwig40" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" name="tabs-top" id="tab-top5" data-top-img-id="content-img-top-5" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=1539241200&de=1539270600&sdx=0&i=&ty=1&ug=1&s[0]=swig80&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=1">
+			            <label for="tab-top5"><h4>
+			            				            		sWIG80
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-5" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość indeksu:<span class="value">11223,32</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-drop">-1,15%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/gielda/indeksy_gpw/swig80/"><img width="300" height="163" id="content-img-top-5" src="" alt="wykres swig80" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    </ul>
+</div>
+<div class="graph">
+    <ul class="tabs">
+    	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" checked name="tabs-topw" id="tab-topw1" data-top-img-id="content-img-top-w1" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=2018-07-12&de=2018-10-12&sdx=0&i=&ty=1&ug=1&s[0]=eur.n&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=2">
+			            <label for="tab-topw1"><h4>
+			            				            		EUR
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-w1" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość:<span class="value">4,3179</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-growth">+0,23%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/pieniadze/kurs/eur,978.html"><img width="300" height="163" id="content-img-top-w1" src="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=2018-07-12&de=2018-10-12&sdx=0&i=&ty=1&ug=1&s[0]=eur.n&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=2" alt="wykres eur.n" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" name="tabs-topw" id="tab-topw2" data-top-img-id="content-img-top-w2" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=2018-07-12&de=2018-10-12&sdx=0&i=&ty=1&ug=1&s[0]=usd&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=2">
+			            <label for="tab-topw2"><h4>
+			            				            		USD
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-w2" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość:<span class="value">3,7399</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-drop">-0,29%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/pieniadze/kurs/usd,787.html"><img width="300" height="163" id="content-img-top-w2" src="" alt="wykres usd" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" name="tabs-topw" id="tab-topw3" data-top-img-id="content-img-top-w3" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=2018-07-12&de=2018-10-12&sdx=0&i=&ty=1&ug=1&s[0]=chf&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=2">
+			            <label for="tab-topw3"><h4>
+			            				            		CHF
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-w3" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość:<span class="value">3,7818</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-growth">+0,13%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/pieniadze/kurs/chf,797.html"><img width="300" height="163" id="content-img-top-w3" src="" alt="wykres chf" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" name="tabs-topw" id="tab-topw4" data-top-img-id="content-img-top-w4" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=2018-07-12&de=2018-10-12&sdx=0&i=&ty=1&ug=1&s[0]=gbp&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=2">
+			            <label for="tab-topw4"><h4>
+			            				            		GBP
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-w4" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość:<span class="value">4,9336</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-growth">+0,12%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/pieniadze/kurs/gbp,789.html"><img width="300" height="163" id="content-img-top-w4" src="" alt="wykres gbp" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" name="tabs-topw" id="tab-topw5" data-top-img-id="content-img-top-w5" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=2018-07-12&de=2018-10-12&sdx=0&i=&ty=1&ug=1&s[0]=jpy&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=2">
+			            <label for="tab-topw5"><h4>
+			            				            		JPY 100
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-w5" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość:<span class="value">3,3313</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-growth">+0,53%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/pieniadze/kurs/jpy,784.html"><img width="300" height="163" id="content-img-top-w5" src="" alt="wykres jpy" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    		
+                        					        	
+												    				    						
+							            																									        	
+																			
+							            				    			    														        	
+																			
+							            																									        	
+										
+									<li class="tab">
+			            <input type="radio" name="tabs-topw" id="tab-topw6" data-top-img-id="content-img-top-w6" data-top-tab-url="https://www.money.pl/u/money_chart/graphchart_nhp.php?ds=2018-07-12&de=2018-10-12&sdx=0&i=&ty=1&ug=1&s[0]=btcbbpln&fg=1&fr=1&w=300&h=163&cm=0&rl=1&time=2">
+			            <label for="tab-topw6"><h4>
+			            				            		BITCOIN
+			            	</h4>
+			           	</label>
+			            <div id="content-tab-top-w6" class="tab__content" data-st-area="glonewsWykres" >
+			                <div class="tab__header">
+			                    <p class="tab__header--left">Wartość:<span class="value">23313,0000</span></p>
+			                    <p class="tab__header--right">Zmiana:<span class="value-growth">+0,24%</span></p>
+							</div>
+			                <div class="tab__stuff">
+								<a href="https://www.money.pl/pieniadze/bitcoin/bitbay,BTCBBPLN,PLN.html"><img width="300" height="163" id="content-img-top-w6" src="" alt="wykres btcbbpln" /></a>
+			                </div>
+			            </div>
+    				</li>
+                				   	    </ul>
+</div>	</div>
+</div>
+
+
+<div class="right-column">
+	<cite><ins><cite><ins></ins></cite></ins></cite>
+	<section class="exchange-live" data-st-area="rightcolumnStockLive">
+		<span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ2llbGRhL25hLXp5d28v"><h2 class="section-header">Giełda na żywo<span class="arrow"></span></h2></span>
+		<ul id="exchangeLive" class="exchange-live__posts" data="//www.money.pl/d/hp/gnz.php">
+			<script>
+var gnzexcludearticles = [];
+</script>
+
+		    <li class="post" data="08:33:01">
+	        <a href="https://www.money.pl/gielda/wiadomosci/artykul/przemyslaw-kozlakiewicz-zrezygnowal-z-funkcji,56,0,2418488.html">	            <div class="post__time">8 min.</div>
+	            <div class="post__title">Przemysław Koźlakiewicz zrezygnował z funkcji prezesa zarządu Gobarto</div>
+	        </a>	        <script>gnzexcludearticles.push(2418488)</script>
+	    </li>
+	    
+			    <li class="post" data="08:24:01">
+	        <a href="https://www.money.pl/pieniadze/komentarze/artykul/komentarz-walutowy-konrad-ryczko,55,0,2418487.html">	            <div class="post__time">17 min.</div>
+	            <div class="post__title">Ryczko: złoty odbija. Decyzje Fitch/S&P po sesji</div>
+	        </a>	        <script>gnzexcludearticles.push(2418487)</script>
+	    </li>
+	    
+			    <li class="post" data="08:23:01">
+	        <a href="https://www.money.pl/gielda/wiadomosci/artykul/qumak-bedzie-wniosek-o-postepowanie,54,0,2418486.html">	            <div class="post__time">18 min.</div>
+	            <div class="post__title">Qumak: Będzie wniosek o postępowanie restrukturyzacyjne, c.d. przeglądu opcji</div>
+	        </a>	        <script>gnzexcludearticles.push(2418486)</script>
+	    </li>
+	    
+			    <li class="post" data="08:22:02">
+	        <a href="https://www.money.pl/gielda/komentarze/artykul/komentarz-gieldowy-lukasz-bugaj,53,0,2418485.html">	            <div class="post__time">19 min.</div>
+	            <div class="post__title">Bugaj: &#8222;spokojna&#8221; wyprzedaż</div>
+	        </a>	        <script>gnzexcludearticles.push(2418485)</script>
+	    </li>
+	    
+			    <li class="post" data="08:13:01">
+	        <a href="https://www.money.pl/gielda/wiadomosci/artykul/inflacja-hicp-w-niemczech-wyniosla-2-2-r-r,51,0,2418483.html">	            <div class="post__time">28 min.</div>
+	            <div class="post__title">Inflacja HICP w Niemczech wyniosła 2,2% r/r we wrześniu wg fin. danych</div>
+	        </a>	        <script>gnzexcludearticles.push(2418483)</script>
+	    </li>
+	    
+			    <li class="post" data="07:43:02">
+	        <a href="https://www.money.pl/gielda/wiadomosci/artykul/przeglad-prasy,49,0,2418481.html">	            <div class="post__time">58 min.</div>
+	            <div class="post__title">Przegląd prasy</div>
+	        </a>	        <script>gnzexcludearticles.push(2418481)</script>
+	    </li>
+	    
+			</ul>
+	</section>
+
+	<section class="latest-news" data-st-area="rightcolumnNewestAll">
+		<h2 class="section-header">Najnowsze wiadomości</h2>
+		<ul class="latest-news__posts" id="latestNews" data-ajax-simple-more="//www.money.pl/d/hp/latest.php">
+			
+				
+	<li class="post" data-artid="2418332">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvcG9sc2tpLWZ1bmR1c3otcm96d29qdS1wcnplam11amUta29sZWprZS1uYSwxNTYsMCwyNDE4MzMyLmh0bWw=">            <div class="post__time post__time--latest">09:00</div>
+            <div class="post__title">Polski Fundusz Rozwoju przejmuje kolejkę na Kasprowy. Jakich inwestycji możemy się spodziewać</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418487">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvcGllbmlhZHplL2tvbWVudGFyemUvYXJ0eWt1bC9rb21lbnRhcnotd2FsdXRvd3kta29ucmFkLXJ5Y3prbyw1NSwwLDI0MTg0ODcuaHRtbA==">            <div class="post__time post__time--latest">9 min.</div>
+            <div class="post__title">Ryczko: złoty odbija. Decyzje Fitch/S&P po sesji</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418482">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvbXRzbC1rb25pZWMtYm9vbXUtZmlybXktcm9kemlubmUsNTAsMCwyNDE4NDgyLmh0bWw=">            <div class="post__time">54 min.</div>
+            <div class="post__title">"Money. To się liczy". Koniec gospodarczego boomu?</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418484">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvamVkbmEtd2llbGthLWtvbGVqLW5hcm9kb3dhLXBvZC1zenlsZGVtLXBrcCw1MiwwLDI0MTg0ODQuaHRtbA==">            <div class="post__time">07:18</div>
+            <div class="post__title">Jedna wielka kolej narodowa pod szyldem PKP. Związkowy nie tracą nadziei</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418478">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvcnphZC1zenlrdWplLW5vd3ktcHJvZ3JhbS1wb3JhLW5hLXByYWQsNDYsMCwyNDE4NDc4Lmh0bWw=">            <div class="post__time">06:29</div>
+            <div class="post__title">Rząd szykuje nowy program. Pora na Prąd+</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418458">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvYmV6b2JzbHVnb3d5LW1hcmtldCwyNiwwLDI0MTg0NTguaHRtbA==">            <div class="post__time">06:26</div>
+            <div class="post__title">Bezobsługowy market będzie otwarty w każdą niedzielę. Ale sieci i tak wolą kasjerów z krwi i kości</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418480">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvdXp5dGtvd2FuaWUtd2llY3p5c3RlLW5pZS1rYXpkeS1za29yenlzdGEteiw0OCwwLDI0MTg0ODAuaHRtbA==">            <div class="post__time">06:19</div>
+            <div class="post__title">Użytkowanie wieczyste. Nie każdy skorzysta z bonifikaty. Gminy muszą się pospieszyć</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418475">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvbG90LXByemVqbWllLXByYWNvd25pa293LXNtYWxsLXBsYW5ldCw0MywwLDI0MTg0NzUuaHRtbA==">            <div class="post__time">wczoraj</div>
+            <div class="post__title">LOT przejmie pracowników Small Planet. Tymczasem w czarterowej linii urzędowa kontrola</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418474">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvaW5zcGVrY2phLXByYWN5LWtvbnRyb2x1amUtcnlhbmFpci1zdW4sNDIsMCwyNDE4NDc0Lmh0bWw=">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Inspekcja pracy kontroluje Ryanair Sun. Spółka przejmie rejsowe loty tanich linii</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418381">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvczYxLW9id29kbmljYS1sb216eSwyMDUsMCwyNDE4MzgxLmh0bWw=">            <div class="post__time">wczoraj</div>
+            <div class="post__title">ViaBaltica. Pół miliarda złotych na 13 km S61. Wyzwaniem most przez rzekę</div>
+        </span>    </li>
+    
+    		<cite><strong><strong><strong></strong></strong></strong></cite>
+		<cite><strong><strong><ins></ins></strong></strong></cite>
+    	
+	
+				
+	<li class="post" data-artid="2418473">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvc3RhbmRhcmQtY2hhcnRlcmVkLXd5c3plZGwtcG96YS1hemplLDQxLDAsMjQxODQ3My5odG1s">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Standard Chartered wyszedł poza Azję. Rekrutuje specjalistów od zapobiegania przestępczości finansowej</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418472">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvc29saWRhcm5vc2MtcHJ6ZXB5dGFsYS1wcmFjb3duaWtvdy1za2xlcG93LSw0MCwwLDI0MTg0NzIuaHRtbA==">            <div class="post__time">wczoraj</div>
+            <div class="post__title">"Solidarność" przepytała pracowników sklepów, czy są zadowoleni z zakazu handlu w niedziele</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418485">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ2llbGRhL2tvbWVudGFyemUvYXJ0eWt1bC9rb21lbnRhcnotZ2llbGRvd3ktbHVrYXN6LWJ1Z2FqLDUzLDAsMjQxODQ4NS5odG1s">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Bugaj: &#8222;spokojna&#8221; wyprzedaż</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418471">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS91bmlhLWV1cm9wZWpza2Evd2lhZG9tb3NjaS9hcnR5a3VsL2Jhbi1uYS1ncmFuaWN5LXdrcm90Y2Utc3prb2RsaXdlLXVicmFuaWEteiwzOSwwLDI0MTg0NzEuaHRtbA==">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Ban na granicy. Wkrótce szkodliwe ubrania z Azji nie będą wpuszczane do Unii </div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418465">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvZWtzcGVyY2ktcHdjLXNwbGl0LXBheW1lbnQtbmFsZXp5LDMzLDAsMjQxODQ2NS5odG1s">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Eksperci PwC: Split payment należy upraszczać, bo za bardzo obciąża administrację  </div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418463">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvbWFyZWstZmFsZW50YS16LW5penN6eW0td3lyb2tpZW0temEtbWFsYSwzMSwwLDI0MTg0NjMuaHRtbA==">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Marek Falenta z niższym wyrokiem za "małą aferę podsłuchową"</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418462">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvcnphZC1wcmFjdWplLW5hZC13YWxvcnl6YWNqYS1rb250cmFrdG93LW5hLDMwLDAsMjQxODQ2Mi5odG1s">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Rząd pracuje nad waloryzacją kontraktów na budowę dróg. Rosnące ceny dobijają firmy</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418459">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvcGxhc3Rpa293ZS1qZWRub3Jhem93a2ktYmVkYS16YWthemFuZS11bmlhLDI3LDAsMjQxODQ1OS5odG1s">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Plastikowe jednorazówki będą zakazane. Unia Europejska zdecydowała</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418460">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvYnVkb3duaWN0d28tc2Ftb3phdHJ1ZG5pZW5pZS1qZWRub29zb2Jvd2UsMjgsMCwyNDE4NDYwLmh0bWw=">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Budowlańcy uciekają przed ZUS. Ponad 27 tysięcy założyło własne firmy</div>
+        </span>    </li>
+    
+    	
+	
+				
+	<li class="post" data-artid="2418455">
+        <span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ29zcG9kYXJrYS93aWFkb21vc2NpL2FydHlrdWwvZ2F6eWZpa2FjamEtdy0zMDAtZ21pbmFjaC1wcmVtaWVyLXphcG93aWFkYSwyMywwLDI0MTg0NTUuaHRtbA==">            <div class="post__time">wczoraj</div>
+            <div class="post__title">Gazyfikacja w 300 gminach. Premier zapowiada przyspieszenie inwestycji</div>
+        </span>    </li>
+    
+    	
+	
+		</ul>
+	</section>
+	<script>
+		__mnySiteFnc.push(function() {
+			gnzHideLatestArticles();
+		});		
+	</script>
+
+	<cite><strong><strong><cite></cite></strong></strong></cite>	
+	<ul class="see-more-buttons">
+	    <div class="label">Zobacz także:</div>
+	    <li data-st-area="rightcolumnTwojeFinanse"><a href="https://www.money.pl/eurobank/">Twoje finanse</a></li>
+	</ul>
+	
+	<ul class="quotes">
+		<li class="quote" data-st-area="rightcolumnTableForex"><span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvcGllbmlhZHplL2ZvcmV4Lw=="><h2 class="section-header section-header--quotes">Forex</h2></span>
+<ul>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/forex/waluty/forex,chfpln.html">
+	            <div class="quote-post__label">CHF/PLN</div>
+	            <div class="quote-post__value">3,750<span class="value-drop"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-drop">-0,07%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/forex/waluty/forex,eurpln.html">
+	            <div class="quote-post__label">EUR/PLN</div>
+	            <div class="quote-post__value">4,304<span class="value-drop"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-drop">-0,04%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/forex/waluty/forex,eurusd.html">
+	            <div class="quote-post__label">EUR/USD</div>
+	            <div class="quote-post__value">1,159<span class="value-drop"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-drop">-0,01%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/forex/waluty/forex,usdpln.html">
+	            <div class="quote-post__label">USD/PLN</div>
+	            <div class="quote-post__value">3,714<span class="value-drop"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-drop">-0,05%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/forex/waluty/forex,gbppln.html">
+	            <div class="quote-post__label">GBP/PLN</div>
+	            <div class="quote-post__value">4,914<span class="value-drop"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-drop">-0,01%</span></div>
+	        </a>
+	    </li>
+	</ul></li>
+		<li class="quote" data-st-area="rightcolumnTableDepozyty"><span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvcGllbmlhZHplL2RlcG96eXR5L3psb3Rvd2Uv"><h2 class="section-header section-header--quotes">Depozyty</h2></span>
+<ul>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/depozyty/zlotowe/WIBID3M,depozyty.html">
+	            <div class="quote-post__label">WIBID 3M</div>
+	            <div class="quote-post__value">1,52<span class="value-unchanged"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-unchanged">0,00%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/depozyty/zlotowe/WIBOR3M,depozyty.html">
+	            <div class="quote-post__label">WIBOR 3M</div>
+	            <div class="quote-post__value">1,72<span class="value-unchanged"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-unchanged">0,00%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/depozyty/zlotowe/WIBOR1M,depozyty.html">
+	            <div class="quote-post__label">WIBOR 1M</div>
+	            <div class="quote-post__value">1,64<span class="value-unchanged"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-unchanged">0,00%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/depozyty/walutowe/EURIBOR3M,depozyty.html">
+	            <div class="quote-post__label">EURIBOR 3M</div>
+	            <div class="quote-post__value">-0,32<span class="value-unchanged"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-unchanged">0,00%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/pieniadze/depozyty/zlotowe/WIBOR6M,depozyty.html">
+	            <div class="quote-post__label">WIBOR 6M</div>
+	            <div class="quote-post__value">1,79<span class="value-unchanged"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-unchanged">0,00%</span></div>
+	        </a>
+	    </li>
+	</ul></li>
+		<li class="quote" data-st-area="rightcolumnTableSurowce"><span data-b64="aHR0cHM6Ly93d3cubW9uZXkucGwvZ2llbGRhL3N1cm93Y2Uv"><h2 class="section-header section-header--quotes">Surowce</h2></span>
+<ul>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/gielda/surowce/dane,zloto.html">
+	            <div class="quote-post__label">Złoto</div>
+	            <div class="quote-post__value">1223,20<span class="value-drop"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-drop">-0,37%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/gielda/surowce/dane,srebro.html">
+	            <div class="quote-post__label">Srebro</div>
+	            <div class="quote-post__value">14,62<span class="value-growth"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-growth">0,07%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/gielda/surowce/dane,miedz.html">
+	            <div class="quote-post__label">Miedź</div>
+	            <div class="quote-post__value">6283,75<span class="value-growth"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-growth">0,18%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/gielda/surowce/dane,ropa.html">
+	            <div class="quote-post__label">Ropa brent</div>
+	            <div class="quote-post__value">81,25<span class="value-growth"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-growth">1,16%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="https://www.money.pl/gielda/surowce/dane,platyna.html">
+	            <div class="quote-post__label">Platyna</div>
+	            <div class="quote-post__value">844,60<span class="value-growth"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-growth">0,05%</span></div>
+	        </a>
+	    </li>
+	</ul></li>
+		<li class="quote" data-st-area="rightcolumnTableAgrobiznes"><a href="https://agrobiznes.money.pl/"><div class="section-header section-header--quotes">Agrobiznes</div></a>
+<ul>
+		    <li class="quote-post">
+	        <a href="http://agrobiznes.money.pl/gielda-towarowa-polska/pszenica-konsumpcyjna,GR084.html">
+	            <div class="quote-post__label">
+	            	pszenica
+	            	</div>
+	            <div class="quote-post__value">809,89<span class="value-growth"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-growth">+0,16%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="http://agrobiznes.money.pl/gielda-towarowa-polska/zyto-konsumpcyjne,GR085.html">
+	            <div class="quote-post__label">
+	            	żyto
+	            	</div>
+	            <div class="quote-post__value">662,95<span class="value-drop"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-drop">-2,49%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="http://agrobiznes.money.pl/gielda-towarowa-polska/owies-konsumpcyjny,GR087.html">
+	            <div class="quote-post__label">
+	            	owies
+	            	</div>
+	            <div class="quote-post__value">607,50<span class="value-drop"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-drop">-3,19%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="http://agrobiznes.money.pl/gielda-towarowa-polska/kurczak,GR075.html">
+	            <div class="quote-post__label">
+	            	drób
+	            	</div>
+	            <div class="quote-post__value">3,37<span class="value-growth"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-growth">+0,60%</span></div>
+	        </a>
+	    </li>
+		    <li class="quote-post">
+	        <a href="http://agrobiznes.money.pl/gielda-towarowa-polska/krowa,GR080.html">
+	            <div class="quote-post__label">
+	            	wołowina
+	            	</div>
+	            <div class="quote-post__value">5,32<span class="value-growth"></span></div>
+	            <div class="quote-post__value--hover"><span class="value-growth">+0,76%</span></div>
+	        </a>
+	    </li>
+	</ul></li>
+	</ul>
+	
+	<!-- div style="text-align:center">
+		<a href="http://direct.money.pl/" target="_blank">
+			<img src="//static1.money.pl/i/ad/direct/316x180_laczymy_polakow.jpg" alt=" " border="0" />
+		</a>
+	</div -->
+</div>
+    
+<section class="recommended">
+	<script type="text/javascript">
+    var idDistributor = 1;
+</script>
+    <ul class="recommended__tabs">
+				<li class="tab">
+			<input type="radio" id="tab-recommended-promo" name="tabs-recommended" checked="checked" class="tab__input">
+			<label for="tab-recommended-promo" class="tab__label premium"><span>Polecane</span></label>
+			<div class="tab__content premium" id="content-tab-recommended-promo">
+                                <!--slot11-->
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+    <li class="recommendation">
+        <a target="_blank" href="http://konto.aliorbank.pl/un/?partnerID=MNY_S_KJO&applicationID=Premium_DM" style="text-align: center;">
+            <div class="recommendation__image">
+                                    <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/401/aaaaaaa.jpg" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                            </div>
+        </a>
+    </li>
+</ul>
+
+                                                             
+			</div>
+		</li>	
+				<li class="tab">
+			<input type="radio" id="tab-recommended-first" name="tabs-recommended"   class="tab__input">
+			<label for="tab-recommended-first" class="tab__label"><span>Pożyczki</span></label>
+			<div class="tab__content" id="content-tab-recommended-first">
+                                <!--slot1-->
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="https://direct.money.pl/o/salechannel.php?idSaleChannel=1752&idDistributor=1">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/317/eurobank (1).png" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">Pożyczka online</div>
+                                <div class="recommendation__text">Szybka decyzja kredytowa - pieniądze nawet w 15 min</div>
+                        </div>
+                        <span class="recommendation_btn">Sprawdź ofertę</span>
+
+                </a>
+        </li>
+</ul>
+                                                                <!--slot2-->                                
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="https://direct.money.pl/o/salechannel.php?idSaleChannel=193&idDistributor=1">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/289/millenium_bank.png" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">Jasne zasady - prosta spłata</div>
+                                <div class="recommendation__text">Każde 5 000 zł pożyczki to tylko 100 zł raty (RRSO 7,68%)</div>
+                        </div>
+                        <span class="recommendation_btn">Sprawdź</span>
+
+                </a>
+        </li>
+</ul>
+                                                                
+			</div>
+		</li>
+		<li class="tab">
+			<input type="radio" id="tab-recommended-second" name="tabs-recommended" class="tab__input">
+			<label for="tab-recommended-second" class="tab__label"><span>Konta osobiste</span></label>
+			<div class="tab__content" id="content-tab-recommended-second">
+                                <!--slot3-->
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="https://ad.doubleclick.net/ddm/trackclk/N9439.1987524MONEYPL/B21777538.230804721;dc_trk_aid=428388048;dc_trk_cid=106802566;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/337/getino.png" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">Konto Proste Zasady</div>
+                                <div class="recommendation__text">0 zł za wydanie i prowadzenie karty debetowej</div>
+                        </div>
+                        <span class="recommendation_btn">Sprawdź</span>
+
+                </a>
+        </li>
+</ul>
+<img class="lazyload"  data-src="https://ad.doubleclick.net/ddm/trackimp/N9439.1987524MONEYPL/B21777538.230804721;dc_trk_aid=428388048;dc_trk_cid=106802566;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" BORDER="0" HEIGHT="1" WIDTH="1" ALT="Advertisement">                                                                <!--slot4-->                                
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="http://konto.aliorbank.pl/un/?partnerID=MNY_S_KJO&applicationID=BoxPol_DM">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/367/logo alior 10068.gif" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">Konto Jakże Osobiste</div>
+                                <div class="recommendation__text">Otwórz konto i dopasuj je do siebie - wybieraj korzyści, które pasują do Ciebie</div>
+                        </div>
+                        <span class="recommendation_btn">Zobacz więcej</span>
+
+                </a>
+        </li>
+</ul>
+                                			</div>
+		</li>
+		<li class="tab">
+			<input type="radio" id="tab-recommended-third" name="tabs-recommended" class="tab__input">
+			<label for="tab-recommended-third" class="tab__label"><span>Polecamy</span></label>
+			<div class="tab__content" id="content-tab-recommended-third">
+                                <!--slot5-->
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="http://gde-default.hit.gemius.pl/lshitredir/id=.RzqxqdtP_meA4CYDaix4sPa7xcyAxuUe2XlmKQ.apf.S7/fastid=megyerqikwrgyugocylbogxsunne/stparam=milghugfqe/nc=0/gdpr=0/gdpr_consent=/url=http://rachunek-brokerski.aliorbank.pl/">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/481/aliorowe.png" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">Rachunek brokerski</div>
+                                <div class="recommendation__text">Z giełdą na czasie. Twój rachunek inwestycyjny zawsze pod ręką w jednej aplikacji mobilnej.</div>
+                        </div>
+                        <span class="recommendation_btn">Sprawdź</span>
+
+                </a>
+        </li>
+</ul>
+<img class="lazyload"  data-src="http://gde-default.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=.RzqxqdtP_meA4CYDaix4sPa7xcyAxuUe2XlmKQ.apf.S7/fastid=ieccjkuhdcnzjvcaayiujzdzwnla/stparam=sgnjqjdmbk/nc=0/gdpr=0/gdpr_consent=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" />                                                                <!--slot6-->                                
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="https://ad.doubleclick.net/ddm/trackclk/N876486.2675000TOTALMONEY/B21627337.231076690;dc_trk_aid=428870791;dc_trk_cid=105329879;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/484/toyota.png" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">Płać do 10% mniej za paliwo!</div>
+                                <div class="recommendation__text">Moto Konto z aplikacją tankuj korzyści.</div>
+                        </div>
+                        <span class="recommendation_btn">Sprawdź</span>
+
+                </a>
+        </li>
+</ul>
+<img class="lazyload"  data-src="https://ad.doubleclick.net/ddm/trackimp/N876486.2675000TOTALMONEY/B21627337.231076690;dc_trk_aid=428870791;dc_trk_cid=105329879;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=?" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" BORDER="0" HEIGHT="1" WIDTH="1" ALT="Advertisement">                                			</div>
+		</li>
+		<li class="tab">
+			<input type="radio" id="tab-recommended-fourth" name="tabs-recommended" class="tab__input">
+			<label for="tab-recommended-fourth" class="tab__label"><span>Kredyty hipoteczne</span></label>
+			<div class="tab__content" id="content-tab-recommended-fourth">
+                                <!--slot7-->
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="https://direct.money.pl/o/salechannel.php?idSaleChannel=57&idDistributor=1">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/435/pekao.gif" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">Kredyt Własny Kąt Hipoteczny</div>
+                                <div class="recommendation__text">Finansowanie do 90% wartości nieruchomości</div>
+                        </div>
+                        <span class="recommendation_btn">Sprawdź</span>
+
+                </a>
+        </li>
+</ul>
+                                                                
+                                <!--slot8-->                                
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="https://direct.money.pl/millennium/kredyty_kredyt-hipoteczny.html">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/319/millenium_bank.png" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">Wybierz Kredyt Hipoteczny</div>
+                                <div class="recommendation__text">0% prowizji za udzielenie kredytu (RRSO 4,59%)</div>
+                        </div>
+                        <span class="recommendation_btn">Sprawdź</span>
+
+                </a>
+        </li>
+</ul>
+                                			</div>
+		</li>
+		<li class="tab">
+			<input type="radio" id="tab-recommended-fifth" name="tabs-recommended" class="tab__input">
+			<label for="tab-recommended-fifth" class="tab__label"><span>Finanse dla firm</span></label>
+			<div class="tab__content" id="content-tab-recommended-fifth">
+                                <!--slot9-->
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="https://direct.money.pl/o/salechannel.php?idSaleChannel=1393&idDistributor=1">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/331/nest10068.gif" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">BIZnest Konto</div>
+                                <div class="recommendation__text">Konto firmowe za bezwarunkowe zero zł</div>
+                        </div>
+                        <span class="recommendation_btn">Otwórz konto</span>
+
+                </a>
+        </li>
+</ul>
+                                                                <!--slot10-->
+
+                                <ul class="recommendations" data-st-area="ecommerceProduct">
+        <li class="recommendation">
+            <a target="_blank" href="https://direct.money.pl/o/salechannel.php?idSaleChannel=641&idDistributor=1">
+                        <div class="recommendation__image">
+                                                            <img class="lazyload"  data-src="//direct.money.pl/i/box_money_main_page/campaign/349/7 (1).gif" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="">
+                                                    </div>
+                        <div class="recommendation__description">
+                                <div class="recommendation__title">Kredyt dla firm</div>
+                                <div class="recommendation__text">Dobierz ofertę kredytową do swoich potrzeb.</div>
+                        </div>
+                        <span class="recommendation_btn">Określ swoje potrzeby</span>
+
+                </a>
+        </li>
+</ul>
+                                			</div>
+		</li>
+	</ul>
+
+	<section class="ranks-reports">
+		<div class="ranks-reports__label">direct.money.pl poleca</div>
+		<ul class="ranks-reports__posts">
+			<li class="report">
+				<a href="https://direct.money.pl/sekcje/db-kredyt-gotowkowy-certyfikat/">
+					<div class="report__image">
+						<img class="lazyload"  alt="" data-src="//direct.money.pl/i/box_money_main_page/article1.jpg?1539177166" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=">
+					</div>
+					<div class="report__text">
+						<div class="report__date">2018-09-14</div>
+						<div class="report__title">db Kredyt Gotówkowy wyróżniony</div>
+					</div>
+				</a>
+			</li>
+			<li class="report">
+				<a href="https://direct.money.pl/artykuly/porady/ubezpieczenia-w-swiecie-online---wywiad-z,5,0,2417413.html">
+					<div class="report__image">
+                        <img class="lazyload"  alt="" data-src="//direct.money.pl/i/box_money_main_page/article2.jpg?1539177166" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=">
+					</div>
+					<div class="report__text">
+						<div class="report__date">2018-10-02</div>
+						<div class="report__title">Ubezpieczenia w świecie online</div>
+					</div>
+				</a>
+			</li>
+			<li class="report">
+				<a href="https://direct.money.pl/artykuly/porady/gdzie-i-jak-ubezpieczyc-swoje-dziecko,23,0,2417175.html">
+					<div class="report__image">
+						<img class="lazyload"  alt="" data-src="//direct.money.pl/i/box_money_main_page/article3.jpg?1539177166" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=">
+					</div>
+					<div class="report__text">
+						<div class="report__date">2018-10-01</div>
+						<div class="report__title">Gdzie i jak ubezpieczyć dziecko?</div>
+					</div>
+				</a>
+			</li>
+		</ul>
+	</section></section>	
+
+        
+<div class="main-column">
+	<ul class="left-column left-column--top-part" data-st-area="streamLeft">
+		
+		
+				
+	
+<li class="entry-small entry-small--transformer  ">
+    <a href="https://msp.money.pl/wiadomosci/podatki/artykul/teresa-czerwinska-dla-money-pl-chce-deficytu,179,0,2418355.html">
+        <div class="entry__crop">
+        	            	<img alt="Teresa Czerwińska dla money.pl: Chcę deficytu na poziomie 50-60 proc. planu" title="Teresa Czerwińska dla money.pl: Chcę deficytu na poziomie 50-60 proc. planu / fot: Daniel Gnap/money.pl" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wER28dXEVUdQ1GB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Teresa Czerwińska dla money.pl: Chcę deficytu na poziomie 50-60 proc. planu
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small entry-small--transformer  ">
+    <a href="https://msp.money.pl/wiadomosci/zarzadzanie/artykul/piatek-piateczek-piatunio-w-tej-firmie-to,176,0,2418096.html">
+        <div class="entry__crop">
+        	            	<img alt="Piątek, piąteczek, piątunio. W tej firmie to dzień wolny od bieżącej pracy" title="Piątek, piąteczek, piątunio. W tej firmie to dzień wolny od bieżącej pracy / fot: nozbe.com" data-src="https://v.wpimg.pl/aHBwLmpwAjgqKCECHhIYZytYJEJJR058cEB6XEAoCTgyWSYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Piątek, piąteczek, piątunio. W tej firmie to dzień wolny od bieżącej pracy
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small   ">
+    <a href="https://msp.money.pl/wiadomosci/podatki/artykul/przez-kurs-euro-mniej-przedsiebiorcow-w,229,0,2417893.html">
+        <div class="entry__crop">
+        	            	<img alt="Przez kurs euro mniej przedsiębiorców w przyszłym roku skorzysta z uproszczeń podatkowych" title="Przez kurs euro mniej przedsiębiorców w przyszłym roku skorzysta z uproszczeń podatkowych / fot: Bartosz Wawryszuk" data-src="https://v.wpimg.pl/Nl9ocHAuLRxRMA4nLxA3Q1BAC2d5Wn1UDlxQfh4dPhwXBRMv" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Przez kurs euro mniej przedsiębiorców w przyszłym roku skorzysta z uproszczeń podatkowych
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small   ">
+    <a href="https://msp.money.pl/wiadomosci/zarzadzanie/artykul/jest-nowy-prezes-solarisa-zostal-nim-javier,146,0,2417810.html">
+        <div class="entry__crop">
+        	            	<img alt="Jest nowy prezes Solarisa. Został nim Javier Calleja" title="Jest nowy prezes Solarisa. Został nim Javier Calleja / fot: Solaris Bus&amp;Coach" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wHQG0dXEVQdQZIB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Jest nowy prezes Solarisa. Został nim Javier Calleja
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+	</ul>
+	<ul class="main-news clearfix" data-st-area="streamRight">
+		
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/jedna-wielka-kolej-narodowa-pod-szyldem-pkp,52,0,2418484.html">
+                	<div class="entry__crop">
+        		        			<img alt="Jedna wielka kolej narodowa pod szyldem PKP. Związkowy nie tracą nadziei" title="Jedna wielka kolej narodowa pod szyldem PKP. Związkowy nie tracą nadziei / fot: PKP PLK" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wHQGkdW0BUcQxIB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Jedna wielka kolej narodowa pod szyldem PKP. Związkowy nie tracą nadziei</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	    
+	        	    	    	
+	
+
+			
+	
+<li class="entry entry--double  ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/rzad-szykuje-nowy-program-pora-na-prad,46,0,2418478.html">
+                	<div class="entry__crop">
+        		        			<img alt="Rząd szykuje nowy program. Pora na Prąd+" title="Rząd szykuje nowy program. Pora na Prąd+ / fot: pixabay/ CC0 Public Domain" data-src="https://v.wpimg.pl/X2hwdi5qO0IAKAkGWxQhHQFYDEYERmkdW0NSWQdGB1oYAUoDRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Rząd szykuje nowy program. Pora na Prąd+</div>
+                    </div>
+        	        		    </a>
+</li>    	 
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/uzytkowanie-wieczyste-nie-kazdy-skorzysta-z,48,0,2418480.html">
+                	<div class="entry__crop">
+        		        			<img alt="Użytkowanie wieczyste. Nie każdy skorzysta z bonifikaty. Gminy muszą się pospieszyć" title="Użytkowanie wieczyste. Nie każdy skorzysta z bonifikaty. Gminy muszą się pospieszyć" data-src="https://v.wpimg.pl/aHBwLmpwAjgqKCECHhIYZytYJEJFQ058c050VEQoCTgyWSYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Użytkowanie wieczyste. Nie każdy skorzysta z bonifikaty. Gminy muszą się pospieszyć</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/lot-przejmie-pracownikow-small-planet,43,0,2418475.html">
+                	<div class="entry__crop">
+        		        			<img alt="LOT przejmie pracowników Small Planet. Tymczasem w czarterowej linii urzędowa kontrola" title="LOT przejmie pracowników Small Planet. Tymczasem w czarterowej linii urzędowa kontrola / fot: LUKASZ SOLSKI" data-src="https://v.wpimg.pl/aHBwLmpwAjgqKCECHhIYZytYJEJHRk58cEB8WkkoCTgyWSYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">LOT przejmie pracowników Small Planet. Tymczasem w czarterowej linii urzędowa kontrola</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/inspekcja-pracy-kontroluje-ryanair-sun,42,0,2418474.html">
+                	<div class="entry__crop">
+        		        			<img alt="Inspekcja pracy kontroluje Ryanair Sun. Spółka przejmie rejsowe loty tanich linii" title="Inspekcja pracy kontroluje Ryanair Sun. Spółka przejmie rejsowe loty tanich linii / fot:  	STEPHANIE LECOCQ" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wERWgdXEVWewNJB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Inspekcja pracy kontroluje Ryanair Sun. Spółka przejmie rejsowe loty tanich linii</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	    
+	        	    	    	
+	
+
+			
+	
+<li class="entry entry--double  ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/standard-chartered-wyszedl-poza-azje,41,0,2418473.html">
+                	<div class="entry__crop">
+        		        			<img alt="Standard Chartered wyszedł poza Azję. Rekrutuje specjalistów od zapobiegania przestępczości finansowej" title="Standard Chartered wyszedł poza Azję. Rekrutuje specjalistów od zapobiegania przestępczości finansowej" data-src="https://v.wpimg.pl/X2hwdi5qO0IAKAkGWxQhHQFYDEYHQ2kdXEVTXgFAB1oYAUoDRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Standard Chartered wyszedł poza Azję. Rekrutuje specjalistów od zapobiegania przestępczości finansowej</div>
+                    </div>
+        	        		    </a>
+</li>    	 
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/solidarnosc-przepytala-pracownikow-sklepow-,40,0,2418472.html">
+                	<div class="entry__crop">
+        		        			<img alt="&quot;Solidarność&quot; przepytała pracowników sklepów, czy są zadowoleni z zakazu handlu w niedziele" title="&quot;Solidarność&quot; przepytała pracowników sklepów, czy są zadowoleni z zakazu handlu w niedziele / fot: ARKADIUSZ ZIOLEK" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wESWgdXEVWcgFBB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">"Solidarność" przepytała pracowników sklepów, czy są zadowoleni z zakazu handlu w niedziele</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/unia-europejska/wiadomosci/artykul/ban-na-granicy-wkrotce-szkodliwe-ubrania-z,39,0,2418471.html">
+                	<div class="entry__crop">
+        		        			<img alt="Ban na granicy. Wkrótce szkodliwe ubrania z Azji nie będą wpuszczane do Unii " title="Ban na granicy. Wkrótce szkodliwe ubrania z Azji nie będą wpuszczane do Unii  / fot: JACEK RENARD" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wHQG0dXEVUdAZEB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Ban na granicy. Wkrótce szkodliwe ubrania z Azji nie będą wpuszczane do Unii </div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/eksperci-pwc-split-payment-nalezy,33,0,2418465.html">
+                	<div class="entry__crop">
+        		        			<img alt="Eksperci PwC: Split payment należy upraszczać, bo za bardzo obciąża administrację  " title="Eksperci PwC: Split payment należy upraszczać, bo za bardzo obciąża administrację   / fot: Tomasz Kawka/East News" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wHRG0dXEZadg1CB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Eksperci PwC: Split payment należy upraszczać, bo za bardzo obciąża administrację  </div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/marek-falenta-z-nizszym-wyrokiem-za-mala,31,0,2418463.html">
+                	<div class="entry__crop">
+        		        			<img alt="Marek Falenta z niższym wyrokiem za &quot;małą aferę podsłuchową&quot;" title="Marek Falenta z niższym wyrokiem za &quot;małą aferę podsłuchową&quot; / fot: MARIUSZ GRZELAK/REPORTER" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wHQGsdXEVUdAZCB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Marek Falenta z niższym wyrokiem za "małą aferę podsłuchową"</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/rzad-pracuje-nad-waloryzacja-kontraktow-na,30,0,2418462.html">
+                	<div class="entry__crop">
+        		        			<img alt="Rząd pracuje nad waloryzacją kontraktów na budowę dróg. Rosnące ceny dobijają firmy" title="Rząd pracuje nad waloryzacją kontraktów na budowę dróg. Rosnące ceny dobijają firmy / fot: Aleksander Koźmiński" data-src="https://v.wpimg.pl/aHBwLmpwAjgqKCECHhIYZytYJEJIRE58cEN7VUcoCTgyWSYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Rząd pracuje nad waloryzacją kontraktów na budowę dróg. Rosnące ceny dobijają firmy</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/gazyfikacja-w-300-gminach-premier-zapowiada,23,0,2418455.html">
+                	<div class="entry__crop">
+        		        			<img alt="Gazyfikacja w 300 gminach. Premier zapowiada przyspieszenie inwestycji" title="Gazyfikacja w 300 gminach. Premier zapowiada przyspieszenie inwestycji / fot: Andrzej Iwanczuk/REPORTER" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wESGEdXEVUdARIB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Gazyfikacja w 300 gminach. Premier zapowiada przyspieszenie inwestycji</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/nie-tylko-zakupy-kino-i-fitness-gimnazjum-i,15,0,2418447.html">
+                	<div class="entry__crop">
+        		        			<img alt="Nie tylko zakupy, kino i fitness. Gimnazjum i liceum w centrum handlowym w Gdańsku" title="Nie tylko zakupy, kino i fitness. Gimnazjum i liceum w centrum handlowym w Gdańsku / fot: MAREK ZAJDLER" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wESGwdXEVUdARFB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Nie tylko zakupy, kino i fitness. Gimnazjum i liceum w centrum handlowym w Gdańsku</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gielda/wiadomosci/artykul/finanse-fundusz-inwestycji-kapitalowych,3,0,2418435.html">
+                	<div class="entry__crop">
+        		        			<img alt="Premier chce nowych uprawnień. Ma zarządzać Funduszem Inwestycji Kapitałowych" title="Premier chce nowych uprawnień. Ma zarządzać Funduszem Inwestycji Kapitałowych / fot: Radek Pietruszka" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wHQmgdXEVRdQZBB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Premier chce nowych uprawnień. Ma zarządzać Funduszem Inwestycji Kapitałowych</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+	</ul>
+
+	<ul class="left-column left-column--bottom-part" data-st-area="streamLeft">
+		
+				
+	
+<li class="entry-small entry-small--transformer  ">
+    <a href="https://msp.money.pl/wiadomosci/zarzadzanie/artykul/carolina-garcia-gomez-nowa-prezes-ikea-retail,80,0,2417744.html">
+        <div class="entry__crop">
+        	            	<img alt="Carolina Garcia Gomez nową prezes IKEA Retail w Polsce" title="Carolina Garcia Gomez nową prezes IKEA Retail w Polsce / fot: Ikea" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wESW8dXEVUdwBAB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Carolina Garcia Gomez nową prezes IKEA Retail w Polsce
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+		
+				
+	
+<li class="entry-small   ">
+    <a href="https://msp.money.pl/wiadomosci/podatki/artykul/skarbowka-nie-miewa-watpliwosci-zasada,91,0,2417499.html">
+        <div class="entry__crop">
+        	            	<img alt="Skarbówka nie miewa wątpliwości. Zasada chroniąca podatników jest praktycznie martwa" title="Skarbówka nie miewa wątpliwości. Zasada chroniąca podatników jest praktycznie martwa / fot: Jacek Bereźnicki" data-src="https://v.wpimg.pl/aHBwLmpwAjgqKCECHhIYZytYJEJBQU58c0F-WkIoCTgyWSYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Skarbówka nie miewa wątpliwości. Zasada chroniąca podatników jest praktycznie martwa
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small   ">
+    <a href="https://msp.money.pl/wiadomosci/prawo/artykul/nie-daj-sie-zlowic-finansowi-naciagacze,127,0,2416767.html">
+        <div class="entry__crop">
+        	            	<img alt="Nie daj się złowić. Finansowi naciągacze czyhają" title="Nie daj się złowić. Finansowi naciągacze czyhają / fot: EAST NEWS" data-src="https://v.wpimg.pl/aHBwLmpwAjgqKCECHhIYZytYJEJCQ058cEJ4VEYoCTgyWSYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Nie daj się złowić. Finansowi naciągacze czyhają
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small   ">
+    <a href="https://msp.money.pl/wiadomosci/prawo/artykul/prawo-nie-nadaza-za-technologia-money-pl,138,0,2417034.html">
+        <div class="entry__crop">
+        	            	<img alt="Prawo nie nadąża za technologią? Money.pl zaprasza na debate" title="Prawo nie nadąża za technologią? Money.pl zaprasza na debate / fot: materiały prasowe ABB" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wER2gdXEdScARDB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Prawo nie nadąża za technologią? Money.pl zaprasza na debate
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small   ">
+    <a href="https://msp.money.pl/wiadomosci/zarzadzanie/artykul/wynagrodzenia-menadzerow-na-co-moga-liczyc,153,0,2417817.html">
+        <div class="entry__crop">
+        	            	<img alt="Wynagrodzenia menadżerów. Na co mogą liczyć kierownicy?" title="Wynagrodzenia menadżerów. Na co mogą liczyć kierownicy? / fot: Radek Kołakowski/wikimedia (CC0 1.0) " data-src="https://v.wpimg.pl/aHBwLmpwAjgqKCECHhIYZytYJEJCQ057dUB0VUAoCTgyWSYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Wynagrodzenia menadżerów. Na co mogą liczyć kierownicy?
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small   ">
+    <a href="https://agrobiznes.money.pl/artykul/rolnictwo-premier-mateusz-morawiecki-plan-dla,74,0,2416714.html">
+        <div class="entry__crop">
+        	            	<img alt="Wsi spokojna, wsi wesoła. Rząd w najnowszym spocie wychwala rolników" title="Wsi spokojna, wsi wesoła. Rząd w najnowszym spocie wychwala rolników / fot: PAP/Wojciech Pacewicz" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wERW4dXEVUcgBFB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Wsi spokojna, wsi wesoła. Rząd w najnowszym spocie wychwala rolników
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+	</ul>
+</div>
+
+<cite><cite><i><i></i></i></cite></cite>
+<div class="right-column right-column--second" data-st-area="rightcolumnSzukajPracy">
+	</div>
+
+<div class="main-column main-column--second clearfix">
+	<ul class="main-news" data-st-area="streamRight">
+		
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/gwaltowny-spadek-rejestracji-pracownikow-z,255,0,2418431.html">
+                	<div class="entry__crop">
+        		        			<img alt="Gwałtowny spadek rejestracji pracowników z Ukrainy. Niekoniecznie to sygnał exodusu na Zachód" title="Gwałtowny spadek rejestracji pracowników z Ukrainy. Niekoniecznie to sygnał exodusu na Zachód / fot: Krzysztof Kaniewski/REPORTER" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wESW4dXEVUdAVHB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Gwałtowny spadek rejestracji pracowników z Ukrainy. Niekoniecznie to sygnał exodusu na Zachód</div>
+                    </div>
+        	        	        	<div class="icon-author">Jacek Bereźnicki</div>
+	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/ranking-kont-oszczednosciowych---pazdziernik,25,0,2418201.html">
+                	<div class="entry__crop">
+        		        			<img alt="Ranking kont oszczędnościowych - październik 2018" title="Ranking kont oszczędnościowych - październik 2018" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wEQ2wdXEVScQFFB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Ranking kont oszczędnościowych - październik 2018</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gielda/wiadomosci/artykul/polenergia-fundusze-emerytalne-ofe-akcje,254,0,2418430.html">
+                	<div class="entry__crop">
+        		        			<img alt="Fundusze emerytalne odmawiają Dominice Kulczyk. Nie sprzedadzą akcji" title="Fundusze emerytalne odmawiają Dominice Kulczyk. Nie sprzedadzą akcji / fot: Jakub Walasek/REPORTER" data-src="https://v.wpimg.pl/aHBwLmpwAjgqKCECHhIYZytYJEJCR057ek99XEYoCTgyWSYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Fundusze emerytalne odmawiają Dominice Kulczyk. Nie sprzedadzą akcji</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/awaria-w-zus-problemy-z-programem-platnik,5,0,2418437.html">
+                	<div class="entry__crop">
+        		        			<img alt="Awaria w ZUS. Problemy z programem Płatnik" title="Awaria w ZUS. Problemy z programem Płatnik / fot: Jacek Dominski/REPORTER" data-src="https://v.wpimg.pl/aHBwLmpwAjgqKCECHhIYZytYJEJDQ058cEN4VUIoCTgyWSYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Awaria w ZUS. Problemy z programem Płatnik</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/wybory-samorzadowe-ulotki-bilbordy-smieci,0,0,2418432.html">
+                	<div class="entry__crop">
+        		        			<img alt="Ulotki za wycieraczką, banery na lawecie. Walka wyborcza zaśmieca Polskę. Zobacz, jak możesz z tym walczyć" title="Ulotki za wycieraczką, banery na lawecie. Walka wyborcza zaśmieca Polskę. Zobacz, jak możesz z tym walczyć / fot: money.pl" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wESW8dXEVUdAVGB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Ulotki za wycieraczką, banery na lawecie. Walka wyborcza zaśmieca Polskę. Zobacz, jak możesz z tym walczyć</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/handel-sklepy-sieci-promocje,4,0,2418436.html">
+                	<div class="entry__crop">
+        		        			<img alt="40 proc. promocji źle prowadzonych. Mogą naruszać prawo podatkowe" title="40 proc. promocji źle prowadzonych. Mogą naruszać prawo podatkowe / fot: Cezary Pecold/Eastnews" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wERG8dW09bcQBCB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">40 proc. promocji źle prowadzonych. Mogą naruszać prawo podatkowe</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+	</ul>
+</div>
+
+<div class="main-column main-column--split" data-st-area="streamLeft">
+	<ul class="left-column left-column--bottom left-column--bottom-part">
+		
+				
+	
+<li class="entry-small   ">
+    <a href="https://agrobiznes.money.pl/artykul/brzydkie-warzywa-marnotrawstwo-handel,67,0,2416707.html">
+        <div class="entry__crop">
+        	            	<img alt="Sieci supermarketów kupią brzydsze warzywa i owoce. Chcą wspomóc rolników" title="Sieci supermarketów kupią brzydsze warzywa i owoce. Chcą wspomóc rolników / fot: Fotolia" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wEQWsdW09VcgBAB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Sieci supermarketów kupią brzydsze warzywa i owoce. Chcą wspomóc rolników
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small   ">
+    <a href="https://agrobiznes.money.pl/artykul/cukier-ceny-buraka-cukrowego,224,0,2416608.html">
+        <div class="entry__crop">
+        	            	<img alt="Cukier rekordowo tani. Kryzys w sektorze bez precedensu" title="Cukier rekordowo tani. Kryzys w sektorze bez precedensu / fot: Rasbak/CC BY-SA 3.0/Wikimedia" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wEQW8dXEVUcgREB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Cukier rekordowo tani. Kryzys w sektorze bez precedensu
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small   ">
+    <a href="https://manager.money.pl/wiadomosci/artykul/praca-w-zarzadzie-spolki-z-czym-sie-to-wiaze,221,0,2416093.html">
+        <div class="entry__crop">
+        	            	<img alt="Praca w zarządzie spółki. Z czym się to wiąże" title="Praca w zarządzie spółki. Z czym się to wiąże" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wHRWsdXEVVegxEB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Praca w zarządzie spółki. Z czym się to wiąże
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+				
+	
+<li class="entry-small   ">
+    <a href="https://msp.money.pl/wiadomosci/podatki/artykul/odlicz-rower-od-podatku-jednoslad-da-korzysc,194,0,2415554.html">
+        <div class="entry__crop">
+        	            	<img alt="Odlicz rower od podatku. Jednoślad da korzyść w biznesie " title="Odlicz rower od podatku. Jednoślad da korzyść w biznesie  / fot: Michael/Flickr.com/CC 2.0" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wER2wdW0ZTegFJB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        	        </div>
+                <div class="entry__description">
+        	                        	<div class="entry__title">
+            		Odlicz rower od podatku. Jednoślad da korzyść w biznesie 
+            			
+            	</div>
+                    </div>
+    </a>
+</li>		
+	</ul>
+</div>
+
+<div class="right-column" data-floatingsky="99">
+	<div>
+				<div class="floatingSky"><cite><ins><strong><strong></strong></strong></ins></cite></div>	</div>
+</div>
+				
+<div class="main-column main-column--split clearfix">
+	<ul class="main-news" data-st-area="streamRight">
+		
+			
+		    	    	    
+	        	    	    	
+	
+
+			
+	
+<li class="entry entry--double  ">
+    <a href="https://www.money.pl/gielda/wiadomosci/artykul/piractwo-cda-pl-czarna-lista-usa-mpaa-wideo,237,0,2418413.html">
+                	<div class="entry__crop">
+        		        			<img alt="Polski serwis na &quot;czarnej liście&quot; w USA. CDA się broni" title="Polski serwis na &quot;czarnej liście&quot; w USA. CDA się broni / fot: CWMedia / materiały prasowe" data-src="https://v.wpimg.pl/aHB2LmpwAjgqbSECHhIYZysdJEJGRE58cAJ9WEkoCTg0HCYdFw==" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Polski serwis na "czarnej liście" w USA. CDA się broni</div>
+                    </div>
+        	        		    </a>
+</li>    	 
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/uokik-marek-niechcial,248,0,2418424.html">
+                	<div class="entry__crop">
+        		        			<img alt="UOKiK wziął pod lupę producenta drukarek. Sprawa dotyczy ustalania cen" title="UOKiK wziął pod lupę producenta drukarek. Sprawa dotyczy ustalania cen / fot: money.pl " data-src="https://v.wpimg.pl/N19ocHAuLUFRMA4nLxA3HlBAC2d4WnoDCVlSfx4dPkEXBRMv" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">UOKiK wziął pod lupę producenta drukarek. Sprawa dotyczy ustalania cen</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/bank-pekao-fintech-zakladanie-konta-przez,247,0,2418423.html">
+                	<div class="entry__crop">
+        		        			<img alt="Nowe konto przez kamerkę w smartfonie. Pekao walczy o drugie miejsce na rynku" title="Nowe konto przez kamerkę w smartfonie. Pekao walczy o drugie miejsce na rynku / fot: MSW" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wER20dW0RWdgdEB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Nowe konto przez kamerkę w smartfonie. Pekao walczy o drugie miejsce na rynku</div>
+                    </div>
+        	        	        	<div class="icon-author">Jacek Frączyk</div>
+	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/patriotyczne-gry-ulga,251,0,2418427.html">
+                	<div class="entry__crop">
+        		        			<img alt="Będzie nowa ulga podatkowa na patriotyczne gry. Rząd pokazał projekt" title="Będzie nowa ulga podatkowa na patriotyczne gry. Rząd pokazał projekt / fot: money.pl" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wERG0dXEVVdQBAB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Będzie nowa ulga podatkowa na patriotyczne gry. Rząd pokazał projekt</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+			
+		    	    	        	
+	
+
+			
+	
+<li class="entry   ">
+    <a href="https://www.money.pl/gospodarka/wiadomosci/artykul/zywnosci-w-polsce-i-w-niemczech-uokik,238,0,2418414.html">
+                	<div class="entry__crop">
+        		        			<img alt="Producenci odpowiadają na kontrolę UOKiK. Różna jakość żywności w Polsce i w Niemczech" title="Producenci odpowiadają na kontrolę UOKiK. Różna jakość żywności w Polsce i w Niemczech" data-src="https://v.wpimg.pl/X2hwcC5qO0IAKA4sWxQhHQFYC2wEQWEdXEVUdQdIB1oYB00pRRY=" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload entry__image" />
+        		        	</div>
+                <div class="entry__description">
+        	            	<div class="entry__title">Producenci odpowiadają na kontrolę UOKiK. Różna jakość żywności w Polsce i w Niemczech</div>
+                    </div>
+        	        		    </a>
+</li>	    		
+		
+	
+	</ul>
+	<ul class="left-column left-column--bottom left-column--top-part clearfix" data-st-area="streamLeft">
+				<script>
+		var innerCode='';
+		if (typeof(innerCode) == 'undefined') var innerCode; innerCode = innerCode + '<scr'+'ipt type="text/javascript" src="//www.money.pl/d/reklama/smartkontener.php?id=1758&v=hp2015&page_number=1&redirect=&dot_sn=money_reklama&dot_src_klik=klik_%ID%glowna&dot_src_odslona_%ID%glowna"></scr'+'ipt>\r\n';
+		innerCode = innerCode + '\r\n';
+		if(typeof(sas_ajax)!='undefined'&&sas_ajax){sas_appendToContainer(11443,innerCode);}else{document.write(innerCode);}
+		var innerCode='';
+		if (typeof(innerCode) == 'undefined') var innerCode; innerCode = innerCode + '<scr'+'ipt type="text/javascript" src="//www.money.pl/d/reklama/smartkontener.php?id=1758&v=hp2015&page_number=2&redirect=&dot_sn=money_reklama&dot_src_klik=klik_%ID%glowna&dot_src_odslona_%ID%glowna"></scr'+'ipt>\r\n';
+		innerCode = innerCode + '\r\n';
+		if(typeof(sas_ajax)!='undefined'&&sas_ajax){sas_appendToContainer(11443,innerCode);}else{document.write(innerCode);}
+		</script>
+	</ul>
+</div>
+
+<cite><strong><ins><cite></cite></ins></strong></cite><cite><strong><strong><i></i></strong></strong></cite>		    </main>
+		    <svg class="icon-loading" id="iconLoading" width='70px' height='70px' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="uil-default"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(0 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(30 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(60 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(90 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(120 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(150 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(180 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(210 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(240 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(270 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(300 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/></rect><rect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='#2c90ff' transform='rotate(330 50 50) translate(0 -30)'>  <animate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/></rect></svg>			
+		    <div class="load-more clearfix" id="loadMore">
+				<span class="button button--white button--arrow" id="loadMoreButton">Wczytaj więcej wiadomości</span>
+			</div>
+		</div>
+		
+		<cite><i><strong><cite></cite></strong></i></cite><script>
+__mnySiteFnc.push(function() {
+	// config dla FB
+	window.WPsocial.config('FB', {
+		fbAppId : '203880196374936',
+		fbNamespace : 'portal.Moneypl',
+		fbXfbml : true,
+		fbStatus : true,
+		fbCookie : true,
+		fbLang : 'pl_PL',
+		version: 'v2.3',
+		fbdebug: false
+	});	
+	window.WPsocial.config('WP', {ignoreLibCss:true });	
+});	
+</script>
+
+<div class="container">
+</div> 
+
+<footer id="mainFooter" class="footer brand-new-mny">
+	<div class="footer__content">
+		<div class="footer__left">
+			<h4 class="footer__header">Money.pl:</h4>
+			<ul class="footer__list">
+				<li><span data-b64="aHR0cDovL29uYXMud3AucGwv">O nas</span></li>
+				<li><span data-b64="aHR0cDovL3Jla2xhbWEud3AucGwv">Reklama</span></li>
+				<li><span data-b64="aHR0cDovL2Zpcm1hLm1vbmV5LnBsL3dzcG9scHJhY2EvZS1jb21tZXJjZS8=">eCommerce finansowy</span></li>
+				<li><span data-b64="aHR0cDovL3d3dy5tb25leS5wbC9pbm5lL21hcGEv">Mapa serwisu</span></li>
+				<li><span data-b64="aHR0cDovL3d3dy5tb25leS5wbC9kL215X21vbmV5L015TW9uZXlfcmVndWxhbWluLnBkZg==">Regulamin</span></li>
+				<li><span data-b64="aHR0cHM6Ly9vbmFzLndwLnBsL3BvdWZub3NjLmh0bWw=">Polityka prywatności</span></li>
+				<li><span data-b64="aHR0cDovL3d3dy5tb25leS5wbC9pbm5lL2tvbnRha3Qv">Kontakt</span></li>
+				<li><span data-b64="aHR0cDovL3d3dy5tb25leS5wbC9pbm5lL3BvbW9jLw==">Pomoc</span></li>
+				<li><span data-b64="aHR0cDovL3d3dy5tb25leS5wbC93ZWJtYXN0ZXIv">Dla webmasterów</span></li>
+				<li><span data-b64="aHR0cDovL20ubW9uZXkucGwv">Wersja dla komórek</span></li>
+				<li><span data-b64="aHR0cDovL3d3dy5tb25leS5wbC9yc3Mv">RSS</span></li>
+			</ul>
+		</div>
+		<div class="footer__middle">
+			<a href="http://www.businessclick.com/" target="_blank" class="footer__logo"><img src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload" data-src="//money.wpcdn.pl/i/mny2015/logo-businessclick.png" alt="bussinessclick" /></a>
+			<a href="http://www.money2money.com.pl/" target="_blank" class="footer__logo"><img src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload" data-src="//money.wpcdn.pl/i/mny2015/logo-money2money.png" alt="money2money" /></a>
+			<a href="http://www.totalmoney.pl/" target="_blank" class="footer__logo"><img src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="lazyload" data-src="//money.wpcdn.pl/i/mny2015/logo_porownywarka.png" alt="Porównywarka finansowa" /></a>
+		</div>
+		<div class="footer__right">
+			<span data-b64="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3BvcnRhbC5Nb25leXBs" target="_blank"><div class="button-social button-social--facebook"><span>Money.pl na Facebooku</span></div></span>
+			<span data-b64="aHR0cHM6Ly90d2l0dGVyLmNvbS9tb25leV9wbA==" target="_blank"><div class="button-social button-social--twitter"><span>Money.pl na Twitterze</span></div></span>
+			<span data-b64="aHR0cHM6Ly9wbHVzLmdvb2dsZS5jb20vK21vbmV5cGw=" target="_blank"><div class="button-social button-social--google"><span>Money.pl w Google+</span></div></span>
+		</div>
+		<hr class="footer__hr"/>
+		<div class="footer__bottom-bar">
+			<div class="item item--wp">
+				<span data-b64="aHR0cDovL29uYXMud3AucGwv" target="_blank"><div class="footer-logo-wp"></div><span>Money.pl jest częścią grupy Wirtualna Polska</span></span>
+			</div>
+
+			<div class="item item--copyrights">
+				<span>&copy; 2018 Wirtualna Polska Media S.A.</span>
+			</div>
+		</div>
+	</div>
+</footer>
+<script>
+	 	jQuery(function() {
+ 		if (window.money) window.money.initMainMenu();
+ 	});
+
+ 	jQuery('.xmobile :contains("Czytaj więcej w")').parent('.xmobile').hide();
+
+if (WP.$('.modliszka-config').length == 1 && WP.$('article .like-us').length == 1) {
+    WP.$('.modliszka-config').parents('.playertv_box').before(WP.$('article .like-us'))
+}
+
+if (jQuery('article .exchange-live-widget').length>0 && jQuery('article .like-us').length>0 && (jQuery('article .exchange-live-widget').offset().top+jQuery('article .exchange-live-widget').outerHeight()-jQuery('article .like-us').offset().top > 0)) {
+	jQuery('article .exchange-live-widget').hide();
+}
+</script>
+ <style>
+	article .n_takze.xmobile, article .takze.xmobile { display:none !important }
+</style><strong><cite><strong><strong></strong></strong></cite></strong><strong><strong><cite><cite></cite></cite></strong></strong><strong><strong><cite><strong></strong></cite></strong></strong><strong><strong><cite><ins></ins></cite></strong></strong><strong><strong><cite><i></i></cite></strong></strong><strong><strong><strong><cite></cite></strong></strong></strong><strong><strong><strong><strong></strong></strong></strong></strong>		    	<!-- Hotjar Tracking Code for http://www.money.pl/#old -->
+    	<script>
+    	(function(h,o,t,j,a,r){
+    		h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    		h._hjSettings={hjid:764613,hjsv:6};
+    		a=o.getElementsByTagName('head')[0];
+    		r=o.createElement('script');r.async=1;
+    		r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    		a.appendChild(r);
+    	})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    	</script>
+    	</body>
+</html>

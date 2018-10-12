@@ -1,0 +1,1351 @@
+<!DOCTYPE html>
+<html lang="hu" data-ng-app="jofogasSite" data-ng-strict-di>
+	<head>
+		<meta charset="iso-8859-2">
+		<title>Jófogás - Magyarország legnagyobb apróhirdetési oldala!</title>
+		<meta name="viewport" content="width=1024, initial-scale=0">
+		
+		
+			
+		
+		<meta name="apple-mobile-web-app-status-bar-style" content="yes">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="google-play-app" content="app-id=com.schibsted.iberica.jofogas">
+		<meta name="format-detection" content="telephone=no">
+		<base href="/">
+		<meta name="apple-itunes-app" content="app-id=1064914384" >
+	<meta name="description" content="Egymás közt, okosabban. Vásárolj egyszerűen vagy tedd pénzzé nem használt dolgaidat Magyarország legnagyobb online apróhirdetési oldalán!" >
+	<meta name="google" content="nositelinkssearchbox">
+
+
+		<link rel="stylesheet" href="//cdn.materialdesignicons.com/1.7.22/css/materialdesignicons.min.css" type="text/css">
+		<link href="//fonts.googleapis.com/css?family=Roboto:100,300,300i,400,400i,500,500i,700,900&amp;subset=latin-ext" rel="stylesheet">
+		<link rel="stylesheet" href="https://static.jofogas.hu/css/vendor-ee44bacb980323cbca074be305bdf55b.css" type="text/css">
+		
+		<link rel="stylesheet" href="https://static.jofogas.hu/css/app-c3509acc092b487228eb9251a6c41a83.css" type="text/css">
+		
+		<script type="text/javascript">
+			var common_cookie_domain = '.jofogas.hu';
+		</script>
+		<script type="text/javascript" src="//try.abtasty.com/f1d0190ba9d1158909c360a456217f53.js"></script>
+		<script type="text/javascript" src="https://static.jofogas.hu/js/vendor-3d79f950bd84ec60ced667c9bc1976af.js"></script>
+		
+    
+      <script id="Cookiebot" src="//consent.cookiebot.com/uc.js" data-cbid="35b22fb3-70ee-4d1a-b53f-c15178b64b8a" type="text/javascript" data-culture="HU" async></script>
+    
+		<script type="text/javascript" src="https://static.jofogas.hu/templates/common/categories.js?version=19734553"></script>
+		<script type="text/javascript" src="https://static.jofogas.hu/templates/common/friendly_params.js?version=19734553"></script>
+		
+		<script type="text/javascript" src="https://static.jofogas.hu/js/index-7882d5f2bf3e05d68872a44c7830f302.js"></script>
+			
+		
+		<script type="text/javascript" class="app-js-from-gulp" src="https://static.jofogas.hu/js/app-c47df185c937ec014a4bb4ca9f6a9c2c.js"></script>
+		
+		
+		<script type="text/javascript">
+			
+			/* get scripts after page loaded */
+			$(window).load(function() {
+				setTimeout(function(){
+					
+					
+		
+		
+		Pixel('https://p.jofogas.hu',
+				'index',
+				'1',
+				'',
+				'',
+				'',
+				'',
+				'new_click',
+				1
+				);
+		
+
+
+
+
+					
+				}, 1);
+			});
+			(function(){
+	var hfapp = angular.module('hfapp',[]);
+	var multibumpapp = angular.module('multiBumpApp', []);
+	var ribbonapp = angular.module('ribbonApp', []);
+})();
+
+		</script>
+		
+		
+		
+		
+			<script type="text/javascript" src="//bt.p24.hu/init.js"></script>
+		
+	</head>
+
+
+
+<body itemscope itemtype="http://schema.org/WebPage" class=" _2018-10-12 no-js platform-unknown container_index  
+
+
+  " data-ng-controller="siteCtrl" >
+
+<script type="text/javascript">
+document.body.className = document.body.className.replace('no-js', 'has-js');
+</script>
+<div data-jofogas-alert-container="" class="alert-container"></div>
+
+<jfg-notifications></jfg-notifications>
+<div data-shadow-layer="" class="shadowLayer"></div>
+<script type="text/template" id="unread_messages_count">
+<div class="unread-messages-count {{ if (unread_count == 0) { }}hidden{{ } }}">{{- unread_count}}</div>
+</script>
+
+
+
+<script type="text/javascript">
+var utag_data = {
+environment : encodeURIComponent("prod"), 
+event_name : encodeURIComponent("docs/index"), 
+gemius_enabled : encodeURIComponent("0"), 
+google_analytics_enabled : encodeURIComponent("0"), 
+is_mobile : encodeURIComponent("0"), 
+level2_site : encodeURIComponent("1"), 
+page_type_id : encodeURIComponent("1"), 
+region_level1_id : encodeURIComponent("1"), 
+xiti_enabled : encodeURIComponent("0"), 
+xiti_p : encodeURIComponent("docs/index")
+
+};
+</script>
+<!-- Loading script asynchronously -->
+<script type="text/javascript">
+(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/schibsted/jofogas/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+
+
+
+
+<header data-jofogas-header="site.header" class="sticky jfg-page-header" data-jfg-sticky data-sticky-top="0">
+	
+	
+	<div data-view-size-helper></div>
+
+	<div class="container-fluid hidden-lg hidden-md">
+		<div data-ng-if="!searchInput.opened" class="">
+			<div class="ico">
+				<div class="burger-container">
+					<span class="header-icon header-burger" data-ng-click="site.header.openSideMenu()">
+						<i class="center-block mdi mdi-navbar mdi-menu"></i>
+					</span>
+					<span data-jfg-unread-badge class="ng-hide unread-badge unread-badge-header"></span>
+				</div>
+			</div>
+			<div itemscope itemtype="http://schema.org/Brand" class="header-logo">
+				<a href="https://www.jofogas.hu" class="svg" target="_self">
+						<object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/jfg_logo_general.svg" class="jfg-svg-logo" alt="Jófogás - Magyarország legnagyobb apróhirdetési oldala!"></object>
+					</a>
+				
+			</div>
+			<div class="header-icons ico right-icons">
+				<a class="header-icon" href="https://www2.jofogas.hu/ai" target="_self" rel="nofollow">
+					<i class="center-block mdi mdi-navbar mdi-plus-circle-outline"></i>
+				</a>
+				<span class="magnifier header-icon" data-ng-click="searchInputToggle()">
+					<i class="center-block mdi mdi-navbar mdi-magnify"></i>
+				</span>
+			</div>
+		</div>
+		<div data-ng-class="{'hidden': !searchInput.opened}" class="hidden search-input-opened">
+			<form accept-charset="UTF-8" class="form-horizontal" data-instant-search-enabled="0" method="get" action="https://www.jofogas.hu/magyarorszag">
+				<input id="mobile-search-input" type="text" placeholder="Írd ide, mit keresel..." class="form-control" data-ng-model="search" autocomplete="on" name="q">
+				<button class="search" type="submit"><i class="center-block mdi mdi-navbar mdi-search mdi-magnify"></i></button>
+			</form>
+		</div>
+	</div>
+	<div class="container hidden-xs hidden-xsm hidden-sm">
+		<div class="header-container">
+			<div itemscope itemtype="http://schema.org/Brand" class="jofogas-logo">
+				<a href="https://www.jofogas.hu" class="svg" target="_self">
+						<object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/jfg_logo_general.svg" class="jfg-svg-logo" alt="Jófogás - Magyarország legnagyobb apróhirdetési oldala!"></object>
+					</a>
+				
+			</div>
+			<div class="navbar-search">
+				<form accept-charset="UTF-8" data-ng-if="site.header.desktop_searchbox" class="form-horizontal" data-instant-search-enabled="0" method="get" action="https://www.jofogas.hu/magyarorszag">
+					<input id="desktop-search-input" type="text" placeholder="Írd ide, mit keresel..." class="header-search form-control" data-ng-model="search" autocomplete="on" name="q">
+					<button class="search" type="submit"><i class="center-block mdi mdi-navbar mdi-search mdi-magnify"></i></button>
+				</form>
+			</div>
+
+			<div class="link login-link">
+
+				<div class="link ai-link">
+						<a data-ng-click="site.header.login('https://www2.jofogas.hu/ai')" class="ai-link" target="_self" rel="nofollow">
+							Hirdetésfeladás
+						</a>
+					</div>
+				
+
+				
+					<!-- not logged in -->
+					<a data-ng-click="site.header.register()" >Regisztráció</a> |
+					<a data-ng-click="site.header.login()">Belépés</a>
+					
+				
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	<div id="adverticum_stat_container" class="adverticum_container adverticum_hide_label">
+		<div id="adverticum_stat" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+	
+	
+	<div id="adverticum_popup_container" class="adverticum_container adverticum_hide_label">
+		<div id="adverticum_popup" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+</header>
+<div data-ng-class="{'hidden': !searchInput.opened}" class="hidden modal-backdrop search-input-is-open" data-ng-click="searchInput.opened = !searchInput.opened"></div>
+
+
+
+<div id="sidemenu" class="hidden hidden-md hidden-lg" data-ng-class="{'hidden':!site.header.menu}" data-ng-controller="sideMenuCtrl">
+	<div class="back" data-ng-click="site.header.closeSideMenu()">
+		<i class="mdi mdi-sidemenu mdi-arrow mdi-arrow-left"></i>
+	</div>
+	
+		<div class="container personal-and-services">
+  <div class="row">
+		<span class="col-xs-10 col-xs-offset-2 col-xsm-9 col-xsm-offset-3 menu-item title">Saját</span>
+	</div>
+
+	<div class="row side-row">
+		<a data-ng-click="site.header.login()">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-login"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>Belépés</div>
+		</a>
+	</div>
+	<div class="row side-row">
+		<a data-ng-click="site.header.register()">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-account-plus"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>Regisztráció</div>
+		</a>
+	</div>
+
+  <div class="row">
+		<span class="col-xs-10 col-xs-offset-2 col-xsm-9 col-xsm-offset-3 menu-item title">Szolgáltatások</span>
+	</div>
+
+	<div class="row side-row">
+		<a href="https://docs.jofogas.hu/haztol-hazig" target="_self">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-package-variant-closed"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>Háztól-házig szolgáltatás</div>
+		</a>
+	</div>
+	<div class="row side-row">
+		<a href="https://docs.jofogas.hu" target="_self">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-tag-outline"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>Kiemelés</div>
+		</a>
+	</div>
+	<div class="row side-row">
+		<a href="https://www.jofogas.hu/rolunk" target="_self">
+			<div class="col-xs-2 col-xsm-3">
+				<i class="center-block mdi mdi-sidemenu mdi-information-outline"></i>
+			</div>
+			<div class='col-xs-10 col-xsm-9 text left-block'>Rólunk</div>
+		</a>
+	</div>
+</div>
+
+	
+</div>
+<div class="sidemenu-layer hidden" data-ng-class="{'hidden':!site.header.menu}" data-ng-click="site.header.closeSideMenu()">&nbsp;</div>
+
+
+
+
+
+	
+	<div id="adverticum_r_above_container" class="adverticum_container">
+		<div id="adverticum_r_above" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="blue-bar">
+	<div class="container">
+		<blue-bar class="bluebar-container" data-subsite=""></blue-bar>
+	</div>
+</div>
+
+
+
+
+<div id="container_main" class="container_index " >
+<div id="main_content" class="container content_index" xtcz="main_content">
+
+
+
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+<script>
+	var common_cookie_domain = '.jofogas.hu';
+</script>
+<div class="main-content container index reFactIndex">
+	<div data-ng-view></div>
+	
+	<div id="jfg_index_sb">
+		
+	
+	<div id="adverticum_r_main_background_container" class="adverticum_container">
+		<div id="adverticum_r_main_background" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+		
+	
+	<div id="adverticum_m_r_main_background_container" class="adverticum_container">
+		<div id="adverticum_m_r_main_background" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+		<div id="jfg_index_promo"></div>
+		<div class="search-container reFact">
+			<form accept-charset="UTF-8" class="ng-pristine ng-valid" data-instant-search-enabled="0" method="get" action="https://www.jofogas.hu/magyarorszag">
+				<div>
+					<h1>Keress Magyarország<span>legnagyobb piacterén!</span></h1>
+				</div>
+				<div class="search-autocomplete">
+					<jfg-autocomplete data-items="site.items">
+						<div class="search-field">
+							<input id="index-search"
+							       class="search-input form-control ng-pristine ng-untouched ng-valid"
+							       type="text"
+							       placeholder="Mit keresel?"
+							       data-ng-model="search"
+							       data-ng-focus="site.searchInputFocus()"
+							       data-ng-blur="site.searchInputBlur()"
+							       data-ng-change="site.searchTextChange(search)"
+							       autocomplete="off"
+							       name="q"
+							       autofocus="autofocus"
+							/>
+							<div class="search-button">
+								<button type="submit">
+									<i class="mdi mdi-magnify"></i>
+								</button>
+							</div>
+						</div>
+					</jfg-autocomplete>
+				</div>
+			</form>
+			
+	
+	<div id="adverticum_m_r_home_bottom_container" class="adverticum_container">
+		<div id="adverticum_m_r_home_bottom" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+
+
+		</div>
+	</div>
+
+<!-- promo test start -->
+
+  
+  <div class="index-promo index-promo-general">
+  
+            
+<div class="container">
+    <div class="shop_head">
+        <h3 class="shops">Boltok a Jófogáson</h3>
+        <a href="https://www.jofogas.hu/boltok" target="_self">Összes bolt</a>
+    </div>
+    <shop10></shop10>
+</div>
+
+
+          
+        
+      
+    
+            <div class="container">
+	<div class="jfg-tiles">
+		<jfg-tile  data-ng-repeat="tile in site.tiles" data-label="{{tile.title}}" data-image="{{tile.image_url}}" data-url="{{tile.url}}"></jfg-tile>
+	</div>
+</div>
+
+          
+        
+      
+    
+            <div class="container">
+	<div class="col-xs-12 block categories">
+		<ul class="col-xs-12 block categories_list">
+			
+			
+					
+					
+						
+					
+					
+					
+					<li class="list_item">
+						<a href="https://ingatlan.jofogas.hu" class="mdi mdi-home" target="_self">
+							<span class="col-xs-12 block category-name">Ingatlan</span>
+							<span class="category-count">167 379 db</span>
+						</a>
+					</li>
+				
+			
+					
+					
+						
+					
+					
+					
+					<li class="list_item">
+						<a href="https://auto.jofogas.hu" class="mdi mdi-car" target="_self">
+							<span class="col-xs-12 block category-name">Jármű</span>
+							<span class="category-count">300 361 db</span>
+						</a>
+					</li>
+				
+			
+					
+					
+						
+					
+					
+					
+					<li class="list_item">
+						<a href="https://allas.jofogas.hu" class="mdi mdi-worker" target="_self">
+							<span class="col-xs-12 block category-name">Állásajánlatok, álláskeresés</span>
+							<span class="category-count">23 270 db</span>
+						</a>
+					</li>
+				
+			
+					
+					
+					
+					
+					
+					<li class="list_item">
+						<a href="https://www.jofogas.hu/magyarorszag/otthon-haztartas" class="mdi mdi-sofa" target="_self">
+							<span class="col-xs-12 block category-name">Otthon, háztartás</span>
+							<span class="category-count">347 766 db</span>
+						</a>
+					</li>
+				
+			
+					
+					
+					
+					
+					
+					<li class="list_item">
+						<a href="https://www.jofogas.hu/magyarorszag/muszaki-cikkek-elektronika" class="mdi mdi-laptop" target="_self">
+							<span class="col-xs-12 block category-name">Műszaki cikkek, elektronika</span>
+							<span class="category-count">176 262 db</span>
+						</a>
+					</li>
+				
+			
+					
+					
+					
+					
+					
+					<li class="list_item">
+						<a href="https://www.jofogas.hu/magyarorszag/szabadido-sport" class="mdi mdi-bike" target="_self">
+							<span class="col-xs-12 block category-name">Szabadidő, sport</span>
+							<span class="category-count">306 745 db</span>
+						</a>
+					</li>
+				
+			
+					
+					
+					
+					
+					
+					<li class="list_item">
+						<a href="https://www.jofogas.hu/magyarorszag/divat-ruhazat" class="mdi mdi-tshirt-crew" target="_self">
+							<span class="col-xs-12 block category-name">Divat, ruházat</span>
+							<span class="category-count">317 304 db</span>
+						</a>
+					</li>
+				
+			
+					
+					
+					
+					
+					
+					<li class="list_item">
+						<a href="https://www.jofogas.hu/magyarorszag/uzlet-szolgaltatas" class="mdi mdi-screwdriver" target="_self">
+							<span class="col-xs-12 block category-name">Üzlet, szolgáltatás</span>
+							<span class="category-count">8 926 db</span>
+						</a>
+					</li>
+				
+			
+					
+					
+					
+					
+					
+					<li class="list_item">
+						<a href="https://www.jofogas.hu/magyarorszag/baba-mama" class="mdi mdi-duck" target="_self">
+							<span class="col-xs-12 block category-name">Baba-mama</span>
+							<span class="category-count">117 592 db</span>
+						</a>
+					</li>
+				
+			
+		</ul>
+	</div>
+</div>
+
+          
+        
+      
+    
+            <div class="container" style="margin-top: 2rem; text-align: center">
+		
+		
+	<div id="adverticum_index_bottom_container" class="adverticum_container">
+		<div id="adverticum_index_bottom" class="goAdverticum adverticum_content"></div>
+	</div>
+
+
+	</div>
+
+
+          
+        
+      
+    
+  
+  </div>
+
+
+<!-- promo test end -->
+</div>
+
+
+<div class="clear"></div>
+
+
+<script type="text/javascript">
+angular.module('jofogas').config(['copyTempProvider', function (copyTempProvider) {
+copyTempProvider.insert({
+scope: 'jfgCampaigns',
+temps: {
+type: 'jfgCampaigns',
+campaigns: {
+elte:false,
+basket_page_campaign:false,
+vcode_gallery:false
+}
+}
+});
+}]);
+</script>
+</div>
+<div class="clear"></div>
+</div>
+
+
+<div class="container terms-of-use" style="text-align: center;">
+
+Felhasználói szabályzatunk és Adatvédelmi tájékoztatónk 2018. 09. 28-án megváltozott.
+
+<br />
+Az új szabályzatokat a <a href="https://docs.jofogas.hu/szabalyzat/" target="_blank" rel="nofollow">Felhasználói szabályzat</a> és az <a href="https://docs.jofogas.hu/adatvedelem/" target="_blank" rel="nofollow">Adatvédelmi szabályzat</a> menüpontokban érheted el.</div>
+
+
+<footer class="jfg-page-footer">
+	<div>
+		<div class="row mobile-stores-container">
+			<div class="fix-a-tag container-fluid container-inner fix-fluid">
+				<div class="row">
+				<div class="text-nowrap col-md-4 col-sm-4 col-xsm-12" id="footer_jofogas">
+						<a href="https://www.jofogas.hu" class="svg"><object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/jfg_logo_general.svg" class="jofogas_logo_footer"></object></a><p class="br_f"></p>
+						<a href="https://play.google.com/store/apps/details?id=com.schibsted.iberica.jofogas" target="_blank">Google Play</a> |
+						<a href="https://itunes.apple.com/hu/app/jofogas-aprohirdetesek/id1064914384?mt=8" target="_blank">App Store</a> |
+						<a href="https://www.microsoft.com/hu-hu/store/apps/jofogas/9wzdncrdjnql" target="_blank">Windows Store</a>
+					</div>
+					<div class="col-md-4 col-sm-4 col-xsm-12" id="footer_ingatlan">
+						<a href="https://ingatlanapp.jofogas.hu" class="svg"><object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/jfg_logo_realestate_white.svg" class="jofogas_realestate_logo_footer"></object></a><p class="br_f"></p>
+						<a href="https://ingatlanapp.jofogas.hu" target="_blank">Részletek</a> |
+						<a href="https://play.google.com/store/apps/details?id=hu.jofogas.app" target="_blank">Google Play</a> |
+						<a href="https://itunes.apple.com/hu/app/jofogas-ingatlan/id1151792631?mt=8" target="_blank">App Store</a>
+					</div>
+					<div class="job-fix col-md-4 col-sm-4 col-xsm-12" id="footer_allaskereses">
+						<a href="https://allasapp.jofogas.hu/" class="svg"><object type="image/svg+xml" data="https://static.jofogas.hu/img/svg/jfg_logo_job_white.svg" class="jofogas_job_logo_footer"></object></a><p class="br_f"></p>
+						<a href="https://allasapp.jofogas.hu/" target="_blank">Részletek</a> |
+						<a href="https://play.google.com/store/apps/details?id=hu.jofogas.allas.app" class="google-play-link" target="_blank">Google Play</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="footer-menu" class="container-fluid">
+		<div class="row">
+			<div class="container-inner">
+				<div class="row useful-links">
+					<div data-accord-footer>
+						<div class="col-xsm-12 col-md-3">
+							<div class="col-xsm-12 block-title hidden-md hidden-lg" data-ng-click="accordFooterCtrl.setActiveFooterNumber(1)">
+								<span class="title">Szolgáltatásaink</span>
+							</div>
+							<div class="col-xsm-12 block-links first-block" data-ng-class="{'block-links-open': accordFooterCtrl.activeFooterNumber === 1}">
+								<a href="https://docs.jofogas.hu/haztol-hazig" target="_blank">Háztól-házig szolgáltatás</a>
+								<a href="https://docs.jofogas.hu" target="_blank">Kiemelés</a>
+								<a href="https://docs.jofogas.hu/talalkozasipontok" target="_blank">Találkozási pont</a>
+								<a href="https://ajanlataink.jofogas.hu/" target="_blank">Ajánlataink céges hirdetőknek</a>
+							</div>
+						</div>
+						<div class="col-xsm-12 col-md-3">
+							<div class="col-xsm-12 block-title hidden-md hidden-lg" data-ng-click="accordFooterCtrl.setActiveFooterNumber(2)">
+								<span class="title">Jófogás.hu</span>
+							</div>
+							<div class="col-xsm-12 block-links first-block" data-ng-class="{'block-links-open': accordFooterCtrl.activeFooterNumber === 2}">
+									<a href="https://docs.jofogas.hu/ingatlan_kategoria_hirdetesi_lehetosegek/" target="_blank">Ajánlataink ingatlanközvetítőknek</a>
+									<a href="https://docs.jofogas.hu/szabalyzat" target="_blank">Felhasználói szabályzat</a>
+									<a href="https://ugyfelszolgalat.jofogas.hu/extra-szolgaltatasok/szabalysertes-jelentese/" target="_blank">Biztonságos vásárlás</a>
+									<a href="https://docs.jofogas.hu/adatvedelem" target="_blank">Adatvédelem</a>
+								</div>
+							</div>
+							<div class="col-xsm-12 col-md-2">
+								<div class="col-xsm-12 block-links first-block" data-ng-class="{'block-links-open': accordFooterCtrl.activeFooterNumber === 2}">
+									<a href="https://www.jofogas.hu/oldalterkep" target="_blank">Oldaltérkép</a>
+									<a href="http://ugyfelszolgalat.jofogas.hu" target="_blank">Ügyfélszolgálat</a>
+									<a href="https://www.jofogas.hu/rolunk" target="_blank">Rólunk</a>
+									<a onclick="Cookiebot.show();return false;">Süti beállítások</a>
+								</div>
+							</div>
+							<div class="col-xsm-12 col-md-4 last-block">
+								<div class="col-xsm-12 block-links first-block how-to-buy" data-ng-class="{'block-links-open': accordFooterCtrl.activeFooterNumber === 2}">
+									<a href="https://static.jofogas.hu/img/OTP_vasarloi_tajekoztato.pdf" target="_blank">Vásárlói tájékoztató</a>
+									<a href="https://karrier.schibsted.hu" target="_blank">Karrier</a>
+								</div>
+								<div class="col-sm-6 col-md-12 first-block how-to-buy hidden-xs hidden-xsm hidden-sm" id="bank-cards">
+									<img src="https://static.jofogas.hu/img/bank-cards-v2.png" alt="mastercard, visa, maestro, american express, otp"/>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container-fluid fix-fluid">
+			<div class="row footer-text first-block fix-row">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+						<object type="image/svg+xml" data="https://static.jofogas.hu/img/all_rights_logo.svg" class="jfg-svg-fix jofogas_logo_footer sm-hidden"></object>	<p>
+						Szerzői jogi védelem alatt álló oldal. A honlapon elhelyezett szöveges és képi anyagok, arculati és tartalmi elemek (pl. betűtípusok, gombok, linkek, ikonok, szöveg, kép, grafika, logo stb.) felhasználása, másolása, terjesztése, továbbítása - akár részben, vagy egészben - kizárólag a Jófogás előzetes, írásos beleegyezésével lehetséges.
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		<div class="horizontal-line"></div>
+		<div class="container-fluid fix-fluid">
+			<div class="footer-text">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+							<p>
+								Autót vásárolnál vagy adnál el? Látogasd meg autós oldalainkat:
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-text">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+							<p>
+								<a href="//www.hasznaltauto.hu/" target="_blank">hasznaltauto.hu</a> <span>|</span> <a href="//www.autoalkatresz.hu/" target="_blank">autoalkatresz.hu</a> <span>|</span> <a href="//www.autonavigator.hu/" target="_blank">autonavigator.hu</a> <span>|</span> <a href="//www.nagyhaszon.hu/" target="_blank">nagyhaszon.hu</a> <span>|</span> <a href="//www.garancialis.hu/" target="_blank">garancialis.hu</a> <span>|</span> <a href="//www.szalonauto.hu/" target="_blank">szalonauto.hu</a> <span>|</span> <a href="//katalogus.hasznaltauto.hu/" target="_blank">autokatalogus</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		
+		<div class="horizontal-line"></div>
+		<div class="container-fluid fix-fluid mobile-filter-margin">
+			<div class="footer-text">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+							<p>
+								Külföldön vásárolnál vagy adnál el? Látogasd meg a külföldi hirdetési oldalainkat:
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-text">
+				<div class="container-inner">
+					<div class="row">
+						<div class="col-xsm-12">
+							<p>
+								<a href="//www.aggeliopolis.gr/" target="_blank">aggeliopolis.gr</a> <span>|</span> <a href="//www.avito.ma/" target="_blank">avito.ma</a> <span>|</span> <a href="//www.blocket.se/" target="_blank">blocket.se</a> <span>|</span> <a href="//www.custojusto.pt/" target="_blank">custojusto.pt</a> <span>|</span> <a href="//www.donedeal.ie/" target="_blank">donedeal.ie</a> <span>|</span> <a href="//www.kufar.by/" target="_blank">kufar.by</a> <span>|</span> <a href="//www.leboncoin.fr/" target="_blank">leboncoin.fr</a> <span>|</span> <a href="//www.segundamano.com.mx/" target="_blank">segundamano.com.mx</a> <span>|</span> <a href="//www.subito.it/" target="_blank">subito.it</a> <span>|</span> <a href="//www.tori.fi/" target="_blank">tori.fi</a> <span>|</span> <a href="//www.tutti.ch/" target="_blank">tutti.ch</a> <span>|</span> <a href="//www.vibbo.com/" target="_blank">vibbo.com</a> <span>|</span> <a href="//www.willhaben.at/" target="_blank">willhaben.at</a> <span>|</span> <a href="//www.yapo.cl/" target="_blank">yapo.cl</a> <span>|</span> <a href="//www.Car4You.at/" target="_blank">Car4You.at</a> <span>|</span> <a href="//www.Coches.net/" target="_blank">Coches.net</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- SEARCH Fiok - Google remarketingcimke-kod -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1037465139;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1037465139/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- GDN Fiok - Google remarketingcimke-kod -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 964410546;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964410546/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+				
+				
+					<script>
+	jQuery(window).load(function(){
+		jQuery.cachedScript("//dkj5zvvq1r9a6.cloudfront.net/tt-2c58b3a68ac99f845a207a613ce245b3fd2dd839320355a9778e9319f96363b2.js");
+	});
+</script>
+
+				
+	</div>
+</footer>
+
+
+
+
+<script>
+	angular.module('jofogas').run(["adverticumService", function (adverticumService) {
+
+		
+			
+				
+				var meta = '<meta name="customtarget" content="dXNlcmRiX2lkPTY5JmRpc2FibGVfdHJhY2tpbmc9MQo=" debug="userdb_id=69&disable_tracking=1 " /> ';
+					if ($('meta[name=customtarget]').replaceWith(meta).size() == 0) {
+						$('head').append(meta);
+					}
+					
+					
+					if ( window.matchMedia( "(min-width: 992px)" ).matches ) {
+						var commonZones = {
+						// stat
+							
+								
+								   "stat":"3683470" , 
+							
+						// popup
+							
+								
+								   "popup":"3244593" , 
+							
+						// after_delete
+							
+								
+								   "after_delete":"4037988" , 
+							
+						// index_bottom
+							
+								
+								   "index_bottom":"3201444" , 
+							
+						// r_above
+							
+								
+								   "r_above":"3704416" , 
+							
+						// r_main_ingatlan_background
+							
+								
+								   "r_main_ingatlan_background":"4570239" , 
+							
+						// m_r_main_ingatlan_background
+							
+								
+								        
+							
+						// r_main_background
+							
+								
+								   "r_main_background":"4570253" , 
+							
+						// m_r_main_background
+							
+								
+								        
+							
+						// r_main_auto_background
+							
+								
+								   "r_main_auto_background":"4570384" , 
+							
+						// m_r_main_auto_background
+							
+								
+								        
+							
+						// m_r_main_allas_background
+							
+								
+								        
+							
+						// r_main_allas_background
+							
+								
+								   "r_main_allas_background":"4613182" , 
+							
+						// m_r_home_bottom
+							
+								
+								        
+							
+						
+						};
+						adverticumService.setZones({type: 'common', newZones: commonZones});
+					} else {
+						var commonZones = {
+							// stat
+								
+									
+									   "stat":"3683470" , 
+								
+							// popup
+								
+									
+									   "popup":"3244593" , 
+								
+							// after_delete
+								
+									
+									   "after_delete":"4037988" , 
+								
+							// index_bottom
+								
+									
+									   "index_bottom":"4226533" , 
+								
+							// r_above
+								
+									
+									        
+								
+							// r_main_ingatlan_background
+								
+									
+									        
+								
+							// m_r_main_ingatlan_background
+								
+									
+									   "m_r_main_ingatlan_background":"4570251" , 
+								
+							// r_main_background
+								
+									
+									        
+								
+							// m_r_main_background
+								
+									
+									   "m_r_main_background":"4570281" , 
+								
+							// r_main_auto_background
+								
+									
+									        
+								
+							// m_r_main_auto_background
+								
+									
+									   "m_r_main_auto_background":"4570392" , 
+								
+							// m_r_main_allas_background
+								
+									
+									   "m_r_main_allas_background":"4613184" , 
+								
+							// r_main_allas_background
+								
+									
+									        
+								
+							// m_r_home_bottom
+								
+									
+									   "m_r_home_bottom":"5059399" , 
+								
+							
+						};
+						adverticumService.setZones({type: 'common', newZones: commonZones});
+					}
+					
+					var galleryZones = {
+					// stat
+						
+							
+							   "stat":"3683470" , 
+						
+					// popup
+						
+							
+							   "popup":"3244593" , 
+						
+					// after_delete
+						
+							
+							   "after_delete":"4037988" , 
+						
+					// index_bottom
+						
+							
+							        
+						
+					// r_above
+						
+							
+							        
+						
+					// r_main_ingatlan_background
+						
+							
+							        
+						
+					// m_r_main_ingatlan_background
+						
+							
+							        
+						
+					// r_main_background
+						
+							
+							        
+						
+					// m_r_main_background
+						
+							
+							        
+						
+					// r_main_auto_background
+						
+							
+							        
+						
+					// m_r_main_auto_background
+						
+							
+							        
+						
+					// m_r_main_allas_background
+						
+							
+							        
+						
+					// r_main_allas_background
+						
+							
+							        
+						
+					// m_r_home_bottom
+						
+							
+							        
+						
+					
+					};
+					adverticumService.setZones({type: 'gallery', newZones: galleryZones});
+				
+			
+			$(window).load(function(){
+				$.cachedScript( "//ad.adverticum.net/g3.js" ).done(function( script, textStatus ) {
+					setTimeout( function() {
+						adverticumService.start({type: 'common'});
+					}, 10);
+				});
+			});
+		
+	}]);
+</script>
+
+
+
+<script type="text/javascript">var app = angular.module('jofogasSite',
+	[
+		'ngRoute',
+		
+		'multiBumpApp',
+        'ribbonApp',
+		'hfapp',
+		'jfgApp',
+		'jfg.component',
+		'socketService'
+	]
+)
+
+
+
+
+.config(["jfgConfigProvider", function(jfgConfigProvider) {
+	jfgConfigProvider.apiKey("jofogas-web-eFRv9myucHjnXFbj");
+	jfgConfigProvider.jsVersion("19734553");
+	jfgConfigProvider.cookieDomain(".jofogas.hu");
+	jfgConfigProvider.url({"admin_ai": "https://www2.jofogas.hu","ai": "https://www2.jofogas.hu","aij": "https://www2.jofogas.hu","api": "https://api.jofogas.hu","apiv2": "https://apiv2.jofogas.hu","apiv3": "https://apiv3.jofogas.hu","ar": "https://www2.jofogas.hu","aw": "https://www2.jofogas.hu","bid": "https://www2.jofogas.hu","blocket": "https://www.jofogas.hu","buyfile": "https://www2.jofogas.hu","career": "https://karrier.schibsted.hu","controlpanel": "https://www2.jofogas.hu","controlpanel_arrays_v2": "https://static.jofogas.hu","docs": "https://docs.jofogas.hu","general": "https://www.jofogas.hu","homsters": "https://ujepitesu.jofogas.hu","images": "https://img.jofogas.hu","images_local": "https://www1","images_rotate": "https://www2.jofogas.hu","importads": "https://www2.jofogas.hu","importservice": "https://www2.jofogas.hu","insurance": "https://www2.jofogas.hu","job": "https://allas.jofogas.hu","li": "https://www.jofogas.hu","mobile": "http://m.jofogas.hu","mypages": "https://www2.jofogas.hu","pics": "https://www.jofogas.hu","privacy": "https://adatvedelem.jofogas.hu/adatvedelmi-tajekoztato/","privacy_api": "http://privacy-api.jofogas","rd": "https://www2.jofogas.hu","realestate": "https://ingatlan.jofogas.hu","redir": "https://www.jofogas.hu","safety": "https://ugyfelszolgalat.jofogas.hu/extra-szolgaltatasok/szabalysertes-jelentese/","searchparamsapi": "https://searchparams.jofogas.hu","shop_api": "https://shop-api.jofogas.hu","spw": "https://www2.jofogas.hu","static": "https://static.jofogas.hu","static_https": "https://static.jofogas.hu","stats1x1": "https://p.jofogas.hu","store": "https://www2.jofogas.hu","support": "https://www2.jofogas.hu","templates": "https://www.jofogas.hu","terms": "https://docs.jofogas.hu/szabalyzat/","tiles_api": "https://tiles.jofogas.hu","tip": "https://www.jofogas.hu","vehicle": "https://auto.jofogas.hu","vf": "https://www2.jofogas.hu","vfj": "https://www2.jofogas.hu","vi": "https://www.jofogas.hu","vid": "https://p.jofogas.hu","vij": "https://www.jofogas.hu","websocket": "https://socket.jofogas.hu"});
+	jfgConfigProvider.path({"about": "/rolunk","account": {"account": "/fiok","agent": "/fiok/referens","agents": "/fiok/referensek","creditmanagement": "/fiok/kreditkezeles","dataManagement": "/fiok/adatkezeles","deleteAccount": "/fiok/adataim-torlese","favads": "/fiok/kedvencek","favsearches": "/fiok/kedvenc_keresesek","login": "/fiok/belepes","logout": "/fiok/kilepes","messagecenter": "/fiok/postalada","myads": "/fiok/hirdeteseim","registration": "/fiok/regisztralas","settings": "/fiok/beallitasok"},"ai": "/ai","ca": "https://ajanlataink.jofogas.hu/","docs": {"accountoverview": "/irodai_fiok/"},"fsz": "/szabalyzat","hh": "/haztol-hazig","jtp": "/talalkozasipontok","privacy": "/adatvedelem","rea": "/ingatlan_kategoria_hirdetesi_lehetosegek/","safe_shopping": "/biztonsag","shop": "/bolt/","shops": "/boltok","sitemap": "/oldalterkep","subsites": {"1000": "ingatlan","2000": "auto","6000": "allas"}});
+	jfgConfigProvider.conf({urgentTypes: {"bombastic_price": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "Bomba ajánlat!"},"bonuszbrigad": {"darkColor": "#7E0723","fontSize": "14","mainColor": "#B60B33","title": "A hét fogása"},"good_buy": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "Jó fogás!"},"highlight": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "Kiemelt!"},"joy": {"darkColor": "#B31F60","fontSize": "14","mainColor": "#FF2E8A","title": "Gardróbürítés"},"oc": {"darkColor": "#1C3956","fontSize": "12","mainColor": "#336699","title": "Csak a Jófogáson!"},"only_jofogas": {"darkColor": "#1C3956","fontSize": "12","mainColor": "#336699","title": "Csak a Jófogáson!"},"shop_offer": {"darkColor": "#7E0723","fontSize": "14","mainColor": "#B60B33","title": "Bolt ajánlata"},"uniq": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "Egyedi ajánlat!"},"urgent": {"darkColor": "#B65222","fontSize": "14","mainColor": "#FF7330","title": "Sürgős!"}}});
+	jfgConfigProvider.conf({reconsentDate: "2018-07-26 12:00:00"});
+	jfgConfigProvider.conf({termsDate: {"date": "2018. 09. 28","show": "1","suffix": "-án"}});
+	jfgConfigProvider.conf({privacyDate: {"date": "2018. 09. 28","suffix": "-án"}});
+	jfgConfigProvider.conf({isShopEnabled: 1});
+	jfgConfigProvider.conf({isCategoryHidden: [{"b2b": {"2000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"3000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"4000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"5000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"6000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"8000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"8060": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"9000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}}},"general": {"*": {"2020": {"value": "enabled:0,error:SHOP_AI_ERROR"},"2040": {"value": "enabled:0,error:SHOP_AI_ERROR"},"2081": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"1000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"6000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}}},"job": {"*": {"6040": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"1000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"2000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"3000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"4000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"5000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"8000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"8060": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}},"9000": {"*": {"value": "enabled:0,error:SHOP_AI_ERROR"}}},"keys": {"1": "shop_type","2": "main_category","3": "category"}}]});
+  
+}])
+
+.controller('siteCtrl', ['$scope', 'modalService', 'auth', 'socketClient', function($scope, modalService, auth, socketClient) {
+
+	$scope.site = {
+		header: {
+			desktop_searchbox: true,
+			search: true,
+			ai: true,
+			menu: false,
+			bluebar: '',
+			searchBoxModalName: 'simpleSearchBox',
+			tool_include_url: 'template/account/header.simple-tool.html',
+			tool: true
+		},
+		modal: {
+			open: modalService.openModal
+		},
+		search: {
+			text: ''
+		},
+		unread_count: 0
+	};
+
+	auth.init();
+	if (auth.loggedIn()) {
+		var socketConnection = socketClient.connect(auth.getAccountToken(), function() {
+			//now ready to emit events..
+		});
+		if (socketConnection) {
+			socketClient.on("pingpong", function (data) {
+				socketClient.emit("pongping", data);
+			});
+			socketClient.on('test_message', function(data) {
+				socketClient.handleEvent({eventName: 'test_message', data: data});
+			});
+			socketClient.on('typing', function(data) {
+				socketClient.handleEvent({eventName: 'typing', data: data});
+			});
+			socketClient.on('new_message', function(data) {
+				socketClient.handleEvent({eventName: 'new_message', data: data});
+			});
+			socketClient.on('unread_count', function (UNREAD_COUNT_DATA) {
+				socketClient.handleEvent({eventName: 'unread_count', data: UNREAD_COUNT_DATA});
+			});
+			socketClient.on('phone_validation', function (PHONE_VALIDATION_DATA) {
+				socketClient.handleEvent({eventName: 'phone_validation', data: PHONE_VALIDATION_DATA});
+			});
+			socketClient.on('credit_upload', function (CREDIT_UPLOAD_DATA) {
+				socketClient.handleEvent({eventName: 'credit_upload', data: CREDIT_UPLOAD_DATA});
+			});
+			socketClient.on('credit_upload_for_later', function (CREDIT_UPLOAD_FOR_LATER_DATA) {
+				socketClient.handleEvent({eventName: 'credit_upload_for_later', data: CREDIT_UPLOAD_FOR_LATER_DATA});
+			});
+			socketClient.on('credit_pay', function (CREDIT_PAY_DATA) {
+				 socketClient.handleEvent({eventName: 'credit_pay', data: CREDIT_PAY_DATA});
+			});
+			socketClient.on('credit_transfer', function (CREDIT_TRANSFER_DATA) {
+				socketClient.handleEvent({eventName: 'credit_transfer', data: CREDIT_TRANSFER_DATA});
+			});
+			socketClient.on('B2B_AGENT_credit_pay', function (B2B_AGENT_CREDIT_PAY_DATA) {
+				socketClient.handleEvent({eventName: 'B2B_AGENT_credit_pay', data: B2B_AGENT_CREDIT_PAY_DATA});
+			});
+			socketClient.on('wallet_cancel', function (B2B_WALLET_CANCEL_DATA) {
+				socketClient.handleEvent({eventName: 'wallet_cancel', data: B2B_WALLET_CANCEL_DATA});
+			});
+			socketClient.on('payment_finished', function (payment_data) {
+				socketClient.handleEvent({eventName: 'payment_finished', data: payment_data});
+			});
+			socketClient.on('vcode_consumption', function (vcode_data) {
+				socketClient.handleEvent({eventName: 'vcode_consumption', data: vcode_data});
+			});
+		}
+	}
+}]);
+angular.module('jfg.account')
+.provider("jfgAccount", [
+	function () {
+		'use strict';
+		var account = {};
+		account.loggedIn = false;
+		
+		this.set = function(data) {
+			angular.extend(account, data);
+		};
+		this.get = function(key) {
+			if (key) {
+				return account[key];
+			}
+			return account;
+		};
+		this.$get = ["$injector", function($injector){
+			return {
+				set:function(data){
+					angular.extend(account, data);
+					var rootScope = $injector.get('$rootScope');
+					rootScope.$emit('jfgAccount:changed', data);
+				},
+				get:function(key){
+					if (key) {
+						return account[key] || false;
+					}
+					return account;
+				}
+			}
+		}];
+	}
+]);
+</script>
+
+	
+		
+			
+			<iframe src="//creativecdn.com/tags?id=pr_gPSlmU5QUAhMaOqpDGXE_home" width="1" height="1" scrolling="no" frameBorder="0" style="display: none;"></iframe>
+		
+	
+
+
+<!--<script type="text/javascript">$().smartbanner();</script>-->
+<div class="mobile-app-suggestor" data-domain=".jofogas.hu"></div>
+</body>
+</html>
+
+
+<!-- 2018-10-12 08:42:16 gyor-www2.jofogas 60950 -->

@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<script type="text/javascript" src="/js/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript" src="/js/netteForms_alert.js"></script>
+	<script type="text/javascript" src="/js/nette.ajax.js"></script>
+    <script src="/js/bs3.js"></script>
+	
+    <link href="/css/bs3.css" rel="stylesheet" media="screen" />
+	<link href="/css/fa.css" rel="stylesheet" media="screen" />
+	<link href="/css/style.css" rel="stylesheet" media="screen" />	
+	
+	<link rel="apple-touch-icon" sizes="57x57" href="/img/ikony/logo_modra57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="/img/ikony/logo_modra72.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/img/ikony/logo_modra114.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="/img/ikony/logo_modra144.png" />
+	
+		<title>Fio banka - česká banka pro váš účet nebo investice | Fio banka</title> 
+	<script type="text/javascript">
+       $(function(){
+	   		 $.nette.init();
+			 var dostupnePro = "Dostupné i pro";
+			 var dostupneA = "a";
+            var isMobile = {
+			    Android: function() {
+			        return navigator.userAgent.match(/Android/i);
+			    },
+			    iOS: function() {
+			        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+			    },
+			    Windows: function() {
+			        return navigator.userAgent.match(/IEMobile\/9/i);
+			    },
+				Windows2: function() {
+			        return navigator.userAgent.match(/ZuneWP7/i);
+			    },
+				Windows8: function() {
+			        return navigator.userAgent.match(/Windows Phone 8/i);
+			    },
+				Windows8_desk: function() {
+			        return navigator.userAgent.match(/WPDesktop/i);
+			    },
+				None: function() {
+			        return (!isMobile.Android() && !isMobile.iOS() && (isMobile.Windows() || !isMobile.Windows2() ));
+			    }
+			};
+						
+			if( isMobile.Windows() || isMobile.Windows2() ){ //jedna se o WP7 -> vypnout font-face
+				$('head').append('<link rel="stylesheet" type="text/css" href="/css/style_wp.css">');
+			} 
+
+			$(".go_back").click(function(){
+			  window.history.back()
+			});
+			$('.btn_menu').click(function() {
+				$('.menu').slideToggle('fast');
+			});
+			
+			$('.menu_header').click(function() {
+				$('.menu_header').removeClass("active");
+				$('.submenu_box').hide();
+				$(this).toggleClass("active");
+				$(this).closest('li').find(".submenu_box").slideToggle('fast');
+			});
+			
+			$('.pobocky_header').click(function() {
+				$('.pobocky_header').removeClass("active");
+				$('.pobocky_submenu').hide();
+				$(this).toggleClass("active");
+				$(this).closest('li').find(".pobocky_submenu").slideToggle('fast');
+			});
+			
+			if($("#frminvesticeKalkForm-market").val() == 1){
+				$('.easy_click').show();
+			}
+			else{
+				$('.easy_click').hide();
+			}
+			
+			$('#frminvesticeKalkForm-market').change(function(){
+				//alert($(this).val());
+				if($(this).val() == 1){ // rms
+					$('.easy_click').show();
+				}
+				else{
+					$('.easy_click').hide();
+				}
+				if($(this).val() == 2){ //bcpp
+					$('.market_maker').show();
+				}
+				else{
+					$('.market_maker').hide();
+				}
+			});
+
+        });
+    </script>
+</head>
+
+<body> 
+
+    <!-- Google Tag Manager -->
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PNN5KJ"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+	new Date().getTime(),event:'gtm.js' });var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	 } )(window,document,'script','dataLayer','GTM-PNN5KJ');</script>
+	<!-- End Google Tag Manager -->
+<div class="green_border"></div>
+	<div class="container">
+		<div class="row" style="border-bottom: 1px solid rgb(204, 219, 233); padding-bottom: 10px;">
+			<div class="col-xs-6">
+				<div class="header_logo_box">
+					<a href="/cs/">
+						<img src="/img/logo_mweb.png" class="img-responsive img_logo" alt="Fio banka" />
+					</a>
+				</div>
+			</div>
+			<div class="col-xs-6">
+				<div class="header_button_box">
+					
+					<a class="header_button" href="/cs/kontakty">
+						<i class="icon-envelope icon_wp_obalka"></i>
+						<div>Kontakty</div>
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="menu">
+			<ul>
+				<li>
+					<div class="menu_header header_first">Účty zdarma <i class="icon-chevron-down pull-right icon_wp_chevronDown"></i></div>
+					<div class="submenu_box">
+						<ul>
+							<li><a href="/cs/osobni-ucet">Osobní účet <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/podnikatelsky-ucet">Podnikatelský účet <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/platebni-karty">Platební karty <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/internetbanking">Internetbanking <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/smartbanking">Smartbanking <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+						</ul>
+					</div>
+				</li>
+				<li>
+					<div class="menu_header">Investice <i class="icon-chevron-down pull-right icon_wp_chevronDown"></i></div>
+					<div class="submenu_box">
+						<ul>
+							<li><a href="/cs/jak-zacit-investovat">Jak začít investovat <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/seminare">Semináře <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/investicni-nastroje">Investiční nástroje <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/ebroker">e-Broker <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/smartbroker">Smartbroker <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/odber-zpravodajstvi">Odběr zpravodajství <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/zpravodajstvi">Zpravodajství <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+						</ul>
+					</div>
+				</li>
+				
+				<li>
+					<div class="menu_header">Úvěry <i class="icon-chevron-down pull-right icon_wp_chevronDown"></i></div>
+					<div class="submenu_box">
+						<ul>
+							<li><a href="/cs/fio-hypoteka">Hypotéky <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/kontokorent">Kontokorent <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+
+															<li><a href="/cs/kreditky">Kreditní karty <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+								<li><a href="/cs/podnikatelske-uvery">Podnikatelské úvěry <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+						</ul>
+					</div>
+				</li>
+				
+				<li>
+					<div class="menu_header">Spoření <i class="icon-chevron-down pull-right icon_wp_chevronDown"></i></div>
+					<div class="submenu_box">
+						<ul>
+							<li><a href="/cs/fio-konto">Fio konto <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/terminovany-vklad">Termínovaný vklad <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+							<li><a href="/cs/cizomenove-vkladove-ucty">Cizoměnové vkladové účty <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+						</ul>
+					</div>
+				</li>
+				<li><a style="color:#fff !important;" class="menu_header" href="/cs/pobocky-bankomaty">Pobočky a bankomaty <i class="icon-chevron-right pull-right icon_wp_chevronRight_white"></i></a></li>
+				<li><a style="color:#fff !important;" class="menu_header" href="/cs/vice-o-fio">O Fio <i class="icon-chevron-right pull-right icon_wp_chevronRight_white"></i></a></li>
+				<li><a style="color:#fff !important;" class="menu_header header_last" href="/cs/kontakty">Kontakty <i class="icon-chevron-right pull-right icon_wp_chevronRight_white"></i></a></li>
+			</ul>
+		</div>
+<div class="row aktualityHP">
+	<a href='/cs/aktuality?id=211662'>
+		<div class="col-xs-4 text-center">
+			<img class="img_aktualitaHP" src='/files/images/1200x630-Ostrava-jih-5.jpg' alt="" />
+		</div>
+		<div class="col-xs-8">
+			<div class="nadpis_aktualitaHP">Fio banka otevřela v Ostravě svou třetí…</div>
+			<div class="perex_aktualitaHP">Česká Fio banka otevřela třetí pobočku v Ostravě…</div>
+		</div>
+	</a>
+</div>
+<div class="menu hp_menu">
+	<ul>
+		<li><a class="menu_header hp_pobocky" href="/cs/pobocky-bankomaty"><i class="icon-map-marker icon-large icon_wp_marker" style="margin-right: 10px;"></i> Pobočky a bankomaty</a></li>
+		<li>
+			<div class="menu_header header_first">Účty zdarma <i class="icon-chevron-down pull-right icon_wp_chevronDown"></i></div>
+			<div class="submenu_box">
+				<ul>
+					<li><a href="/cs/osobni-ucet">Osobní účet <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/podnikatelsky-ucet">Podnikatelský účet <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/platebni-karty">Platební karty <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/internetbanking">Internetbanking <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/smartbanking">Smartbanking <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+				</ul>
+			</div>
+		</li>
+		<li>
+			<div class="menu_header">Investice <i class="icon-chevron-down pull-right icon_wp_chevronDown"></i></div>
+			<div class="submenu_box">
+				<ul>
+					<li><a href="/cs/jak-zacit-investovat">Jak začít investovat <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/seminare">Semináře <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/investicni-nastroje">Investiční nástroje <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/ebroker">e-Broker <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/smartbroker">Smartbroker <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/odber-zpravodajstvi">Odběr zpravodajství <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/zpravodajstvi">Zpravodajství <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+				</ul>
+			</div>
+		</li>
+		
+		<li>
+			<div class="menu_header">Úvěry <i class="icon-chevron-down pull-right icon_wp_chevronDown"></i></div>
+			<div class="submenu_box">
+				<ul>
+					<li><a href="/cs/fio-hypoteka">Hypotéky <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/kontokorent">Kontokorent <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+
+											<li><a href="/cs/kreditky">Kreditní karty <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+						<li><a href="/cs/podnikatelske-uvery">Podnikatelské úvěry <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+				</ul>
+			</div>
+		</li>
+		
+		<li>
+			<div class="menu_header header_last">Spoření <i class="icon-chevron-down pull-right icon_wp_chevronDown"></i></div>
+			<div class="submenu_box">
+				<ul>
+					<li><a href="/cs/fio-konto">Fio konto <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/terminovany-vklad">Termínovaný vklad <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+					<li><a href="/cs/cizomenove-vkladove-ucty">Cizoměnové vkladové účty <i class="icon-chevron-right pull-right icon_wp_chevronRight"></i></a></li>
+				</ul>
+			</div>
+		</li>		
+	</ul>
+</div>
+
+<div class="">
+	<p>Fio je česká banka zaměřená na investice do cenných papírů a poskytování běžných bankovních služeb bez poplatků!</p>
+</div>
+
+	</div>
+	<div class="green_border" style="margin-top:20px"></div>
+	<div class="grey_footer">
+		<div class="container">
+			<div class="row" style="text-align: center; font-weight: bold;">
+				<div class="col-xs-4">
+						
+						<a href="https://ib.fio.cz/">i-Banking</a>
+				</div>
+				<div class="col-xs-4">
+					<i class="icon-lock green icon-large icon_wp_lock"></i>
+				</div>
+				<div class="col-xs-4">
+					
+						
+						<a href="https://www.fio.cz/e-broker/e-broker.cgi">e-Broker</a>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	<div class="grey2_footer">
+		<div class="container">
+			<div class="row" style="text-align: center; border-bottom: 1px solid rgb(221, 221, 221); margin-bottom: 10px; padding-bottom: 10px;">
+				<div class="col-xs-4">
+					<a href="/cs/aktuality">Aktuality</a>			
+				</div>
+				<div class="col-xs-4">
+					<a href="/cs/vice-o-fio">Více o Fio</a>		
+				</div>
+				<div class="col-xs-4">
+					
+					<a href="http://www.fio.cz/docs/cz/cenik_bankovni_sluzby.pdf">
+						Ceník
+					</a>	
+				</div>
+			</div>
+			<div class="row" style="text-align: center;">
+				<div class="col-xs-4">
+						
+						<a href="/en/">English</a>
+				</div>
+				<div class="col-xs-4">
+					<a href="http://www.facebook.com/Fiobanka"><img src="/img/ikony/facebook.png" class="img-responsive img_footer" alt="Facebook - Fio banka" /></a>	
+					<a href="http://twitter.com/#!/FIO_banka"><img src="/img/ikony/twitter.png" class="img-responsive img_footer" alt="Twitter - Fio banka" /></a>	
+				</div>
+				<div class="col-xs-4">
+					<a href="/cs/tonormalpage?url=http%3A%2F%2Fwww.fio.cz%2F">Plná verze</a>			
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

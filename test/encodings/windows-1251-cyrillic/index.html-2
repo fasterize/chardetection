@@ -1,0 +1,1686 @@
+<!DOCTYPE html>
+<html
+    xmlns="http://www.w3.org/1999/xhtml"
+    lang="ru"
+    xml:lang="ru"
+    class="drom-notouch no-js no-main0"
+>
+<head>
+                    <title>Drom.ru - автомобильный портал</title>
+    
+                <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+
+        <meta name='copyright' content='drom.ru' />
+<meta http-equiv='Content-Type' content='text/html; charset=windows-1251' />
+<meta charset='windows-1251' />
+<meta name='candy.config' content='{"geor":0,"geoc":0,"id":31,"b":1,"bc":1,"charset":"utf-8","cf":[]}' />
+<meta name='yandex-verification' content='49be5a0dc3d21d24' />
+<meta name='description' content='Автомобили и запчасти: продажа новых и б/у авто, каталог, отзывы автовладельцев, форумы, ремонт и эксплуатация, приключения, аукционы, спортивные машины, тюнинг, объявления и цены' />
+<meta name='keywords' content='авто, автомобили, форумы, автофорум, продажа б/у, пробег, подержанные, продажа авто, продажа автомобилей, отзывы, автовладельцы, объявления, цены, продажа, toyota, nissan, mitsubishi, honda, mazda, suzuki, subaru, audi, bmw, ford, opel, kia, hyundai, каталог' />
+<meta property="og:image" content="https://i.drom.ru/misc/drom-omg.png" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" /><meta property="og:description" content="&#1040;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1080; &#1080; &#1079;&#1072;&#1087;&#1095;&#1072;&#1089;&#1090;&#1080;: &#1087;&#1088;&#1086;&#1076;&#1072;&#1078;&#1072; &#1085;&#1086;&#1074;&#1099;&#1093; &#1080; &#1073;/&#1091; &#1072;&#1074;&#1090;&#1086;, &#1082;&#1072;&#1090;&#1072;&#1083;&#1086;&#1075;, &#1086;&#1090;&#1079;&#1099;&#1074;&#1099; &#1072;&#1074;&#1090;&#1086;&#1074;&#1083;&#1072;&#1076;&#1077;&#1083;&#1100;&#1094;&#1077;&#1074;, &#1092;&#1086;&#1088;&#1091;&#1084;&#1099;, &#1088;&#1077;&#1084;&#1086;&#1085;&#1090; &#1080; &#1101;&#1082;&#1089;&#1087;&#1083;&#1091;&#1072;&#1090;&#1072;&#1094;&#1080;&#1103;, &#1087;&#1088;&#1080;&#1082;&#1083;&#1102;&#1095;&#1077;&#1085;&#1080;&#1103;, &#1072;&#1091;&#1082;&#1094;&#1080;&#1086;&#1085;&#1099;, &#1089;&#1087;&#1086;&#1088;&#1090;&#1080;&#1074;&#1085;&#1099;&#1077; &#1084;&#1072;&#1096;&#1080;&#1085;&#1099;, &#1090;&#1102;&#1085;&#1080;&#1085;&#1075;, &#1086;&#1073;&#1098;&#1103;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103; &#1080; &#1094;&#1077;&#1085;&#1099;" /><meta name="description" content="Автомобили и запчасти: продажа новых и б/у авто, каталог, отзывы автовладельцев, форумы, ремонт и эксплуатация, приключения, аукционы, спортивные машины, тюнинг, объявления и цены" /><meta property="og:title" content="Drom.ru - &#1072;&#1074;&#1090;&#1086;&#1084;&#1086;&#1073;&#1080;&#1083;&#1100;&#1085;&#1099;&#1081; &#1087;&#1086;&#1088;&#1090;&#1072;&#1083;" /><meta property="og:url" content="https://www.drom.ru/" /><meta property="og:type" content="website" /><meta property="og:site_name" content="Drom.ru" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:site" content="@dromru" /><meta name="twitter:creator" content="@dromru" />
+        <!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start':
+                        new Date().getTime(), event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-P93LSVV');</script>
+        <!-- End Google Tag Manager -->
+
+        <link href="https://c.rdrom.ru/css/bundles/index-6a757b6308.css" rel="stylesheet" type="text/css" />
+        
+        
+        
+        
+                <link rel="alternate" href="android-app://ru.farpost.dromfilter/drom-auto-app/auto.drom.ru"/>
+                    
+        <link rel="shortcut icon" href="https://c.rdrom.ru/favicon.ico" type="image/x-icon"/>
+
+        <link
+                rel="apple-touch-icon"
+                href="https://c.rdrom.ru/touch/images/mobile/icons/apple-touch-icon.png"
+        />
+
+        
+                <link href="https://plus.google.com/105679640830612261689" rel="publisher"/>
+    
+        
+                <script type="text/javascript" src="//c.rdrom.ru/js/jquery/jquery-1.12.4.min.js?1238616786"></script>
+            
+                
+        
+        <script type="text/javascript" src="https://i.rdrom.ru/js/firms_models.js?825dc292"></script>    <script type="text/javascript">
+        document.documentElement.className =
+        document.documentElement.className.replace('no-js', 'js');
+    </script>
+</head>
+<body
+        class="page page_section_common"
+>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P93LSVV"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- upper_invisible_block -->
+<div class="stats" data-async-counter>
+    <!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;drom?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+
+";"+Math.random();</script><!--/LiveInternet--> 
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
+
+  a.onerror = function(){
+    domReady(function() {
+      if (typeof getCookie === 'function'
+        && typeof setCookie === 'function'
+        && !getCookie('no_ga')
+      ) {
+        setCookie('no_ga', 1);
+      }
+    });
+  }
+
+  a.onload = function() {
+    if (!this.executed) { // выполнится только один раз
+      this.executed = true;
+
+      domReady(function() {
+        if (typeof getCookie === 'function'
+          && typeof setCookie === 'function'
+          && typeof ga == 'function'
+          && getCookie('no_ga')
+        ) {
+          setCookie('no_ga', '');
+        }
+      });
+    }
+  };
+
+  a.onreadystatechange = function() {
+    var self = this;
+    if (this.readyState == "complete" || this.readyState == "loaded") {
+      setTimeout(function() {
+        self.onload();
+      }, 0);
+    }
+  };
+
+  var domReady = function(callback) {
+    document.readyState === "interactive" || document.readyState === "complete"
+      ? callback()
+      : document.addEventListener("DOMContentLoaded", callback);
+  };
+
+  (m !== null) && m.parentNode.insertBefore(a, m);
+
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100332-3', 'auto', {});
+  ga('set', 'dimension1', 'desktop');
+  ga('send', 'pageview');
+
+  
+  
+</script> 
+<script type="text/javascript">new Image().src="https://www.drom.ru/dummy.gif?goal=dr_df"</script><script type="text/javascript">new Image().src="https://www.drom.ru/dummy.txt?viewType=desktop"</script></div>
+<!-- /upper_invisible_block -->
+<div data-zone-id="336" id="candy_topline" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>
+
+
+<div class="b-wrapper">
+
+<div class="b-header">
+    <div class="b-header-top"                 data-ga-stats-engine="ga|ya"
+        data-ga-stats-name-ya="main_view_index"
+        data-ga-stats-counter-ya="67763"
+        data-ga-stats-track-view
+        data-ga-stats-section="main"
+        data-ga-stats-name="index">
+                    <span class="b-header-top__logo"></span>
+        
+                    <div class="b-header-top__region">
+                <a
+                    class="b-link"
+                    data-ga-stats-track-click
+                    data-ga-stats-name="homeRegionChange"
+                    data-ga-stats-section="sales"
+                    href="https://www.drom.ru/my_region/"
+                >Выберите свой регион</a>
+            </div>
+        
+            </div>
+
+    
+            <ul class="b-menu b-main_menu"
+            data-ga-stats-track-view
+            data-ga-stats-section="main"
+            data-ga-stats-name="topmenu"
+        >
+            <li  class=" b-menu__item menu-item-1"><a class="b-menu__item-link" href="https://auto.drom.ru/" data-ga-stats-track-click data-ga-stats-name="topmenu_sales" data-ga-stats-section="main">Автомобили</a></li><li  class=" b-menu__item menu-item-2"><a class="b-menu__item-link" href="https://spec.drom.ru/" data-ga-stats-track-click data-ga-stats-name="topmenu_spec" data-ga-stats-section="main">Спецтехника</a></li><li  class=" b-menu__item menu-item-3"><a class="b-menu__item-link" href="https://baza.drom.ru" data-ga-stats-track-click data-ga-stats-name="topmenu_baza" data-ga-stats-section="main">Запчасти</a></li><li  class=" b-menu__item menu-item-4"><a class="b-menu__item-link" href="https://www.drom.ru/reviews/" data-ga-stats-track-click data-ga-stats-name="topmenu_reviews" data-ga-stats-section="main">Отзывы</a></li><li  class=" b-menu__item menu-item-5"><a class="b-menu__item-link" href="https://www.drom.ru/catalog/" data-ga-stats-track-click data-ga-stats-name="topmenu_catalog_new" data-ga-stats-section="main">Каталог</a></li><li  class=" b-menu__item menu-item-6"><a class="b-menu__item-link b-menu__item-link_arrow" href="#">Еще</a><ul class="b-menu b-menu_vertical" style="height: 0px;"><li class="b-menu__item"><a class="b-menu__item-link" href="https://forums.drom.ru/" data-ga-stats-track-click data-ga-stats-name="topmenu_forums" data-ga-stats-section="main">Форумы</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://www.drom.ru/pdd/" data-ga-stats-track-click data-ga-stats-name="topmenu_pdd" data-ga-stats-section="main">ПДД онлайн</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://www.drom.ru/faq/" data-ga-stats-track-click data-ga-stats-name="topmenu_faq" data-ga-stats-section="main">Вопросы и ответы</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://www.drom.ru/topcars/" data-ga-stats-track-click data-ga-stats-name="topmenu_topcars" data-ga-stats-section="main">Рейтинг авто</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://www.drom.ru/shina/" data-ga-stats-track-click data-ga-stats-name="topmenu_shina_catalog" data-ga-stats-section="main">Каталог шин</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://videoregistrator.drom.ru/" data-ga-stats-track-click data-ga-stats-name="topmenu_dvr_catalog" data-ga-stats-section="main">Видеорегистраторы</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://www.drom.ru/info/" data-ga-stats-track-click data-ga-stats-name="topmenu_info" data-ga-stats-section="main">Статьи</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://travel.drom.ru/" data-ga-stats-track-click data-ga-stats-name="topmenu_travel" data-ga-stats-section="main">Автопутешествия</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://www.drom.ru/info/autosport/" data-ga-stats-track-click data-ga-stats-name="topmenu_info/autosport" data-ga-stats-section="main">Автоспорт</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://law.drom.ru/" data-ga-stats-track-click data-ga-stats-name="topmenu_law" data-ga-stats-section="main">Правовые вопросы</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://www.drom.ru/sitemap/" data-ga-stats-track-click data-ga-stats-name="topmenu_sitemap" data-ga-stats-section="main">Карта сайта</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://www.drom.ru/commerce/" data-ga-stats-track-click data-ga-stats-name="topmenu_commerce" data-ga-stats-section="main">Реклама на drom.ru</a></li><li class="b-menu__item"><a class="b-menu__item-link" href="https://my.drom.ru/help/VozniklaProblemanaDrome" data-ga-stats-track-click data-ga-stats-name="topmenu_help" data-ga-stats-section="main">Помощь</a></li></ul></li>        </ul>
+    
+    </div>
+
+<div class="b-content b-media-cont b-media-cont_margin_huge" data-print="true">
+
+
+<!-- CONTENT BLOCK -->
+<div
+        class="b-left-side"
+        >
+
+<div data-print="advert"><center></center>
+<h2 class="b-title b-title_type_h2"><a class="b-link b-link_theme_dark" href="https://auto.drom.ru/">Продажа авто (540&nbsp;678&nbsp;объявлений)</a></h2><div class="b-media-cont bm-scroll"><div class="b-links b-links_width-full"><a class="b-links__item b-link" data-popup="select-region" href="https://auto.drom.ru/cities/">Другой город...</a></div></div><div class='b-media-cont'>
+                <div class='b-flex b-flex_mobile-off b-random-group b-random-group_margin_l-size-s'>
+                <div class='b-flex__item'>
+                <div class='b-triggers b-triggers_theme_main-page-buttons'>
+                    <a href='https://new.drom.ru/'
+                       data-ga-stats-track-click
+                       data-ga-stats-name='newAuto'
+                       data-ga-stats-section='main'
+                       class='trackable b-triggers__item b-link'>
+                            Новые авто: цены, дилеры, скидки
+                    </a>
+
+                    <a
+                        href='https://auto.drom.ru/markets/'
+                        class='trackable b-triggers__item b-link'
+                        data-ga-stats-track-click
+                        data-ga-stats-name='markets'
+                        data-ga-stats-section='main'
+                    >
+                        Машины на авторынках
+                    </a>
+                </div>
+                </div><div class='b-flex__item'><div class="b-media-cont b-media-cont_theme_car-model-form fast-model-selector b-media-cont_preloader"
+data-fast-model-selector='{"regionId":0,"urlPattern":"https:\/\/auto.drom.ru\/{firmUrl}\/{modelUrl}\/","selectedFirm":0,"selectedModel":0,"modelsFilter":{"empty":true}}'
+>
+    <div class="b-select b-select_theme_car-model">
+        <div class="b-select__label">Быстрый выбор модели:&nbsp;</div>
+        <select class="firm-selector b-select__select" data-firm-selector>
+            <option value="0"></option><option data-url="toyota" style="font-weight: bold;" value="9">Toyota</option><option data-url="lada" style="font-weight: bold;" value="99">Лада</option><option data-url="nissan" style="font-weight: bold;" value="6">Nissan</option><option data-url="honda" style="font-weight: bold;" value="2">Honda</option><option data-url="hyundai" style="font-weight: bold;" value="56">Hyundai</option><optgroup style="font-weight: bold;" label="---------------"></optgroup><option data-url="acura" value="21">Acura</option><option data-url="daihatsu" value="1">Daihatsu</option><option data-url="honda" value="2">Honda</option><option data-url="infiniti" value="20">Infiniti</option><option data-url="isuzu" value="3">Isuzu</option><option data-url="lexus" value="23">Lexus</option><option data-url="mazda" value="4">Mazda</option><option data-url="mitsubishi" value="5">Mitsubishi</option><option data-url="mitsuoka" value="22">Mitsuoka</option><option data-url="nissan" value="6">Nissan</option><option data-url="subaru" value="7">Subaru</option><option data-url="suzuki" value="8">Suzuki</option><option data-url="toyota" value="9">Toyota</option><option data-url="alfa_romeo" value="27">Alfa Romeo</option><option data-url="alpina" value="28">Alpina</option><option data-url="asia" value="29">Asia</option><option data-url="aston_martin" value="30">Aston Martin</option><option data-url="audi" value="31">Audi</option><option data-url="bentley" value="32">Bentley</option><option data-url="bmw" value="33">BMW</option><option data-url="brilliance" value="98">Brilliance</option><option data-url="bugatti" value="34">Bugatti</option><option data-url="buick" value="35">Buick</option><option data-url="byd" value="36">BYD</option><option data-url="cadillac" value="37">Cadillac</option><option data-url="changan" value="119">Changan</option><option data-url="chery" value="38">Chery</option><option data-url="chevrolet" value="39">Chevrolet</option><option data-url="chrysler" value="40">Chrysler</option><option data-url="citroen" value="41">Citroen</option><option data-url="dacia" value="110">Dacia</option><option data-url="daewoo" value="42">Daewoo</option><option data-url="daimler" value="43">Daimler</option><option data-url="datsun" value="116">Datsun</option><option data-url="delorean" value="134">DeLorean</option><option data-url="derways" value="94">Derways</option><option data-url="dodge" value="44">Dodge</option><option data-url="dongfeng" value="125">Dongfeng</option><option data-url="dw_hower" value="138">DW Hower</option><option data-url="eagle" value="45">Eagle</option><option data-url="faw" value="46">FAW</option><option data-url="ferrari" value="47">Ferrari</option><option data-url="fiat" value="48">Fiat</option><option data-url="fisker" value="123">Fisker</option><option data-url="ford" value="49">Ford</option><option data-url="foton" value="137">Foton</option><option data-url="gac" value="140">GAC</option><option data-url="geely" value="52">Geely</option><option data-url="genesis" value="135">Genesis</option><option data-url="geo" value="51">Geo</option><option data-url="gmc" value="53">GMC</option><option data-url="great_wall" value="54">Great Wall</option><option data-url="hafei" value="109">Hafei</option><option data-url="haima" value="106">Haima</option><option data-url="haval" value="126">Haval</option><option data-url="hawtai" value="132">Hawtai</option><option data-url="hummer" value="55">Hummer</option><option data-url="hyundai" value="56">Hyundai</option><option data-url="iran_khodro" value="108">Iran Khodro</option><option data-url="jac" value="121">JAC</option><option data-url="jaguar" value="57">Jaguar</option><option data-url="jeep" value="58">Jeep</option><option data-url="kia" value="59">Kia</option><option data-url="koenigsegg" value="117">Koenigsegg</option><option data-url="lamborghini" value="60">Lamborghini</option><option data-url="lancia" value="61">Lancia</option><option data-url="land_rover" value="62">Land Rover</option><option data-url="lifan" value="96">Lifan</option><option data-url="lincoln" value="63">Lincoln</option><option data-url="lotus" value="64">Lotus</option><option data-url="luxgen" value="113">Luxgen</option><option data-url="maserati" value="65">Maserati</option><option data-url="maybach" value="66">Maybach</option><option data-url="mclaren" value="120">McLaren</option><option data-url="mercedes-benz" value="67">Mercedes-Benz</option><option data-url="mercury" value="68">Mercury</option><option data-url="mini" value="69">Mini</option><option data-url="oldsmobile" value="70">Oldsmobile</option><option data-url="opel" value="71">Opel</option><option data-url="pagani" value="118">Pagani</option><option data-url="peugeot" value="72">Peugeot</option><option data-url="plymouth" value="73">Plymouth</option><option data-url="pontiac" value="74">Pontiac</option><option data-url="porsche" value="75">Porsche</option><option data-url="proton" value="76">Proton</option><option data-url="ravon" value="133">Ravon</option><option data-url="renault" value="77">Renault</option><option data-url="renault_samsung" value="92">Renault Samsung</option><option data-url="rolls-royce" value="78">Rolls-Royce</option><option data-url="rover" value="79">Rover</option><option data-url="saab" value="80">Saab</option><option data-url="saturn" value="81">Saturn</option><option data-url="scion" value="82">Scion</option><option data-url="seat" value="83">SEAT</option><option data-url="skoda" value="84">Skoda</option><option data-url="smart" value="85">Smart</option><option data-url="ssang_yong" value="86">SsangYong</option><option data-url="tesla" value="115">Tesla</option><option data-url="tianye" value="87">Tianye</option><option data-url="volkswagen" value="89">Volkswagen</option><option data-url="volvo" value="90">Volvo</option><option data-url="vortex" value="107">Vortex</option><option data-url="wiesmann" value="122">Wiesmann</option><option data-url="xin_kai" value="91">Xin Kai</option><option data-url="zotye" value="136">Zotye</option><option data-url="zx" value="124">ZX</option><option data-url="other" value="111">Прочие авто</option><option data-url="marussia" value="112">Marussia</option><option data-url="aurus" value="139">Аурус</option><option data-url="gaz" value="100">ГАЗ</option><option data-url="zaz" value="104">ЗАЗ</option><option data-url="izh" value="105">ИЖ</option><option data-url="lada" value="99">Лада</option><option data-url="luaz" value="114">ЛуАЗ</option><option data-url="moskvitch" value="102">Москвич</option><option data-url="tagaz" value="103">ТагАЗ</option><option data-url="uaz" value="101">УАЗ</option>        </select><select disabled data-model-selector class="model-selector b-select__select" title="Сначала выберите фирму">
+        </select>
+    </div>
+</div>
+</div></div></div>
+<div data-zone-id="335" id="candy_center_middle" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div><!--DEALERS_ADS-->
+<!--TIREBOSS_TABLE-->
+
+<div class="b-media-cont b-media-cont_reviews b-media-cont_margin_huge">
+    <h2 class="b-title b-title_type_h2">
+        <a class="b-link b-link_theme_dark" href="https://www.drom.ru/reviews/">
+            Отзывы владельцев авто
+        </a>
+    </h2>
+    <div class="bm-scroll bm-scroll_modify">
+                    <a class="b-info-block b-info-block_theme_reviews b-info-block_link bm-scroll__item  b-info-block_first " href="https://www.drom.ru/reviews/toyota/allion/975790/">
+            <div class="b-info-block__image">
+                <div class="b-image b-image_type_centred-image">
+                                    <img
+                        class="b-image__image b-image_type_fit b-image_fit-cover"
+                        src="https://s.auto.drom.ru/i24226/r/photos/975790/gen177_1389227.jpg"
+                        srcset="https://s.auto.drom.ru/i24226/r/photos/975790/gen177_1389227.jpg 1x, https://s.auto.drom.ru/i24226/r/photos/975790/gen177x2_1389227.jpg 2x, https://s.auto.drom.ru/i24226/r/photos/975790/gen177x3_1389227.jpg 3x"
+                        alt="Toyota Allion 2002"
+                         div-original-photo-size="1280x960"                                             />
+                </div>
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">12 октября</div>
+                                    <div class="b-info-block__counter">3</div>
+                                <br />
+                <div class="b-info-block__title b-link">Toyota Allion 2002</div>
+            </div>
+        </a>
+                    <a class="b-info-block b-info-block_theme_reviews b-info-block_link bm-scroll__item  " href="https://www.drom.ru/reviews/kia/mohave/975912/">
+            <div class="b-info-block__image">
+                <div class="b-image b-image_type_centred-image">
+                                    <img
+                        class="b-image__image b-image_type_fit b-image_fit-cover"
+                        src="https://s.auto.drom.ru/i24226/r/photos/975912/gen177_1389229.jpg"
+                        srcset="https://s.auto.drom.ru/i24226/r/photos/975912/gen177_1389229.jpg 1x, https://s.auto.drom.ru/i24226/r/photos/975912/gen177x2_1389229.jpg 2x, https://s.auto.drom.ru/i24226/r/photos/975912/gen177x3_1389229.jpg 3x"
+                        alt="Kia Mohave 2014"
+                         div-original-photo-size="1280x851"                                             />
+                </div>
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">12 октября</div>
+                                    <div class="b-info-block__counter">28</div>
+                                <br />
+                <div class="b-info-block__title b-link">Kia Mohave 2014</div>
+            </div>
+        </a>
+                    <a class="b-info-block b-info-block_theme_reviews b-info-block_link bm-scroll__item  " href="https://www.drom.ru/reviews/gaz/21_volga/975650/">
+            <div class="b-info-block__image">
+                <div class="b-image b-image_type_centred-image">
+                                    <img
+                        class="b-image__image b-image_type_fit b-image_fit-cover"
+                        src="https://s.auto.drom.ru/i24226/r/photos/975650/gen177_1389168.jpg"
+                        srcset="https://s.auto.drom.ru/i24226/r/photos/975650/gen177_1389168.jpg 1x, https://s.auto.drom.ru/i24226/r/photos/975650/gen177x2_1389168.jpg 2x, https://s.auto.drom.ru/i24226/r/photos/975650/gen177x3_1389168.jpg 3x"
+                        alt="ГАЗ 21 Волга"
+                         div-original-photo-size="1280x960"                                             />
+                </div>
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">12 октября</div>
+                                    <div class="b-info-block__counter">3</div>
+                                <br />
+                <div class="b-info-block__title b-link">ГАЗ 21 Волга</div>
+            </div>
+        </a>
+                    <a class="b-info-block b-info-block_theme_reviews b-info-block_link bm-scroll__item  " href="https://www.drom.ru/reviews/toyota/land_cruiser_prado/975516/">
+            <div class="b-info-block__image">
+                <div class="b-image b-image_type_centred-image">
+                                    <img
+                        class="b-image__image b-image_type_fit b-image_fit-cover"
+                        src="https://s.auto.drom.ru/i24226/r/photos/975516/gen177_1389149.jpg"
+                        srcset="https://s.auto.drom.ru/i24226/r/photos/975516/gen177_1389149.jpg 1x, https://s.auto.drom.ru/i24226/r/photos/975516/gen177x2_1389149.jpg 2x, https://s.auto.drom.ru/i24226/r/photos/975516/gen177x3_1389149.jpg 3x"
+                        alt="Land Cruiser Prado 2015"
+                         div-original-photo-size="1280x766"                                             />
+                </div>
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">12 октября</div>
+                                    <div class="b-info-block__counter">11</div>
+                                <br />
+                <div class="b-info-block__title b-link">Land Cruiser Prado 2015</div>
+            </div>
+        </a>
+                    <a class="b-info-block b-info-block_theme_reviews b-info-block_link bm-scroll__item  b-info-block_last" href="https://www.drom.ru/reviews/toyota/rav4/975446/">
+            <div class="b-info-block__image">
+                <div class="b-image b-image_type_centred-image">
+                                    <img
+                        class="b-image__image b-image_type_fit b-image_fit-cover"
+                        src="https://s.auto.drom.ru/i24226/r/photos/975446/gen177_1389123.jpg"
+                        srcset="https://s.auto.drom.ru/i24226/r/photos/975446/gen177_1389123.jpg 1x, https://s.auto.drom.ru/i24226/r/photos/975446/gen177x2_1389123.jpg 2x, https://s.auto.drom.ru/i24226/r/photos/975446/gen177x3_1389123.jpg 3x"
+                        alt="Toyota RAV4 2018"
+                         div-original-photo-size="1280x1707"                                             />
+                </div>
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">11 октября</div>
+                                    <div class="b-info-block__counter">16</div>
+                                <br />
+                <div class="b-info-block__title b-link">Toyota RAV4 2018</div>
+            </div>
+        </a>
+            </div>
+</div>
+
+<!--ADV_BLOCK_LEFT-->
+<!--INSERT_TEST_BLOCK-->
+<!-- <div class="b-media-cont b-media-cont_margin_huge"> -->
+<!--BLOCK_LEFT-->
+<!-- </div> -->
+<!--SET_BLOGS_ABOVE_REVIEWS-->
+<div class="b-media-cont b-media-cont_no-margin">
+    <div class="b-media-cont b-media-cont_theme_main-news">
+        <div class="b-media-cont b-media-cont_banners-wrapper b-media-cont_no-margin">
+            <a class="b-media-cont b-media-cont_type_banner-text-mega b-info-block b-info-block_link b-info-block_theme_inner b-info-block_tgb-fix js-no-process" href="" style="display: none; outline-style: none;" target="_blank"><div data-zone-id="1206" id="candy_1206" data-handler="mega" data-type="tgb" data-mega="true" class="tireBoss" style="display: none;"></div><div class="b-info-block__image">
+                    <img style="width: 100%;" class="b-image b-image_responsive" alt="" src="">
+                </div><div class="b-info-block__info"><div class="b-info-block__header"><b></b></div><div class="b-info-block__title"></div><div class="b-info-block__text">На правах рекламы</div></div></a>                        <div data-zone-id="949" id="candy_949" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div><a class="b-media-cont b-media-cont_type_banner-text js-no-process" href="" style="display: none; outline-style: none;"><div data-zone-id="426" id="candy_426" data-handler="tgb" data-type="tgb" class="tireBoss" style="display: none;"></div><img class="b-media-cont__banner-image" src=""><div class="b-media-cont__banner-title"><span class="b-link"></span></div><div class="b-media-cont__banner-sticker">на правах рекламы</div></a><div data-zone-id="543" id="candy_543" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner b-media-cont_type_banner-floated tireBoss" style="display: none;"></div></div>
+        <!--BEFORE_ARTICLES-->
+                                
+<h3 class="b-title b-title_type_h3">
+    <a
+        class="b-link b-link_theme_dark"
+        href="https://www.drom.ru/info/"
+            >Тест-драйвы и статьи об авто</a>
+</h3>
+
+    <a class="b-info-block b-info-block_link b-info-block_theme_inner" href="https://www.drom.ru/info/test-drive/lada-vesta-sport-64226.html">
+        <div class="b-info-block__image">
+                        <img
+                class="b-image b-image_responsive"
+                alt=""
+                src="https://s.auto.drom.ru/i24226/pubs/4483/64226/gen473_2904946.jpg"
+                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64226/gen473x2_2904946.jpg 2x"
+                            />
+        </div>
+        <div class="b-info-block__info">
+            <div class="b-info-block__text">12 октября</div><div class="b-info-block__counter">69</div><br /><div class="b-info-block__title">Тест-драйв Лада Веста Спорт. Она едет? Рок-н-рол или попса?</div>        </div>
+    </a>
+
+<div class="b-media-cont b-media-cont_no-margin">
+        <div class="b-media-cont__main-page-news-col">
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="//www.drom.ru/renault/kaptur/#blog"
+                            >
+                <div class="b-info-block__image">
+                                                                    <span
+                            class="b-sticker b-sticker_theme_news-small b-sticker_positioned_left-top-corner"
+                            style="color: #000000; background: #ffbb18;"
+                        >Блог Рено Каптур</span>
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/42073/64267/gen226_2905774.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/42073/64267/gen226x2_2905774.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">11 октября</div>
+                                        <div class="b-info-block__counter">146</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Как работает каско: 4 месяца от ДТП до начала ремонта (+ мега-трип по руинам Абхазии)</div>
+                </div>
+            </a>
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="https://www.drom.ru/info/misc/63319.html"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24225/pubs/4483/63319/gen226_2886128.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24225/pubs/4483/63319/gen226x2_2886128.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">9 октября</div>
+                                        <div class="b-info-block__counter">410</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Как сэкономить не в ущерб ресурсу автомобиля?</div>
+                </div>
+            </a>
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="https://www.drom.ru/info/misc/63878.html"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24225/pubs/4483/63878/gen226_2897813.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24225/pubs/4483/63878/gen226x2_2897813.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">5 октября</div>
+                                        <div class="b-info-block__counter">379</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Как стать дальнобойщиком</div>
+                </div>
+            </a>
+            </div>
+        <div class="b-media-cont__main-page-news-col b-media-cont__main-page-news-col_right-col">
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="https://www.drom.ru/info/misc/63840.html"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24225/pubs/4483/63840/gen226_2897253.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24225/pubs/4483/63840/gen226x2_2897253.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">10 октября</div>
+                                        <div class="b-info-block__counter">183</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">«Незамерзайка»: плохая и хорошая. Откуда берется, как делают, какую покупать?</div>
+                </div>
+            </a>
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="https://www.drom.ru/info/test-drive/kia-cerato-64017.html"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/4483/64017/gen226_2899606.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64017/gen226x2_2899606.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">8 октября</div>
+                                        <div class="b-info-block__counter">232</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Тест-драйв нового KIA Cerato: шик, блеск, парадоксы</div>
+                </div>
+            </a>
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="//www.drom.ru/kia/rio_x-line/#blog"
+                            >
+                <div class="b-info-block__image">
+                                                                    <span
+                            class="b-sticker b-sticker_theme_news-small b-sticker_positioned_left-top-corner"
+                            style="color: #000000; background: #ffbb18;"
+                        >Блог Рио Х-Лайн</span>
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/57138/64020/gen226_2899647.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/57138/64020/gen226x2_2899647.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">4 октября</div>
+                                        <div class="b-info-block__counter">115</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Рио как рабочее авто для журналиста: инспекция аварийных мостов, подтасовки на выборах и пр.</div>
+                </div>
+            </a>
+            </div>
+</div>
+
+<div class="b-media-cont b-media-cont_margin_huge" style="text-align:center;">
+    <a
+        href="https://www.drom.ru/info/"
+        class="b-link b-link_type_complex b-link_theme_dark"
+                data-ga-stats-name="read_more_articles_link"
+        data-ga-stats-track-click
+        data-ga-stats-track-view
+        data-ga-stats-name-prefix="%is_mobile%"
+            >
+        <span class="b-link__text">Читай еще больше статей</span>
+        <svg style="display:inline-block;vertical-align:middle;" xmlns="http://www.w3.org/2000/svg" width="11" height="9" viewBox="0 0 11 9"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M10.297 4.502H.5M6.5 8.516l4.031-3.973L6.477.469"/></g></svg>
+    </a>
+</div>
+        <div data-zone-id="515" id="candy_after_articles" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner b-media-cont_clear b-media-cont_margin_huge" style="display: none;"></div>        <!--AFTER_ARTICLES_BLOGS-->
+        <!--AFTER_FIRST_PAGE_BLOGS-->
+        <div data-zone-id="423" id="candy_423" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>        <!--ADV_BLOCK_RIGHT-->
+        
+<h3 class="b-title b-title_type_h3">
+    <a
+        class="b-link b-link_theme_dark"
+        href="https://travel.drom.ru/"
+            >Автопутешествия</a>
+</h3>
+
+    <a class="b-info-block b-info-block_link b-info-block_theme_inner" href="//travel.drom.ru/64152/">
+        <div class="b-info-block__image">
+                        <img
+                class="b-image b-image_responsive"
+                alt=""
+                src="https://s.auto.drom.ru/i24226/pubs/4483/64152/gen473_2903250.jpg"
+                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64152/gen473x2_2903250.jpg 2x"
+                            />
+        </div>
+        <div class="b-info-block__info">
+            <div class="b-info-block__text">12 октября</div><div class="b-info-block__counter">14</div><br /><div class="b-info-block__title">Путешествие к Шавлинским озерам. Алтай</div>        </div>
+    </a>
+
+<div class="b-media-cont b-media-cont_no-margin">
+        <div class="b-media-cont__main-page-news-col">
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="//travel.drom.ru/64151/"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/4483/64151/gen226_2905789.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64151/gen226x2_2905789.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">11 октября</div>
+                                        <div class="b-info-block__counter">33</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Чехо-Словакия в год столетия Республики: собственный взгляд с высоты</div>
+                </div>
+            </a>
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="//travel.drom.ru/64106/"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/4483/64106/gen226_2904512.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64106/gen226x2_2904512.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">9 октября</div>
+                                        <div class="b-info-block__counter">73</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Монголия-2018. На мечте и за мечтой. Часть 1: из Москвы через Алтай в Улан-Батор</div>
+                </div>
+            </a>
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="//travel.drom.ru/64005/"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/4483/64005/gen226_2899293.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64005/gen226x2_2899293.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">5 октября</div>
+                                        <div class="b-info-block__counter">48</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Летняя поездка по Балканскому полуострову</div>
+                </div>
+            </a>
+            </div>
+        <div class="b-media-cont__main-page-news-col b-media-cont__main-page-news-col_right-col">
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="//travel.drom.ru/64111/"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/4483/64111/gen226_2904615.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64111/gen226x2_2904615.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">10 октября</div>
+                                        <div class="b-info-block__counter">25</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Путешествие кота Аватара. Минеральные Воды — Симферополь</div>
+                </div>
+            </a>
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="//travel.drom.ru/64054/"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/4483/64054/gen226_2900279.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64054/gen226x2_2900279.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">8 октября</div>
+                                        <div class="b-info-block__counter">33</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Домбай — Затерянный мир</div>
+                </div>
+            </a>
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="//travel.drom.ru/63974/"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24225/pubs/4483/63974/gen226_2898826.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24225/pubs/4483/63974/gen226x2_2898826.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">4 октября</div>
+                                        <div class="b-info-block__counter">103</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Как мы снимали ролик «Дикая кухня по-русски», или Путешествие на подножном корму и даровой энергии солнца </div>
+                </div>
+            </a>
+            </div>
+</div>
+
+<div class="b-media-cont b-media-cont_margin_huge" style="text-align:center;">
+    <a
+        href="https://travel.drom.ru/page2.html"
+        class="b-link b-link_type_complex b-link_theme_dark"
+                data-ga-stats-name="read_more_travels_link"
+        data-ga-stats-track-click
+        data-ga-stats-track-view
+        data-ga-stats-name-prefix="%is_mobile%"
+            >
+        <span class="b-link__text">Читай еще больше путешествий</span>
+        <svg style="display:inline-block;vertical-align:middle;" xmlns="http://www.w3.org/2000/svg" width="11" height="9" viewBox="0 0 11 9"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M10.297 4.502H.5M6.5 8.516l4.031-3.973L6.477.469"/></g></svg>
+    </a>
+</div>
+
+<h3 class="b-title b-title_type_h3">
+    <a
+        class="b-link b-link_theme_dark"
+        href="https://www.drom.ru/info/autosport/"
+            >Автоспорт</a>
+</h3>
+
+
+<div class="b-media-cont b-media-cont_no-margin">
+        <div class="b-media-cont__main-page-news-col">
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="https://www.drom.ru/info/autosport/64211.html"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/4483/64211/gen226_2904582.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64211/gen226x2_2904582.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">9 октября</div>
+                                        <div class="b-info-block__counter">7</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Кольцевой сезон-2018 завершен</div>
+                </div>
+            </a>
+            </div>
+        <div class="b-media-cont__main-page-news-col b-media-cont__main-page-news-col_right-col">
+                                <a
+                class="b-info-block b-info-block_link b-info-block_theme_vertical-main"
+                href="https://www.drom.ru/info/autosport/ferrari-64175.html"
+                            >
+                <div class="b-info-block__image">
+                                                            <img
+                        class="b-image b-image_responsive"
+                        alt=""
+                        src="https://s.auto.drom.ru/i24226/pubs/4483/64175/gen226_2903762.jpg"
+                                                    srcset="https://s.auto.drom.ru/i24226/pubs/4483/64175/gen226x2_2903762.jpg 2x"
+                                            />
+                </div>
+                <div class="b-info-block__info">
+                    <div class="b-info-block__text">8 октября</div>
+                                        <div class="b-info-block__counter">35</div>
+                                        <br />
+                    <div class="b-info-block__title b-link">Формула 1, гран-при Японии: Ferrari пора что-то менять или уже поздно?</div>
+                </div>
+            </a>
+            </div>
+</div>
+
+    </div>
+    <div class="b-media-cont b-media-cont_theme_main-news">
+        <a class="b-media-cont b-media-cont_type_banner-text-mega b-info-block b-info-block_link b-info-block_theme_inner b-info-block_tgb-fix js-no-process" href="" style="display: none; outline-style: none;" target="_blank"><div data-zone-id="1205" id="candy_1205" data-handler="mega" data-type="tgb" data-mega="true" class="tireBoss" style="display: none;"></div><div class="b-info-block__image">
+                    <img style="width: 100%;" class="b-image b-image_responsive" alt="" src="">
+                </div><div class="b-info-block__info"><div class="b-info-block__header"><b></b></div><div class="b-info-block__title"></div><div class="b-info-block__text">На правах рекламы</div></div></a>                <div class="b-media-cont b-media-cont_banners-wrapper b-media-cont_no-margin"><div data-zone-id="950" id="candy_950" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div><a class="b-media-cont b-media-cont_type_banner-text js-no-process" href="" style="display: none; outline-style: none;"><div data-zone-id="427" id="candy_427" data-handler="tgb" data-type="tgb" class="tireBoss" style="display: none;"></div><img class="b-media-cont__banner-image" src=""><div class="b-media-cont__banner-title"><span class="b-link"></span></div><div class="b-media-cont__banner-sticker">на правах рекламы</div></a><div data-zone-id="544" id="candy_544" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner b-media-cont_type_banner-floated tireBoss" style="display: none;"></div></div>
+                                <h3 class="b-title b-title_type_h3"><a class="b-link b-link_theme_dark" href="https://news.drom.ru/">Автоновости</a></h3>
+
+<div class="b-media-cont">
+    <a
+        class="b-info-block b-info-block_link b-info-block_theme_inner"
+        href="https://news.drom.ru/64285.html"
+    >
+        <div class="b-info-block__image">
+            <img
+                class="b-image b-image_responsive"
+                src="https://s.auto.drom.ru/i24226/pubs/4/64285/gen473_2906108.jpg"
+                srcset='https://s.auto.drom.ru/i24226/pubs/4/64285/gen473x2_2906108.jpg 2x'                alt="Июнь 2019"
+            />
+        </div>
+        <div class="b-info-block__info">
+            <div class="b-info-block__text">11 октября</div>
+                            <div class="b-info-block__counter">
+                    219                </div>
+                        <br />
+            <div class="b-info-block__title ">
+                Вышел календарь «Мисс тюнинг-2019». Голосуем!            </div>
+        </div>
+    </a>
+
+            <a
+            class="b-info-block b-info-block_link b-info-block_theme_horizontal"
+            href="https://news.drom.ru/64298.html"
+        >
+            <div class="b-info-block__image">
+                <img
+                    class="b-image b-image_responsive"
+                    src="https://s.auto.drom.ru/i24226/pubs/4/64298/gen226_2906300.jpg"
+                    srcset="https://s.auto.drom.ru/i24226/pubs/4/64298/gen226_2906300.jpg 1x, https://s.auto.drom.ru/i24226/pubs/4/64298/gen226x2_2906300.jpg 2x"
+                    alt=""
+                />
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">12 октября</div>
+                                    <div class="b-info-block__counter">52</div>
+                                <br />
+                <div class="b-info-block__title b-link">Пятничная подборка интересных видеороликов: тяжелый грузовик против деревянного моста</div>
+            </div>
+        </a>
+            <a
+            class="b-info-block b-info-block_link b-info-block_theme_horizontal"
+            href="https://news.drom.ru/Mazda-CX-5-64293.html"
+        >
+            <div class="b-info-block__image">
+                <img
+                    class="b-image b-image_responsive"
+                    src="https://s.auto.drom.ru/i24226/pubs/4/64293/gen226_2906274.jpg"
+                    srcset="https://s.auto.drom.ru/i24226/pubs/4/64293/gen226_2906274.jpg 1x, https://s.auto.drom.ru/i24226/pubs/4/64293/gen226x2_2906274.jpg 2x"
+                    alt=""
+                />
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">11 октября</div>
+                                    <div class="b-info-block__counter">166</div>
+                                <br />
+                <div class="b-info-block__title b-link">Mazda CX-5 обновилась и обзавелась новым турбомотором</div>
+            </div>
+        </a>
+            <a
+            class="b-info-block b-info-block_link b-info-block_theme_horizontal"
+            href="https://news.drom.ru/64290.html"
+        >
+            <div class="b-info-block__image">
+                <img
+                    class="b-image b-image_responsive"
+                    src="https://s.auto.drom.ru/i24226/pubs/4/64290/gen226_2906187.jpg"
+                    srcset="https://s.auto.drom.ru/i24226/pubs/4/64290/gen226_2906187.jpg 1x, https://s.auto.drom.ru/i24226/pubs/4/64290/gen226x2_2906187.jpg 2x"
+                    alt=""
+                />
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">11 октября</div>
+                                    <div class="b-info-block__counter">36</div>
+                                <br />
+                <div class="b-info-block__title b-link">Новый легкий фургон МАЗ засняли на видео</div>
+            </div>
+        </a>
+            <a
+            class="b-info-block b-info-block_link b-info-block_theme_horizontal"
+            href="https://news.drom.ru/Mitsuoka-Rock-Star-Mazda-MX-5-Chevrolet-Corvette-64291.html"
+        >
+            <div class="b-info-block__image">
+                <img
+                    class="b-image b-image_responsive"
+                    src="https://s.auto.drom.ru/i24226/pubs/4/64291/gen226_2906184.jpg"
+                    srcset="https://s.auto.drom.ru/i24226/pubs/4/64291/gen226_2906184.jpg 1x, https://s.auto.drom.ru/i24226/pubs/4/64291/gen226x2_2906184.jpg 2x"
+                    alt=""
+                />
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">11 октября</div>
+                                    <div class="b-info-block__counter">63</div>
+                                <br />
+                <div class="b-info-block__title b-link">Mitsuoka Rock Star: взять чуть-чуть Mazda MX-5 и добавить много Chevrolet Corvette</div>
+            </div>
+        </a>
+            <a
+            class="b-info-block b-info-block_link b-info-block_theme_horizontal"
+            href="https://news.drom.ru/Great-Wall-64288.html"
+        >
+            <div class="b-info-block__image">
+                <img
+                    class="b-image b-image_responsive"
+                    src="https://s.auto.drom.ru/i24226/pubs/4/64288/gen226_2906146.jpg"
+                    srcset="https://s.auto.drom.ru/i24226/pubs/4/64288/gen226_2906146.jpg 1x, https://s.auto.drom.ru/i24226/pubs/4/64288/gen226x2_2906146.jpg 2x"
+                    alt=""
+                />
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">11 октября</div>
+                                    <div class="b-info-block__counter">140</div>
+                                <br />
+                <div class="b-info-block__title b-link">Российский завод Great Wall готовится выпустить первый автомобиль в декабре 2018 года</div>
+            </div>
+        </a>
+            <a
+            class="b-info-block b-info-block_link b-info-block_theme_horizontal"
+            href="https://news.drom.ru/Logan-64287.html"
+        >
+            <div class="b-info-block__image">
+                <img
+                    class="b-image b-image_responsive"
+                    src="https://s.auto.drom.ru/i24226/pubs/4/64287/gen226_2906143.jpg"
+                    srcset="https://s.auto.drom.ru/i24226/pubs/4/64287/gen226_2906143.jpg 1x, https://s.auto.drom.ru/i24226/pubs/4/64287/gen226x2_2906143.jpg 2x"
+                    alt=""
+                />
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">11 октября</div>
+                                    <div class="b-info-block__counter">120</div>
+                                <br />
+                <div class="b-info-block__title b-link">Обнародованы цены на внедорожный Logan: от 663 000 рублей</div>
+            </div>
+        </a>
+            <a
+            class="b-info-block b-info-block_link b-info-block_theme_horizontal"
+            href="https://news.drom.ru/64283.html"
+        >
+            <div class="b-info-block__image">
+                <img
+                    class="b-image b-image_responsive"
+                    src="https://s.auto.drom.ru/i24226/pubs/4/64283/gen226_2906084.jpg"
+                    srcset="https://s.auto.drom.ru/i24226/pubs/4/64283/gen226_2906084.jpg 1x, https://s.auto.drom.ru/i24226/pubs/4/64283/gen226x2_2906084.jpg 2x"
+                    alt="Аудиторы говорят, что регионы кладут асфальт в дождь и снег."
+                />
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__text">11 октября</div>
+                                    <div class="b-info-block__counter">87</div>
+                                <br />
+                <div class="b-info-block__title b-link">Счетная палата пожурила регионы за медленное освоение средств на дороги</div>
+            </div>
+        </a>
+    </div>
+
+    <div class="b-media-cont b-media-cont_margin_huge" style="text-align:center;">
+        <a
+            href="https://news.drom.ru/"
+            class="b-link b-link_type_complex b-link_theme_dark"
+            data-ga-stats-name="read_more_news_link"
+            data-ga-stats-track-click
+            data-ga-stats-track-view
+            data-ga-stats-name-prefix="%is_mobile%"
+        >
+            <span class="b-link__text">Читай еще больше новостей</span>
+            <svg style="display:inline-block;vertical-align:middle;" xmlns="http://www.w3.org/2000/svg" width="11" height="9" viewBox="0 0 11 9"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M10.297 4.502H.5M6.5 8.516l4.031-3.973L6.477.469"/></g></svg>
+        </a>
+    </div>
+        <div data-zone-id="446" id="candy_446" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>                            <h3 class="b-title b-title_type_h3 b-banner-group">
+                <a class="b-link b-link_theme_dark" href="https://news.drom.ru/dealer/">Новости автокомпаний</a>
+                <div class="b-title__empty b-banner-group__sticker b-media-cont__banner-sticker"> на правах рекламы</div>
+            </h3>
+                            <a
+    class="b-info-block b-info-block_link b-info-block_theme_horizontal"
+    href="https://news.drom.ru/64284.html"
+    target="_self"
+>
+    <div class="b-info-block__image">
+        <img
+            class="b-image b-image_responsive"
+            src="https://s.auto.drom.ru/i24226/pubs/4/64284/tn_2906128.jpg"
+            alt="Lada sport rosneft стала лидером финала сезона СМП РСКГ"
+        />
+    </div>
+    <div class="b-info-block__info">
+        <div class="b-info-block__title b-link">Lada sport rosneft стала лидером финала сезона СМП РСКГ</div>
+    </div>
+</a>
+                            <!--AUTODEALERS_NEWS_BEGIN-->
+        <!--AUTODEALERS_NEWS_END-->
+        <div class="farpost_main_page_advert_widget tire" data-ga-stats-engine="ga|va" data-ga-stats-section="main" data-ga-stats-name="TiresWidget" data-ga-stats-track-click data-ga-stats-engine-config-va='{"dummy_url": "https://baza.drom.ru/mmy.txt"}'>
+    <h3 class="b-title b-title_type_h3">
+        <a class="b-link b-link_theme_dark" href="https://baza.drom.ru/wheel/tire/?wheelSeason%5B%5D=winter&utm_source=drom_main&utm_medium=widget&utm_campaign=drom_russia_tires-winter&utm_term=title" data-ga-stats-engine="ga|va" data-ga-stats-section="main" data-ga-stats-name="TiresWidget" data-ga-stats-track-view data-ga-stats-engine-config-va='{"dummy_url": "https://baza.drom.ru/mmy.txt"}'>Зимние шины в </a>
+    </h3>
+
+            <a class="b-info-block b-info-block_link b-info-block_theme_horizontal" href="https://baza.drom.ru/vladivostok/wheel/tire/federal-himalaya-ws2-195-65r15-taiwan-2018-vo-vladivostoke-66371797.html?utm_source=drom_main&utm_medium=widget&utm_campaign=drom_russia_tires-winter&utm_term=bull">
+            <div class="b-info-block__image">
+                <img class="b-image b-image_responsive" src="https://s.rdrom.ru/i24226/custom_ads_tn/i/index/66372/first_page_preview_66371797.jpg" alt="Шины" title="Шины">
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__title b-link">Federal Himalaya WS2, 195/65 R15</div>
+
+                                    <div>цена:&nbsp;13 800 р.</div>
+                                            </div>
+        </a>
+            <a class="b-info-block b-info-block_link b-info-block_theme_horizontal" href="https://baza.drom.ru/vladivostok/wheel/tire/215-65r16-25277417.html?utm_source=drom_main&utm_medium=widget&utm_campaign=drom_russia_tires-winter&utm_term=bull">
+            <div class="b-info-block__image">
+                <img class="b-image b-image_responsive" src="https://s.rdrom.ru/i24226/custom_ads_tn/i/index/25278/first_page_preview_25277417.jpg" alt="Шины" title="Шины">
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__title b-link">Bridgestone, 215/65R16</div>
+
+                                    <div>цена:&nbsp;2 000 р.</div>
+                                            </div>
+        </a>
+    
+        <div class="b-media-cont b-media-cont_margin_huge" style="text-align:center;">
+        <a href="https://baza.drom.ru/wheel/tire/?wheelSeason%5B%5D=winter&utm_source=drom_main&utm_medium=widget&utm_campaign=drom_russia_tires-winter&utm_term=link_more" class="b-link b-link_type_complex b-link_theme_dark">
+            <span class="b-link__text">Смотри больше шин</span>
+            <svg style="display:inline-block;vertical-align:middle;" xmlns="http://www.w3.org/2000/svg" width="11" height="9" viewBox="0 0 11 9"><g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M10.297 4.502H.5M6.5 8.516l4.031-3.973L6.477.469"/></g></svg>
+        </a>
+    </div>
+    </div>
+<div class="farpost_main_page_advert_widget board" >
+    <h3 class="b-title b-title_type_h3">
+        <a class="b-link b-link_theme_dark" href="https://baza.drom.ru/?utm_source=drom_main_down-widget&utm_medium=link" >Доска объявлений</a>
+    </h3>
+
+            <a class="b-info-block b-info-block_link b-info-block_theme_horizontal" href="https://baza.drom.ru/vladivostok/audio/speaker/prodam-sabvufer-67060819.html">
+            <div class="b-info-block__image">
+                <img class="b-image b-image_responsive" src="https://s.rdrom.ru/i24226/custom_ads_tn/i/index/67061/first_page_preview_67060819.jpg" alt="Динамики и сабвуферы" title="Динамики и сабвуферы">
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__title b-link">Продам сабвуфер</div>
+
+                                    <div>текущая цена:&nbsp;2 501 руб.</div>
+                                                    <div>ставок:&nbsp;44</div>
+                            </div>
+        </a>
+            <a class="b-info-block b-info-block_link b-info-block_theme_horizontal" href="https://baza.drom.ru/vladivostok/wheel/wheel/komplekt-koles-na-16-rezina-litje-otpravlju-v-regiony-rf-67023609.html">
+            <div class="b-info-block__image">
+                <img class="b-image b-image_responsive" src="https://s.rdrom.ru/i24226/custom_ads_tn/i/index/67024/first_page_preview_67023609.jpg" alt="Колёса" title="Колёса">
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__title b-link">Комплект колес на 16 (резина+литье). Отправлю в регионы РФ</div>
+
+                                    <div>текущая цена:&nbsp;4 001 руб.</div>
+                                                    <div>ставок:&nbsp;17</div>
+                            </div>
+        </a>
+            <a class="b-info-block b-info-block_link b-info-block_theme_horizontal" href="https://baza.drom.ru/vladivostok/service/shipping/furgon-babochka-pereezdy-dom-ofis-beznal-17443752.html">
+            <div class="b-info-block__image">
+                <img class="b-image b-image_responsive" src="https://s.rdrom.ru/i24226/custom_ads_tn/i/index/17444/first_page_preview_17443752.jpg" alt="Грузоперевозки" title="Грузоперевозки">
+            </div>
+            <div class="b-info-block__info">
+                <div class="b-info-block__title b-link">Фургон-бабочка. Переезды дом, офис. Безнал.</div>
+
+                                            </div>
+        </a>
+    
+    </div>
+<div data-zone-id="502" id="candy_before_bulletin" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>    </div>
+</div>
+</div></div><!-- /b-left-side -->
+    <div class="b-right-side">
+
+        <a class="b-button b-button_width_available b-button_belongs b-button_theme_red b-button_ico b-button_ico_white-plus" style="outline-style: none;" href="https://auto.drom.ru/addbull/"><div class="b-button__text">Подать объявление</div></a>                <a
+                        class="b-button b-button_theme_blue b-button_width_available b-button_belongs"
+                        type="button"
+                        href="https://auto.drom.ru/rate_car/"
+                >
+                    <svg
+                            style="fill: currentColor; margin-right: 10px; width: 16px; height: 16px; stroke: none !important;"
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 14">
+                        <path d="M6 11h1V9h2V8H7V7h2c1.1 0 2-.9 2-2s-.9-2-2-2H6v3H5v1h1v1H5v1h1v2zm1-7h2c.6 0 1
+                        .4 1 1s-.4 1-1 1H7V4zm9 2V.5c0-.3-.2-.5-.5-.5H.5C.2 0 0 .2 0 .5V6c.6 0 1 .4 1 1S.6 8
+                        0 8v5.5c0 .3.2.5.5.5h15c.3 0 .5-.2.5-.5V8c-.6 0-1-.4-1-1s.5-1 1-1zm-1-.7c-.6.3-1
+                        1-1 1.7s.4 1.4 1 1.7V13H1V8.7c.6-.3 1-1 1-1.7s-.4-1.4-1-1.7V1h14v4.3z"/>
+                    </svg>
+                    <span class="b-button__text">Оценить авто</span>
+                </a>
+                
+        
+        
+        <div class="b-auth">
+            <a data-ga-stats-name="auth_block_login"
+           data-ga-stats-track-click
+           class="b-auth__auth-link b-link"
+           href="https://my.drom.ru/sign?return=https%3A%2F%2Fwww.drom.ru%2F%3Ftcb%3D1539326269">Вход</a><div class="b-auth__auth-link-separator b-auth__auth-link"></div><a data-ga-stats-name="auth_block_registration"
+                                                                                                              data-ga-stats-track-click class="b-auth__auth-link b-link" href="https://my.drom.ru/sign?radio=reg&return=https%3A%2F%2Fwww.drom.ru%2F%3Ftcb%3D1539326269">Регистрация</a>
+        
+
+    </div>
+
+        
+                                
+<form
+    action="//www.drom.ru/search/"
+    id="cse-search-box"
+    name="search"
+    accept-charset="UTF-8"
+>
+    <div class="b-input b-input_theme_search">
+        <input class="b-input__text-field" placeholder="поиск" type="text" name="q" id="q" />
+        <div class="b-button-input b-button-input_theme_search">
+            <input class="b-button-input__search-button" type="submit" value="" name="sa" />
+        </div>
+    </div>
+    <input type="hidden" name="cx" value="009335987541137871256:joz-knpxgyc" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="hidden" name="section" value="all_site" />
+</form>
+        
+        
+        
+        
+        
+        
+                    <div data-zone-id="951" id="candy_right_top" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>        
+        
+        
+                    
+<div data-zone-id="951" id="candy_right_top" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>
+
+
+
+<!-- FORUM_TOPICS_BLOCK_BEGIN -->
+<div class="b-fieldset">
+    <div class="b-fieldset__item">
+        <h3 class="b-title b-title_type_h3 ">
+            <a class="b-link b-link_theme_dark" href="https://forums.drom.ru/">Сегодня на автофорумах</a>
+        </h3>
+                                    <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425794">Как определиться с выбором моторного масла?</a>
+                </div>
+                            <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425757">Ищем автомобиль для рекламной фото-сессии !!!!!</a>
+                </div>
+                            <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425787">Оспаривание ограничения максимальной скорости. Как узнать обоснование для ограничений</a>
+                </div>
+                            <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425775">Первое авто в пределах 370 тыс.</a>
+                </div>
+                            <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425839">4wd за 500</a>
+                </div>
+                            <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425826">Регистрация с 6 октября</a>
+                </div>
+                            <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425802">Семейный авто с мотором &quot;на вырост&quot;</a>
+                </div>
+                            <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425803">Снятие с учета по утрате</a>
+                </div>
+                            <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425765">Отзавик по ТК</a>
+                </div>
+                            <div class="b-fieldset__line">
+                    <a class="b-link" href="https://forums.drom.ru/showthread.php?t=1152425782">Ошибка в СТС авто</a>
+                </div>
+                        </div>
+</div>
+<!-- FORUM_TOPICS_BLOCK_END -->
+<div data-zone-id="976" id="candy_976" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div><div data-zone-id="333" id="candy_right_between_forum_blocks" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div><!-- FORUM_TOPICS_BLOCK_BEGIN -->
+<!-- FORUM_TOPICS_BLOCK_END -->
+<div data-zone-id="464" id="candy_right_middle_2" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>
+<div class="b-banner-group js-removable-candy-wrapper" style="display:none;">
+    <div class="b-banner-group__sticker b-media-cont__banner-sticker">на правах рекламы</div>
+    <a class="b-media-cont b-media-cont_type_banner-text-small js-no-process" href="" style="display: none; outline-style: none;"><div data-zone-id="1193" id="candy_right_middle_tgb_1" data-handler="tgb" data-type="tgb" class="tireBoss" style="display: none;"></div><img class="b-media-cont__banner-image" src=""><div class="b-media-cont__banner-title"><span class="b-link"></span></div></a>    <a class="b-media-cont b-media-cont_type_banner-text-small js-no-process" href="" style="display: none; outline-style: none;"><div data-zone-id="1194" id="candy_right_middle_tgb_2" data-handler="tgb" data-type="tgb" class="tireBoss" style="display: none;"></div><img class="b-media-cont__banner-image" src=""><div class="b-media-cont__banner-title"><span class="b-link"></span></div></a>    <a class="b-media-cont b-media-cont_type_banner-text-small js-no-process" href="" style="display: none; outline-style: none;"><div data-zone-id="1195" id="candy_right_middle_tgb_3" data-handler="tgb" data-type="tgb" class="tireBoss" style="display: none;"></div><img class="b-media-cont__banner-image" src=""><div class="b-media-cont__banner-title"><span class="b-link"></span></div></a></div>
+
+<div data-zone-id="410" id="candy_right_middle_1" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>
+
+    <form id="vote" action="https://www.drom.ru/poll.php?pollid=784"
+      method="post" name="pollform">
+    <div class="b-fieldset b-fieldset_type_vote">
+        <div class="b-fieldset__title">Если вы узнаете, что машина когда-то давно была в залоге, но теперь он снят, вы ее купите?</div>
+                    <label class="b-fieldset__question ">
+                <div class="b-fieldset__question-back"></div>
+                <div class="b-radio b-radio_theme_tower b-radio_size_s">
+                        <span class="b-radio__item-block">
+                            <input class="b-radio__button variant" id="variant1"
+                                   type="radio" name="Variant[]"
+                                   value='1' />
+                        </span><span class="b-radio__label">Да: бояться тут нечего</span>
+                </div>
+            </label>
+                    <label class="b-fieldset__question ">
+                <div class="b-fieldset__question-back"></div>
+                <div class="b-radio b-radio_theme_tower b-radio_size_s">
+                        <span class="b-radio__item-block">
+                            <input class="b-radio__button variant" id="variant2"
+                                   type="radio" name="Variant[]"
+                                   value='2' />
+                        </span><span class="b-radio__label">Пожалуй, нет: мало ли что</span>
+                </div>
+            </label>
+                    <label class="b-fieldset__question b-fieldset__question_type_last">
+                <div class="b-fieldset__question-back"></div>
+                <div class="b-radio b-radio_theme_tower b-radio_size_s">
+                        <span class="b-radio__item-block">
+                            <input class="b-radio__button variant" id="variant3"
+                                   type="radio" name="Variant[]"
+                                   value='3' />
+                        </span><span class="b-radio__label">Затрудняюсь ответить</span>
+                </div>
+            </label>
+        
+        <script type='text/javascript'>
+
+            window.addEventListener('load', function(){
+                var maxanswers = "0";
+                jQuery('.b-fieldset_type_vote .b-checkbox__button, .b-fieldset_type_vote .b-radio__button').bind('change', function (e) {
+                    var input = jQuery(this),
+                        questionFieldset = input.closest('.b-fieldset__question'),
+                        activeClass = 'b-fieldset__question_type_selected',
+                        inputType, allQuestions;
+                    inputType = input.attr('type');
+                    allQuestions = questionFieldset.closest('.b-fieldset_type_vote').find('.b-fieldset__question');
+                    /*allQuestionInputs = allQuestions.find('input');*/
+                    /* if (input.attr('disabled') == 'disabled') {
+                     return false;
+                     }*/
+                    if (inputType == 'radio') {
+                        allQuestions.removeClass(activeClass);
+                        /*allQuestionInputs.prop('checked', false);*/
+                        questionFieldset.addClass(activeClass);
+                        /*input.prop('checked', true);*/
+                    } else if (inputType == 'checkbox') {
+                        if (questionFieldset.hasClass(activeClass)) {
+                            questionFieldset.removeClass(activeClass);
+                            /*input.prop('checked', false);*/
+                        } else {
+                            questionFieldset.addClass(activeClass);
+                            /* input.prop('checked', true);*/
+                        }
+                    } else {
+                        return false;
+                    }
+                    if (maxanswers > 0 && jQuery('.variant:checked').size() >= maxanswers) {
+                        jQuery('.variant:not(:checked)').attr('disabled', 'disabled');
+                    } else {
+                        jQuery('.variant:not(:checked)').removeAttr('disabled');
+                    }
+                });
+
+                jQuery('#vote').submit(function() {
+                    var answerCount = jQuery('.variant:checked').size();
+                    if (answerCount === 0) {
+                        alert("Выберите вариант ответа.");
+                        return false;
+                    }
+                    return true;
+                });
+            });
+        </script>
+        <input type="hidden" value="784" name="pollId"/>
+        <input type='hidden' value='vote' name='pollaction'/>
+                <div class="b-triggers b-triggers_after"><input class="b-triggers__item"  type="submit" value="Проголосовать">
+        </div>
+        <div class="b-fieldset__question-result">
+            <a class="b-link" href="https://www.drom.ru/poll.php?pollid=784">
+                Результаты и обсуждение
+            </a>
+
+            <div class="b-fieldset__question-counter">
+                Проголосовало 12208 человек            </div>
+        </div>
+    </div>
+</form>
+
+<div data-zone-id="511" id="candy_right_middle_3" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div><div class="b-blogs-widget b-blogs-widget_carousel">
+    <div class="b-blogs-widget__header">
+        <h3 class="b-title b-title_type_h3">
+            <a
+                    class="b-link b-link_theme_dark"
+                    href="https://blogs.drom.ru/"
+            >Блоги «русских» машин</a>
+        </h3>
+    </div>
+    <div class="b-blogs-widget__cont">
+        <div class="b-blogs-widget__container owl-carousel_blogs">
+                                                <div class="b-blogs-widget__line">
+                        <a class="b-blogs-widget__img" href="https://www.drom.ru/kia/rio_x-line/#blog">
+                            <img
+                                    src="//c.rdrom.ru/skin/blogs/kia-rio-xline/120x120_kiaxline.jpg?v=2"
+                                    srcset="//c.rdrom.ru/skin/blogs/kia-rio-xline/120x120_kiaxline.jpg?v=2 1x, //c.rdrom.ru/skin/blogs/kia-rio-xline/240x240_kiaxline.jpg?v=2 2x"
+                            />
+                        </a>
+                        <a class="b-link" href="https://www.drom.ru/kia/rio_x-line/#blog">
+                            Рио Х-Лайн                        </a>
+                        <div class="b-blogs-widget__distance">34&nbsp;184&nbsp;км</div>
+                    </div>
+                                                                <div class="b-blogs-widget__line">
+                        <a class="b-blogs-widget__img" href="https://www.drom.ru/lada/vesta_cross/#blog">
+                            <img
+                                    src="//c.rdrom.ru/skin/blogs/sq-md/vesta_cross.jpg?v=3"
+                                    srcset="//c.rdrom.ru/skin/blogs/sq-md/vesta_cross.jpg?v=3 1x, //c.rdrom.ru/skin/blogs/sq-md/vesta_cross@2x.jpg?v=3 2x"
+                            />
+                        </a>
+                        <a class="b-link" href="https://www.drom.ru/lada/vesta_cross/#blog">
+                            Веста Кросс                        </a>
+                        <div class="b-blogs-widget__distance">46&nbsp;153&nbsp;км</div>
+                    </div>
+                                                                <div class="b-blogs-widget__line">
+                        <a class="b-blogs-widget__img" href="https://www.drom.ru/volkswagen/tiguan/#blog">
+                            <img
+                                    src="//c.rdrom.ru/skin/blogs/sq-md/tiguan.jpg?v=2"
+                                    srcset="//c.rdrom.ru/skin/blogs/sq-md/tiguan.jpg?v=2 1x, //c.rdrom.ru/skin/blogs/sq-md/tiguan@2x.jpg?v=2 2x"
+                            />
+                        </a>
+                        <a class="b-link" href="https://www.drom.ru/volkswagen/tiguan/#blog">
+                            Тигуан 2017                        </a>
+                        <div class="b-blogs-widget__distance">83&nbsp;933&nbsp;км</div>
+                    </div>
+                                                                <div class="b-blogs-widget__line">
+                        <a class="b-blogs-widget__img" href="https://www.drom.ru/hyundai/solaris/#blog">
+                            <img
+                                    src="//c.rdrom.ru/skin/blogs/sq-md/solaris2017.jpg?v=2"
+                                    srcset="//c.rdrom.ru/skin/blogs/sq-md/solaris2017.jpg?v=2 1x, //c.rdrom.ru/skin/blogs/sq-md/solaris2017@2x.jpg?v=2 2x"
+                            />
+                        </a>
+                        <a class="b-link" href="https://www.drom.ru/hyundai/solaris/#blog">
+                            Солярис 2017                        </a>
+                        <div class="b-blogs-widget__distance">32&nbsp;703&nbsp;км</div>
+                    </div>
+                                                                <div class="b-blogs-widget__line">
+                        <a class="b-blogs-widget__img" href="https://www.drom.ru/uaz/patriot/#blog">
+                            <img
+                                    src="//c.rdrom.ru/skin/blogs/sq-md/patriot2017.jpg?v=2"
+                                    srcset="//c.rdrom.ru/skin/blogs/sq-md/patriot2017.jpg?v=2 1x, //c.rdrom.ru/skin/blogs/sq-md/patriot2017@2x.jpg?v=2 2x"
+                            />
+                        </a>
+                        <a class="b-link" href="https://www.drom.ru/uaz/patriot/#blog">
+                            Патриот 2017                        </a>
+                        <div class="b-blogs-widget__distance">52&nbsp;919&nbsp;км</div>
+                    </div>
+                                                                <div class="b-blogs-widget__line">
+                        <a class="b-blogs-widget__img" href="https://www.drom.ru/renault/kaptur/#blog">
+                            <img
+                                    src="//c.rdrom.ru/skin/blogs/sq-md/kaptur.jpg?v=3"
+                                    srcset="//c.rdrom.ru/skin/blogs/sq-md/kaptur.jpg?v=3 1x, //c.rdrom.ru/skin/blogs/sq-md/kaptur@2x.jpg?v=3 2x"
+                            />
+                        </a>
+                        <a class="b-link" href="https://www.drom.ru/renault/kaptur/#blog">
+                            Рено Каптур                        </a>
+                        <div class="b-blogs-widget__distance">124&nbsp;996&nbsp;км</div>
+                    </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </div>
+    </div>
+    <script type="text/javascript">
+        $(function() {
+            var $html = $('html');
+            var $target = $('.owl-carousel_blogs');
+
+            var isMobile = $html.hasClass('drom-mobile');
+            var isBlogs = $html.hasClass('drom-blogs-legacy');
+
+            if (!isMobile || isBlogs) {
+                $target
+                    .removeClass('bm-scroll')
+                    .addClass('owl-carousel')
+                    .owlCarousel({
+                        margin: 0,
+                        loop: true,
+                        nav: true,
+                        dots: true,
+                        lazyLoad: true,
+                        navText: ['', ''],
+                        items: 1,
+                        startPosition: Math.floor(Math.random() * 8),
+                    });
+            }
+        });
+    </script>
+    <script type="text/javascript" src="//c.rdrom.ru/js/jquery/owl.carousel.min.js?11907934035"></script>
+    <link rel="stylesheet" type="text/css" href="//c.rdrom.ru/img_tpl/owlcarousel/owl.carousel.min.css?11971657021" />
+</div>
+
+        
+        
+                    <div data-zone-id="425" id="candy_right_middle" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>        
+        
+        
+        
+        
+        <div class="js-removable-candy-wrapper b-banner-group b-media-cont b-media-cont_margin_huge" style="display: none;">
+                <div class="b-banner-group__sticker b-media-cont__banner-sticker">на правах рекламы</div>
+                <div class="b-flex b-flex_wrap b-flex_align_evenly b-random-group b-random-group_margin_tgb-line"></div></div>
+        
+                            
+                        <div data-zone-id="511" id="candy_right_bottom_perf" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>
+        
+            <!-- common.textads_block -->
+
+<!--<div class="cont_right1">-->
+<!-- <div class="b-media-cont b-media-cont_theme_adverts"> -->
+
+
+<!--noindex-->
+<br/>
+<!--/noindex-->
+<!-- /common.textads_block -->
+
+            
+                
+                
+                <!-- context.right_column_block -->
+
+
+
+
+<!-- /context.right_column_block -->
+                                                                                            
+        
+                <script type="text/javascript">new Image().src="https://www.drom.ru/dummy.txt?section=drom&event=view&who=region__0"</script>        
+        <a id="end_right_block_id" name="end_right_block"></a>
+        
+        
+                            </div><!-- /b-right-side -->
+
+</div><!-- /b-content -->
+
+<div class="b-clear"></div>
+
+    <div data-zone-id="590" id="candy_footer_spread" data-handler="noop" data-type="regular" class="b-media-cont b-media-cont_type_banner" style="display: none;"></div>
+</div><!-- /b-wrapper -->
+
+<div class="b-footer b-footer_no-gutter">
+            
+        <div class="b-media-cont b-media-cont_margin_small">
+            <div class="b-links b-links_theme_footer-links">
+                <div class="b-links__label">Производители авто:</div>
+                <a class="b-links__item b-link" href="https://www.drom.ru/makers/">Все фирмы</a>
+                                    <a class="b-links__item b-link" href="https://toyota.drom.ru/">Тойота</a>
+                                    <a class="b-links__item b-link" href="https://nissan.drom.ru/">Ниссан</a>
+                                    <a class="b-links__item b-link" href="https://honda.drom.ru/">Хонда</a>
+                                    <a class="b-links__item b-link" href="https://mitsubishi.drom.ru/">Мицубиси</a>
+                                    <a class="b-links__item b-link" href="https://mazda.drom.ru/">Мазда</a>
+                                    <a class="b-links__item b-link" href="https://subaru.drom.ru/">Субару</a>
+                                    <a class="b-links__item b-link" href="https://hyundai.drom.ru/">Хендай</a>
+                                    <a class="b-links__item b-link" href="https://ford.drom.ru/">Форд</a>
+                                    <a class="b-links__item b-link" href="https://volkswagen.drom.ru/">Фольксваген</a>
+                                    <a class="b-links__item b-link" href="https://bmw.drom.ru/">БМВ</a>
+                                    <a class="b-links__item b-link" href="https://kia.drom.ru/">Киа</a>
+                                    <a class="b-links__item b-link" href="https://lada.drom.ru/">Лада</a>
+                            </div>
+        </div>
+    
+    
+    <div class="b-media-cont b-media-cont_theme_footer-sales-links">
+        <table class="b-footer-links">
+            <tbody>
+            <tr>
+                <td class="b-footer-links__title">
+                    <div class="b-footer-links__beauty-title">
+                        <div class="b-footer-links__title-text">продажа</div>
+                    </div>
+                </td>
+                <td class="b-footer-links__title">
+                    <div class="b-footer-links__beauty-title">
+                        <div class="b-footer-links__title-text">информация</div>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                                    <td class="b-footer-links__item">
+                                                    <div class="b-footer-links__links-col">
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://auto.drom.ru/"
+                                        >Авто</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://baza.drom.ru/"
+                                        >Запчасти</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://baza.drom.ru/wheel/"
+                                        >Шины и диски</a>
+                                    </div>
+                                                            </div>
+                                                    <div class="b-footer-links__links-col">
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://spec.drom.ru/"
+                                        >Спецтехника</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://moto.drom.ru/"
+                                        >Мототехника</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://water.drom.ru/"
+                                        >Водная техника</a>
+                                    </div>
+                                                            </div>
+                                                    <div class="b-footer-links__links-col">
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://www.amayama.com/ru/"
+                                        >Магазин запчастей Амаяма</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://auto.drom.ru/addbull/"
+                                        >Подать объявление</a>
+                                    </div>
+                                                            </div>
+                                            </td>
+                                    <td class="b-footer-links__item">
+                                                    <div class="b-footer-links__links-col">
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://www.drom.ru/reviews"
+                                        >Отзывы</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://forums.drom.ru/"
+                                        >Форумы</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://www.drom.ru/catalog"
+                                        >Автокаталог</a>
+                                    </div>
+                                                            </div>
+                                                    <div class="b-footer-links__links-col">
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://www.drom.ru/shina/"
+                                        >Каталог шин</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://www.drom.ru/info/"
+                                        >Статьи</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://travel.drom.ru/"
+                                        >Автопутешествия</a>
+                                    </div>
+                                                            </div>
+                                                    <div class="b-footer-links__links-col">
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://www.drom.ru/pdd/"
+                                        >ПДД онлайн</a>
+                                    </div>
+                                                                    <div class="b-footer-links__line">
+                                        <a
+                                                class="b-link"
+                                                href="https://law.drom.ru/"
+                                        >Правовые вопросы</a>
+                                    </div>
+                                                            </div>
+                                            </td>
+                            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="b-media-cont b-media-cont_theme_footer-text b-media-cont_margin_huge">
+        <div class="b-flex">
+            <div class="b-flex__item">
+                <div class="b-media-cont">
+                    &copy; 2002&mdash;2018                    <span><span>Drom.ru</span></span>&nbsp;
+                    <br/>
+                    Разработка дизайна <a class="b-link b-link_theme_gray" href="http://design.farpost.ru/">FarPost Design</a>, <a class="b-link b-link_theme_gray" href="https://www.drom.ru/commerce/">Реклама на сайте</a>, <a class="b-link b-link_theme_gray" href="https://www.drom.ru/about/reprint/">Оферта (правила и условия)</a>, <a class="b-link b-link_theme_gray" href="https://my.drom.ru/help/VozniklaProblemanaDrome">Техподдержка</a>, <a class="b-link b-link_theme_gray" href="https://www.drom.ru/moscow2018/">Московский автосалон 2018</a>                                    </div>
+
+                    <div class="b-social-buttons">
+            <a
+            title="Drom.ru ВКонтакте"
+            class="b-social-buttons__item b-social-buttons__item_ico_vk"
+            href="https://vk.com/drom"
+            target="_blank"
+        ></a>
+            <a
+            title="Drom.ru на Одноклассниках"
+            class="b-social-buttons__item b-social-buttons__item_ico_ok"
+            href="https://odnoklassniki.ru/drom"
+            target="_blank"
+        ></a>
+            <a
+            title="Drom.ru в Фэйсбук"
+            class="b-social-buttons__item b-social-buttons__item_ico_fb"
+            href="https://www.facebook.com/drom.ru"
+            target="_blank"
+        ></a>
+            <a
+            title="+Drom.ru"
+            class="b-social-buttons__item b-social-buttons__item_ico_gp"
+            href="https://google.com/+dromru"
+            target="_blank"
+        ></a>
+            <a
+            title="Twitter Drom.ru"
+            class="b-social-buttons__item b-social-buttons__item_ico_tw"
+            href="https://twitter.com/dromru/"
+            target="_blank"
+        ></a>
+            <a
+            title="Instagram Drom.ru"
+            class="b-social-buttons__item b-social-buttons__item_ico_ig"
+            href="https://instagram.com/drom"
+            target="_blank"
+        ></a>
+            <a
+            title="Канал Drom.ru на YouTube"
+            class="b-social-buttons__item b-social-buttons__item_ico_yt"
+            href="https://www.youtube.com/drom"
+            target="_blank"
+        ></a>
+        </div>
+
+            </div>
+            <div class="b-flex__item" data-async-counter>
+                <!-- footer_visible_block -->
+
+
+<!--noindex--><!--Drom.ru counter--><span id='drom-counter-li'></span><script type='text/javascript'><!--
+    (function(){
+        var li = document.createElement('img');
+        li.width = '1';
+        li.height = '1';
+        li.alt = '';
+        li.src = (window.location.protocol == 'https:' ? 'https:' : 'http:')+'//counter.drom.ru/hit/?r='+ escape(document.referrer)+((typeof(screen)=='undefined')?'': '&s='+screen.width+'*'+screen.height+'*'+(screen.colorDepth? screen.colorDepth:screen.pixelDepth))+'&u='+escape(document.URL)+'&b='+window.navigator.userAgent+'&p='+window.devicePixelRatio+'&'+Math.random();
+        document.getElementById('drom-counter-li').appendChild(li);
+    })();
+//--></script><!--/Drom.ru--><!--/noindex--> 
+<div class="stats">
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(document, conversionParams, conversionImgTag) {
+    var queueKey = 'asyncGoogleConversionScripts';
+    var scriptUrl = "//www.googleadservices.com/pagead/conversion_async.js";
+    if (document.querySelector('[src*="' + scriptUrl + '"]')) {        
+        if (typeof window.asyncGoogleConversionScriptLoaded === 'undefined') {
+            var timesToCheck = 50, times = 0;
+            var checkInterval = setInterval(function() {
+                times++;
+                if (typeof window.google_trackConversion !== 'undefined' || times > timesToCheck) {
+                    clearInterval(checkInterval);
+                    afterLoad(conversionParams, conversionImgTag);    
+                }
+            }, 300);
+        } else if (window.asyncGoogleConversionScriptLoaded) {
+            afterLoad(conversionParams, conversionImgTag);
+        } else {
+            (window[queueKey] = window[queueKey] || []).push(afterLoad.bind(null, conversionParams, conversionImgTag));
+        }
+    } else {
+        var script = document.createElement('script');
+        script.src = scriptUrl;
+        script.async = true;
+
+        window.asyncGoogleConversionScriptLoaded = false;
+        document.body.appendChild(script);
+
+        script.onload = script.onerror = function () {
+            if (!this.executed) {
+                this.executed = true;
+                window.asyncGoogleConversionScriptLoaded = true;
+                (window[queueKey] = window[queueKey] || []).push(afterLoad.bind(null, conversionParams, conversionImgTag));
+                var func;
+                while ((func = window[queueKey].shift()) && typeof func === 'function') {
+                    func();
+                }
+            }
+        };
+
+        script.onreadystatechange = function () {
+            var self = this;
+            if (this.readyState == "complete" || this.readyState == "loaded") {
+                setTimeout(function () {
+                    self.onload();
+                }, 0);
+            }
+        };
+    }
+
+    function afterLoad(conversionParams, conversionImgTag) {
+        if (typeof window.google_trackConversion !== 'undefined') {
+            window.google_trackConversion(conversionParams);
+        } else if (conversionImgTag) {
+            var stats = document.createElement('div')
+            stats.className="stats";
+            stats.innerHTML = conversionImgTag;
+            document.body.appendChild(stats);
+        }
+    }
+}(document, {"google_conversion_id":850685561,"google_conversion_label":"CP25CNeTz3EQ-dzRlQM","google_conversion_color":"ffffff","google_conversion_format":"3","google_conversion_language":"en","google_remarketing_only":false}, '<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/850685561/?label=CP25CNeTz3EQ-dzRlQM&guid=ON&script=0"/>'))
+/* ]]> */
+</script>
+<noscript>
+<div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/850685561/?label=CP25CNeTz3EQ-dzRlQM&guid=ON&script=0"/></div>
+</noscript>
+</div> 
+
+<!-- /footer_visible_block -->            </div>
+        </div>
+    </div>
+
+    </div><!-- .b-footer -->
+
+<div style="text-align:center;">
+    </div>
+
+
+<script type="text/javascript">
+    (function () {
+        var $target = $('#end_right_block_id');
+        var $win = $(window);
+        var windowHeight = $win.height();
+        var url = '//www.drom.ru/dummy.txt?view=relevant';
+
+        if (!$target.length) {
+            return;
+        }
+
+        var scrollHandler = function () {
+            if ($win.scrollTop() + windowHeight >= $target.offset().top) {
+                $.get(url);
+                $win.off('scroll', scrollHandler);
+            }
+        };
+
+        $win.on('scroll', scrollHandler);
+    })();
+</script>
+
+<script type="text/javascript" src="https://c.rdrom.ru/js/bundles/Drom.polyfill.6b3aeed3.js" crossorigin="anonymous" data-drom-module="polyfill"></script><script type="text/javascript" src="https://c.rdrom.ru/js/bundles/Drom.62956d15add9f692c552f92cf7c4c893.e155c181.chunk.js" crossorigin="anonymous"></script><script type="text/javascript" src="https://c.rdrom.ru/js/bundles/Drom.5b4542097becd37608b13f97cbbc31b5.00ebfe30.chunk.js" crossorigin="anonymous"></script><script type="text/javascript" src="https://c.rdrom.ru/js/bundles/Drom.common.db637997.js" crossorigin="anonymous" data-drom-module="common" data-drom-module-data="&#x7B;&quot;ravenConfig&quot;&#x3A;&#x7B;&quot;url&quot;&#x3A;&quot;https&#x3A;&#x5C;&#x2F;&#x5C;&#x2F;www.drom.ru&#x5C;&#x2F;sentry&#x5C;&#x2F;&quot;,&quot;key&quot;&#x3A;&quot;52598b467fe04b1c9ac067e0d9104762&quot;,&quot;config&quot;&#x3A;&#x7B;&quot;release&quot;&#x3A;&quot;da5e15b82867d887c8983e766a812adbc2bae702&quot;,&quot;environment&quot;&#x3A;&quot;production&quot;,&quot;sampleRate&quot;&#x3A;0.4,&quot;ip&quot;&#x3A;&quot;93.11.24.79&quot;&#x7D;&#x7D;,&quot;gaStatsConfig&quot;&#x3A;null&#x7D;"></script><script type="text/javascript" src="https://c.rdrom.ru/js/jquery/drom/DromNotificationGroup.min.js?v=1a" crossorigin="anonymous"></script>
+<script type="text/javascript" src="//c.rdrom.ru/js/candy.min.js?12452462472" crossorigin="anonymous"></script>
+<script type="text/javascript">if (top !== self) top.location.replace(location);;(typeof DromCandy !== "undefined") && DromCandy.init("https://c.rdrom.ru/js/candy/candy_async.min.js?v=1.0.0");;console.log("Using async candies!");</script><script type="text/javascript">
+    $(function(){
+        if (typeof ieHomeCheck !== 'undefined') {
+            ieHomeCheck.url = 'https://www.drom.ru/';
+            ieHomeCheck.action();
+        }
+    });
+
+$(document).ready(function() {
+    (typeof placeZeroPixels === 'function') && placeZeroPixels([]);
+});
+</script></body>
+</html>

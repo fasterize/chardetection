@@ -1,0 +1,3180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" lang="hr">
+<head>
+
+
+
+
+	<!-- no cache headers -->
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="-1" />
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<!-- end no cache headers -->
+	<base target="_top" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250" />
+<meta name="generator" content="vBulletin 3.8.4" />
+
+	
+<meta name="keywords" content="forum,ljubav,informatika,sport,rasprave,diskusuje,monitor,blog,korisnik,politika,psihologija,pravo,religija,gospodarstvo,film,glazba,www" />
+<meta name="description" content="Forum.hr - rasprave na temu: politika, psihologija, pravo, religija, gospodarstvo, film, glazba, sex, ljubav," />
+	
+
+
+<!-- CSS Stylesheet -->
+<style type="text/css" id="vbulletin_css">
+/**
+* vBulletin 3.8.4 CSS
+* Style: '_JEDINSTVENI NOVI ADS SKRIPTA'; Style ID: 258
+*/
+@import url("clientscript/vbulletin_css/style-af5a4abd-00258.css");
+</style>
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_important.css?v=384" />
+
+<!-- / CSS Stylesheet -->
+
+<script type="text/javascript" src="clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=384"></script>
+<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=384"></script>
+<script type="text/javascript">
+<!--
+var SESSIONURL = "s=03f926b8309284edc5b957fe06e74bb5&";
+var SECURITYTOKEN = "guest";
+var IMGDIR_MISC = "images/misc";
+var vb_disable_ajax = parseInt("0", 10);
+// -->
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-194818-6', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- (c) 2000-2006 gemiusAudience -->
+<!-- ForumSpecifix v0.3 [loaded forum homepage @ position header] -->
+<!-- (C)2000-2011 Gemius SA - gemiusAudience / Forum.hr / Home Page -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('16CaBusbf4cNy488gOuQX.WWDiFdZqdUGnoxZa3vMvf.j7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="//www.forum.hr/gemius.js"></script>
+<!-- gemius end -->
+
+<script type="text/javascript" src="clientscript/vbulletin_global.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="Forum.hr RSS Feed" href="external.php?type=RSS" />
+
+<!-- script type="text/javascript" src="mobiquo/tapatalkdetect.js"></script -->
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">$.noConflict()</script>
+<script src="/clientscript/sticky_sidebar.js?v=3"></script>
+<script src="/clientscript/emg.js"></script>
+        <!-- App Indexing for Google Search -->
+        <link href="android-app://com.quoord.tapatalkpro.activity/tapatalk/www.forum.hr?location=index&amp;channel=google-indexing" rel="alternate" />
+        <link href="ios-app://307880732/tapatalk/www.forum.hr?location=index&amp;channel=google-indexing" rel="alternate" />
+        
+	<title>Forum.hr - Powered by vBulletin</title>
+
+<!-- ForumSpecifix v0.3 [loaded forum homepage @ position head] -->
+
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+ if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+ document.write('<scr'+'ipt src="//www3.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+
+<script type="text/javascript">
+	var apntag = apntag || {};
+	apntag.anq = apntag.anq || [];
+	
+	(function() {
+		var d = document, scr = d.createElement('script'), pro = d.location.protocol,
+				tar = d.getElementsByTagName("head")[0];
+		
+		scr.type = 'text/javascript'; scr.async = true;
+		scr.src = ((pro === 'https:') ? 'https' : 'http') + '://acdn.adnxs.com/ast/ast.js';
+		if (!apntag.l) { apntag.l = true; tar.insertBefore(scr, tar.firstChild); }
+	})();
+	
+	apntag.anq.push(function() {
+		apntag.setPageOpts({member: 2662, targetingParams: {}});
+		
+		apntag.defineTag({
+			targetId: 'outstream_1',
+			debug: true,
+			tagId: 9528113,
+			sizes: [1, 1],
+			allowedFormats: ['video','banner'],
+			targetingParams: {},
+			rendererOptions: {
+				"playerTechnology": ["html5", "flash"],
+				"adText": "Advertisement",
+				"showMute": true,
+				"showVolume": true,
+				"nonViewableBehavior": "pause",
+				"showProgressBar": true,
+				"autoInitialSize": true,
+				"allowFullscreen": true,
+				"skippable": {
+					"videoThreshold": 50,
+					"videoOffset": 5,
+					"skipLocation": "top-left",
+					"skipText": "Video can be skipped in %%TIME%% seconds",
+					"skipButtonText": "SKIP"
+				}
+			}
+		});
+		
+		apntag.loadTags();
+	});
+</script>
+
+
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.defineSlot('/1054025/Forum_Top//SVE', [728, 90], 'div-gpt-ad-1508747651039-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Podnaslov_1//Naslovnica', [[468, 60], [728, 90]], 'div-gpt-ad-1432891921534-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Footer//Naslovnica', [[468, 60], [728, 90]], 'div-gpt-ad-1432887778775-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_0//Sve', [[300, 600], [300, 250]], 'div-gpt-ad-1431606973377-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_1//Naslovnica', [[300, 100], [300, 600], [300, 250]], 'div-gpt-ad-1432499442314-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_2//Naslovnica', [[300, 600], [300, 100], [300, 250], [300, 300], [300, 75], [300, 150]], 'div-gpt-ad-1492769956105-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_3//Naslovnica', [[300, 300], [300, 150], [300, 100], [300, 600], [300, 75], [300, 250]], 'div-gpt-ad-1492771933494-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_4//Naslovnica', [[300, 250], [300, 600], [300, 100]], 'div-gpt-ad-1432541932758-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_5//Naslovnica', [[300, 250], [300, 100], [300, 600]], 'div-gpt-ad-1432543191990-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_6//Sve', [[300, 100], [300, 600], [300, 250]], 'div-gpt-ad-1432545865338-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_6A//Sve', [[300, 600], [300, 100], [300, 250]], 'div-gpt-ad-1432546276858-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_7//Naslovnica', [[300, 250], [300, 600], [300, 100]], 'div-gpt-ad-1432553338547-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_8//Naslovnica', [[300, 250], [300, 300], [300, 600], [300, 100]], 'div-gpt-ad-1435131362606-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_8//Sve', [[300, 100], [300, 600], [300, 250]], 'div-gpt-ad-1433345041791-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Sidebar_9//Sve', [[300, 100], [300, 600], [300, 250]], 'div-gpt-ad-1432724563901-0').addService(googletag.pubads());
+googletag.defineSlot('/1054025/Forum_Floater//Sve', [[300, 250], [300, 300], [400, 400]], 'div-gpt-ad-1433345686775-0').addService(googletag.pubads());
+
+googletag.pubads().setTargeting('thread', '-1');
+googletag.pubads().setTargeting('forum', '-1');
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+</head>
+<body>
+<!-- ForumSpecifix v0.3 [loaded forum homepage @ position billboard] -->
+
+
+
+<!-- Tapatalk Detect body start -->
+<script type="text/javascript">if (typeof(tapatalkDetect) == "function") tapatalkDetect()</script>
+<!-- Tapatalk Detect banner body end -->
+
+<!-- logo -->
+
+<a name="top"></a>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+<tr>
+	<td align="left"><a href="index.php?s=03f926b8309284edc5b957fe06e74bb5"><img id="header_logo" src="images/misc/vbulletin3_logo_white.gif" border="0" alt="Forum.hr" /></a></td>
+	<td align="right">
+
+<!-- BANNER 728x90 -->
+<div id="header_banner" style="padding:0 10px 0 0"><!-- ForumSpecifix v0.3 [loaded forum homepage @ position top] -->
+<div id='div-gpt-ad-1508747651039-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1508747651039-0'); });
+</script>
+</div></div>
+<!-- BANNER -->	
+
+	</td>
+	
+</tr>
+</table>
+<!-- /logo -->
+
+<!-- content table -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:px; text-align:left">
+		<div style="padding:0px 10px 0px 10px" align="left">
+
+
+
+
+<!-- USC header edit start -->
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<tr valign="top">
+
+
+
+<td valign="top">
+
+<!-- USC header edit start -->
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<tr valign="top">
+
+
+
+<td valign="top">
+
+<!-- USC header edit end -->
+<script type="text/javascript">
+<!--
+function log_out()
+{
+	ht = document.getElementsByTagName("html");
+	ht[0].style.filter = "progid:DXImageTransform.Microsoft.BasicImage(grayscale=1)";
+	if (confirm('Are you sure you want to log out?'))
+	{
+		return true;
+	}
+	else
+	{
+		ht[0].style.filter = "";
+		return false;
+	}
+}
+//-->
+</script>
+
+<br />
+
+<!-- breadcrumb, login, pm info -->
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+	<td class="alt1" width="100%">
+		
+			<div class="navbar" style="font-size:10pt"><a href="index.php?s=03f926b8309284edc5b957fe06e74bb5" accesskey="1"><img class="inlineimg" src="images/misc/navbits_start.gif" alt="" border="0" /></a> <strong>Forum.hr</strong></div>
+		
+	</td>	
+	
+	
+		
+		<td class="alt2" nowrap="nowrap" style="padding:0px">
+			
+		<!-- login form -->
+		<form action="login.php" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+		<script type="text/javascript" src="clientscript/vbulletin_md5.js"></script>
+		<table class="top_login_box" cellpadding="0" cellspacing="3" border="0">
+		<tr>
+			<td class="smallfont">Korisničko ime</td>
+			<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="Korisničko ime" onfocus="if (this.value == 'Korisničko ime') this.value = '';" /></td>
+			<td class="smallfont" colspan="2" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c" />Zapamti me!</label></td>
+		</tr>
+		<tr>
+			<td class="smallfont">Lozinka</td>
+			<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" size="10" accesskey="p" tabindex="102" /></td>
+			<td><input type="submit" class="button" value="Prijava" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" /></td>
+		</tr>
+		</table>
+		<input type="hidden" name="s" value="03f926b8309284edc5b957fe06e74bb5" />
+	<input type="hidden" name="securitytoken" value="guest" />
+		<input type="hidden" name="do" value="login" />		
+		<input type="hidden" name="vb_login_md5password" />
+		<input type="hidden" name="vb_login_md5password_utf" />
+		</form>
+		<!-- / login form -->
+			
+		</td>
+		
+		
+	
+</tr>
+</table>
+<!-- / breadcrumb, login, pm info -->
+
+<!-- nav buttons bar -->
+<div align="center">
+	<table class="tborder" cellpadding="6" cellspacing="0" border="0" width="100%" align="center" style="border-top-width:0px">
+	<tr align="center">
+								
+
+		
+		
+			<td class="vbmenu_control"><a href="register.php?s=03f926b8309284edc5b957fe06e74bb5" rel="nofollow">Registriraj se</a></td>
+		
+		<td class="vbmenu_control less-important"><a href="faq.php?s=03f926b8309284edc5b957fe06e74bb5" accesskey="5">FAQ</a></td>
+		<td class="vbmenu_control less-important"><a href="memberlist.php?s=03f926b8309284edc5b957fe06e74bb5">Popis članova</a></td>
+		<td class="vbmenu_control less-important"><a href="calendar.php?s=03f926b8309284edc5b957fe06e74bb5">Kalendar</a></td>
+				
+			
+			<td class="vbmenu_control less-important"><a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;do=markread" rel="nofollow">Označi forume pročitanim</a></td>
+						
+		
+		
+	</tr>
+	</table>
+</div>
+<!-- / nav buttons bar -->
+
+<br />
+
+
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+<tr>
+    <td align="left">
+
+
+<!-- SiteSearch Google -->
+
+<!-- SiteSearch Google -->
+
+
+	</td>
+    <td align="left">
+
+	<!-- Search Pogodak -->
+
+<!-- End of Search Pogodak -->
+
+	</td>
+</tr>
+</table>
+
+<!-- FORUM_SEARCH_BOX_PLACEHOLDER -->
+
+<!-- main -->
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<thead>
+	
+	<!-- guest welcome message -->
+	<tr>
+		<td class="tcat" colspan="6">Dobrodošli na Forum.hr.</td>
+	</tr>
+	<tr>
+		<td class="alt1" colspan="6">
+			Ukoliko Vam je ovo prva posjeta, pročitajte <a href="faq.php?s=03f926b8309284edc5b957fe06e74bb5"><strong>FAQ</strong></a> .
+Morat ćete se <a href="register.php?s=03f926b8309284edc5b957fe06e74bb5"><strong>registrirati</strong></a> prije nego što možete sudjelovati u raspravama: kliknite na link kako biste nastavili.
+Ukoliko želite pregledavati postove, izaberite jedan od ponuđenih podforuma s donje liste.
+		</td>
+	</tr>
+	<!-- / guest welcome message -->
+	
+	<tr align="center">
+	  <td class="thead column_spacer">&nbsp;</td>
+	  <td class="thead column_title" width="100%" align="left">Forum</td>
+	  <td class="thead column_last_post" width="175">Zadnji post</td>
+	  <td class="thead column_threads">Tema</td>
+	  <td class="thead column_posts">Postova</td>
+	  
+	  <td class="thead column_moderator">Moderator</td>
+	  
+	</tr>
+</thead>
+
+<tbody>
+
+	<tr align="center">
+		<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_184" /></td>
+		<td class="alt1Active field_title" align="left" id="f184">
+
+		<table cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td>
+			<div>
+				<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=184"><strong>Forum.hr - pravila</strong></a>
+				
+			</div>
+			<div class="smallfont">Literatura koja će boravak na Forumu svima učiniti ugodnijim i jednostavnijim.</div>
+			
+			
+			</td>
+		</tr>
+		</table>
+
+		</td>
+		<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=910224" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Pravila za kreiranje nicka (vašeg forumskog imena)'"><strong>Pravila za kreiranje nicka...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=184" rel="nofollow">Anderlon</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		28.10.2015. <span class="time">21:17</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=56028279#post56028279"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+		<td class="alt1 field_threads">4</td>
+		<td class="alt2 field_posts">9</td>
+		
+		<td class="alt1 field_moderator"><div class="smallfont">&nbsp;</div></td>
+		
+	</tr>
+
+
+</tbody>
+
+
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="6">
+			<div style="position:relative; min-height:13pt">
+				
+				<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_12')"><img id="collapseimg_forumbit_12" src="images/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+				
+				
+				<a style="position:absolute; left:0; top:0" href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=12">Društvo</a>
+				
+				
+				
+				
+				
+					<div class="inline_adcode_box" style="width:728px; position:relative; left:50%; top:-1px; margin-left:-364px">
+	<div id='div-gpt-ad-1432891921534-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432891921534-0'); });
+</script>
+</div>
+</div>
+				
+			</div>
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_12" style="">
+
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_8" /></td>
+	<td class="alt1Active field_title" align="left" id="f8">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=8"><strong>Politika</strong></a>
+			
+		</div>
+		<div class="smallfont">Najstariji zanat na svijetu
+
+<br> Podforumi:
+ <a href ="http://www.forum.hr/forumdisplay.php?forumid=282"><b>Politička scena</b></a>, <a href ="http://www.forum.hr/forumdisplay.php?forumid=347"><b>Europska unija</b></a>, <a href ="http://www.forum.hr/forumdisplay.php?forumid=160"><b>Svijet</b></a>, <a href ="http://www.forum.hr/forumdisplay.php?forumid=52"><b>Blisko politici</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=873348" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'IL - Država Izrael'"><strong>IL - Država Izrael</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=160" rel="nofollow">bubi mir</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:43</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943333#post71943333"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">19,934</td>
+	<td class="alt2 field_posts">4,234,568</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=833"><span style='color:#CC0000'>Cuka</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=10406"><span style='color:#CC0000'>the edge</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=32865"><span style='color:#000000'>DJTcro</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=47326"><span style='color:#000000'>KLCCLK</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=198499"><span style='color:#000000'>ball</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=271517"><span style='color:#000000'>klonka</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_33" /></td>
+	<td class="alt1Active field_title" align="left" id="f33">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=33"><strong>Gospodarstvo</strong></a>
+			
+		</div>
+		<div class="smallfont">Novac, profit, blagostanje. Kako doći do toga? <br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=397"><b>Kriptovalute</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=163"><b>Dionice</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=156"><b>Ostali oblici investiranja</b></a>,  <a href="http://www.forum.hr/forumdisplay.php?f=170"><b> Banke, osiguranja, krediti</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=267"><b>Poduzetništvo, računovodstvo i porezi</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1057461" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Tehnička analiza za Bitcoin i ostale coine'"><strong>Tehnička analiza za Bitcoin i...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=397" rel="nofollow">zgrules</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:43</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943345#post71943345"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">5,998</td>
+	<td class="alt2 field_posts">649,285</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=316"><span style='color:#000000'>banderas</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=55556"><span style='color:#000000'>somied</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=68226"><span style='color:#000000'>zabotinski</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=95167"><span style='color:#000000'>z_k</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=213627"><span style='color:#000000'>devilgirl</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=548894"><span style='color:#000000'>Quorgyle</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_107" /></td>
+	<td class="alt1Active field_title" align="left" id="f107">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=107"><strong>Pravo</strong></a>
+			
+		</div>
+		<div class="smallfont">Pravna pitanja i problemi, pravna pomoć, javne rasprave o budućim zakonima. Živjela pravna država! 
+<br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=272"><b>Nasljeđivanje</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=273"><b>Prekršajno i kazneno pravo
+</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=274"><b>	
+Radno, socijalno i obiteljsko pravo </b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=275"><b>	
+Nekretnine</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=164186" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'HRT pretplata II'"><strong>HRT pretplata II</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=107" rel="nofollow">duxi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:13</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943011#post71943011"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">4,852</td>
+	<td class="alt2 field_posts">201,960</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=3059"><span style='color:#CC0000'>Vojky</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=243288"><span style='color:#000000'>File</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_4" /></td>
+	<td class="alt1Active field_title" align="left" id="f4">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=4"><strong>Ljubav, erotika, seks</strong></a>
+			
+		</div>
+		<div class="smallfont">Stvari intimne prirode. Neke teme zahtijevaju i rječnik koji možda nije za jako mlade (i jako stare).</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1111977" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi '{&#54252;&#52380;&#52636;&#51109;&#49397;}AAA (&#52852;&#53665; Nw28)&#12304;New60,NET&#12305;&#12526; ( &#54252;&#52380;&#53084;&#44152; )( &#54252;&#52380;&#52636;&#51109;&#50504;&#47560; )&#12526;&#54252;&#52380;&#52636;&#51109;&#47560;&#49324;&#5'"><strong>{&#54252;&#52380;&#52636;&#51109;&#49397;}AAA (&#52852;&#53665;...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=4" rel="nofollow">bf448db381</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:44</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943347#post71943347"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">12,668</td>
+	<td class="alt2 field_posts">1,643,333</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=38519"><span style='color:#000000'>phiber</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=129959"><span style='color:#000000'>MajaMama</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_91" /></td>
+	<td class="alt1Active field_title" align="left" id="f91">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=91"><strong>Život u dvoje</strong></a>
+			
+		</div>
+		<div class="smallfont">Prizori iz bračnog i izvanbračnog života. <br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=138"><b>Vjenčanja</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=157"><b>Rastave</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1102375" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Afera na pomolu'"><strong>Afera na pomolu</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=91" rel="nofollow">Samsung2007</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:37</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943265#post71943265"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">4,585</td>
+	<td class="alt2 field_posts">1,255,210</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=38519"><span style='color:#000000'>phiber</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=192822"><span style='color:#993399'>Nica</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_35" /></td>
+	<td class="alt1Active field_title" align="left" id="f35">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=35"><strong>Roditelji i djeca</strong></a>
+			
+		</div>
+		<div class="smallfont">Zato što ih volimo i oni vole nas. 
+<br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=312"><b>Školarci i adolescenti</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=307"><b>Dojenčad i predškolci</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=145"><b>Trudnice</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=308"><b>Medicinski potpomognuta oplodnja</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=293"><b>Dječje zdravlje</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=318"><b>Oprema</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1084645" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'WannaBe Vol. 20'"><strong>WannaBe Vol. 20</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=145" rel="nofollow">Leeloo.</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:43</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943331#post71943331"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">4,999</td>
+	<td class="alt2 field_posts">1,185,906</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=6959"><span style='color:#000000'>Lei</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=30001"><span style='color:#000000'>nosorog</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=30178"><span style='color:#000000'>Kakadu</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=129959"><span style='color:#000000'>MajaMama</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=429387"><span style='color:#000000'>Ćufta</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=515131"><span style='color:#000000'>gargamišamel</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_27" /></td>
+	<td class="alt1Active field_title" align="left" id="f27">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=27"><strong>Usamljena srca</strong></a>
+			
+		</div>
+		<div class="smallfont">Lonely Hearts Club Band</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1105697" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Trebaš/ trebam prijateljicu/a'"><strong>Trebaš/ trebam prijateljicu/a</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=27" rel="nofollow">Alienica</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:34</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943223#post71943223"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">8,955</td>
+	<td class="alt2 field_posts">1,394,398</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=38519"><span style='color:#000000'>phiber</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=107287"><span style='color:#000000'>aircanada</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=337338"><span style='color:#000000'>Meadow</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_125" /></td>
+	<td class="alt1Active field_title" align="left" id="f125">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=125"><strong>Psihologija</strong></a>
+			
+		</div>
+		<div class="smallfont">Vodič kroz um i ponašanje za entuzijaste. Podforum:  <a href="http://www.forum.hr/forumdisplay.php?f=276"><b>Psihokauč</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1101963" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Inteligentan ali glup'"><strong>Inteligentan ali glup</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=125" rel="nofollow">maleesh</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:22</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943097#post71943097"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">6,216</td>
+	<td class="alt2 field_posts">504,959</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=70003"><span style='color:#000000'><span class="__cf_email__" data-cfemail="780a1d021716380c170a">[email&#160;protected]</span></span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=128269"><span style='color:#000000'>nero</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_9" /></td>
+	<td class="alt1Active field_title" align="left" id="f9">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=9"><strong>Filozofija</strong></a>
+			
+		</div>
+		<div class="smallfont">Misaone teme lišene dogme</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1103121" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Konsenzus riječi Bog'"><strong>Konsenzus riječi Bog</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=9" rel="nofollow">Alyosha</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:37</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943263#post71943263"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">2,026</td>
+	<td class="alt2 field_posts">229,026</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=55556"><span style='color:#000000'>somied</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_65" /></td>
+	<td class="alt1Active field_title" align="left" id="f65">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=65"><strong>Duhovnost</strong></a>
+			
+		</div>
+		<div class="smallfont">Slobodnim stilom...</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1111973" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi '&#48120;&#49324;&#49888;&#46020;&#49884;&#50724;&#54588; &#48120;&#49324;&#49888;&#46020;&#49884;&#54400;&#49912;&#47217; Ops$^O9O^CoM&#48120;&#49324;&#49888;&#46020;&#49884;&#44148;&#47560; &#48120;&#49324;&#49888;&#46020;&#49884;&#50504;&#47560; &#'"><strong>&#48120;&#49324;&#49888;&#46020;&#49884;&#50724;&#54588; &#48120;&#49324;&#49888;&#46020;&#49884;&#54400;&#49912;&#47217;...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=65" rel="nofollow">Braxton Watts</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:43</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943335#post71943335"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,902</td>
+	<td class="alt2 field_posts">191,747</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=323610"><span style='color:#000000'>bubi mir</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_26" /></td>
+	<td class="alt1Active field_title" align="left" id="f26">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=26"><strong>Religija</strong></a>
+			
+		</div>
+		<div class="smallfont">Religija u društvu
+<br>Podforum: <a href="http://www.forum.hr/forumdisplay.php?f=324"><b>Teologija i religijska praksa</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1111965" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi '&#44221;&#51452;&#50724;&#54588; &#44221;&#51452;&#54400;&#49912;&#47217; ÖPSS 0 9 0  • c O m&#44221;&#51452;&#44148;&#47560; &#44221;&#51452;&#50504;&#47560; &#50724;&#54588;&#50416; &#44221;&#51452;&#55092;&#44172;&#53588; &#44221;&#51452;&#47560;&'"><strong>&#44221;&#51452;&#50724;&#54588; &#44221;&#51452;&#54400;&#49912;&#47217; ÖPSS 0 9 0  • c O...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=26" rel="nofollow">Braxton Watts</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:40</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943311#post71943311"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">8,562</td>
+	<td class="alt2 field_posts">1,005,692</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=92357"><span style='color:#CC0000'>Cika Strile</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=323610"><span style='color:#000000'>bubi mir</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=337338"><span style='color:#000000'>Meadow</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_88" /></td>
+	<td class="alt1Active field_title" align="left" id="f88">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=88"><strong>Društvene znanosti</strong></a>
+			
+		</div>
+		<div class="smallfont">Sociologija, antropologija, etnologija...
+Podforum: <a href="http://www.forum.hr/forumdisplay.php?f=287"><b>Jezikoslovlje</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/icon3.gif" alt="Lightbulb" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=749012" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Jezični savjetnik (3. izdanje)'"><strong>Jezični savjetnik (3. izdanje)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=287" rel="nofollow">odmorna</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">23:43</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71936993#post71936993"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,515</td>
+	<td class="alt2 field_posts">237,559</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=267528"><span style='color:#000000'>InterMezzo</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_71" /></td>
+	<td class="alt1Active field_title" align="left" id="f71">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=71"><strong>Povijest</strong></a>
+			
+		</div>
+		<div class="smallfont">Politička, društvena, kulturna, univerzalna povijest. 
+<br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=178"><b>Vojna povijest i tehnologija</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=243"><b>Domovinski rat</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1103729" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Porijeklo titule &quot;ban&quot;'"><strong>Porijeklo titule...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=71" rel="nofollow">Dilberth</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:43</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943343#post71943343"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">4,317</td>
+	<td class="alt2 field_posts">517,178</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=14774"><span style='color:#CC0000'>Scotsman</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=70003"><span style='color:#000000'><span class="__cf_email__" data-cfemail="fe8c9b849190be8a918c">[email&#160;protected]</span></span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=76721"><span style='color:#000000'>Zoran Oštrić</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_32" /></td>
+	<td class="alt1Active field_title" align="left" id="f32">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=32"><strong>Prirodne znanosti</strong></a>
+			
+		</div>
+		<div class="smallfont">Čista znanost za jako pametne i one koji takvima žele postati <br>
+Podforum: <a href="http://www.forum.hr/forumdisplay.php?f=298"><b>Armstrong Station - Astronomija i astrofizika</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=124895" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Krvne grupe'"><strong>Krvne grupe</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=32" rel="nofollow">sonata-LPG</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:18</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943061#post71943061"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">4,671</td>
+	<td class="alt2 field_posts">183,753</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=66165"><span style='color:#000000'>El Ninho</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=84686"><span style='color:#000000'>aqualung</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=134787"><span style='color:#000000'>Frogger</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_141" /></td>
+	<td class="alt1Active field_title" align="left" id="f141">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=141"><strong>Alternativa</strong></a>
+			
+		</div>
+		<div class="smallfont">Noetički pristup stvarnosti. 
+<br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=165"><b>Astrologija</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=206"><b>Na rubu znanosti</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=204"><b>Magija i mistika</b></a>,  <a href="http://www.forum.hr/forumdisplay.php?f=203"><b>Alternativno liječenje</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1036637" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Chatrails (chat tema)'"><strong>Chatrails (chat tema)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=141" rel="nofollow">Beljki</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:32</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943203#post71943203"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">3,961</td>
+	<td class="alt2 field_posts">633,738</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=24892"><span style='color:#000000'>Bat Kol</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_25" /></td>
+	<td class="alt1Active field_title" align="left" id="f25">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=25"><strong>Svijet oko nas</strong></a>
+			
+		</div>
+		<div class="smallfont">Za one koji poštuju prirodu...
+<br>Podforum <a href="http://www.forum.hr/forumdisplay.php?f=227"><b>Poljoprivreda</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=630096" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Uzgoj limuna, agruma...'"><strong>Uzgoj limuna, agruma...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=227" rel="nofollow">Biljka112</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		10.10.2018. <span class="time">20:39</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71915621#post71915621"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,719</td>
+	<td class="alt2 field_posts">116,597</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=81898"><span style='color:#000000'>fermina-daza</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_389" /></td>
+	<td class="alt1Active field_title" align="left" id="f389">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=389"><strong>Umirovljenici</strong></a>
+			
+		</div>
+		<div class="smallfont">Seniori 55+</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1049265" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Dobro došli! (chat)'"><strong>Dobro došli! (chat)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=389" rel="nofollow">saurus</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">00:07</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71937215#post71937215"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">16</td>
+	<td class="alt2 field_posts">3,296</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=90680"><span style='color:#CC0000'>Sabaa</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=404113"><span style='color:#000000'>Goluždrava</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_21" /></td>
+	<td class="alt1Active field_title" align="left" id="f21">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=21"><strong>Ženski kutak</strong></a>
+			
+		</div>
+		<div class="smallfont">Mi smo babe. Otpor je đžabe. <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=67"><b>Kokošinjac</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=364"><b>Slikovnica</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=902383" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Impulzivno kupovanje, konzumerizam, nagomilavanje'"><strong>Impulzivno kupovanje,...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=21" rel="nofollow">champagne</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:43</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943339#post71943339"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">10,629</td>
+	<td class="alt2 field_posts">2,368,414</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=90680"><span style='color:#CC0000'>Sabaa</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=152192"><span style='color:#000000'>Fashion Barbie</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=370086"><span style='color:#000000'>Carla Marx</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_94" /></td>
+	<td class="alt1Active field_title" align="left" id="f94">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=94"><strong>Muški kutak</strong></a>
+			
+		</div>
+		<div class="smallfont">Za poklonike piva, daljinskog, verbalnog šovinizma i ostalih muških spika... <br>
+Podforum: <a href="http://www.forum.hr/forumdisplay.php?forumid=97"><b>Pivnica</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1030613" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Odjevne kombinacije'"><strong>Odjevne kombinacije</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=94" rel="nofollow">tisi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:32</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943197#post71943197"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">7,472</td>
+	<td class="alt2 field_posts">763,322</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=833"><span style='color:#CC0000'>Cuka</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=24892"><span style='color:#000000'>Bat Kol</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=107287"><span style='color:#000000'>aircanada</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=115440"><span style='color:#000000'>Deedy</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_155" /></td>
+	<td class="alt1Active field_title" align="left" id="f155">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=155"><strong>Teens</strong></a>
+			
+		</div>
+		<div class="smallfont">Napast in training</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1102685" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Najveća jadnica ovog podforuma'"><strong>Najveća jadnica ovog podforuma</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=155" rel="nofollow">Lord of Terror</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">03:47</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71938989#post71938989"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">447</td>
+	<td class="alt2 field_posts">128,287</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=235342"><span style='color:#000000'>Aese</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_64" /></td>
+	<td class="alt1Active field_title" align="left" id="f64">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=64"><strong>Kutak za školarce i studente</strong></a>
+			
+		</div>
+		<div class="smallfont"><i>Sjedni, 1!!!</i>
+<br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=259"><b>Državna matura</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=279"><b>Osnovne i srednje škole</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=278"><b>Fakulteti i visoka učilišta</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=164"><b>Upomoć, spašavajte!</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=917687" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Sve o stipendijama - vol. 2'"><strong>Sve o stipendijama - vol. 2</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=64" rel="nofollow">metalka64</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">21:53</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71935255#post71935255"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">2,630</td>
+	<td class="alt2 field_posts">565,121</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=94523"><span style='color:#CC0000'>L3go</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=625907"><span style='color:#000000'>Querencia</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_22" /></td>
+	<td class="alt1Active field_title" align="left" id="f22">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=22"><strong>Dijaspora</strong></a>
+			
+		</div>
+		<div class="smallfont">Za sve iseljenike.
+<br>Podforum: <a href="http://www.forum.hr/forumdisplay.php?f=345"><b>Emigracija</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1065591" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Danska online Vol II'"><strong>Danska online Vol II</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=22" rel="nofollow">Splićankaa</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">07:23</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71942209#post71942209"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,118</td>
+	<td class="alt2 field_posts">243,841</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=45583"><span style='color:#000000'>Skattemus</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=121350"><span style='color:#000000'>Simple Fille</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_45" /></td>
+	<td class="alt1Active field_title" align="left" id="f45">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=45"><strong>Druženje &amp; kava</strong></a>
+			
+		</div>
+		<div class="smallfont">Mjesto gdje se forumaši druže <br>
+Podforum: <a href="http://www.forum.hr/forumdisplay.php?forumid=109"><b>Tulumara</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1017481" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Koja vam se misao upravo vrti po glavi? (9)'"><strong>Koja vam se misao upravo vrti...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=45" rel="nofollow">amethystesky</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:40</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943307#post71943307"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,129</td>
+	<td class="alt2 field_posts">915,287</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=178807"><span style='color:#000000'>Wacky Davidson</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=198499"><span style='color:#000000'>ball</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_100" /></td>
+	<td class="alt1Active field_title" align="left" id="f100">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=100"><strong>Lijepa naša</strong></a>
+			
+		</div>
+		<div class="smallfont">Gradovi i sela Hrvatske - <a href="http://www.forum.hr/forumdisplay.php?f=150"><b>Zagreb</b></a>, Split, Rijeka, Osijek, Babina Greda...</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/smilies/redface1.gif" alt="Red face" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=777966" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Na ovoj temi kudimo i hvalimo ZET - vol. 2'"><strong>Na ovoj temi kudimo i hvalimo...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=150" rel="nofollow">Nadbiskup</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">07:24</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71942255#post71942255"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">2,023</td>
+	<td class="alt2 field_posts">231,654</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=14774"><span style='color:#CC0000'>Scotsman</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=129959"><span style='color:#000000'>MajaMama</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=424290"><span style='color:#CC0000'>Dyma</span></a>&nbsp;</div></td>
+	
+</tr>
+
+
+</tbody>
+
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="6">
+			<div style="position:relative; min-height:13pt">
+				
+				<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_13')"><img id="collapseimg_forumbit_13" src="images/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+				
+				
+				<a style="position:absolute; left:0; top:0" href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=13">Kultura i zabava</a>
+				
+				
+				
+				
+				
+					<!-- FORUM_SPECIFIX_HOME_PLACEHOLDER -->
+				
+			</div>
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_13" style="">
+
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_16" /></td>
+	<td class="alt1Active field_title" align="left" id="f16">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=16"><strong>Film</strong></a>
+			
+		</div>
+		<div class="smallfont">Art, cult and all that trash</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1051459" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Ant-Man and the Wasp (2018)'"><strong>Ant-Man and the Wasp (2018)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=16" rel="nofollow">GemsBond</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:34</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943231#post71943231"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">6,111</td>
+	<td class="alt2 field_posts">555,261</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=25734"><span style='color:#000000'>Mr Smoogj</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=223084"><span style='color:#000000'>Deckard</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=424290"><span style='color:#CC0000'>Dyma</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_28" /></td>
+	<td class="alt1Active field_title" align="left" id="f28">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=28"><strong>Glazba</strong></a>
+			
+		</div>
+		<div class="smallfont">Rock around the clock <br>
+Podforumi: 
+<a href="http://www.forum.hr/forumdisplay.php?forumid=399"><b>Play liste</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=105"><b>Stvaranje glazbe</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=393"><b>Zabavna glazba</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1089745" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'NOVI CHAT [KAD MI CHAT U GLAVU UDARI]'"><strong>NOVI CHAT [KAD MI CHAT U...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=393" rel="nofollow">Zippy</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:39</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943295#post71943295"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">8,251</td>
+	<td class="alt2 field_posts">1,013,500</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=23572"><span style='color:#000000'>late bloomer</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=263712"><span style='color:#000000'>Snowcrowned</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=444889"><span style='color:#000000'>Shizza</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_29" /></td>
+	<td class="alt1Active field_title" align="left" id="f29">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=29"><strong>Književnost</strong></a>
+			
+		</div>
+		<div class="smallfont">Čitam, dakle jesam <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=73"><b>Mali literarni kutić</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=268"><b>Klub knjige</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=915383" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Besramni dnevnik (2. dio)'"><strong>Besramni dnevnik (2. dio)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=73" rel="nofollow">Enchantress</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">18:16</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71932123#post71932123"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">3,849</td>
+	<td class="alt2 field_posts">252,698</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=25734"><span style='color:#000000'>Mr Smoogj</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=106088"><span style='color:#000000'>Wild Horses</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_30" /></td>
+	<td class="alt1Active field_title" align="left" id="f30">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=30"><strong>Televizija</strong></a>
+			
+		</div>
+		<div class="smallfont">Sve što trebam jest komad kruha i TV <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=294"><b>Serije</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=146"><b>Sapunice</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=147"><b>Neprikazano - serije</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=326"><b>Neprikazano - sapunice</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=208"><b>Reality TV</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/icon2.gif" alt="Arrow" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1083365" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'The Outpost (2018)'"><strong>The Outpost (2018)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=147" rel="nofollow">dobrimag</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:27</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943159#post71943159"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">4,574</td>
+	<td class="alt2 field_posts">2,195,394</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=28339"><span style='color:#000000'>soundvision</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=30733"><span style='color:#000000'>Jay Bluebell</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=47326"><span style='color:#000000'>KLCCLK</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=198499"><span style='color:#000000'>ball</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=396995"><span style='color:#000000'>TheWitch</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=404113"><span style='color:#000000'>Goluždrava</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=624681"><span style='color:#000000'>casilda</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_154" /></td>
+	<td class="alt1Active field_title" align="left" id="f154">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=154"><strong>Fotografija</strong></a>
+			
+		</div>
+		<div class="smallfont">Fotografiram. Dakle, svijet postoji. 
+<br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=258"><b>Foto natječaji</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=292"><b>Fotoaparati i oprema</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=602905" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Canon Club II'"><strong>Canon Club II</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=292" rel="nofollow">toni_os</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">00:06</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71937201#post71937201"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,309</td>
+	<td class="alt2 field_posts">269,669</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=90680"><span style='color:#CC0000'>Sabaa</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=98187"><span style='color:#000000'>mljac1</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=113816"><span style='color:#000000'>dile</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_37" /></td>
+	<td class="alt1Active field_title" align="left" id="f37">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=37"><strong>Ostale umjetnosti</strong></a>
+			
+		</div>
+		<div class="smallfont">Slikarstvo, arhitektura, umjetnost života... <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=161"><b>Kazalište</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=191"><b>Strip</b></a>, <a href="http://forum.hr/forumdisplay.php?f=152"><b>Kreativni nered</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/smilies/cool2.gif" alt="Cool" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=91853" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Tex Willer'"><strong>Tex Willer</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=191" rel="nofollow">Nadbiskup</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">07:37</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71942551#post71942551"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">2,091</td>
+	<td class="alt2 field_posts">44,458</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=942"><span style='color:#000000'>kemik</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_123" /></td>
+	<td class="alt1Active field_title" align="left" id="f123">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=123"><strong>Ostali mediji</strong></a>
+			
+		</div>
+		<div class="smallfont">O medijima, bez televizije. I novinarima.
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=332"><b>Tisak</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=333"><b>Radio</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=366"><b>Internet</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=106363" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Jutarnji list'"><strong>Jutarnji list</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=332" rel="nofollow">believer</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">01:23</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71937635#post71937635"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">949</td>
+	<td class="alt2 field_posts">63,837</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=25734"><span style='color:#000000'>Mr Smoogj</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_197" /></td>
+	<td class="alt1Active field_title" align="left" id="f197">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=197"><strong>Trash kultura</strong></a>
+			
+		</div>
+		<div class="smallfont">Sve još miriše na trash</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1099767" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Gdje je nestao/nestala...?'"><strong>Gdje je nestao/nestala...?</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=197" rel="nofollow">leMONZoo</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">14:33</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71928457#post71928457"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">227</td>
+	<td class="alt2 field_posts">106,117</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=94523"><span style='color:#CC0000'>L3go</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=133459"><span style='color:#000000'>isadora w.</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_38" /></td>
+	<td class="alt1Active field_title" align="left" id="f38">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=38"><strong>Vicevi</strong></a>
+			
+		</div>
+		<div class="smallfont">Ako ste čuli dobar vic, ispričajte ga cijelom forumu</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=837557" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Smiješne fotke vol. 3'"><strong>Smiješne fotke vol. 3</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=38" rel="nofollow">FeetF1</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">23:53</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71937089#post71937089"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,006</td>
+	<td class="alt2 field_posts">66,707</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=49393"><span style='color:#000000'>mrzm smglsnk</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_101" /></td>
+	<td class="alt1Active field_title" align="left" id="f101">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=101"><strong>Fantastika (SF, fantasy, horror...)</strong></a>
+			
+		</div>
+		<div class="smallfont">We create Worlds! <br>
+Podforum:  <b><a href="http://www.forum.hr/forumdisplay.php?forumid=342">A Song of Ice and Fire</a></b></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=994497" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Black Tower of Joy ;) (Chat topic)'"><strong>Black Tower of Joy ;) (Chat...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=342" rel="nofollow">Wikiceha</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">20:07</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71933501#post71933501"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,324</td>
+	<td class="alt2 field_posts">147,609</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=51921"><span style='color:#000000'>Begemotica</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=424290"><span style='color:#CC0000'>Dyma</span></a>&nbsp;</div></td>
+	
+</tr>
+
+
+</tbody>
+
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="6">
+			<div style="position:relative; min-height:13pt">
+				
+				<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_14')"><img id="collapseimg_forumbit_14" src="images/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+				
+				
+				<a style="position:absolute; left:0; top:0" href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=14">Lifestyle</a>
+				
+				
+				
+				
+				
+					<!-- FORUM_SPECIFIX_HOME_PLACEHOLDER -->
+				
+			</div>
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_14" style="">
+
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_36" /></td>
+	<td class="alt1Active field_title" align="left" id="f36">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=36"><strong>Zdravlje</strong></a>
+			
+		</div>
+		<div class="smallfont">Najvažnija stvar na svijetu <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=198"><b>Žensko zdravlje</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=296"><b>Stomatologija i oralna higijena</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=310938" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Mušice u vidnom polju / eye floaters'"><strong>Mušice u vidnom polju / eye...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=36" rel="nofollow">saradon</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">23:17</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71936647#post71936647"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">8,974</td>
+	<td class="alt2 field_posts">578,623</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=380"><span style='color:#000000'>lahor</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=14903"><span style='color:#000000'>trebor</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=252079"><span style='color:#000000'>leeloo27</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=338454"><span style='color:#000000'>El Gato Félix</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_143" /></td>
+	<td class="alt1Active field_title" align="left" id="f143">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=143"><strong>Rekreacija</strong></a>
+			
+		</div>
+		<div class="smallfont"><a href="http://www.forum.hr/forumdisplay.php?f=346"><b>Trčanje</b></a>, teretana, plivanje, <a href="http://www.forum.hr/forumdisplay.php?f=213"><b>bicikl</b></a>, joga, <a href="http://www.forum.hr/forumdisplay.php?forumid=225"><b>planinarenje</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=185"><b>oprema</b></a>, ostali načini dangubljenja</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=380386" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Zajednička tema za sve trkače'"><strong>Zajednička tema za sve trkače</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=346" rel="nofollow">rexi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:37</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943271#post71943271"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">5,526</td>
+	<td class="alt2 field_posts">612,342</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=21984"><span style='color:#000000'>tvuk</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=436381"><span style='color:#000000'>tisi</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_34" /></td>
+	<td class="alt1Active field_title" align="left" id="f34">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=34"><strong>Posao i karijera</strong></a>
+			
+		</div>
+		<div class="smallfont">Od vratara do direktora u tri tjedna <br>
+Podforum: <a href="http://www.forum.hr/forumdisplay.php?s=&amp;forumid=338"><b>Informacije o poslodavcima</b></a>, <a href="http://www.forum.hr/forumdisplay.php?s=&amp;forumid=120"><b>Iza katedre</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=774958" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Hrvatski zavod za mirovinsko osiguranje (HZMO)'"><strong>Hrvatski zavod za mirovinsko...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=338" rel="nofollow">Masha snasha</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:38</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943279#post71943279"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">4,552</td>
+	<td class="alt2 field_posts">321,920</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=177592"><span style='color:#000000'>Ruralna</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=625907"><span style='color:#000000'>Querencia</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_74" /></td>
+	<td class="alt1Active field_title" align="left" id="f74">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=74"><strong>Stanovanje</strong></a>
+			
+		</div>
+		<div class="smallfont">Gdje i kako stanujete, i kako uopće doći do vlastita stana <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=134"><b>Vrt</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=61"><b>Sam svoj majstor</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=179"><b>Interijeri</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/icon2.gif" alt="Arrow" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=192063" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Toplinske crpke'"><strong>Toplinske crpke</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=74" rel="nofollow">Offshore</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:42</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943327#post71943327"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">13,471</td>
+	<td class="alt2 field_posts">902,359</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=32625"><span style='color:#000000'>cd_covers</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=81898"><span style='color:#000000'>fermina-daza</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=153579"><span style='color:#000000'>City</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_7" /></td>
+	<td class="alt1Active field_title" align="left" id="f7">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=7"><strong>Kućni ljubimci</strong></a>
+			
+		</div>
+		<div class="smallfont">Za vlasnike pasa, mačaka i ostalih kućnih životinjica <br>
+Podforum: <a href="http://www.forum.hr/forumdisplay.php?f=158"><b>Plava šapa</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=202"><b>Fotoalbum ljubimaca</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=189151" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Sirova prehrana za pse (BARF)'"><strong>Sirova prehrana za pse (BARF)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=7" rel="nofollow">Didi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">21:34</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71934923#post71934923"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">15,477</td>
+	<td class="alt2 field_posts">645,591</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=81898"><span style='color:#000000'>fermina-daza</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=237719"><span style='color:#000000'>Corduroy</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_42" /></td>
+	<td class="alt1Active field_title" align="left" id="f42">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=42"><strong>Automobili</strong></a>
+			
+		</div>
+		<div class="smallfont">Život na kotačima <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=199"><b>Nautika</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=131"><b>Motori i skuteri</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=149"><b>Autoplin</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=995725" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Mazda 3 (2014.) Vol. 2'"><strong>Mazda 3 (2014.) Vol. 2</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=42" rel="nofollow">jolly_bravo</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:29</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943181#post71943181"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">27,727</td>
+	<td class="alt2 field_posts">1,252,821</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=86712"><span style='color:#000000'>Josip4</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=134784"><span style='color:#000000'>Danny Z.</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=310539"><span style='color:#000000'>Fishkal</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_43" /></td>
+	<td class="alt1Active field_title" align="left" id="f43">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=43"><strong>Putovanja</strong></a>
+			
+		</div>
+		<div class="smallfont">Gdje ljetujete, zimujete, idete na izlete? I kako vam je bilo?
+<br>Podforum: <a href="http://www.forum.hr/forumdisplay.php?f=344"><b>Hrvatska i turizam</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=323"><b>Destinacije i putopisi</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=776812" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'London (III. dio) (OBAVEZNO PROČITATI PRVI POST!)'"><strong>London (III. dio) (OBAVEZNO...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=323" rel="nofollow">ivana)</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">07:42</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71942681#post71942681"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">3,181</td>
+	<td class="alt2 field_posts">490,705</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=94523"><span style='color:#CC0000'>L3go</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=192822"><span style='color:#993399'>Nica</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=267528"><span style='color:#000000'>InterMezzo</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=385593"><span style='color:#000000'>Opal Zg</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_23" /></td>
+	<td class="alt1Active field_title" align="left" id="f23">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=23"><strong>Moda</strong></a>
+			
+		</div>
+		<div class="smallfont">Za one koji žele biti u trendu.
+Podforum: <a href="http://www.forum.hr/forumdisplay.php?f=310"><b>Dizajneri</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=46108" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Shopping u Grazu'"><strong>Shopping u Grazu</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=23" rel="nofollow">skroby17</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">23:40</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71936963#post71936963"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">2,528</td>
+	<td class="alt2 field_posts">485,537</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=338904"><span style='color:#000000'>makyca</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_99" /></td>
+	<td class="alt1Active field_title" align="left" id="f99">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=99"><strong>Kozmetika</strong></a>
+			
+		</div>
+		<div class="smallfont">A perfect gift. 
+<br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=177"><b>Kosa</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=174"><b>Dekorativna kozmetika</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=172"><b>Preparativna kozmetika</b></a> i <a href="http://www.forum.hr/forumdisplay.php?f=186"><b>Prirodna kozmetika</b></a>.</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/smilies/thumbs.gif" alt="Thumbs up" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1054351" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Gradska Ljekarna Zagreb'"><strong>Gradska Ljekarna Zagreb</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=99" rel="nofollow">cukrena</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:43</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943341#post71943341"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,350</td>
+	<td class="alt2 field_posts">1,105,045</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=178943"><span style='color:#000000'>Prokleta</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=370086"><span style='color:#000000'>Carla Marx</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=383073"><span style='color:#000000'>Acid_2</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_44" /></td>
+	<td class="alt1Active field_title" align="left" id="f44">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=44"><strong>Gastronomija</strong></a>
+			
+		</div>
+		<div class="smallfont">Za kuhare i kuharice te one koji to žele postati <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=311"><b>Eno i ino</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=195"><b>Hrana i zdravlje</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=194"><b>Kuhinja bez mesa</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1031185" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi '&#352;to ste imali za doru&#269;ak? (vol. 2)'"><strong>&#352;to ste imali za doru&#269;ak?...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=44" rel="nofollow">bug_lady</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:33</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943213#post71943213"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">5,776</td>
+	<td class="alt2 field_posts">610,898</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=94523"><span style='color:#CC0000'>L3go</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=289239"><span style='color:#CC0000'>Pringles</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=364222"><span style='color:#000000'>body halleck</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=515131"><span style='color:#000000'>gargamišamel</span></a>&nbsp;</div></td>
+	
+</tr>
+
+
+</tbody>
+
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="6">
+			<div style="position:relative; min-height:13pt">
+				
+				<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_48')"><img id="collapseimg_forumbit_48" src="images/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+				
+				
+				<a style="position:absolute; left:0; top:0" href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=48">Sport</a>
+				
+				
+				
+				
+				
+					<!-- FORUM_SPECIFIX_HOME_PLACEHOLDER -->
+				
+			</div>
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_48" style="">
+
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_49" /></td>
+	<td class="alt1Active field_title" align="left" id="f49">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=49"><strong>Nogomet</strong></a>
+			
+		</div>
+		<div class="smallfont">O loptanju nogom u širem smislu. 
+<br>Podforumi: <a href="http://www.forum.hr/forumdisplay.php?f=193"><b>Navijači</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=300"><b>Hrvatski nogomet</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1111783" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi '&#52632;&#52380;&#53084;&#44152; ABC&#12304;&#52852;&#53665;:wds69&#12305;&#12304;ws06.net&#12305;(&#52632;&#52380;&#52636;&#51109;&#49397;) &#52632;&#52380;&#52636;&#51109;&#50504;&#47560; &#52632;&#52380;&#52636;&#51109;&#50629;&#49548; &#52632;&#5'"><strong>&#52632;&#52380;&#53084;&#44152;...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=49" rel="nofollow">woaini303201</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">07:43</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71942699#post71942699"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">2,373</td>
+	<td class="alt2 field_posts">1,744,698</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=19613"><span style='color:#000000'>zoom-zoom</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=10406"><span style='color:#CC0000'>the edge</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=81445"><span style='color:#000000'>B52</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=128269"><span style='color:#000000'>nero</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=252169"><span style='color:#000000'>Tijs</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=253384"><span style='color:#000000'>mitch</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=272046"><span style='color:#000000'>Blay</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_387" /></td>
+	<td class="alt1Active field_title" align="left" id="f387">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=387"><strong>Rukomet</strong></a>
+			
+		</div>
+		<div class="smallfont">Igra kauboja i Indijanaca</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/misc/poll_posticon.gif" alt="Anketa" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1052471" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Liga prvaka 2018/19'"><strong>Liga prvaka 2018/19</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=387" rel="nofollow">ksapi</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		07.10.2018. <span class="time">22:06</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71872947#post71872947"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">34</td>
+	<td class="alt2 field_posts">6,047</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=47326"><span style='color:#000000'>KLCCLK</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=522274"><span style='color:#000000'>ksapi</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_316" /></td>
+	<td class="alt1Active field_title" align="left" id="f316">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=316"><strong>Tenis</strong></a>
+			
+		</div>
+		<div class="smallfont">Uh, ah, uf, joj!</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/icon3.gif" alt="Lightbulb" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1043727" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'ATP Tenis 2018.'"><strong>ATP Tenis 2018.</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=316" rel="nofollow">RightWing</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">17:15</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71931459#post71931459"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">371</td>
+	<td class="alt2 field_posts">248,566</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=110257"><span style='color:#000000'>Luyindula</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=533031"><span style='color:#000000'>Masha19</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_46" /></td>
+	<td class="alt1Active field_title" align="left" id="f46">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=46"><strong>Formula 1</strong></a>
+			
+		</div>
+		<div class="smallfont">Brm, brm, fiju...</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1030657" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Tračevi i novosti v3'"><strong>Tračevi i novosti v3</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=46" rel="nofollow">maminho</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:33</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943207#post71943207"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,368</td>
+	<td class="alt2 field_posts">333,977</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=2568"><span style='color:#000000'>WayOut</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=193947"><span style='color:#000000'>gaff_</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_351" /></td>
+	<td class="alt1Active field_title" align="left" id="f351">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=351"><strong>Košarka</strong></a>
+			
+		</div>
+		<div class="smallfont">Loptost radovanja pod obručima</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=816130" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'NBA Draft, tradeovi i tračevi'"><strong>NBA Draft, tradeovi i tračevi</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=351" rel="nofollow">Ace Ventura</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">00:55</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71937533#post71937533"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">453</td>
+	<td class="alt2 field_posts">221,640</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=16061"><span style='color:#000000'>fortaleza</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=110257"><span style='color:#000000'>Luyindula</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=238083"><span style='color:#000000'>Pierce34</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_11" /></td>
+	<td class="alt1Active field_title" align="left" id="f11">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=11"><strong>Ostali sportovi</strong></a>
+			
+		</div>
+		<div class="smallfont">Svi ostali sportovi <br>
+Podforum:   <a href="http://www.forum.hr/forumdisplay.php?forumid=136"><b>Borilački sportovi</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1094657" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'NFL PICK SIX'"><strong>NFL PICK SIX</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=11" rel="nofollow">Stric iz ozadja</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:14</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943017#post71943017"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">2,998</td>
+	<td class="alt2 field_posts">366,852</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=16061"><span style='color:#000000'>fortaleza</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=110257"><span style='color:#000000'>Luyindula</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_128" /></td>
+	<td class="alt1Active field_title" align="left" id="f128">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=128"><strong>IMF kladionica</strong></a>
+			
+		</div>
+		<div class="smallfont">Ulaz na vlastitu odgovornost !!!</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=371642" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Online klađenje u stranim kladionicama'"><strong>Online klađenje u stranim...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=128" rel="nofollow">Verter</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">00:30</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71937381#post71937381"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">2,407</td>
+	<td class="alt2 field_posts">389,107</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=169088"><span style='color:#000000'>tomi</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=522274"><span style='color:#000000'>ksapi</span></a>&nbsp;</div></td>
+	
+</tr>
+
+
+</tbody>
+
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="6">
+			<div style="position:relative; min-height:13pt">
+				
+				<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_15')"><img id="collapseimg_forumbit_15" src="images/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+				
+				
+				<a style="position:absolute; left:0; top:0" href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=15">Informatička tehnologija</a>
+				
+				
+				
+				
+				
+					<!-- FORUM_SPECIFIX_HOME_PLACEHOLDER -->
+				
+			</div>
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_15" style="">
+
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_79" /></td>
+	<td class="alt1Active field_title" align="left" id="f79">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=79"><strong>IT Help service</strong></a>
+			
+		</div>
+		<div class="smallfont">Ovdje postavite sva vaša pitanja i probleme informatičke prirode <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=85"><b>Tutorials</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=89"><b>Security</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1107241" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Laptop mi se iznenada ugasi'"><strong>Laptop mi se iznenada ugasi</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=79" rel="nofollow">kas0</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">22:52</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71936253#post71936253"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">33,413</td>
+	<td class="alt2 field_posts">298,840</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=5403"><span style='color:#CC0000'>Equilibrium</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=109223"><span style='color:#000000'>Cilim</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_17" /></td>
+	<td class="alt1Active field_title" align="left" id="f17">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=17"><strong>Hardver</strong></a>
+			
+		</div>
+		<div class="smallfont">Hardverske teme, sve osim pitanja, problema i oglasa. 
+<br>Podforumi: <a href="http://forum.hr/forumdisplay.php?f=218"><b>Stolna</b></a>, <a href="http://forum.hr/forumdisplay.php?f=217"><b>Prijenosna računala</b></a>, <a href="http://forum.hr/forumdisplay.php?f=219"><b>Periferija</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/smilies/mrgreen1.gif" alt="Talking" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1102773" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'konzultacije za PC upgrade 2018'"><strong>konzultacije za PC upgrade...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=218" rel="nofollow">Smartic</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">00:30</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71937373#post71937373"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">25,929</td>
+	<td class="alt2 field_posts">358,986</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=5403"><span style='color:#CC0000'>Equilibrium</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=40506"><span style='color:#000000'>Tiki</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=107234"><span style='color:#000000'>taipan</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=99540"><span style='color:#000000'>The New Guy</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=283498"><span style='color:#000000'>Smartic</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_18" /></td>
+	<td class="alt1Active field_title" align="left" id="f18">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=18"><strong>Softver</strong></a>
+			
+		</div>
+		<div class="smallfont">O programima koje koristite ili namjeravate koristiti <br></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=516716" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'MS Office - Q&amp;A - zbirna tema (Word, Excel, PowerPoint...)'"><strong>MS Office - Q&amp;A - zbirna tema...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=18" rel="nofollow">-leptirić</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">22:17</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71935725#post71935725"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">10,904</td>
+	<td class="alt2 field_posts">126,511</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=5403"><span style='color:#CC0000'>Equilibrium</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=109223"><span style='color:#000000'>Cilim</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_51" /></td>
+	<td class="alt1Active field_title" align="left" id="f51">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=51"><strong>Internet</strong></a>
+			
+		</div>
+		<div class="smallfont">Sve o internetu, sadržaju i tehnologiji <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=256"><b>Web</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=41"><b>Web development</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=168"><b>Internet biznis</b></a>, <a href="http://www.forum.hr/forumdisplay.php?f=297"><b>Kupovanje na internetu</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=196131" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'A1 (B.Net)'"><strong>A1 (B.Net)</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=51" rel="nofollow">PETIT-BEURRE</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">07:06</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71941777#post71941777"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">11,051</td>
+	<td class="alt2 field_posts">267,903</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=38519"><span style='color:#000000'>phiber</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=55332"><span style='color:#000000'>Wrbhhh</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=82184"><span style='color:#000000'>BundyBoy</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=92753"><span style='color:#000000'>Duba</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_110" /></td>
+	<td class="alt1Active field_title" align="left" id="f110">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=110"><strong>Za napredne korisnike</strong></a>
+			
+		</div>
+		<div class="smallfont">Hardcore geeks here <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=92"><b>Linux</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=86"><b>Programiranje</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=111"><b>Networking</b></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1012081" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'A ono - samo prpo&#353;no'"><strong>A ono - samo prpo&#353;no</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=110" rel="nofollow">Lugar Ćiril</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">07:19</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71942125#post71942125"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">8,007</td>
+	<td class="alt2 field_posts">170,234</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=5403"><span style='color:#CC0000'>Equilibrium</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=12959"><span style='color:#000000'>grogo bolger</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_39" /></td>
+	<td class="alt1Active field_title" align="left" id="f39">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=39"><strong>Kompjutorske igre</strong></a>
+			
+		</div>
+		<div class="smallfont">Kultura igranja i ponoćnog ratovanja konzolom i tastaturom. 
+Podforum: <a href="http://www.forum.hr/forumdisplay.php?f=209"><b>Konzole</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/icon1.gif" alt="Post" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=252386" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Najbolji soundtrack iz igre'"><strong>Najbolji soundtrack iz igre</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=39" rel="nofollow">gigra</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">00:56</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71937537#post71937537"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">6,746</td>
+	<td class="alt2 field_posts">332,470</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=38519"><span style='color:#000000'>phiber</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=50280"><span style='color:#000000'>Spectre</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=92658"><span style='color:#000000'>Hmxhmx</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_87" /></td>
+	<td class="alt1Active field_title" align="left" id="f87">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=87"><strong>Audio i video tehnika</strong></a>
+			
+		</div>
+		<div class="smallfont">HiFi, TV, HD, satelitska, kamere i ostala potrošačka elektronika <br>
+Podforum: <a href="http://www.forum.hr/forumdisplay.php?forumid=133"><b>Sam svoj elektroničar</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=737550" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Android Mini PC / Smart TV box'"><strong>Android Mini PC / Smart TV box</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=87" rel="nofollow">lorca07</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">03:38</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71938975#post71938975"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">9,232</td>
+	<td class="alt2 field_posts">222,051</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=40506"><span style='color:#000000'>Tiki</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_112" /></td>
+	<td class="alt1Active field_title" align="left" id="f112">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=112"><strong>Mobilna tehnologija i telefonija</strong></a>
+			
+		</div>
+		<div class="smallfont">Podforumi: 
+<a href="http://www.forum.hr/forumdisplay.php?forumid=280"><b>Android</b></a> (Podforum <a href="http://www.forum.hr/forumdisplay.php?forumid=371"><b>Android aplikacije</b></a>), <a href="http://www.forum.hr/forumdisplay.php?forumid=336"><b>Windows</b></a> (Podforum <a href="http://www.forum.hr/forumdisplay.php?forumid=372"><b>Windows Phone aplikacije</b></a>), 
+<a href="http://www.forum.hr/forumdisplay.php?forumid=241"><b>iOS</b></a> (Podforum <a href="http://www.forum.hr/forumdisplay.php?forumid=373"><b>iOS aplikacije</b></a>), <a href="http://www.forum.hr/forumdisplay.php?forumid=180"><b>Ostali mobiteli</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=182"><b> Usporedbe mobitela</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1011429" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Pitanja i odgovori - općenito o Androidu'"><strong>Pitanja i odgovori - općenito...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=280" rel="nofollow">Liberata</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:06</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71942937#post71942937"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">6,174</td>
+	<td class="alt2 field_posts">328,265</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=92753"><span style='color:#000000'>Duba</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=138450"><span style='color:#000000'>assassin</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=212920"><span style='color:#000000'>yucatan</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=279684"><span style='color:#000000'>akoj</span></a>&nbsp;</div></td>
+	
+</tr>
+
+
+</tbody>
+
+
+<tbody>
+
+	<tr>
+		<td class="tcat" colspan="6">
+			<div style="position:relative; min-height:13pt">
+				
+				<a style="float:right" href="#top" onclick="return toggle_collapse('forumbit_20')"><img id="collapseimg_forumbit_20" src="images/buttons/collapse_tcat.gif" alt="" border="0" /></a>
+				
+				
+				<a style="position:absolute; left:0; top:0" href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=20">Razno</a>
+				
+				
+				
+				
+				
+					<!-- FORUM_SPECIFIX_HOME_PLACEHOLDER -->
+				
+			</div>
+		</td>
+	</tr>
+
+</tbody>
+
+
+
+<tbody id="collapseobj_forumbit_20" style="">
+
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_106" /></td>
+	<td class="alt1Active field_title" align="left" id="f106">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=106"><strong>Forum Help!</strong></a>
+			
+		</div>
+		<div class="smallfont">Tehnička pomoć za Forum.hr. Top tema: <a href="http://www.forum.hr/showthread.php?t=544411"><b>Forum FAQ</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/icon4.gif" alt="Exclamation" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=245554" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Ne možete otvarati teme i pisati postove? (Problem s aktivacijskim e-mailom)'"><strong>Ne možete otvarati teme i...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=106" rel="nofollow">Sara2502</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">10:15</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71923651#post71923651"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">1,612</td>
+	<td class="alt2 field_posts">23,743</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=92753"><span style='color:#000000'>Duba</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=424290"><span style='color:#CC0000'>Dyma</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_10" /></td>
+	<td class="alt1Active field_title" align="left" id="f10">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=10"><strong>Poruke, žalbe, komentari</strong></a>
+			
+		</div>
+		<div class="smallfont">Vaše primjedbe, ideje,žalbe, komentari. Kako da Forum bude bolji i uljudniji. <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=70"><b>Čestitke i pozdravi</b></a> i <a href="http://www.forum.hr/forumdisplay.php?f=144"><b>Kutak za banirane</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1107193" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Masivni i masovni kineski (?) spam na forum.hr'"><strong>Masivni i masovni kineski (?)...</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=10" rel="nofollow">Lee Champa</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:35</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943243#post71943243"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">10,297</td>
+	<td class="alt2 field_posts">133,017</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=90680"><span style='color:#CC0000'>Sabaa</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=192822"><span style='color:#993399'>Nica</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=364222"><span style='color:#000000'>body halleck</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_6" /></td>
+	<td class="alt1Active field_title" align="left" id="f6">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=6"><strong>Baš razno</strong></a>
+			
+		</div>
+		<div class="smallfont">Teme za koje još nije otvoren specijalizirani podforum. <br/>
+Podforumi: <a href="http://forum.hr/forumdisplay.php?f=320"><b>Kolekcionarstvo</b></a>, <a href="http://forum.hr/forumdisplay.php?f=55"><b>Quizorama</b></a>.</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1105873" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'PANINI FIFA 365 2019 RAZMJENA'"><strong>PANINI FIFA 365 2019 RAZMJENA</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=320" rel="nofollow">legenda128</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:31</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943193#post71943193"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">3,619</td>
+	<td class="alt2 field_posts">257,261</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=235342"><span style='color:#000000'>Aese</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_148" /></td>
+	<td class="alt1Active field_title" align="left" id="f148">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=148"><strong>Off Topic</strong></a>
+			
+		</div>
+		<div class="smallfont">Chat, spam ma sve s kratkim rokom trajanja, a srcu drago</div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		<img class="inlineimg" src="images/icons/icon3.gif" alt="Lightbulb" border="0" />
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1101357" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Jesenski chat'"><strong>Jesenski chat</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=148" rel="nofollow">Hellfire</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Danas <span class="time">08:42</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71943321#post71943321"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">417</td>
+	<td class="alt2 field_posts">894,121</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=235342"><span style='color:#000000'>Aese</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=424290"><span style='color:#CC0000'>Dyma</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=685719"><span style='color:#000000'>Diamond Dog</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=702293"><span style='color:#000000'>BrightBull</span></a>, <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=702637"><span style='color:#000000'>GabrielSabatini</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_50" /></td>
+	<td class="alt1Active field_title" align="left" id="f50">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=50"><strong>Mali oglasi</strong></a>
+			
+		</div>
+		<div class="smallfont">Kupujem, prodajem, mijenjam, poklanjam, tražim... <br>
+Podforumi: <a href="http://www.forum.hr/forumdisplay.php?forumid=80"><b>Mobiteli</b></a>,  <a href="http://www.forum.hr/forumdisplay.php?forumid=135"><b>Tržnica hardvera</b></a>, <a href="http://www.forum.hr/forumdisplay.php?forumid=245"><b>Tržnica odjeće, obuće i sportske opreme</b></a></div>
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1107249" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'K: Samsung Galaxy S9'"><strong>K: Samsung Galaxy S9</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=80" rel="nofollow">Mister RomantiQ</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		Jučer <span class="time">20:53</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71934263#post71934263"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">855</td>
+	<td class="alt2 field_posts">30,821</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont"><a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=11988"><span style='color:#000000'>Elektra</span></a>&nbsp;</div></td>
+	
+</tr>
+<tr align="center">
+	<td class="alt2 field_spacer"><img src="images/statusicon/forum_old_lock.gif" alt="" border="0" id="forum_statusicon_359" /></td>
+	<td class="alt1Active field_title" align="left" id="f359">
+		<div>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;f=359"><strong>Arhiva</strong></a>
+			
+		</div>
+		
+		
+		
+	</td>
+	<td class="alt2 field_last_post">
+<div class="smallfont" align="left">
+	<div>
+		<span style="white-space:nowrap">
+		
+		
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;goto=newpost&amp;t=1076441" style="white-space:nowrap" title="Idi na prvi nepročitani post na temi 'Ruski rulet - chat tema'"><strong>Ruski rulet - chat tema</strong></a></span>
+	</div>
+	<div style="white-space:nowrap">
+		by <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;find=lastposter&amp;f=407" rel="nofollow">Henryj</a>
+	</div>
+	<div align="right" style="white-space:nowrap">
+		06.09.2018. <span class="time">12:44</span>
+		<a href="showthread.php?s=03f926b8309284edc5b957fe06e74bb5&amp;p=71457365#post71457365"><img class="inlineimg" src="images/buttons/lastpost.gif" alt="Idi na zadnji post" border="0" /></a>
+	</div>
+</div>
+</td>
+	<td class="alt1 field_threads">10,086</td>
+	<td class="alt2 field_posts">2,790,047</td>
+	
+	<td class="alt1 field_moderator"><div class="smallfont">&nbsp;</div></td>
+	
+</tr>
+
+
+</tbody>
+
+
+<tbody>
+	<tr>
+		<td class="tfoot" align="center" colspan="6"><div class="smallfont"><strong>
+			<a href="forumdisplay.php?s=03f926b8309284edc5b957fe06e74bb5&amp;do=markread" rel="nofollow">Označi forume pročitanim</a>
+			&nbsp; &nbsp;
+			<a href="showgroups.php?s=03f926b8309284edc5b957fe06e74bb5" rel="nofollow">Vođe Forum.hr-a</a>
+		</strong></div></td>
+	</tr>
+</tbody>
+</table>
+<!-- /main -->
+
+<br />
+<br />
+
+<!-- Google Adsense -->
+
+<!-- Google Adsense -->
+<br />
+<br />
+
+<!-- what's going on box -->
+<table id="whats_going_on" class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<thead>
+	<tr>
+		<td class="tcat" colspan="2">Koja je šema?</td>
+	</tr>
+</thead>
+
+<tbody>
+	<tr>
+		<td class="thead" colspan="2">
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumhome_stats')"><img id="collapseimg_forumhome_stats" src="images/buttons/collapse_thead.gif" alt="" border="0" /></a>
+			Forum.hr statistika
+		</td>
+	</tr>
+</tbody>
+<tbody id="collapseobj_forumhome_stats" style="">
+	<tr>
+		<td class="alt2"><img src="images/misc/stats.gif" alt="Forum.hr statistika" border="0" /></td>
+		<td class="alt1" width="100%">
+		<div class="smallfont">
+			<div>
+				Tema: 453,200,
+				Postova: 52,089,699,
+				Članova: 378,033
+			</div>
+			<div>Dobrodošlicu želimo: <a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=749557" rel="nofollow">bf448db381</a></div>
+		</div>
+		</td>
+	</tr>
+</tbody>
+
+<!-- today's birthdays -->
+<tbody>
+	<tr>
+		<td class="thead" colspan="2">
+			<a style="float:right" href="#top" onclick="return toggle_collapse('forumhome_birthdays')"><img id="collapseimg_forumhome_birthdays" src="images/buttons/collapse_thead.gif" alt="" border="0" /></a>
+			Današnji rođendani
+		</td>
+	</tr>
+</tbody>
+<tbody id="collapseobj_forumhome_birthdays" style="">
+	<tr>
+		<td class="alt2"><a href="calendar.php?s=03f926b8309284edc5b957fe06e74bb5&amp;do=getday&amp;day=2018-10-12&amp;sb=1"><img src="images/misc/birthday.gif" alt="Pogledaj rođendane" border="0" /></a></td>
+		<td class="alt1" width="100%"><div class="smallfont">&lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=7741">azrielo</a> &lrm;(57), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=10785">Academia</a> &lrm;(39), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=11363">cinca</a> &lrm;(40), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=13821">Sanwa</a> &lrm;(38), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=19430">ithinkofdemons</a> &lrm;(45), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=24881">wings</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=27113">act_a_fool</a> &lrm;(32), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=29471">Tinćek</a> &lrm;(44), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=72204">page912</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=257083">tessa5</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=149225">SilkBir</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=101512">answer1210</a> &lrm;(31), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=198947">afoodie</a> &lrm;(50), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=199673">mjur447</a> &lrm;(46), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=201070">markoni83</a> &lrm;(35), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=202373">miratin</a> &lrm;(31), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=203677">zmaja 00000</a> &lrm;(35), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=205757">raider1210</a> &lrm;(37), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=208335">doper</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=211050">agent-st</a> &lrm;(43), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=214307">xsinisax</a> &lrm;(51), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=215313">ofcari</a> &lrm;(32), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=215973">sthooligan</a> &lrm;(30), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=216539">plavusa111</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=268717">NIKITA1984</a> &lrm;(34), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=273667">flegma123</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=307804">...zara...</a> &lrm;(35), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=327302">Mala Ena</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=346244">Mrs Reddish</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=370770">loa</a> &lrm;(27), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=377542">Rubeola</a> &lrm;(46), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=380225">ninokvisko</a> &lrm;(26), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=404037">igor1210</a> &lrm;(34), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=472542">croking1</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=507280">Physiotherapist</a> &lrm;(31), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=507314">perlita94</a>, &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=517670">ladyinblack93</a> &lrm;(25), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=553610">Bludsucker</a> &lrm;(29), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=657615">Victo</a> &lrm;(25), &lrm;<a href="member.php?s=03f926b8309284edc5b957fe06e74bb5&amp;u=686079">Marikon</a> &lrm;(35)</div></td>
+	</tr>
+</tbody>
+<!-- end today's birthdays -->
+
+
+</table>
+<br />
+<!-- end what's going on box -->
+
+<!-- icons and login code -->
+<table cellpadding="0" cellspacing="2" border="0" width="100%">
+<tr valign="bottom">
+	<td>
+		<table cellpadding="2" cellspacing="0" border="0">
+		<tr>
+			<td><img src="images/statusicon/forum_new.gif" alt="Contains New Posts" border="0" /></td>
+			<td class="smallfont">&nbsp; Forum ima novih postova</td>
+		</tr>
+		<tr>
+			<td><img src="images/statusicon/forum_old.gif" alt="nema novih postova" border="0" /></td>
+			<td class="smallfont">&nbsp; Forum nema novih postova</td>
+		</tr>
+		<tr>
+			<td><img src="images/statusicon/forum_old_lock.gif" alt="Zatvoreni forum" border="0" /></td>
+			<td class="smallfont">&nbsp; Forum je zatvoren</td>
+		</tr>
+		</table>
+	</td>
+	
+</tr>
+</table>
+<!-- / icons and login code -->
+
+<br />
+<center>
+<!-- BANNER 728x90 -->
+<!-- ForumSpecifix v0.3 [loaded forum homepage @ position footer] -->
+<div id='div-gpt-ad-1432887778775-0'>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432887778775-0'); });
+</script>
+</div>
+<!-- BANNER -->	
+</center>
+<br /><br />
+<div class="smallfont" align="center">Sva vremena su GMT +2. Trenutno vrijeme je: <span class="time">08:44</span>.</div>
+<br />
+
+<!-- USC footer edit start -->
+</td>
+<td class="sidebar_column_spacer" width="10">
+<div style="width:10px; height:1px"></div>
+</td>
+<td class="sidebar_column" width="300" valign="top">
+<br />
+<!-- Edit Below This Point Only - Do NOT Edit Above This Line! -->
+<table width="100%" border="0" cellspacing="1" class="tborder sidebar">
+
+<!-- USC desni
+
+<tr>
+<td class="tcat">
+<a href="http://www.monitor.hr/marketing/forum" target="_blank">Marketing</a>
+</td>
+</tr>
+
+-->
+
+<tr>
+<td class="alt1">
+<!-- ForumSpecifix v0.3 [loaded forum homepage @ position sidebar] -->
+<div id='div-gpt-ad-1431606973377-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1431606973377-0'); });
+</script>
+</div><div id='div-gpt-ad-1432499442314-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432499442314-0'); });
+</script>
+</div><div id='div-gpt-ad-1492769956105-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492769956105-0'); });
+</script>
+</div><div id='div-gpt-ad-1492771933494-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492771933494-0'); });
+</script>
+</div><div id='div-gpt-ad-1432541932758-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432541932758-0'); });
+</script>
+</div><div id='div-gpt-ad-1432543191990-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432543191990-0'); });
+</script>
+</div><div id='div-gpt-ad-1432545865338-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432545865338-0'); });
+</script>
+</div><div id='div-gpt-ad-1432546276858-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432546276858-0'); });
+</script>
+</div><div id='div-gpt-ad-1432553338547-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432553338547-0'); });
+</script>
+</div><div id='div-gpt-ad-1435131362606-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1435131362606-0'); });
+</script>
+</div><div id='div-gpt-ad-1433345041791-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1433345041791-0'); });
+</script>
+</div><div id='div-gpt-ad-1432724563901-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432724563901-0'); });
+</script>
+</div>
+</td>
+</tr>
+<!-- USC desni kraj -->
+
+
+
+
+
+
+<!-- additional blocks go here -->
+<!-- to use an additional block uncomment the next section and enter HTML directly into the template. Replicate this code as required -->
+
+<!--
+<tr>
+<td class="alt1">
+Additional Block Content
+</td>
+</tr>
+-->
+
+</table>
+</td>
+</tr>
+</table>
+<!-- USC footer edit end -->
+
+
+		</div>
+	</div>
+</div>
+
+<!-- / close content container -->
+<!-- /content area table -->
+
+<form action="index.php" method="get" id="footer_options">
+	
+<table cellpadding="6" cellspacing="0" border="0" width="" class="page" align="center">
+<tr>
+	
+	
+		<td class="tfoot">
+			<select name="langid" onchange="switch_id(this, 'lang')">
+				<optgroup label="Brzi jezični izbornik">
+					<option value="1" class="" >-- English (US)</option>
+<option value="2" class="" selected="selected">-- Hrvatski (HR)</option>
+
+				</optgroup>
+			</select>
+		</td>
+	
+	<td class="tfoot" align="right" width="100%">
+		<div class="smallfont">
+			<strong>
+				<a href="/cdn-cgi/l/email-protection#2a4b4e4743446a4c45585f47044258" rel="nofollow">Pošalji nam e-mail</a> -
+				<a href="http://www.monitor.hr/marketing/forum" target="_blank">Marketing</a> -
+				
+				
+				<a href="archive/index.php">Tekst verzija</a> -
+				
+				<a href="#top" onclick="self.scrollTo(0, 0); return false;">Na vrh</a>
+			</strong>
+		</div>
+	</td>
+</tr>
+</table>
+
+<br />
+
+<div align="center">
+	<div class="smallfont" align="center">
+	<!-- Do not remove this copyright notice -->
+	Powered by vBulletin Version 3.8.4 (hrvatski) <br />Copyright &copy;2000 - 2018, Jelsoft Enterprises Ltd.
+	<!-- Do not remove this copyright notice -->
+	</div>
+	
+	<div class="smallfont" align="center">
+	<!-- Do not remove  or your scheduled tasks will cease to function -->
+	
+	<!-- Do not remove  or your scheduled tasks will cease to function -->
+	
+	Site content ©1999-2016 Forum.hr <br />Ad Management by <a href="http://redtyger.co.uk/" title="RedTyger website design, hosting and domains." target="_blank">RedTyger</a>
+	</div>
+</div>
+
+</form>
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+<!--
+	// Main vBulletin Javascript Initialization
+	vBulletin_init();
+
+// Wholesale links
+(function(){var a=document.getElementsByTagName("a");for(var b in a){try{var c=a[b].getAttribute("href");if(/http:\/\/www\.wholesale\-dress\.net/.test(c)&&!/union=\d+/.test(c))a[b].setAttribute("href",c+(/\?/.test(c)?"&":"?")+"union=7198")}catch(d){}}})();
+
+//-->
+</script>
+<!-- ForumSpecifix v0.3 [loaded forum homepage @ position floater] -->
+<div id='div-gpt-ad-1433345686775-0'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1433345686775-0'); });
+</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,1921 @@
+<!DOCTYPE html>
+<html lang="hu"><head>
+<meta charset="iso-8859-2">
+<title>ORIGO</title>
+<meta name="description" content="Friss hírek Magyarországról és a nagyvilágból, sport, technika, szórakozás.">
+<meta name="keywords" content="friss hírek, sport, politika, gazdaság">
+<link rel="canonical" href="http://www.origo.hu/index.html">
+<link rel="alternate" href="http://m.origo.hu/index.html">
+<script type="application/ld+json">
+{
+"@context" : "http://schema.org",
+"@type" : "WebPage",
+"name" : "ORIGO",
+"url" : "http://www.origo.hu/index.html",
+"keywords" : "friss hírek, sport, politika, gazdaság",
+"image" : "http://cdn.nwmgroups.hu/s/img/manifest/origo/1200x630-origo.jpg",
+"publisher" : {
+"@type": "Organization",
+"name": "New Wave Media Group Kft.",
+"logo": {
+"@type": "ImageObject",
+"height": "60",
+"width": "600",
+"url": "http://cdn.nwmgroups.hu/s/img/nwm/nwm_ldj_logo.png"
+}
+}
+}
+</script>
+<meta property="og:title" content="ORIGO">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.origo.hu/index.html">
+<meta property="og:description" content="Friss hírek Magyarországról és a nagyvilágból, sport, technika, szórakozás.">
+<meta property="og:image" content="http://cdn.nwmgroups.hu/s/img/manifest/origo/1200x630-origo.jpg">
+<meta property="og:image:alt" content="ORIGO">
+<meta property="fb:admins" content="1010912954,1641275657,628240450,100000136572606">
+<meta name="robots" content="all">
+<meta http-equiv="refresh" content="1740">
+<meta name="author" content="Origo">
+<link rel="author" title="Impresszum" href="http://www.origo.hu/impresszum/index.html">
+<link rel="alternate" type="application/rss+xml" href="http://www.origo.hu/contentpartner/rss/origoall/origo.xml">
+<link rel="apple-touch-icon" sizes="180x180" href="//cdn.nwmgroups.hu/s/img/manifest/origo/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//cdn.nwmgroups.hu/s/img/manifest/origo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//cdn.nwmgroups.hu/s/img/manifest/origo/favicon-16x16.png">
+<link rel="manifest" href="//cdn.nwmgroups.hu/s/json/manifest/origo/manifest.json">
+<link rel="mask-icon" href="//cdn.nwmgroups.hu/s/img/manifest/origo/safari-pinned-tab.svg" color="#155092">
+<link rel="shortcut icon" href="//cdn.nwmgroups.hu/s/img/manifest/origo/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Origo">
+<meta name="application-name" content="origo">
+<meta name="msapplication-config" content="//cdn.nwmgroups.hu/s/xml/manifest/origo/browserconfig.xml">
+<meta name="theme-color" content="#155092">
+<link rel="stylesheet" href="//cdn.nwmgroups.hu/s/css/origo/origo-frontpage.min.css">
+<link rel="stylesheet" href="//cdn.nwmgroups.hu/s/css/cimlap/season.css">
+<script>
+var serverDate = '2018-10-12T08:42:11+02:00';
+window.pageConfig = {
+isFrontpage: true,
+pageType: 'cimlap'
+};
+</script>
+<script src="//cdn.nwmgroups.hu/s/js/lib/jquery-1.12.4.min.js"></script>
+<script src="//ad.adverticum.net/g3.js"></script>
+<script src="//cdn.nwmgroups.hu/s/js/core/utils.min.js"></script>
+<script src="//cdn.nwmgroups.hu/s/js/szponzmanager/szponzmanager_origo.min.js"></script>
+<script src="//cdn.nwmgroups.hu/s/js/core/zonemanager.min.js"></script>
+<script src="//cdn.nwmgroups.hu/s/js/origo/origo-frontpage.min.js"></script>
+<script src="//cdn.nwmgroups.hu/s/js/origo/origo13.js"></script>
+<script>
+if (typeof zoneManager !== 'undefined'){
+zoneManager.init({
+responsive: false
+});
+}
+</script>
+<script src="//cdn.nwmgroups.hu/s/js/bau/origo/bau_origo_cimlap.js"></script>
+<script src="//cdn.nwmgroups.hu/s/js/bau/origo/zones_origo_cimlap.js"></script>
+<script src="//cdn.nwmgroups.hu/s/js/season/cimlap/season.js"></script>
+<script>
+if (typeof zoneManager !== 'undefined'){
+zoneManager.run();
+}
+</script>
+<!-- Survey Monkey -->
+<script>(function(t,e,s,o){var n,c,l;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),c=n[n.length-1],l=e.createElement(s),l.type="text/javascript",l.async=!0,l.id=o,l.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/tRaiETqnLgj758hTBazgd17w_2F53RW_2BasyrxQJD2CUih99pmnX_2B4ynWHJrYDRrj4S.js"].join(""),c.parentNode.insertBefore(l,c))})(window,document,"script","smcx-sdk");</script>
+<!-- /Survey Monkey -->
+</head><body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PT5FRB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PT5FRB');</script>
+<!-- End Google Tag Manager -->
+<div id="fb-root"></div>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1081935078605904'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1081935078605904&ev=PageView&noscript=1"/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<script>
+(function(w,d,s,l){
+if(!w[l]) {
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s),
+rnd = Math.floor((Math.random() * 100000) + 1),
+now = new Date().getTime().toString(),
+dl=l!='_oaq'?'?l='+l:'';
+j.async = true;
+j.src = '//outal.origo.hu/js/' + now + '-' + rnd + '/outa.min.js'+dl;
+f.parentNode.insertBefore(j, f);
+}
+})(window,document,'script','_oaq');
+</script>
+<div class="desktop" id="p_fejlec">
+<div id="p_fejlec_in">
+<ul id="p_menu">
+<li><a href="http://www.origo.hu/index.html">Origo</a></li>
+<li><a target="_blank" href="http://reblog.hu/">Reblog</a></li>
+<li><a target="_blank" href="http://www.life.hu/index.html">Life</a></li>
+<li><a target="_blank" href="http://www.investor.hu/index.html">Investor</a></li>
+<li><a target="_blank" href="http://www.origo.hu/newsfeed/index.html">Newsfeed</a></li>
+<li><a target="_blank" href="http://videa.hu/">Videa</a></li>
+<li><a target="_blank" href="http://freemail.hu/">[freemail]</a></li>
+<li class="p_dropdown">
+<input type="checkbox" id="p_szolg" />
+<label for="p_szolg"><span>Szolgáltatás</span></label>
+<div class="p_almenu">
+<ul>
+<li><a target="_blank" href="http://origorandi.hu/">Randi</a></li>
+<li><a target="_blank" href="http://ingatlanapro.origo.hu/">Ingatlan</a></li>
+<li><a target="_blank" href="http://szallas.origo.hu/index.html">Szállás</a></li>
+<li><a target="_blank" href="http://www.origo.hu/jatekok/index.html">Játékok</a></li>
+<li><a target="_blank" href="http://szotar.sztaki.hu">SZTAKI Szótár</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+if ("ontouchstart" in document.documentElement){
+var pf = document.getElementById("p_fejlec");
+pf.className = "mobile";
+}
+</script>
+<div id="main">
+<header id="header" class="clearfix">
+<div id='nameday'><p>2018.10.12. <span>péntek</span></p>Miksa</div>
+<div id="ow-widget">
+<a href="http://koponyeg.hu/" target="_blank">
+<span class="oww-picto owp-3d svg"></span>
+<span class="oww-temp">5°C / 19°C</span>
+<span class="oww-desc">Változóan felhős</span>
+</a>
+</div>
+<a class="social-layer-link open-social-layer" href="#">
+<span class="fb"></span><span class="tw"></span><span class="go"></span>
+</a>
+<div class="social-layer-holder">
+<div class="social-layer-shadow"></div>
+<div class="social-layer">
+<div class="social-layer-tiltle">Kövesse az Origót!</div>
+<div class="social-sites">
+<div class="social-site fa"><a class="social-layer-link" target="_blank" href="https://www.facebook.com/OrigoHirek/">Origo a Facebookon</a></div>
+<div class="social-site tw"><a class="social-layer-link" target="_blank" href="https://twitter.com/Origo_hu">Twitter</a></div>
+<div class="social-site go"><a class="social-layer-link" target="_blank" href="https://plus.google.com/u/0/116271451622290320902">Google+</a></div>
+<div class="social-site in"><a class="social-layer-link" target="_blank" href="https://www.instagram.com/origo.hu/">Instagram</a></div>
+<div class="social-site pi"><a class="social-layer-link" target="_blank" href="https://www.pinterest.com/origohu/">Pinterest</a></div>
+</div>
+<div class="social-layer-tiltle">Origo rovatok a Facebookon</div>
+<div class="categories-on-fb">
+<a class="social-layer-link" target="_blank" href="https://www.facebook.com/Origo-Sport-153992771336740/timeline/">Sport</a>
+<a class="social-layer-link" target="_blank" href="https://www.facebook.com/filmklub">Film</a>
+<a class="social-layer-link" target="_blank" href="https://www.facebook.com/origofoto">Fotó</a>
+<a class="social-layer-link" target="_blank" href="https://www.facebook.com/techbazis">Techbázis</a>
+<a class="social-layer-link" target="_blank" href="https://www.facebook.com/Tudomany">Tudomány</a>
+</div>
+<a class="social-layer-link social-layer-close" href="#"></a>
+</div>
+</div>
+<div id="p_kereso">
+<form id="p_kereso_form" method="get" action="http://www.ok.hu/katalogus">
+<input type="text" id="p_kereso_text" name="q" placeholder="Origo kereső"/>
+<div id="p_kereso_btn">
+<input type="submit" value="" />
+</div>
+<input type="hidden" name="mode" value="5"/>
+<input type="hidden" name="slider" value="1"/>
+</form>
+</div>
+</header>
+<nav class="origo-menu">
+<h1>
+<a class="o-logo" href="http://www.origo.hu/index.html"></a>
+</h1>
+<ul>
+<li><a class="o-nav-item" href="http://www.origo.hu/itthon/index.html">Itthon</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/nagyvilag/index.html">Nagyvilág</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/gazdasag/index.html">Gazdaság</a></li>
+<li><a class="o-nav-item o-nav-sport" href="http://www.origo.hu/sport/index.html">Sport</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/teve/index.html">TÉVÉ</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/filmklub/index.html">Film</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/tudomany/index.html">Tudomány</a></li>
+<li class="o-nav-more">
+<div>még több</div>
+<ul>
+<li><a class="o-nav-item" href="http://www.origo.hu/techbazis/index.html">Tech</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/auto/index.html">Autó</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/kultura/index.html">Kultúra</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/utazas/index.html">Utazás</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/tafelspicc/index.html">Táfelspicc</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/foto/index.html">Fotó</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/video/index.html">Videó</a></li>
+<li><a class="o-nav-item" href="http://www.origo.hu/jog/index.html">Jog</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<div id="magnum">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key: 'magnum_1', extraClass: 'goaM'});
+}
+</script>
+</div>
+<div id="sections"><div class="news-wrap wrap-67-33 normal" name="201871612827" id="201871612827"><div class="wrap coltype-67 " data-coltype="67" id="2017120175636-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/sport/futball/20181010-labdarugas-magyar-foci-nb-i-szombathelyi-haladas-kiraly-gabor-horvath-ferenc-riport.html" title="Fotó: Szabó Gábor - Origo "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010szombathely-haladas-fc-interju-kiraly26.jpg?w=642&h=322" src="http://rewrite.origos.hu/s/img/i/1810/20181010szombathely-haladas-fc-interju-kiraly26.jpg?w=642&h=322" alt="Fotó: Szabó Gábor - Origo " width="642" height="322"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>helyszíni</span></span></div>
+<h2><a href="http://www.origo.hu/sport/futball/20181010-labdarugas-magyar-foci-nb-i-szombathelyi-haladas-kiraly-gabor-horvath-ferenc-riport.html" title="Király Gábor: <br>42 éves vagyok, nem leszek fiatalabb, de mindenem a Haladás" class="news-title">Király Gábor: <br>42 éves vagyok, nem leszek fiatalabb, de mindenem a Haladás</a></h2>
+<p class="news-lead">Horváth Ferenc vezető edző mély sebet hordoz, közben pedig hallani sem akar <br />a Haladás kieséséről. Riport Szombathelyről.</p>
+</div></div><div class="news-wrap wrap-33-33 subsection" name="subsection_20177131871" id="subsection_20177131871"><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_2017120193831-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/itthon/20181012-orban-viktor-interju.html" title="Forrás: MTI/Szigetváry Zsolt "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012orban-viktor-nagy-katalin3.jpg?w=308&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: MTI/Szigetváry Zsolt " width="308" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181012-orban-viktor-interju.html" title="Orbán Viktor: <br>A betelepítési program horrorjavaslat a magyaroknak" class="news-title">Orbán Viktor: <br>A betelepítési program horrorjavaslat a magyaroknak</a></h2>
+<p class="news-lead">Brüsszel gőzerővel gyártja a betelepítési programokat.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181012-egyre-jobban-hallatjuk-a-hangunkat.html" title="Magyarország egyre jobban hallatja a hangját" class="news-title">Magyarország egyre jobban hallatja a hangját</a></h2>
+<p class="news-lead">Takács Szabolcs: Szuverenista és nem föderalista elvet valló kormány vagyunk.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-a-fidesz-bevandorlasellenes-kabinetet-alapitott.html" title="Megalakult a Fidesz bevándorlásellenes kabinetje" class="news-title">Megalakult a Fidesz bevándorlásellenes kabinetje</a></h2>
+<p class="news-lead">Az új kabinet a Migration Aid párttá alakulása miatt az ügyészséghez fordul.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-fidesz-brusszel-a-migransok-szervezett-beutaztasat-akarja-bevezetni.html" title="Fidesz: Brüsszel a migránsok szervezett beutaztatását akarja bevezetni" class="news-title">Fidesz: Brüsszel a migránsok szervezett beutaztatását akarja bevezetni</a></h2>
+<p class="news-lead">Egy újabb bevándorláspárti javaslat Brüsszel részéről. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-fenyegeti-a-888at-a-facebook.html" title="Törléssel fenyegetik a 888-at&nbsp;<br>a Facebook liberális ügynökei" class="news-title">Törléssel fenyegetik a 888-at&nbsp;<br>a Facebook liberális ügynökei</a></h2>
+<p class="news-lead">Telefonon fenyegetőzött a Facebook egyik pribékje, hogy törlik a jobboldali oldalt, ha nem azt írják, ami nekik tetszik.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181012-ujabb-200-karpataljai-magyart-listaztak-ukrajnaban.html" title="Újabb 200 kárpátaljai magyart listáztak Ukrajnában" class="news-title">Újabb 200 kárpátaljai magyart listáztak Ukrajnában</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181012-tallai-andras-az-afabevetel-jelentos-fedezetet-ad-az-adocsokkentesekhez.html" title="Brüsszel az országok adópolitikájába is bele akar szólni" class="news-title">Brüsszel az országok adópolitikájába is bele akar szólni</a></h2>
+<p class="news-lead">Ez a magyar adókedvezmények eltörlésével fenyegetne.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181012-kovacs-zoltan-usa-soros-clinton.html" title="Egyre többen értik a magyar politikát" class="news-title">Egyre többen értik a magyar politikát</a></h2>
+<p class="news-lead">Kovács Zoltán szerint a pártpolitikába is beavatkoznak a civil szervezetek.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181010-ukrajna-kettos-allampolgarsag-kepmutatas.html" title="Hazug és képmutató ukrán <br>politikusok üldözik a magyarokat" class="news-title">Hazug és képmutató ukrán <br>politikusok üldözik a magyarokat</a></h2>
+<p class="news-lead">Az ukrán elnöknek négy állampolgársága is lehet, a fél ukrán kormány kettős állampolgár. De csak <br />a magyarokat támadják.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-teplan-istvan-alfahir-interju-soros-gyorgyhoz-valo-kapcsolata.html" title="A Jobbik Soros-embere nagyinterjúban dicsérte <br>a bevándorláspárti milliárdost" class="news-title">A Jobbik Soros-embere nagyinterjúban dicsérte <br>a bevándorláspárti milliárdost</a></h2>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-jobbik-penzek-tisztara-mosasa.html" title="A Jobbik Fő utcai&nbsp;irodájában történhetett&nbsp;a gyanús pénzek elosztása" class="news-title">A Jobbik Fő utcai&nbsp;irodájában történhetett&nbsp;a gyanús pénzek elosztása</a></h2>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-jakab-peter-echotv-interju.html" title="A Jobbik szóvivője toporzékolva beszélt mellé" class="news-title">A Jobbik szóvivője toporzékolva beszélt mellé</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-botrany-szegeden-botka-emberei-letoltendo-tavozas.html" title="Gigabotrány Szegeden: rengetegen elzavarnák Botka elítélt embereit" class="news-title">Gigabotrány Szegeden: rengetegen elzavarnák Botka elítélt embereit</a></h2>
+<p class="news-lead">A szocialista polgármester bizalmasai 41 millió forintos kárt okoztak. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-homonnay-gergely-botox-gyurcsany-erzsi-macska.html" title="Az ellenzék reménysége, Erzsi macska gazdája botoxoltatott" class="news-title">Az ellenzék reménysége, Erzsi macska gazdája botoxoltatott</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-szetvalik-a-magan-es-az-allami-egesszegugy.html" title="Szétválik a magán- és az állami egészségügy " class="news-title">Szétválik a magán- és az állami egészségügy </a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-puzser-budapest.html" title="Puzsér Róbert: Tarlós István jó eséllyel 2019-ben is győzni fog" class="news-title">Puzsér Róbert: Tarlós István jó eséllyel 2019-ben is győzni fog</a></h2>
+<p class="news-lead">A kirúgott humorista "programot" hirdetett. Vicces lett.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-olasz-migrans-oltok-nyitvatartasa.html" title="Bezárhatják a migránsok&nbsp;<br>éjjel-nappali boltjait Olaszországban" class="news-title">Bezárhatják a migránsok&nbsp;<br>éjjel-nappali boltjait Olaszországban</a></h2>
+<p class="news-lead">Az érintett üzletek csak 21 óráig lehetnének nyitva.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-migranstabor-parizsban.html" title="A szocialista polgármester Párizsban sátortábort épít a migránsoknak" class="news-title">A szocialista polgármester Párizsban sátortábort épít a migránsoknak</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-sved-fiatal-lany-csoportos-megeroszakolasa.html" title="Ismét egy fiatal lányt erőszakoltak meg muszlim migránsok Svédországban " class="news-title">Ismét egy fiatal lányt erőszakoltak meg muszlim migránsok Svédországban </a></h2>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-spanyolorszagban-is-titkoljak-a-migrans-buncselekmenyeket.html" title="Spanyolországban is titkolják&nbsp;<br>a migráns bűncselekményeket " class="news-title">Spanyolországban is titkolják&nbsp;<br>a migráns bűncselekményeket </a></h2>
+</div></div></div><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_2017120193831-2"><div class="news-item   has-image video    ">
+<a class="news-item-image" href="http://www.origo.hu/kultura/20181011-cafe-budapest-kortars-muveszeti-fesztival-fesztivalturistak.html" title="Forrás: Origo "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/2018101164.jpg?w=308&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Origo " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/kultura/20181011-cafe-budapest-kortars-muveszeti-fesztival-fesztivalturistak.html" title="Érdekes kiállítások, <br>kukkoljon a Madách téren" class="news-title">Érdekes kiállítások, <br>kukkoljon a Madách téren</a></h2>
+<p class="news-lead">A Fesztiválturisták a CAFe Budapest nyitóhelyszínein jártak.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/kultura/20181011-cafe-budapest-musical-es-kamaraopera-unnepli-leonard-bernsteint.html" title="Musical ünnepli a híres zeneszerzőt" class="news-title">Musical ünnepli a híres zeneszerzőt</a></h2>
+<p class="news-lead">100 éve született Leonard Bernstein.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/nagyvilag/20181012-tobben-meghaltak-egy-foldcsuszamlasban-kolumbiaban.html" title="Forrás: AFP/Ho "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012kolumbia-foldcsuszamlas2.jpg?w=308&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: AFP/Ho " width="308" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181012-tobben-meghaltak-egy-foldcsuszamlasban-kolumbiaban.html" title="Halálos áldozatai is vannak <br>a kolumbiai földcsuszamlásnak" class="news-title">Halálos áldozatai is vannak <br>a kolumbiai földcsuszamlásnak</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181012-tobben-meghaltak-egy-epuloben-levo-mexikoi-bevasarlokozpont-osszeomlasakor.html" title="Összeomlott egy félkész bevásárlóközpont Mexikóban, többen meghaltak" class="news-title">Összeomlott egy félkész bevásárlóközpont Mexikóban, többen meghaltak</a></h2>
+<p class="news-lead">Mindegyik áldozat az építkezésen dolgozott.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-oroszorszagban-frontalisan-karambolozott-egy-kisbusz-es-egy-teherauto.html" title="Frontálisan karambolozott <br>egy kisbusz és egy teherautó Oroszországban - videó" class="news-title">Frontálisan karambolozott <br>egy kisbusz és egy teherautó Oroszországban - videó</a></h2>
+<p class="news-lead">Legalább tizenhárman meghaltak&nbsp;<br />a balesetben.</p>
+</div></div><div class="news-item top-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-a-hetvegen-is-folytatodik-a-meleg-napsuteses-ido.html" title="Ilyen idő lesz a hétvégén" class="news-title">Ilyen idő lesz a hétvégén</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-elraboltak-tanzania-egyetlen-milliardosat.html" title="Elrabolták Afrika egyik legfiatalabb milliárdosát" class="news-title">Elrabolták Afrika egyik legfiatalabb milliárdosát</a></h2>
+<p class="news-lead">Három embert tartóztattak le eddig <br ></pi>az ügyben.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/tudomany/20181011-a-szojuz-urhajoval-baleset-tortent.html" title="Forrás: MTI/EPA/Bill Ingalls "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011szojuzbaleset6.jpg?w=308&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: MTI/EPA/Bill Ingalls " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tudomany/20181011-a-szojuz-urhajoval-baleset-tortent.html" title="Baleset történt <br>a Szojuz űrhajóval - videó" class="news-title">Baleset történt <br>a Szojuz űrhajóval - videó</a></h2>
+<p class="news-lead">Kényszerleszállást hajtottak végre. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-egy-52-eves-asszony-szerdan-elutott-egy-kislanyt-encsen-amikor-az-varatlanul-a-kocsi-ele-ugrott.html" title="Megszólalt az asszony, akit majdnem meglincseltek Encsen" class="news-title">Megszólalt az asszony, akit majdnem meglincseltek Encsen</a></h2>
+<p class="news-lead">Szabályosan hajtott az autójával, amikor elé ugrott egy kislány. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-a-rendorseg-az-uggyel-kapcsolatban-az-anya-testveret-mar-negyszer-hallgatta-ki.html" title="Családtag erőszakolhatta meg <br>a négyéves kislányt" class="news-title">Családtag erőszakolhatta meg <br>a négyéves kislányt</a></h2>
+<p class="news-lead">A férfit már többször is kihallgatta&nbsp;<br />a rendőrség. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-egy-rendor-figyelt-fel-az-egyedul-kerekparozo-kisfiura.html" title="Egyedül kerékpározott egy 4 éves kisfiú Kaposváron" class="news-title">Egyedül kerékpározott egy 4 éves kisfiú Kaposváron</a></h2>
+<p class="news-lead">Egy szolgálatból haza felé tartó rendőr figyelt fel a gyerekre.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/itthon/20181010-emberi-maradvanyokat-talaltak-a-dunaban.html" title="Forrás: MTI/Mihádák Zoltán "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011dunakeszi-autoroncs-emberi-csontok1.jpg?w=308&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: MTI/Mihádák Zoltán " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181010-emberi-maradvanyokat-talaltak-a-dunaban.html" title="Egy többéves <br>holttestet találtak a Dunában" class="news-title">Egy többéves <br>holttestet találtak a Dunában</a></h2>
+<p class="news-lead">Az Origo úgy tudja, az emberi maradványok egy kocsiban voltak <br />a folyóban.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-kutyatamadas-harcikutya-gyerek-anglia.html" title="Kutyái szétmarcangolták a kisfiút, de nem vált meg az állatoktól" class="news-title">Kutyái szétmarcangolták a kisfiút, de nem vált meg az állatoktól</a></h2>
+<p class="news-lead">A kisfiúnak rémálmai vannak&nbsp;<br />a kutyáktól, mégsem hajlandó&nbsp;<br />megválni tőlük.</p>
+</div></div><div class="news-item mega-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181011-a-praktiker-modernizalja-a-halozatat.html" title="Teljesen átalakul&nbsp;<br>a Praktiker" class="news-title">Teljesen átalakul&nbsp;<br>a Praktiker</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-16-eves-diakjaval-szexelt-a-26-eves-tanarno.html" title="16 éves diákjával szexelt a 26 éves tanárnő" class="news-title">16 éves diákjával szexelt a 26 éves tanárnő</a></h2>
+<p class="news-lead">A fiú azt mondta, népszerűbb lett az iskolában, amióta lefeküdt a tanárával.</p>
+</div></div></div></div></div><div class="wrap coltype-33 " data-coltype="33" id="2017120193750-2"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/teve/20181001-szexi-belepovel-erkezik-egy-uj-karakter-a-korhataros-szerelembe-nagy-reka.html" title="Forrás: Instagram / Nagy Réka "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011nagy-reka2.jpg?w=308&h=154" src="http://rewrite.origos.hu/s/img/i/1810/20181011nagy-reka2.jpg?w=308&h=154" alt="Forrás: Instagram / Nagy Réka " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181001-szexi-belepovel-erkezik-egy-uj-karakter-a-korhataros-szerelembe-nagy-reka.html" title="Nagy Réka erotikus tánca forrósította fel a kocsmát" class="news-title">Nagy Réka erotikus tánca forrósította fel a kocsmát</a></h2>
+<p class="news-lead">Láttuk a Topmodell győzteseként, láttuk az Aranyéletben, most is sorozatban tűnik fel.</p>
+</div></div><div class="news-item   has-image video    ">
+<a class="news-item-image" href="http://www.origo.hu/sport/futball/20181012-james-rodriguez-becsavarta-mint-beckham.html" title="Forrás: AFP/2018 Getty Images/Mike Ehrmann "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012colombia-v-united-states-gettyimagerank12.jpg?w=308&h=154" src="http://rewrite.origos.hu/s/img/i/1810/20181012colombia-v-united-states-gettyimagerank12.jpg?w=308&h=154" alt="Forrás: AFP/2018 Getty Images/Mike Ehrmann " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181012-james-rodriguez-becsavarta-mint-beckham.html" title="James Rodríguez becsavarta, mint Beckham - videó" class="news-title">James Rodríguez becsavarta, mint Beckham - videó</a></h2>
+<p class="news-lead">A Bayern München játékosa fantasztikus gólt szerzett az Egyesült Államokban. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/laza/20181011-isztambulban-verekedett-a-volt-barcelona-focista-arda-turan.html" title="Részegen verekedett a Barcelona focistája, majd kérte, hogy lőjék le" class="news-title">Részegen verekedett a Barcelona focistája, majd kérte, hogy lőjék le</a></h2>
+<p class="news-lead">Egy nő miatt volt az egész balhé.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>HELYSZÍNI</span></span></div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-labdarugas-nemzetek-ligaja-magyar-valogatott-sajtotajekoztato-marco-rossi.html" title="A letargiában <br>lévő görögök ellen meglepetésre készül Marco Rossi csapata" class="news-title">A letargiában <br>lévő görögök ellen meglepetésre készül Marco Rossi csapata</a></h2>
+<p class="news-lead">Két éve nyert legutóbb idegenben meccset a magyar labdarúgó-válogatott, ezt a rossz sorozatot szakítaná meg Athénban.</p>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-otszaz-drukker-kiseri-a-magyar-focivalogatottat-athenba.html" title="Az egész tábor&nbsp;Marco Rossi mögött" class="news-title">Az egész tábor&nbsp;Marco Rossi mögött</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/egyeni/20181011-mma-mcgregor-legyozoje-nyilt-levelet-irt-kilephet-a-ufcbol.html" title="McGregor legyőzője nyílt levelet írt, kiléphet a UFC-ből " class="news-title">McGregor legyőzője nyílt levelet írt, kiléphet a UFC-ből </a></h2>
+<p class="news-lead">Az orosz Nurmagomedov szerint nem ő kezdte a balhét, csak befejezte. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-labdarugas-nemzetek-ligaja-lengyelorszag-portugalia-a-divizio-osszefoglalo.html" title="NL: hiába Piatek gólja, a lengyelek kikaptak Portugáliától" class="news-title">NL: hiába Piatek gólja, a lengyelek kikaptak Portugáliától</a></h2>
+<p class="news-lead">A szerbek is idegenben nyertek, a románok őrült hajrá után örülhettek.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/teve/20181011-letartoztattak-a-karambolozo-realitysztart-katie-pricet.html" title="Forrás: AFP/2011 Getty Images/Larry Busacca "><img pre-src="http://rewrite.origos.hu/s/img/i/1612/2016122219th-annual-elton-john-aids.jpg?w=308&h=154" src="http://rewrite.origos.hu/s/img/i/1612/2016122219th-annual-elton-john-aids.jpg?w=308&h=154" alt="Forrás: AFP/2011 Getty Images/Larry Busacca " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-letartoztattak-a-karambolozo-realitysztart-katie-pricet.html" title="Letartóztatták <br>a karambolozó tévésztárt" class="news-title">Letartóztatták <br>a karambolozó tévésztárt</a></h2>
+<p class="news-lead">Ivott az ütközés előtt.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-30-ev-utan-egy-tevemusor-kedveert-rugott-be-a-szinesz-bob-odenkirk.html" title="30 év után egy tévéműsor kedvéért rúgott be a színész" class="news-title">30 év után egy tévéműsor kedvéért rúgott be a színész</a></h2>
+<p class="news-lead">Aggódott is, hogy a gyerekei mit szólnak.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-megyeri-csilla-szexmegvonassal-fenyeget-2018.html" title="Megyeri Csilla szexmegvonással fenyeget" class="news-title">Megyeri Csilla szexmegvonással fenyeget</a></h2>
+<p class="news-lead">Ha nem fogy le  a párja, rosszul jár.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/nagyvilag/20181011-vezetes-kozben-bukkant-fel-egy-merges-kigyo-a-szelvedon.html" title="Forrás: Facebook "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011kigyo-ausztralia-auto3.jpg?w=308&h=173" src="http://rewrite.origos.hu/s/img/i/1810/20181011kigyo-ausztralia-auto3.jpg?w=308&h=173" alt="Forrás: Facebook " width="308" height="173"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-vezetes-kozben-bukkant-fel-egy-merges-kigyo-a-szelvedon.html" title="Vezetés közben bukkant <br>fel egy mérges kígyó a szélvédőn" class="news-title">Vezetés közben bukkant <br>fel egy mérges kígyó a szélvédőn</a></h2>
+<p class="news-lead">A kígyó a motorháztető alatt bújt el.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-varkonyibochkor-ki-hagyta-ott-a-masikat-tv.html" title="Várkonyi-Bochkor: ki hagyta ott <br>a másikat?" class="news-title">Várkonyi-Bochkor: ki hagyta ott <br>a másikat?</a></h2>
+<p class="news-lead">Kiderült pár részlet a szakításról.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-a-google-terkep-buktatta-le-a-felrelepo-feleseget.html" title="A Google Térkép buktatta le <br>a félrelépő feleséget" class="news-title">A Google Térkép buktatta le <br>a félrelépő feleséget</a></h2>
+</div></div><div class="news-item   has-image video    ">
+<a class="news-item-image" href="http://www.origo.hu/auto/20181011-horrorbaleset-eloben-facebookkozvetitesben-szaguldottak-a-halalba.html" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011elo1.jpg?w=308&h=154" src="http://rewrite.origos.hu/s/img/i/1810/20181011elo1.jpg?w=308&h=154" alt="" width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/auto/20181011-horrorbaleset-eloben-facebookkozvetitesben-szaguldottak-a-halalba.html" title="Horrorbaleset élőben, <br>Facebook-közvetítésben száguldottak a halálba" class="news-title">Horrorbaleset élőben, <br>Facebook-közvetítésben száguldottak a halálba</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tudomany/20181011-kiderult-mi-all-az-elhizas-hattereben.html" title="Kiderült, hogy mi okozza a túlsúlyt" class="news-title">Kiderült, hogy mi okozza a túlsúlyt</a></h2>
+<p class="news-lead">Eddig azt hitték, hogy a jóllakottságért felelős hormon az.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/auto/20181011-traffipax-ugyan-ime-a-meglepo-dolgok-amiktol-valoban-felnek-az-autosok.html" title="Traffipax? Ugyan: íme a meglepő dolgok, amiktől valóban félnek <br>az autósok" class="news-title">Traffipax? Ugyan: íme a meglepő dolgok, amiktől valóban félnek <br>az autósok</a></h2>
+<p class="news-lead">Elég sok mindentől rettegnek az autósok Európa útjain.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/auto/20181011-a-kisfia-lenyelt-egy-gemkapcsot-elkepeszto-ahogy-felvezettek-a-korhazig.html" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011felvezet.gif?w=308&h=154" src="http://rewrite.origos.hu/s/img/i/1810/20181011felvezet.gif?w=308&h=154" alt="" width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/auto/20181011-a-kisfia-lenyelt-egy-gemkapcsot-elkepeszto-ahogy-felvezettek-a-korhazig.html" title="A kisfia lenyelt <br>egy gemkapcsot, elképesztő, ahogy felvezették a kórházig" class="news-title">A kisfia lenyelt <br>egy gemkapcsot, elképesztő, ahogy felvezették a kórházig</a></h2>
+</div></div></div></div><div class="news-wrap wrap-33-33-33 normal" name="2017713171939" id="2017713171939"><div class="wrap coltype-33 " data-coltype="33" id="201631592122-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/teve/20181010-kiemelt-ugyek-kovacs-noemivel-cimmel-a-lifetvn.html" title="Forrás: Origo "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010kiemelt-ugyek-kovacs-noemivel1.jpg?w=309&h=155" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Origo " width="309" height="155"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181010-kiemelt-ugyek-kovacs-noemivel-cimmel-a-lifetvn.html" title="Tévében&nbsp;a közelmúlt legbrutálisabb magyar gyilkosságai" class="news-title">Tévében&nbsp;a közelmúlt legbrutálisabb magyar gyilkosságai</a></h2>
+</div></div></div><div class="wrap coltype-33 " data-coltype="33" id="undefined"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/tudomany/20181010-igy-johetnek-letre-a-szemben-a-szinlatasert-felelos-sejtek-amiket-csapoknak-nevezunk.html" title="Forrás: Johns Hopkins University "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010szem3.jpg?w=309&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Johns Hopkins University " width="309" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tudomany/20181010-igy-johetnek-letre-a-szemben-a-szinlatasert-felelos-sejtek-amiket-csapoknak-nevezunk.html" title="Edényben nőtt <br>szemek kukucskáltak a kutatókra" class="news-title">Edényben nőtt <br>szemek kukucskáltak a kutatókra</a></h2>
+</div></div></div><div class="wrap coltype-33 " data-coltype="33" id="undefined"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/utazas/hirek/20181011-szallodava-alakitjak-at-svajc-legkisebb-falujat-corippo.html" title="Forrás: Shutterstock/ Owsigor "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011corippo25.jpg?w=308&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Shutterstock/ Owsigor " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>galéria</span></span></div>
+<h2><a href="http://www.origo.hu/utazas/hirek/20181011-szallodava-alakitjak-at-svajc-legkisebb-falujat-corippo.html" title="Szállodává <br>alakítják át Svájc legkisebb faluját" class="news-title">Szállodává <br>alakítják át Svájc legkisebb faluját</a></h2>
+</div></div></div></div><div class="news-wrap wrap-42-25-33 normal" name="2017714133213" id="2017714133213"><div class="wrap coltype-42 " data-coltype="42" id="20163192448-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/gazdasag/20181011-igazsag-furt-kut-helyzet-buntetes.html" title="Forrás: Shutterstock "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011furt-kutak-kut6.jpg?w=392&h=147" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Shutterstock " width="392" height="147"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181011-igazsag-furt-kut-helyzet-buntetes.html" title="Mutatjuk, <br>hogy mire figyeljen, ha fúrt kútját akarja engedélyeztetni" class="news-title">Mutatjuk, <br>hogy mire figyeljen, ha fúrt kútját akarja engedélyeztetni</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-orban-viktor-vallalni-kell-a-sikereinket.html" title="Orbán Viktor: Vállalni kell <br>a sikereinket!" class="news-title">Orbán Viktor: Vállalni kell <br>a sikereinket!</a></h2>
+<p class="news-lead">Ha van mire és kire büszkének lenni, igenis legyünk büszkék - mondta&nbsp;a miniszterelnök.</p>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-orban-viktor-kosarlabda-akademia.html" title="Képeken Orbán Viktor és az új akadémia avatása" class="news-title">Képeken Orbán Viktor és az új akadémia avatása</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181011-putyin-komoly-egyuttmukodesi-potencial-gyult-ossze-az-oroszmagyar-viszonyban.html" title="Putyin: Komoly együttműködési potenciál van az orosz-magyar viszonyban" class="news-title">Putyin: Komoly együttműködési potenciál van az orosz-magyar viszonyban</a></h2>
+<p class="news-lead">Az atomenergia mellett más területeken is konkrét közös tervek vannnak. </p>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-agrarminiszter-magyarorszag-egyik-legfontosabb-partnere-oroszorszag.html" title="Magyarország egyik legfontosabb mezőgazdasági partnere Oroszország" class="news-title">Magyarország egyik legfontosabb mezőgazdasági partnere Oroszország</a></h2>
+</div></div></div><div class="wrap coltype-25 " data-coltype="25" id="20163192448-2"><div class="news-item  style_uzletresz      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.uzletresz.hu/eladas/20181011-gyorsan-vagy-inkabb-ingyen-szallitsak-a-vevonek.html" title="Gyorsan vagy inkább ingyen szállítsak&nbsp;<br>a vevőnek?" class="news-title">Gyorsan vagy inkább ingyen szállítsak&nbsp;<br>a vevőnek?</a></h2>
+<p class="news-lead">Mindkettő mellett szólnak érvek, az értékesítési stratégiától függ a választás.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181011-kifogyott-dollar-orszag-zimbabwe-kfc-etterem.html" title="Kifogyott egy ország a dollárból, ezért sorra zárnak be az éttermei" class="news-title">Kifogyott egy ország a dollárból, ezért sorra zárnak be az éttermei</a></h2>
+</div></div><div class="news-item top-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181011-karacsonyfa-izesitesu-chips-kaphato-izlandon.html" title="Már kapható <br>a karácsonyfa ízesítésű chips" class="news-title">Már kapható <br>a karácsonyfa ízesítésű chips</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181011-tombol-kart-csinal-michael.html" title="Még tombol,&nbsp;de már nagyjából tudják,&nbsp;<br>mekkora kárt okozhat Michael" class="news-title">Még tombol,&nbsp;de már nagyjából tudják,&nbsp;<br>mekkora kárt okozhat Michael</a></h2>
+<p class="news-lead">Az írott történelem harmadik legerősebb hurrikánja elemében van.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-fegyveres-rablas-mezoturon-nyomravezetoi-dijat-tuzott-ki-a-rendorseg.html" title="Félmillió forintot kap, ha tudja, ki van a felvételen" class="news-title">Félmillió forintot kap, ha tudja, ki van a felvételen</a></h2>
+<p class="news-lead">Egy fegyveres rablót keresnek a rendőrök, fizetni is hajlandók az információért.</p>
+</div></div></div><div class="wrap coltype-33" data-coltype="33" id="20163192448-3"><div class="lebego">
+<script>
+if (!window.isVisualEditor){
+if (typeof zoneManager !== 'undefined') {
+var lebego_zone = false;
+if ($('.lebego').length == 1){
+lebego_zone = (zoneManager.getZone('over_box') !== null) ? 'over_box' : false;
+} else {
+lebego_zone = (zoneManager.getZone('middle_box') !== null) ? 'middle_box' : false;
+}
+if (lebego_zone !== false){
+zoneManager.insertZone({key:lebego_zone, wrap : true});
+}
+}
+}
+</script>
+</div>
+</div></div><div class="news-wrap wrap-100 wrap-ad"><script>if (typeof zoneManager !== "undefined") {zoneManager.insertZone({key:"magnum_2", wrap : true});}</script></div><div class="news-wrap wrap-67-33 normal" name="201811519053" id="201811519053"><h3 class="headline">Magazin</h3><div class="wrap coltype-67 " data-coltype="67" id="20151139357-3"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/kultura/galeria/20181010-fotogaleria-a-2018-as-american-music-awards-dijatadojarol.html" title="Forrás: MTI/AP/Invision/Matt Sayles "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010taylor-swiftama-20183.jpg?w=642&h=241" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: MTI/AP/Invision/Matt Sayles " width="642" height="241"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>Galéria</span></span></div>
+<h2><a href="http://www.origo.hu/kultura/galeria/20181010-fotogaleria-a-2018-as-american-music-awards-dijatadojarol.html" title="A nő, aki legyőzte Whitney Houstont" class="news-title">A nő, aki legyőzte Whitney Houstont</a></h2>
+</div></div><div class="news-wrap wrap-33-33 subsection" name="subsection_201781017232" id="subsection_201781017232"><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_201688102155-1"><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-egyutt-fuveztek-a-furdokadban-a-tronok-harca-szinesznoi-sophie-turner-es-maisie-williams.html" title="Együtt füveztek a fürdőkádban&nbsp;<br>a Trónok harca színésznői" class="news-title">Együtt füveztek a fürdőkádban&nbsp;<br>a Trónok harca színésznői</a></h2>
+<p class="news-lead">Arya és Sansa nem mindennapi módon lazultak a forgatás után.</p>
+</div></div><div class="news-item mega-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/filmklub/20181011-ongyilkos-lett-kicsi-en.html" title="Kiderült: öngyilkos lett Kicsi Én" class="news-title">Kiderült: öngyilkos lett Kicsi Én</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/filmklub/20181011-mel-gibson-rosszul-tette-hogy-elment-mcgregor-vs-nurmagomedov-meccsre.html" title="Mel Gibson rosszul tette,&nbsp;hogy elment McGregor&nbsp;és Nurmagomedov bunyójára" class="news-title">Mel Gibson rosszul tette,&nbsp;hogy elment McGregor&nbsp;és Nurmagomedov bunyójára</a></h2>
+<p class="news-lead">Nem csak a két ketrecharcos veszíthet sokat a botrányba fulladt meccsen. </p>
+</div></div></div><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_201688102155-2"><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/kultura/20181011-tahi-toth-laszlo-halala-elott-mindenkitol-el-tudott-bucsuzni.html" title="Nem maradtak lezáratlan ügyei <br>Tahi Tóth Lászlónak" class="news-title">Nem maradtak lezáratlan ügyei <br>Tahi Tóth Lászlónak</a></h2>
+<p class="news-lead">Özvegye őszintén beszélt a színész utolsó néhány napjáról. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-vv-indian-teljesen-kikeszult-a-ninja-warriorban-tv2.html" title="Elbukott és kikészült a volt villalakó a TV2 műsorában" class="news-title">Elbukott és kikészült a volt villalakó a TV2 műsorában</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/filmklub/20181011-tilda-swinton-mupeniszt-akart-a-suspiria-forgatasan.html" title="Tilda Swinton műpéniszt akart magának, kapott hozzá golyókat is" class="news-title">Tilda Swinton műpéniszt akart magának, kapott hozzá golyókat is</a></h2>
+<p class="news-lead">A színésznőt 82 éves férfivá változtatták, és többször is elővette nemi szerveit. </p>
+</div></div><div class="news-item mega-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-szakitott-orosz-barbara-tv.html" title="Szakított Orosz Barbara" class="news-title">Szakított Orosz Barbara</a></h2>
+</div></div></div></div></div><div class="wrap coltype-33 " data-coltype="33" id="20151139357-2"><div id="prior3Contents">
+<div class="p3Header">Gyorshírek</div>
+<div class="p3Contents">
+<div class="p3scroll">
+<ul>
+<li><a href="http://www.origo.hu/itthon/20181012-arokba-csapodott-egy-auto-a-32es-fouton.html" title="Árokba csapódott egy autó a 32-es főúton ">Árokba csapódott egy autó a 32-es főúton </a></li><li><a href="http://www.origo.hu/nagyvilag/20181012-az-amerikai-washington-allamban-eltoroltek-a-halalbuntetest.html" title="Washington államban eltörölték a halálbüntetést ">Washington államban eltörölték a halálbüntetést </a></li><li><a href="http://www.origo.hu/itthon/20181012-5-embert-vittek-korhazba-szenmonoxidmergezes-gyanuja-miatt.html" title="Öt embert vittek kórházba szén-monoxid-mérgezés gyanúja miatt">Öt embert vittek kórházba szén-monoxid-mérgezés gyanúja miatt</a></li><li><a href="http://www.origo.hu/nagyvilag/20181011-rendorok-cipeltek-be-a-birosagra-a-magat-halottnak-tetteto-migranst.html" title="Halottnak tette magát a migráns, így vitték be a rendőrök">Halottnak tette magát a migráns, így vitték be a rendőrök</a></li><li><a href="http://www.origo.hu/itthon/20181011-az-idos-asszonyt-ejjel-almaban-tamadta-meg-a-nagy-testu-kutyaja-a-karjan-es-arcan-is-megharapta-az.html" title="Saját kutyája támadt egy újhatvani nyugdíjasra">Saját kutyája támadt egy újhatvani nyugdíjasra</a></li><li><a href="http://www.origo.hu/itthon/20181011-osszeutkozott-ket-kocsi-a-iii-keruletben.html" title="Összeütközött két autó a III. kerületben">Összeütközött két autó a III. kerületben</a></li><li><a href="http://www.origo.hu/nagyvilag/20181011-felnottek-es-negy-gyerek-is-meghalt-egy-ugandai-foldcsuszamlasban.html" title="Huszonöt embert, közöttük négy gyereket ölt meg a földcsuszamlás">Huszonöt embert, közöttük négy gyereket ölt meg a földcsuszamlás</a></li><li><a href="http://www.origo.hu/gazdasag/20181010-ez-nem-lesz-vilag-leghosszabb-repulojaratan.html" title="Ma indul a világ leghosszabb repült idejű menetrend szerinti járata">Ma indul a világ leghosszabb repült idejű menetrend szerinti járata</a></li><li><a href="http://www.origo.hu/itthon/20181011-emelkedik-az-apolasi-dij.html" title="Jövőre emelkedik a gyerekek után járó ápolási díj">Jövőre emelkedik a gyerekek után járó ápolási díj</a></li><li><a href="http://www.origo.hu/sport/egyeni/20181011-ferfi-csapathirdetes-torna-vb.html" title="Kihirdették a férfi csapat összetételét a torna-vébére">Kihirdették a férfi csapat összetételét a torna-vébére</a></li><li><a href="http://www.origo.hu/sport/20181011-alaposan-megemelte-uefa-a-nemzetek-ligaja-dijazasat.html" title="Alaposan megemelte az UEFA a Nemzetek Ligája díjazását">Alaposan megemelte az UEFA a Nemzetek Ligája díjazását</a></li><li><a href="http://www.origo.hu/sport/futball/20181011-sikeres-volt-a-kozbeszerzes-kezdodhet-az-uj-bozsik-stadion-epitese.html" title="Elkezdődhet az új Bozsik Stadion építése">Elkezdődhet az új Bozsik Stadion építése</a></li><li><a href="http://www.origo.hu/itthon/20181011-mulabbal-el-a-golya.html" title="Áramütés érte, műlábat kapott a gólya - fotó">Áramütés érte, műlábat kapott a gólya - fotó</a></li><li><a href="http://www.origo.hu/itthon/20181011-ket-ember-meghalt-egy-karambolban-a-44es-fouton.html" title="Két ember meghalt egy karambolban a 44-es főúton">Két ember meghalt egy karambolban a 44-es főúton</a></li><li><a href="http://www.origo.hu/nagyvilag/20181011-vilaghiru-lett-a-magyar-felmenokkel-rendelkezo-izlandi-macska.html" title="Egérkarbantartó munkát kapott egy magyar macska az izlandi hotelban">Egérkarbantartó munkát kapott egy magyar macska az izlandi hotelban</a></li><li><a href="http://www.origo.hu/itthon/20181011-kigyulladt-egy-korulbelul-huszonot-negyzetmeteres-muhely-es-a-hozza-tartozo-epulet-budapest-xv.html" title="Kigyulladt egy műhely Budapesten">Kigyulladt egy műhely Budapesten</a></li><li><a href="http://www.origo.hu/gazdasag/20181010-haladekot-kapnak-furt-kutak-tulajdonos.html" title="Haladékot kaphatnak a fúrt kutak tulajdonosai">Haladékot kaphatnak a fúrt kutak tulajdonosai</a></li><li><a href="http://www.origo.hu/itthon/20181011-tarlos-nagy-mertekben-nonek-a-fovaros-kompetenciai.html" title="Tarlós: Nagy mértékben nőnek a főváros kompetenciái">Tarlós: Nagy mértékben nőnek a főváros kompetenciái</a></li><li><a href="http://www.origo.hu/sport/futball/20181011-labdarugas-nicklas-bendtnert-szeptemberben-allitottak-elo-szerinte-nem-bantotta-a-sofort.html" title="Eltörte a taxis állkapcsát, vádat emeltek a korábbi Arsenal játékos ellen">Eltörte a taxis állkapcsát, vádat emeltek a korábbi Arsenal játékos ellen</a></li><li><a href="http://www.origo.hu/nagyvilag/20181011-soros-sargentini-jelentes-ep-parlament-szazadveg.html" title="A Soros-Sargentini jelentés csak kampánytémának használja Brüsszel">A Soros-Sargentini jelentés csak kampánytémának használja Brüsszel</a></li>
+</ul>
+</div>
+</div>
+</div></div></div>
+<div class="news-wrap wrap-33-33-33 wrap-grey clearfix wrap-ad">
+<div class="wrap coltype-33"><div class="pr-item">
+<script>
+zoneManager.insertZone({key:'middle_szoveges_1', extraClass:''});
+</script>
+</div></div>
+<div class="wrap coltype-33"><div class="pr-item">
+<script>
+zoneManager.insertZone({key:'middle_szoveges_2', extraClass:''});
+</script>
+</div></div>
+<div class="wrap coltype-33"><div class="pr-item">
+<script>
+zoneManager.insertZone({key:'middle_szoveges_3', extraClass:''});
+</script>
+</div></div></div>
+<div class="news-wrap wrap-58-42 normal" name="2018115185957" id="2018115185957"><h3 class="headline">szórakozás</h3><div class="wrap coltype-58 " data-coltype="58" id="201819161939-1"><div class="news-item  style_travelo has-image     ">
+<a class="news-item-image" href="http://www.travelo.hu/tavol/20181008-portugalia-lisszabon-a-legjobb-egynapos-kirandulohelyek-a-kornyeken.html" title="Forrás: hermitis / shutterstock.com "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011portugalialisszabondaytrip.jpg?w=559&h=280" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: hermitis / shutterstock.com " width="559" height="280"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://travelo.hu">travelo</a></span></div>
+<h2><a href="http://www.travelo.hu/tavol/20181008-portugalia-lisszabon-a-legjobb-egynapos-kirandulohelyek-a-kornyeken.html" title="Lisszabont&nbsp;<br>már jól ismeri? Fedezze fel&nbsp;<br>a környéke&nbsp;legszebb látnivalóit!" class="news-title">Lisszabont&nbsp;<br>már jól ismeri? Fedezze fel&nbsp;<br>a környéke&nbsp;legszebb látnivalóit!</a></h2>
+<p class="news-lead">Izgalmas kikötővárosok, fényűző paloták és félelmetes sziklameredélyek - remek egynapos programot ígérnek.</p>
+</div></div><div class="news-wrap wrap-33-25 subsection" name="subsection_20181916203" id="subsection_20181916203"><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_20181916203-1"><div class="news-item  style_gphirek has-image     ">
+<a class="news-item-image" href="http://www.gphirek.hu/f1/20181010-f1-bezar-a-vilag-legnagyobb-f1-es-automuzeuma-a-donington-collection-of-single-seater-racing-cars.html" title="Forrás: Adorján Viktor "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010forma1-mclaren-racing-donington-grand4.jpg?w=308&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Adorján Viktor " width="308" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://gphirek.hu">gp-hírek</a></span></div>
+<h2><a href="http://www.gphirek.hu/f1/20181010-f1-bezar-a-vilag-legnagyobb-f1-es-automuzeuma-a-donington-collection-of-single-seater-racing-cars.html" title="Bezár a világ <br>legnagyobb F1-es autómúzeuma" class="news-title">Bezár a világ <br>legnagyobb F1-es autómúzeuma</a></h2>
+</div></div><div class="news-item related style_gphirek      ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://gphirek.hu">gp-hírek</a></span></div>
+<h2><a href="http://www.gphirek.hu/f1/20181010-f1-kimi-raikkonen-megvedte-max-verstappent-a-balesetuk-utan-a-japan-nagydijon.html" title="Räikkönen megvédte Verstappent <br>a balesetük után" class="news-title">Räikkönen megvédte Verstappent <br>a balesetük után</a></h2>
+</div></div></div><div class="wrap coltype-25 subcolumn" data-coltype="25" id="subsection_20181916203-2"><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/techbazis/20181010-samsung-osszehajthato-mobil-specifikaciok.html" title="Hamarosan kiderül, hogy mit tud&nbsp;a Samsung összehajtható mobilja" class="news-title">Hamarosan kiderül, hogy mit tud&nbsp;a Samsung összehajtható mobilja</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/auto/20181010-ez-az-orszag-2030ban-betiltja-a-benzines-es-dizelautokat.html" title="Jön a vasszigor, ez az ország betiltja a benzines és dízelautók eladását" class="news-title">Jön a vasszigor, ez az ország betiltja a benzines és dízelautók eladását</a></h2>
+<p class="news-lead">Nincs kegyelem, kötelezően technológiát kell váltani.</p>
+</div></div></div></div></div><div class="wrap coltype-42 " data-coltype="42" id="201819161939-2"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/auto/20181010-zuffenhausen-szinejava-porscheelmenyvezetes-2018.html" title="Forrás: Hirling Balint "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010porsche-driving-experience-20181.jpg?w=392&h=147" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Hirling Balint " width="392" height="147"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/auto/20181010-zuffenhausen-szinejava-porscheelmenyvezetes-2018.html" title="Így lehet dráma nélkül kipróbálni <br>a legdrágább tesztautókat" class="news-title">Így lehet dráma nélkül kipróbálni <br>a legdrágább tesztautókat</a></h2>
+<p class="news-lead">Egy Porsche 911 GTS vagy 680 lóerős Panamera vezetése kontroll nélkül sorskísértés lenne, de akad rá egy megoldás. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>egyperces tudomány</span></span></div>
+<h2><a href="http://www.origo.hu/tudomany/20181011-nincs-meg-egy-betegseg-a-foldon-ami-ennyire-felelmetes-lenne-nincs-ra-gyogyszer.html" title="Nincs még egy betegség a földön, ami ennyire félelmetes lenne" class="news-title">Nincs még egy betegség a földön, ami ennyire félelmetes lenne</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/techbazis/20181011-google-pixel-3-xl-ertesitesi-led-hianyzik.html" title="Az értesítési LED-et is lespórolták&nbsp;<br>a Google új csúcstelefonjairól" class="news-title">Az értesítési LED-et is lespórolták&nbsp;<br>a Google új csúcstelefonjairól</a></h2>
+<p class="news-lead">Sajnos a Pixel 3 és a Pixel 3 XL előlapján már nincs értesítési LED. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/auto/20181011-ami-az-audi-gyori-gyaraban-tortenik-az-olyan-mint-egy-scifi.html" title="Ami most az Audi győri gyárában történik, az olyan, mint egy sci-fi" class="news-title">Ami most az Audi győri gyárában történik, az olyan, mint egy sci-fi</a></h2>
+<p class="news-lead">A láthatatlan szék csak a kezdet.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tafelspicc/20181011-konyhai-praktikak-konyhai-otletek-konyhai-tippek-trukkok-zoldseghamozo-vaj.html" title="Nem kell mindent rendeltetésszerűen használni! " class="news-title">Nem kell mindent rendeltetésszerűen használni! </a></h2>
+</div></div></div></div><div class="news-wrap wrap-33-67 normal" name="2018115185841" id="2018115185841"><h3 class="headline">KRIMI</h3><div class="wrap coltype-33 " data-coltype="33" id="2018115185730-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/nagyvilag/20181010-egyelore-nemetorszagban-marad-a-meggyilkolt-bolgar-ujsagiro-ugyeben-elfogott-gyanusitott.html" title="Forrás: MTI/EPA/TVN/- "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181007132.jpg?w=309&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: MTI/EPA/TVN/- " width="309" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181010-egyelore-nemetorszagban-marad-a-meggyilkolt-bolgar-ujsagiro-ugyeben-elfogott-gyanusitott.html" title="Egyelőre Németországban <br>marad a bolgár újságíró feltételezett gyilkosa" class="news-title">Egyelőre Németországban <br>marad a bolgár újságíró feltételezett gyilkosa</a></h2>
+<p class="news-lead">A helyi főügyészség kezdeményezi <br ></pi>a 20 éves férfi előzetes letartóztatását.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-halalos-baleset-kisberenyben-egy-gyerek-meghalt.html" title="Elgázoltak egy gyereket Kisberényben" class="news-title">Elgázoltak egy gyereket Kisberényben</a></h2>
+<p class="news-lead">A kisfiú a helyszínen meghalt.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-egy-cegleden-elo-roman-par-azert-vitte-orvoshoz-a-4-eves-kislanyukat-mert-eltort-a-laba-ott-derult.html" title="Családja szerint nem erőszakolták meg a 4 éves ceglédi kislányt" class="news-title">Családja szerint nem erőszakolták meg a 4 éves ceglédi kislányt</a></h2>
+<p class="news-lead">Szerintük a lábára esett súly miatt vérzett a nemi szerve. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-az-eleki-ferfi-sulyosan-megverte-egy-ismeroset-bantalmazta-baratnojet-es-megfenyegetett-egy.html" title="Összehangolt akcióban csaptak le <br>a rendőrök egy agresszív férfira" class="news-title">Összehangolt akcióban csaptak le <br>a rendőrök egy agresszív férfira</a></h2>
+<p class="news-lead">Az eleki férfi súlyosan megverte egy ismerősét, bántotta a barátnőjét, és egy szociális munkást is megfenyegetett.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181010-tobb-mint-500-haziallatot-pusztitottak-el-ev-eleje-ota-a-medvek-kovaszna-megyeben.html" title="Több száz háziállatot pusztítottak el <br>a medvék Kovászna megyében " class="news-title">Több száz háziállatot pusztítottak el <br>a medvék Kovászna megyében </a></h2>
+<p class="news-lead">A medvetámadások száma is megnőtt.</p>
+</div></div></div><div class="wrap coltype-67 " data-coltype="67" id="2018115185730-2"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/itthon/20180926-tizenegy-magyar-turista-halt-meg-abban-a-hurghadai-balesetben-amikor-egy-turistabusz-tul-gyorsan.html" title="Forrás: MTI/Kovács Tamás "><img pre-src="http://rewrite.origos.hu/s/img/i/1809/20180927hurgada-buszbaleset.jpg?w=642&h=241" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: MTI/Kovács Tamás " width="642" height="241"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20180926-tizenegy-magyar-turista-halt-meg-abban-a-hurghadai-balesetben-amikor-egy-turistabusz-tul-gyorsan.html" title="Döntött a bíróság <br>a hurghadai busztragédia ügyében" class="news-title">Döntött a bíróság <br>a hurghadai busztragédia ügyében</a></h2>
+<p class="news-lead">11 magyar halt meg a balesetben. </p>
+</div></div><div class="news-wrap wrap-33-33 subsection" name="subsection_2018115185921" id="subsection_2018115185921"><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_2018115185921-1"><div class="news-item top-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181010-turista-utcai-arus-rablas.html" title="Kiütötte a turistát&nbsp;<br>az utcai árus" class="news-title">Kiütötte a turistát&nbsp;<br>az utcai árus</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>Videó</span></span></div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181010-autobaleset-gyerek-halott-szulok.html" title="Két napon át halott szülei mellett ült az összetört autóban egy hatéves fiú" class="news-title">Két napon át halott szülei mellett ült az összetört autóban egy hatéves fiú</a></h2>
+<p class="news-lead">Sokkos állapotban volt és majdnem kiszáradt, mire rátaláltak.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181010-kislanyoknak-mutogatta-magat-egy-20-eves-ferfiaz-egyik-kislany-felvetelt-keszitett-a-ferfi-autojarol.html" title="Kislányoknak mutogatta magát <br>egy 20 éves férfi - videó" class="news-title">Kislányoknak mutogatta magát <br>egy 20 éves férfi - videó</a></h2>
+</div></div></div><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_2018115185921-2"><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-tolatas-kozben-gazolt-halalra-egy-idos-not-egy-auto.html" title="Tolatás közben gázolt halálra&nbsp;<br>egy idős nőt&nbsp;egy autó" class="news-title">Tolatás közben gázolt halálra&nbsp;<br>egy idős nőt&nbsp;egy autó</a></h2>
+<p class="news-lead">A baleset Sormáson történt.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/nagyvilag/20181010-gyakorlatozas-kozben-lezuhant-egy-katonai-repulo-szlovakiaban.html" title="Forrás: Szlovák Védelmi Minisztérium "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010lezuhant-szlovak-repulo2.jpg?w=308&h=156" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Szlovák Védelmi Minisztérium " width="308" height="156"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/nagyvilag/20181010-gyakorlatozas-kozben-lezuhant-egy-katonai-repulo-szlovakiaban.html" title="Lezuhant <br>egy katonai repülő Szlovákiában" class="news-title">Lezuhant <br>egy katonai repülő Szlovákiában</a></h2>
+</div></div></div></div></div></div><div class="news-wrap wrap-42-58 sport_section" name="2017103124636" id="2017103124636"><h3 class="headline">Sport</h3><div class="wrap coltype-42 " data-coltype="42" id="201722805357-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/sport/laza/20181012-elo-sportmusorok-sportkozvetitesek-oktober-12-pentek.html" title="Forrás: MTI/Illyés Tibor "><img pre-src="http://rewrite.origos.hu/s/img/i/1809/20180921magyarorszag3.jpg?w=392&h=147" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: MTI/Illyés Tibor " width="392" height="147"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/laza/20181012-elo-sportmusorok-sportkozvetitesek-oktober-12-pentek.html" title="Egy horvát-angol meccs is lesz&nbsp;<br>a görög-magyar mellett" class="news-title">Egy horvát-angol meccs is lesz&nbsp;<br>a görög-magyar mellett</a></h2>
+<p class="news-lead">A Nemzetek Ligájában a csoportunkat vezető finnek Észtországba látogatnak.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-anthony-martial-goljaert-10-millio-eurot-fizetett-a-manchester-united.html" title="Martial Newcastle&nbsp;elleni gólja 10 millió eurójába került a ManUnitednek" class="news-title">Martial Newcastle&nbsp;elleni gólja 10 millió eurójába került a ManUnitednek</a></h2>
+<p class="news-lead">Hogy ki profitált a legtöbbet a két csapat bajnokijából? A Monaco.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-wales-spanyolorszag-felkeszulesi-merkozes.html" title="A spanyolok négyet lőttek Walesnek" class="news-title">A spanyolok négyet lőttek Walesnek</a></h2>
+<p class="news-lead">A Barcelonában létszámfelettivé vált Paco Alcácer óriási formában van.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181012-babos-kikapott-parospartneretol-a-nyolcaddontoben-linzben.html" title="Babos kikapott párospartnerétől <br>a nyolcaddöntőben" class="news-title">Babos kikapott párospartnerétől <br>a nyolcaddöntőben</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-kerekparsport-fantasztikus-sikert-ert-el-a-hc-kategorias-versenyen-peak-barnabas.html" title="Fantasztikus sikert ért el a HC kategóriás versenyen Peák Barnabás" class="news-title">Fantasztikus sikert ért el a HC kategóriás versenyen Peák Barnabás</a></h2>
+<p class="news-lead">A magyar kerékpáros a Gran Piemontén bizonyított a Quick-Step csapatában. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/egyeni/20181011-pekler-zalan-aranyermet-nyert-vegyesparosban-az-ifjusagi-olimpian.html" title="Pekler Zalán aranyérmes vegyespárosban az ifjúsági olimpián" class="news-title">Pekler Zalán aranyérmes vegyespárosban az ifjúsági olimpián</a></h2>
+<p class="news-lead">A sportlövő szoros csatában győzött mongol partnerével.</p>
+</div></div></div><div class="wrap coltype-58 " data-coltype="58" id="201722805357-2"><div class="news-item  style_gphirek has-image     ">
+<a class="news-item-image" href="http://www.gphirek.hu/f1/20181011-f1-nem-minden-esetben-szabalyos-vettel-vedekezese-hamilton-ellen.html" title="Forrás: Picture-Alliance/AFP/usage worldwide/Hoch Zwei "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181004forma1-orosz-nagydij-sebastian-vettel1.jpg?w=559&h=210" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Picture-Alliance/AFP/usage worldwide/Hoch Zwei " width="559" height="210"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://gphirek.hu">gp-hírek</a></span></div>
+<h2><a href="http://www.gphirek.hu/f1/20181011-f1-nem-minden-esetben-szabalyos-vettel-vedekezese-hamilton-ellen.html" title="Whiting: Első ránézésre megbüntettem volna Vettelt" class="news-title">Whiting: Első ránézésre megbüntettem volna Vettelt</a></h2>
+</div></div><div class="news-item related style_gphirek      ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://gphirek.hu">gp-hírek</a></span></div>
+<h2><a href="http://www.gphirek.hu/f1/20181011-f1-ricciardo-verstappen-nem-tokosebb-nalam.html" title="Ricciardo: Verstappen nem tökösebb nálam" class="news-title">Ricciardo: Verstappen nem tökösebb nálam</a></h2>
+</div></div><div class="news-item related style_gphirek      ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://gphirek.hu">gp-hírek</a></span></div>
+<h2><a href="http://www.gphirek.hu/f1/20181011-f1-magyar-pilotajaval-ert-el-kettos-gyozelmet-a-mercedes-esport-csapata.html" title="Magyar pilótájával ért el kettős győzelmet&nbsp;<br>a Mercedes e-sport-csapata" class="news-title">Magyar pilótájával ért el kettős győzelmet&nbsp;<br>a Mercedes e-sport-csapata</a></h2>
+</div></div><div class="news-item related style_gphirek      ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://gphirek.hu">gp-hírek</a></span></div>
+<h2><a href="http://www.gphirek.hu/f1/20181010-f1-kiborultak-a-noi-pilotak-a-noi-formulaautos-bajnoksag-a-w-series-miatt.html" title="Szegregációt emlegetnek a női pilóták a nekik szánt autóverseny miatt" class="news-title">Szegregációt emlegetnek a női pilóták a nekik szánt autóverseny miatt</a></h2>
+</div></div><div class="news-wrap wrap-33-25 subsection" name="subsection_201772164426" id="subsection_201772164426"><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_201722805555-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/sport/futball/20181011-lehet-hogy-muteni-kell-a-barcelona-vilagbajnok-hatvedjet-umtiti.html" title="Forrás: AFP/Pau Barrena "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011fbl-horizontal1.jpg?w=308&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: AFP/Pau Barrena " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-lehet-hogy-muteni-kell-a-barcelona-vilagbajnok-hatvedjet-umtiti.html" title="Térdműtét várhat <br>a Barcelona világbajnok védőjére" class="news-title">Térdműtét várhat <br>a Barcelona világbajnok védőjére</a></h2>
+<p class="news-lead">Lehet, hogy már csak jövőre léphet pályára.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-labdarugas-angol-foci-premier-league-decemberig-nem-szamithat-vbbronzermesere-a-tottenham-hotspur.html" title="Decemberig nem számíthat <br>vb-bronzérmesére <br>a Tottenham Hotspur" class="news-title">Decemberig nem számíthat <br>vb-bronzérmesére <br>a Tottenham Hotspur</a></h2>
+</div></div></div><div class="wrap coltype-25 subcolumn" data-coltype="25" id="subsection_201722805555-2"><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-kylian-mbappe-times-magazin-cimlap.html" title="Kylian Mbappé a Time-magazin címlapján" class="news-title">Kylian Mbappé a Time-magazin címlapján</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/loero/20181011-autosport-loero-dtm-az-aston-martin-valtja-a-mercedest-a-sorozatban.html" title="DTM: az Aston Martin váltja a Mercedest <br>a sorozatban" class="news-title">DTM: az Aston Martin váltja a Mercedest <br>a sorozatban</a></h2>
+<p class="news-lead">Gerhard Berger szerint történelmi esemény ez a német túraautó-bajnokság életében. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/sport/futball/20181011-labdarugas-a-korabbi-magyar-focikapitany-georges-leekens-ujra-kispadot-kapott.html" title="A korábbi magyar focikapitány, Georges Leekens újra kispadot kapott " class="news-title">A korábbi magyar focikapitány, Georges Leekens újra kispadot kapott </a></h2>
+</div></div></div></div></div></div><div class="news-wrap wrap-33-33-33 sponsored" name="201810812335" id="201810812335"><h3 class="headline">Pénz</h3><div class="wrap coltype-33" data-coltype="33" id="20161129951-3"><div class="news-item  style_uzletresz has-image     ">
+<a class="news-item-image" href="http://www.uzletresz.hu/vallalkozas/20181011-az-erzeseinket-nem-kepesek-atvenni-a-mesterseges-intelligencia-gepei.html" title="Forrás: Science Photo Library/MACROVECTOR / SCIENCE PHOTO LIBRARY/Macrovector / Science Photo Libr "><img pre-src="http://rewrite.origos.hu/s/img/i/1809/20180910ai-mesterseges-intelligencia-circuit-board3.jpg?w=309&h=174" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Science Photo Library/MACROVECTOR / SCIENCE PHOTO LIBRARY/Macrovector / Science Photo Libr " width="309" height="174"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.uzletresz.hu/vallalkozas/20181011-az-erzeseinket-nem-kepesek-atvenni-a-mesterseges-intelligencia-gepei.html" title="Az érzéseinket nem képes átvenni <br>a mesterséges intelligencia" class="news-title">Az érzéseinket nem képes átvenni <br>a mesterséges intelligencia</a></h2>
+</div></div><div class="news-item  style_uzletresz      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.uzletresz.hu/eladas/20181011-hogy-lehet-most-jo-webaruhazbizniszt-csinalni-az-interneten.html" title="Hogy lehet most jó webáruház-bizniszt csinálni?" class="news-title">Hogy lehet most jó webáruház-bizniszt csinálni?</a></h2>
+<p class="news-lead">Sikeres lehet egy magyar hátterű webáruház Romániában, Bulgáriában, Ukrajnában. Mutatjuk, hogyan.</p>
+</div></div><div class="news-item top-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181009-gazdasagi-szankciok-usa-japan-jakuza.html" title="Gazdasági szankciókkal <br>sújtják a jakuzát" class="news-title">Gazdasági szankciókkal <br>sújtják a jakuzát</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181011-oktoberben-valtoztak-a-lakashitelek.html" title="Ismét változtak a lakáshitelek" class="news-title">Ismét változtak a lakáshitelek</a></h2>
+<p class="news-lead">Októbertől módosították lakáshiteleiket a bankok. Mutatjuk a legfontosabb változásokat.</p>
+</div></div></div><div class="wrap coltype-33" data-coltype="33" id="20161129951-2"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/gazdasag/20181009-tiz-eve-tart-rublinlaz-orszag-pokoli-bugyor-mozambik.html" title="Forrás: AFP/John Wessels "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181009mining-horizontal8.jpg?w=309&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: AFP/John Wessels " width="309" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181009-tiz-eve-tart-rublinlaz-orszag-pokoli-bugyor-mozambik.html" title="Vadnyugattá vált az ország, <br>ahol tíz éve tart a rubinláz" class="news-title">Vadnyugattá vált az ország, <br>ahol tíz éve tart a rubinláz</a></h2>
+<p class="news-lead">A szegény államból a világ legfontosabb szállítója lett. Pokoli bugyrok rejtik <br />a kincset.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181010-metropolisz-lakossag-haromnegyede-eladosodott.html" title="A metropolisz, ahol a lakosság háromnegyede eladósodott" class="news-title">A metropolisz, ahol a lakosság háromnegyede eladósodott</a></h2>
+<p class="news-lead">Felének törlesztési elmaradása van, <br ></pi>és többen tartoznak uzsorásoknak, mint bankoknak.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181011-tozsdei-zuhanas-milliardosok-vagyonvesztes.html" title="Bajban a világ leggazdagabb emberei" class="news-title">Bajban a világ leggazdagabb emberei</a></h2>
+</div></div><div class="news-item mega-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/itthon/20181011-vilaggazdasag-egyseges-jeloles-jon-a-benzinkutakon.html" title="Folyamatosan jön <br>az óriási változás <br>a benzinkutakon" class="news-title">Folyamatosan jön <br>az óriási változás <br>a benzinkutakon</a></h2>
+</div></div></div><div class="wrap coltype-33" data-coltype="33" id="20161129951-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/gazdasag/20181010-a-maersk-az-elso-kontenerszallito-amely-atkelt-a-jegestengeri-atjaron.html" title="Forrás: AFP/Aurimages/Philippe ROY "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010arktisz-jegtoro-hajo-kanada3.jpg?w=308&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: AFP/Aurimages/Philippe ROY " width="308" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181010-a-maersk-az-elso-kontenerszallito-amely-atkelt-a-jegestengeri-atjaron.html" title="Így terjeszti ki Kína <br>a Selyemutat az Északi-sarkra is" class="news-title">Így terjeszti ki Kína <br>a Selyemutat az Északi-sarkra is</a></h2>
+<p class="news-lead">Sikeresen átkelt az első konténer-szállító a jeges-tengeri átjárón.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181011-verengzes-a-tozsdeken.html" title="Rég nem látott vérengzés <br>a tőzsdéken" class="news-title">Rég nem látott vérengzés <br>a tőzsdéken</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181011-tesla-bukasa-kozel-lehet-a-csod.html" title="A Tesla bukását vizionálja <br>a szakértő, aki a Lehman csődjét is megjósolta" class="news-title">A Tesla bukását vizionálja <br>a szakértő, aki a Lehman csődjét is megjósolta</a></h2>
+<p class="news-lead">David Einhorn szerint Musk érzelmileg labilis, közel lehet a vég. </p>
+</div></div><div class="news-item  style_uzletresz      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.uzletresz.hu/penzugy/20181011-mi-kell-egy-vallalkozoi-bankszamlanyitashoz.html" title="Mi kell egy céges bankszámlanyitáshoz?" class="news-title">Mi kell egy céges bankszámlanyitáshoz?</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/gazdasag/20181010-volkswagen-negativ-eredmenyek.html" title="Mi lesz a Volkswagennel?" class="news-title">Mi lesz a Volkswagennel?</a></h2>
+<p class="news-lead">Fekete szeptember a német autógyártónál.</p>
+</div></div></div></div><div class="news-wrap wrap-33-67 normal" name="2017103123648" id="2017103123648"><h3 class="headline">Tévé</h3><div class="wrap coltype-33 " data-coltype="33" id="2017103123648-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/teve/20181009-oriasi-hisztit-rendezett-schobert-norbi-tv.html" title="Forrás: tv2 "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181009188.jpg?w=309&h=155" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: tv2 " width="309" height="155"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181009-oriasi-hisztit-rendezett-schobert-norbi-tv.html" title="Óriási hisztit <br>rendezett Schobert Norbi" class="news-title">Óriási hisztit <br>rendezett Schobert Norbi</a></h2>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181009-rubint-reka-elajult-nemeth-kristof-masfel-orat-sirt-a-mentoben-tv.html" title="Rubint Réka elájult,&nbsp;<br>Németh Kristóf másfél órát&nbsp;<br>sírt&nbsp;a mentőben" class="news-title">Rubint Réka elájult,&nbsp;<br>Németh Kristóf másfél órát&nbsp;<br>sírt&nbsp;a mentőben</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181010-mar-a-kutyat-sem-erdeklik-a-zombik-szornyen-nyitott-a-walking-dead.html" title="Láttunk már szebb zombikat,&nbsp;szó se róla" class="news-title">Láttunk már szebb zombikat,&nbsp;szó se róla</a></h2>
+<p class="news-lead">Szörnyen rosszul nyitott a Walking Dead új évadja.</p>
+</div></div><div class="news-item top-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181010-kedden-mindent-vitt-a-tv2-oktober-9-2018.html" title="Kedden mindent a TV2 nyert" class="news-title">Kedden mindent a TV2 nyert</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-jim-carrey-tovabb-jatssza-a-szomoru-bohocot-folytatodik-a-kidding.html" title="Jim Carrey tovább játssza a szomorú bohócot" class="news-title">Jim Carrey tovább játssza a szomorú bohócot</a></h2>
+<p class="news-lead">Folytatódik az új sorozata.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181010-sulyos-baleseterol-meselt-most-keleti-andrea.html" title="Súlyos balesetéről mesélt&nbsp;Keleti Andrea" class="news-title">Súlyos balesetéről mesélt&nbsp;Keleti Andrea</a></h2>
+</div></div></div><div class="wrap coltype-67 " data-coltype="67" id="2017103123648-2"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/teve/galeria/20181010-mariah-carey-kitette-a-melleit-es-sejtelmesen-mosolygott-tv.html" title="Forrás: dpa Picture-Alliance/AFP/usage worldwide/Hubert Boesl "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/201810102018-american-music-awards-music8.jpg?w=642&h=241" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: dpa Picture-Alliance/AFP/usage worldwide/Hubert Boesl " width="642" height="241"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/galeria/20181010-mariah-carey-kitette-a-melleit-es-sejtelmesen-mosolygott-tv.html" title="Mariah Carey kitette a melleit, <br>és sejtelmesen mosolygott" class="news-title">Mariah Carey kitette a melleit, <br>és sejtelmesen mosolygott</a></h2>
+<p class="news-lead">Nézze meg legfrissebb képeit!</p>
+</div></div><div class="news-wrap wrap-33-33 subsection" name="subsection_2017103124026" id="subsection_2017103124026"><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_2017103124026-1"><div class="news-item top-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181010-komoly-serulest-szerzett-koholak-alexandra-a-proban-csak-show-es-mas-semmi.html" title="Komolyan megsérült <br>Koholák Alexandra" class="news-title">Komolyan megsérült <br>Koholák Alexandra</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181009-eljegyezte-23-evvel-fiatalabb-parjat-a-szineszno-tv.html" title="Eljegyezte 23 évvel fiatalabb párját <br>a színésznő" class="news-title">Eljegyezte 23 évvel fiatalabb párját <br>a színésznő</a></h2>
+<p class="news-lead">Új szerelem, de erősnek tűnik.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-ujabb-nepszeru-netflixsorozat-kapott-folytatast-tv.html" title="Újabb népszerű Netflix-sorozat kapott folytatást" class="news-title">Újabb népszerű Netflix-sorozat kapott folytatást</a></h2>
+<p class="news-lead">Az Ozark is megkapta a harmadik évadot.</p>
+</div></div></div><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_2017103124026-2"><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181010-meghalt-peggy-mccay-szineszno-tv.html" title="Meghalt Peggy McCay színésznő" class="news-title">Meghalt Peggy McCay színésznő</a></h2>
+<p class="news-lead">2016-ban még forgatott, Emmy-díjat is kapott. </p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/teve/20181010-meghalt-celeste-yarnall-szineszno.html" title="Forrás: CBS "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010celeste-yarnall-a-star-trekben3.jpg?w=308&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: CBS " width="308" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181010-meghalt-celeste-yarnall-szineszno.html" title="Meghalt Celeste Yarnall" class="news-title">Meghalt Celeste Yarnall</a></h2>
+<p class="news-lead">Több mint 50 filmben és sorozatban láthattuk.</p>
+</div></div></div></div></div></div><div class="news-wrap wrap-67-33 normal" name="2017103124333" id="2017103124333"><h3 class="headline">Színház, mozi, zene</h3><div class="wrap coltype-67 " data-coltype="67" id="20161114124324-1"><div class="news-item   has-image video    ">
+<a class="news-item-image" href="http://www.origo.hu/filmklub/20181010-csillag-szuletik-bradley-cooper-nagyot-alakit-lady-gaga-szinesznek-halvany.html" title="Forrás: Collection Christophel/C Warner Bros/Warner Bros "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010a-star-is-born-chanter2.jpg?w=642&h=321" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Collection Christophel/C Warner Bros/Warner Bros " width="642" height="321"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/filmklub/20181010-csillag-szuletik-bradley-cooper-nagyot-alakit-lady-gaga-szinesznek-halvany.html" title="Csillag születik: <br>a sikert úgy kovácsolják" class="news-title">Csillag születik: <br>a sikert úgy kovácsolják</a></h2>
+<p class="news-lead">Bradley Cooper tud énekelni, de Lady Gaga nem színész.</p>
+</div></div><div class="news-wrap wrap-33-33 subsection" name="subsection_2017810172320" id="subsection_2017810172320"><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_201731121737-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/filmklub/20181010-nyitva-film-interju-kovacs-lehel-radnay-csilla.html" title="Fotó: Polyák Attila - Origo "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010radnay-csilla-kovacs-lehel-radnay.jpg?w=308&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Fotó: Polyák Attila - Origo " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/filmklub/20181010-nyitva-film-interju-kovacs-lehel-radnay-csilla.html" title="Megoldás a nyitott kapcsolat? - bemutatják a Nyitva című új <br>magyar filmet" class="news-title">Megoldás a nyitott kapcsolat? - bemutatják a Nyitva című új <br>magyar filmet</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/kultura/20181010-eddig-soha-nem-latott-beatleskepeket-arvereznek-el.html" title="Gyönyörű havas tájon készült Beatles-képek kerültek elő" class="news-title">Gyönyörű havas tájon készült Beatles-képek kerültek elő</a></h2>
+</div></div></div><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_201731121737-2"><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181011-selena-gomez-nincs-jol-kezelesre-szorul-a-panikrohama-utan.html" title="Pszichés gondok, pánikroham: Selena Gomez kezelésre szorul" class="news-title">Pszichés gondok, pánikroham: Selena Gomez kezelésre szorul</a></h2>
+<p class="news-lead">Az utóbbi hetekben kétszer vitték kórházba.</p>
+</div></div><div class="news-item top-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/teve/20181010-dwayne-johnson-nepi-hosse-valt-jon-a-john-henry-and-the-statesmen.html" title="Dwayne Johnson népi hőssé vált" class="news-title">Dwayne Johnson népi hőssé vált</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/kultura/20181011-pasztor-anna-megertette-miert-kornyekezte-meg-a-halal.html" title="Pásztor Anna: Nem tudom megígérni, hogy a szex többé <br>nem lesz téma" class="news-title">Pásztor Anna: Nem tudom megígérni, hogy a szex többé <br>nem lesz téma</a></h2>
+</div></div></div></div></div><div class="wrap coltype-33 " data-coltype="33" id="20161114124324-2"><div class="news-item   has-image video    ">
+<a class="news-item-image" href="http://www.origo.hu/filmklub/20181010-defekttrailer.html" title="Forrás: 1996-98 Accusoft Inc., All Rights Reserved "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/2018101091.jpg?w=308&h=115" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: 1996-98 Accusoft Inc., All Rights Reserved " width="308" height="115"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/filmklub/20181010-defekttrailer.html" title="Videó - Mi is megnézhetjük az egyik legjobb japán rendező thrillerjét" class="news-title">Videó - Mi is megnézhetjük az egyik legjobb japán rendező thrillerjét</a></h2>
+<p class="news-lead">Ryuhei Kitamura új alkotása a magyar mozikat sem kerüli el. Mutatjuk <br ></pi>a trailert.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/kultura/20181010-nagy-fero-elmondta-hogyan-szerveztek-be-vikidal-gyulat-ugynoknek.html" title="Nagy Feró elmondta, hogyan szervezték be ügynöknek <br>Vikidál Gyulát" class="news-title">Nagy Feró elmondta, hogyan szervezték be ügynöknek <br>Vikidál Gyulát</a></h2>
+<p class="news-lead">A Beatrice énekese azt is elmondta, mit gondol róla.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/kultura/20181011-ripoff-raskolnikov-uj-lemezen-folytatta-a-tortenetmeselest.html" title="Remete-életmódra váltott <br>az évek óta Magyarországon<br>élő osztrák zenész" class="news-title">Remete-életmódra váltott <br>az évek óta Magyarországon<br>élő osztrák zenész</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/kultura/20180929-gregor-bernadett-interju.html" title="Gregor Bernadett elmeséli, <br>hogyan alázták meg meztelenül <br>a Színművészetin" class="news-title">Gregor Bernadett elmeséli, <br>hogyan alázták meg meztelenül <br>a Színművészetin</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/filmklub/20181011-matthew-mcconaughey-guy-ritchie-filmjeben-szerepel.html" title="Matthew McConaughey eladja <br>a drogbirodalmát oklahomai milliárdosoknak" class="news-title">Matthew McConaughey eladja <br>a drogbirodalmát oklahomai milliárdosoknak</a></h2>
+<p class="news-lead">Guy Ritchie rendezi a filmet, amiben Kate Beckinsale a partnere. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/kultura/20181011-tina-turner-eletrajzi-konyveben-feltarja-az-elmult-evekben-atelt-sulyos-betegsegeit-is.html" title="Férje szerve mentette meg <br>Tina Turner életét" class="news-title">Férje szerve mentette meg <br>Tina Turner életét</a></h2>
+</div></div></div></div><div class="news-wrap wrap-42-58 normal" name="2017122911182" id="2017122911182"><h3 class="headline">Tudomány, Tech</h3><div class="wrap coltype-42 " data-coltype="42" id="20171229111441-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/techbazis/20181011-usa-hadsereg-fegyverrendszer-serulkenyseg-hackeles.html" title="Forrás: 4th Combat Camera Squadron/Public Domain/Master Sgt. John R. Nimmo "><img pre-src="http://rewrite.origos.hu/s/img/i/1704/20170426f35-lightning-ii-instructor-pilots.jpg?w=392&h=261" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: 4th Combat Camera Squadron/Public Domain/Master Sgt. John R. Nimmo " width="392" height="261"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/techbazis/20181011-usa-hadsereg-fegyverrendszer-serulkenyseg-hackeles.html" title="Durván sérülékenyek az amerikai fegyverrendszerek" class="news-title">Durván sérülékenyek az amerikai fegyverrendszerek</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/techbazis/20181011-samsung-galaxy-a9-2018-negykameras-okostelefon.html" title="Megjött az első&nbsp;négykamerás mobil" class="news-title">Megjött az első&nbsp;négykamerás mobil</a></h2>
+<p class="news-lead">Itthon is kapható lesz, de meghökkentően sokat kér majd érte a Samsung.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/techbazis/20181010-microsoft-sticky-notes-okostelefon.html" title="Mobilra megy a Microsoft Sticky Notes" class="news-title">Mobilra megy a Microsoft Sticky Notes</a></h2>
+<p class="news-lead">Okostelefonokra érkezik a Microsoft jegyzetelője, de egyelőre nem önálló alkalmazás formájában. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tudomany/20181011-tobb-novenyi-alapu-elelmiszert-es-kevesebb-hust-kellene-fogyasztani-a-kutatok-szerint.html" title="A húsfogyasztás visszaszorítása <br>a klímaváltozás elleni harc kulcsa" class="news-title">A húsfogyasztás visszaszorítása <br>a klímaváltozás elleni harc kulcsa</a></h2>
+<p class="news-lead">Több növényi alapú élelmiszert és kevesebb húst kellene fogyasztani a kutatók szerint.</p>
+</div></div></div><div class="wrap coltype-58 " data-coltype="58" id="20171229111441-2"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/tudomany/20181010-szamos-human-etel-jelent-komoly-rizikofaktort-a-hazi-kedvenceknek.html" title="Forrás: Flickr / hannah k "><img pre-src="http://rewrite.origos.hu/s/img/i/1807/20180718kutya-mopsz1.jpg?w=559&h=210" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Flickr / hannah k " width="559" height="210"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tudomany/20181010-szamos-human-etel-jelent-komoly-rizikofaktort-a-hazi-kedvenceknek.html" title="Amit mi imádunk,&nbsp;halálos&nbsp;<br>méreg lehet a kutyánk számára" class="news-title">Amit mi imádunk,&nbsp;halálos&nbsp;<br>méreg lehet a kutyánk számára</a></h2>
+<p class="news-lead">Számos emberi étel jelent komoly kockázatot a házi kedvenceknek.</p>
+</div></div><div class="news-wrap wrap-33-25 subsection" name="subsection_2017122911191" id="subsection_2017122911191"><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_2017122911191-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/tudomany/20181011-a-partra-vetodo-balnatetemek-nem-biztositjak-a-jegesmedvek-tobbsegenek-tuleleset.html" title="Forrás: Chris Collins/Heritage Expeditions "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011jegesmedve-jegesmedvek3.jpg?w=308&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Chris Collins/Heritage Expeditions " width="308" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tudomany/20181011-a-partra-vetodo-balnatetemek-nem-biztositjak-a-jegesmedvek-tobbsegenek-tuleleset.html" title="A bálnatetemektől nem fognak jóllakni a jegesmedvék" class="news-title">A bálnatetemektől nem fognak jóllakni a jegesmedvék</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tudomany/20181011-velt-kapcsolat-a-kolera-es-a-tengerszint-feletti-magassag-kozott.html" title="A brit tudósok nem viccelnek, <br>se a teával, se a tudománnyal" class="news-title">A brit tudósok nem viccelnek, <br>se a teával, se a tudománnyal</a></h2>
+<p class="news-lead">Vélt kapcsolat a kolera és a tengerszint feletti magasság között.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tudomany/20181011-akar-felmillio-dollarert-is-elkelhet-el-a-holdrol-szarmazo-csaknem-hat-kilogrammos-meteorit.html" title="Ön is licitálhat a neten a Holdról származó meteoritra" class="news-title">Ön is licitálhat a neten a Holdról származó meteoritra</a></h2>
+</div></div></div><div class="wrap coltype-25 subcolumn" data-coltype="25" id="subsection_2017122911191-2"><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://origo.hu/egeszseg/szivderito">szívderítő</a></span></div>
+<h2><a href="http://www.origo.hu/egeszseg/szivderito/20181011-minden-30-tanulobol-1-sulyosan-elhizott-naluk-magas-a-cukorbetegseg-aszthma-magas-vernyomas.html" title="20 ezer gyerekre vár betegségekkel terhelt felnőttkor" class="news-title">20 ezer gyerekre vár betegségekkel terhelt felnőttkor</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/techbazis/20181011-android-9-pie-frissites-nokia.html" title="Öt Nokiára jön heteken belül&nbsp;az Android 9 Pie" class="news-title">Öt Nokiára jön heteken belül&nbsp;az Android 9 Pie</a></h2>
+<p class="news-lead">Háromra még októberben elérhetővé válik <br />a frissítés.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tudomany/20181011-atlagosan-otezer-arcot-ismer-az-ember.html" title="Bámulatosan sok arcot képes megjegyezni <br>az ember" class="news-title">Bámulatosan sok arcot képes megjegyezni <br>az ember</a></h2>
+</div></div></div></div></div></div><div class="news-wrap wrap-33-67 normal" name="201861219816" id="201861219816"><h3 class="headline">Gasztro, utazás, autó</h3><div class="wrap coltype-33" data-coltype="33" id="201633101836-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/utazas/hirek/20181008-kinaban-mar-keszul-a-titanic-elethu-masolata.html" title="Forrás: AFP/Imaginechina/Yi fang "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181008fullsize-titanic-replica-built-with12.jpg?w=309&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: AFP/Imaginechina/Yi fang " width="309" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>képgaléria</span></span></div>
+<h2><a href="http://www.origo.hu/utazas/hirek/20181008-kinaban-mar-keszul-a-titanic-elethu-masolata.html" title="Kínában már félig kész <br>a Titanic élethű másolata" class="news-title">Kínában már félig kész <br>a Titanic élethű másolata</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tafelspicc/20181010-tojas-tojasos-reggeli-tojasos-recept.html" title="Őseink fészekből lopták, <br>mi boltba megyünk érte" class="news-title">Őseink fészekből lopták, <br>mi boltba megyünk érte</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tafelspicc/20181010-skittles-zombie-skittles-cukor.html" title="Új cukor a láthatáron. Íze akár <br>a rothadt zombi" class="news-title">Új cukor a láthatáron. Íze akár <br>a rothadt zombi</a></h2>
+<p class="news-lead">Kipróbálná? Szavazzon!</p>
+</div></div><div class="news-item top-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tafelspicc/20181011-olivaolaj-jotekony-hatasa-olivaolajas-torta-olivaolaj-tortarecept.html" title="Homérosz is ezen az alapanyagon nőtt fel" class="news-title">Homérosz is ezen az alapanyagon nőtt fel</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tafelspicc/galeria/20181010-reggeli-az-antarktiszon-cyprien-verseux-tojasrantotta-teszta.html" title="Ilyen egy étkezés&nbsp;az Antarktiszon" class="news-title">Ilyen egy étkezés&nbsp;az Antarktiszon</a></h2>
+<p class="news-lead">Megfagyott tészta és jeges tojásrántotta.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/auto/20181010-olyan-sikamlos-rendszamot-fotoztak-itthon-amibe-az-ember-belepirul.html" title="Olyan sikamlós rendszámot fotóztak itthon, amibe az ember belepirul" class="news-title">Olyan sikamlós rendszámot fotóztak itthon, amibe az ember belepirul</a></h2>
+</div></div></div><div class="wrap coltype-67" data-coltype="67" id="201633101836-2"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/utazas/hirek/20181010-ujabb-festoi-szepsegu-szigeteken-korlatozzak-a-turizmust-szimilan.html" title="Forrás: AFP/robertharding/Michael DeFreitas "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010szimilanszigetek-thaifold-similan-islands28.jpg?w=642&h=321" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: AFP/robertharding/Michael DeFreitas " width="642" height="321"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/utazas/hirek/20181010-ujabb-festoi-szepsegu-szigeteken-korlatozzak-a-turizmust-szimilan.html" title="Újabb festői szépségű <br>szigeteken korlátozzák a turizmust" class="news-title">Újabb festői szépségű <br>szigeteken korlátozzák a turizmust</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/utazas/20180925-geokekturazas-boldogkovaralja-es-putnok-kozott.html" title="Ha nyitott szemmel járunk, <br>a kéktúra a földünkről is mesél" class="news-title">Ha nyitott szemmel járunk, <br>a kéktúra a földünkről is mesél</a></h2>
+<p class="news-lead">Ilyen az, amikor egy kis hozzáértéssel <br />a természetjárás izgalmas földrajzórává válik.</p>
+</div></div></div></div><div class="news-wrap wrap-33-33-33 normal" name="20172710754" id="20172710754"><div class="wrap coltype-33 " data-coltype="33" id="20172710754-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/tafelspicc/20181010-22-csabai-kolbaszfesztival-beharangozo.html" title="Fotó: Polyák Attila - Origo "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010csabai-kolbaszfesztival-sajtotajekoztatoja-2018101017.jpg?w=309&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Fotó: Polyák Attila - Origo " width="309" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tafelspicc/20181010-22-csabai-kolbaszfesztival-beharangozo.html" title="Idén is nagy&nbsp;<br>malackodás lesz Békéscsabán" class="news-title">Idén is nagy&nbsp;<br>malackodás lesz Békéscsabán</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/auto/20181010-nezni-is-rossz-ahogy-az-ostoba-teherautos-ledaralja-a-vetlen-autosokat.html" title="Nézni is rossz,&nbsp;ahogy az ostoba teherautós ledarálja a vétlen autósokat" class="news-title">Nézni is rossz,&nbsp;ahogy az ostoba teherautós ledarálja a vétlen autósokat</a></h2>
+<p class="news-lead">Szörnyű, egyben felháborító balesetet rögzített egy fedélzeti kamera.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tafelspicc/20181011-drakula-verpuding-veres-fagylalt.html" title="Vér a fagylaltban?" class="news-title">Vér a fagylaltban?</a></h2>
+<p class="news-lead">Igen! Ráadásul valódi.</p>
+</div></div><div class="news-item top-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/utazas/hirek/20181009-valosagga-valt-sokak-felelme-lopas-kezipoggyasz.html" title="Megdézsmálták az utasok csomagját, míg ők aludtak a repülőn" class="news-title">Megdézsmálták az utasok csomagját, míg ők aludtak a repülőn</a></h2>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/utazas/hirek/20181008-hihetetlen-mit-muvelt-a-ryanair-gepe-az-oldalszelben-birmingham.html" title="Forrás: Youtube "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181008ryanair-birmingham1.gif?w=309&h=116" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: Youtube " width="309" height="116"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/utazas/hirek/20181008-hihetetlen-mit-muvelt-a-ryanair-gepe-az-oldalszelben-birmingham.html" title="Hihetetlen, mit művelt <br>a Ryanair gépe az oldalszélben" class="news-title">Hihetetlen, mit művelt <br>a Ryanair gépe az oldalszélben</a></h2>
+</div></div></div><div class="wrap coltype-33 " data-coltype="33" id="20172710754-2"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.origo.hu/foto/multimedia/20180927-haludovo-hotel-malinska-szellemhotel.html" title="Fotó: Major Kata - Origo "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/2018100420182.jpg?w=309&h=174" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Fotó: Major Kata - Origo " width="309" height="174"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>képgaléria</span></span></div>
+<h2><a href="http://www.origo.hu/foto/multimedia/20180927-haludovo-hotel-malinska-szellemhotel.html" title="Jugoszláv&nbsp;fényűzésből&nbsp;<br>horvát szellemhotel" class="news-title">Jugoszláv&nbsp;fényűzésből&nbsp;<br>horvát szellemhotel</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.origo.hu/tafelspicc/20181010-reese-witherspoon-szakacskonyv-whiskey-egy-teascseszebe-baked-brie-sult-brie-sajt-recept.html" title="Reese Witherspoon saját <br>receptjét sütötte, mégis elrontotta" class="news-title">Reese Witherspoon saját <br>receptjét sütötte, mégis elrontotta</a></h2>
+<p class="news-lead">Ez lett a végeredmény.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>retrofoci</span></span></div>
+<h2><a href="http://www.origo.hu/sport/futball/20181009-ebedli-zoltan-ujpesti-dozsa-ferencvaros-labdarugas-retrofoci.html" title="Egy ősfradista, aki az edzője miatt <br>a rivális Újpesti Dózsához igazolt" class="news-title">Egy ősfradista, aki az edzője miatt <br>a rivális Újpesti Dózsához igazolt</a></h2>
+<p class="news-lead">Ebedli Zoltán (és Törőcsik András) története a szocialista magyar sport hű lenyomata, avagy zsenikezelés magyar módra.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>videó</span></span></div>
+<h2><a href="http://www.origo.hu/utazas/hirek/20181011-ezen-a-reszeg-turistan-rohog-most-mindenki-szocsi.html" title="Ezen a részeg turistán röhög most mindenki" class="news-title">Ezen a részeg turistán röhög most mindenki</a></h2>
+<p class="news-lead">Még a rendőrök is csak nevettek a dolgon.</p>
+</div></div></div><div class="wrap coltype-33 " data-coltype="33" id="20172710754-3"><div class="lebego">
+<script>
+if (!window.isVisualEditor){
+if (typeof zoneManager !== 'undefined') {
+var lebego_zone = false;
+if ($('.lebego').length == 1){
+lebego_zone = (zoneManager.getZone('over_box') !== null) ? 'over_box' : false;
+} else {
+lebego_zone = (zoneManager.getZone('middle_box') !== null) ? 'middle_box' : false;
+}
+if (lebego_zone !== false){
+zoneManager.insertZone({key:lebego_zone, wrap : true});
+}
+}
+}
+</script>
+</div>
+</div></div></div><div id="branded-sections">
+<div class="news-wrap wrap-100 wrap-ad">
+<div class="goaWrap">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'magnum_3'});
+}
+</script>
+</div>
+</div>
+<div class="news-wrap wrap-33-33-33 wrap-travelo " name="201744134526" id="201744134526">
+<div class="section_header"><a href="http://travelo.hu/" target="_blnak" style="position:absolute;left:20px;top:10px;width:101px;height:26px;display:block;"></a></div>
+<div class="wrap coltype-33 " data-coltype="33" id="201744134526-1"><div class="news-item  style_travelo has-image     ">
+<a class="news-item-image" href="http://www.travelo.hu/tavol/20181008-portugalia-lisszabon-a-legjobb-egynapos-kirandulohelyek-a-kornyeken.html" title="Forrás: hermitis / shutterstock.com "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011portugalialisszabondaytrip.jpg?w=309&h=155" src="http://rewrite.origos.hu/s/img/i/1810/20181011portugalialisszabondaytrip.jpg?w=309&h=155" alt="Forrás: hermitis / shutterstock.com " width="309" height="155"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/tavol/20181008-portugalia-lisszabon-a-legjobb-egynapos-kirandulohelyek-a-kornyeken.html" title="Lisszabont már ismeri? Fedezze fel a környéke legszebb látnivalóit" class="news-title">Lisszabont már ismeri? Fedezze fel a környéke legszebb látnivalóit</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/medspa/20181011-tiszakecske-termalfurdo-kedvezmenyek-teli-nyitva-tartas-akciok-medencekinalat.html" title="Kedvezmények a Tisza-parti Élményfürdőben" class="news-title">Kedvezmények a Tisza-parti Élményfürdőben</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/heticuki/20181011-romania-erdely-medveto-medvebocs-befogas-attelepites-kozbiztonsag.html" title="Medvebocsot fogtak be a Medve-tó partján" class="news-title">Medvebocsot fogtak be a Medve-tó partján</a></h2>
+</div></div></div><div class="wrap coltype-33 " data-coltype="33" id="201744134526-2"><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/hirek/20181012-budapest-fogaskereku-hat-hetig-nem-jar.html" title="Másfél hónapig nem jár a fogaskerekű" class="news-title">Másfél hónapig nem jár a fogaskerekű</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/tavol/20181011-izland-vilagszenzacio-egereszo-hazvezeto-sajat-nevkartyaval.html" title="Világszenzáció lett az izlandi egerésző házvezető" class="news-title">Világszenzáció lett az izlandi egerésző házvezető</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/tavol/20181011-anglia-london-fotografiai-kozpont-nyilt-a-viktoria-es-albert-muzeumban.html" title="Ingyenesen látogatható fotográfiai központ nyílik Londonban!" class="news-title">Ingyenesen látogatható fotográfiai központ nyílik Londonban!</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/utrakesz/20181010-wizz-air-poggyaszszabalyok-szigoritasa.html" title="Tovább szigorítják a poggyászszabályokat a Wizz Airnél" class="news-title">Tovább szigorítják a poggyászszabályokat a Wizz Airnél</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/medspa/20181011-magyarorszag-szeged-furdos-elmenyek-hetvegi-program-party-hangulat-szaunaszeansz-csuszda.html" title="Csúszdakavalkád várja a fürdőzőket Szegeden" class="news-title">Csúszdakavalkád várja a fürdőzőket Szegeden</a></h2>
+</div></div></div><div class="wrap coltype-33 " data-coltype="33" id="201744134526-3"><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/boresgasztro/20181010-velem-gesztenyenapok-tobb-mint-tizenotezer-vendeget-varnak.html" title="Görögnek a gesztenyék a Velemi Gesztenyenapokon" class="news-title">Görögnek a gesztenyék a Velemi Gesztenyenapokon</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/medspa/20181010-magyarorszag-budapest-magyar-furdok-oktoberi-programok-venasszonyok-nyara-szaunaszeansz.html" title="Mutatjuk miért érdemes a fürdőkben tölteni a vénasszonyok nyarát" class="news-title">Mutatjuk miért érdemes a fürdőkben tölteni a vénasszonyok nyarát</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/kozel/20181010-budapest-felujitas-atadtak-gul-baba-turbejet.html" title="Átadták a felújított Gül baba türbéjét Budán" class="news-title">Átadták a felújított Gül baba türbéjét Budán</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/heticuki/20181010-nyiregyhaza-allatpark-ritka-allat-szuletett-indiai-pancelos-rinocerosz-nem-mindennapi-felvetel.html" title="Videóra vették egy indiai páncélos rinocérosz születését" class="news-title">Videóra vették egy indiai páncélos rinocérosz születését</a></h2>
+</div></div><div class="news-item  style_travelo      ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.travelo.hu/csaladbarat/20181010-eger-egri-var-szuletesnapi-programok-a-60-eves-varmuzeumban.html" title="60 éves az egri vármúzeum" class="news-title">60 éves az egri vármúzeum</a></h2>
+</div></div></div></div>
+<div id="travelo-ajanlo"></div>
+<div class="news-wrap wrap-33-33-33 wrap-investor"><div class="wrap wrap-inv coltype-33" data-coltype="33">
+<a target="_blank" href="http://www.investor.hu/index.html" title="investor" class="not_item_index section_header_investor disable-sortable"></a><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.investor.hu/news/20181008-arany-nemesfem-befektetes-jegybank-banya-vallalat.html" title="Forrás: AFP/Ozan Kose "><img pre-src="http://rewrite.origos.hu/s/img/i/1511/20151111arany-gold1.jpg?w=309&h=155" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: AFP/Ozan Kose " width="309" height="155"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.investor.hu/news/20181008-arany-nemesfem-befektetes-jegybank-banya-vallalat.html" title="Szárnyra kaphat <br>az arany hamarosan" class="news-title">Szárnyra kaphat <br>az arany hamarosan</a></h2>
+<p class="news-lead">Megszakad a harminc éve nem látott negatív sorozat?</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.investor.hu/news/20181009-kina-jegybank-tozsde-befektetes-reszveny-deviza-dollar-juan.html" title="Kína megborította az ázsiai tőzsdéket" class="news-title">Kína megborította az ázsiai tőzsdéket</a></h2>
+<p class="news-lead">Egyre több izgalmas hír érkezik Pekingből.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.investor.hu/news/20181004-gazdasag-novekedes-gdp-boldogsag-robot-munka.html" title="A GDP már nem mutatja <br>egy gazdaság valódi teljesítményét" class="news-title">A GDP már nem mutatja <br>egy gazdaság valódi teljesítményét</a></h2>
+<p class="news-lead">Jönnek az alternatívák: <br />a műszerfalelmélet, a bruttó nemzeti boldogság és a Happy Planet Index.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.investor.hu/news/20181009-imf-elorejelzes-gazdasag-novekedes-kereskedelem.html" title="Az IMF borús képet festett <br>a világgazdaságról" class="news-title">Az IMF borús képet festett <br>a világgazdaságról</a></h2>
+<p class="news-lead">A kereskedelmi zavarok okozhatják <br />a bajt.</p>
+</div></div></div><div class="wrap wrap-uzlet coltype-33" data-coltype="33">
+<a target="_blank" href="http://www.uzletresz.hu/index.html" title="uzletresz" class="not_item_index section_header_uzletresz disable-sortable"></a><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.uzletresz.hu/penzugy/20180927-ket-ev-mulva-nem-lesz-szukseg-a-konyvelokre-magyarorszagon.html" title="Forrás: MTI/Földi Imre "><img pre-src="http://rewrite.origos.hu/s/img/i/1809/20180927mastercard-mastercard-contactless-kampany-paypass.jpg?w=308&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="Forrás: MTI/Földi Imre " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.uzletresz.hu/penzugy/20180927-ket-ev-mulva-nem-lesz-szukseg-a-konyvelokre-magyarorszagon.html" title="Két év múlva <br>már nem kellenek a hagyományos könyvelők Magyarországon" class="news-title">Két év múlva <br>már nem kellenek a hagyományos könyvelők Magyarországon</a></h2>
+<p class="news-lead">A kormányzat célja a szürkegazdaság minden fronton történő visszaszorítása.</p>
+</div></div><div class="news-item mega-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.uzletresz.hu/penzugy/20181005-pozitiv-valtozas-jon-az-autofinanszirozasban.html" title="Pozitív változás jön <br>az autófinanszírozásban" class="news-title">Pozitív változás jön <br>az autófinanszírozásban</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.uzletresz.hu/eladas/20181005-vege-lehet-az-akcios-reklamujsagoknak.html" title="Eltűnnek a bosszantó akciós reklámújságok?" class="news-title">Eltűnnek a bosszantó akciós reklámújságok?</a></h2>
+<p class="news-lead">A kormány közel négyszeresére emelné <br />a környezetvédelmi termékdíjat. Mobilalkalmazás lehet a megoldás.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.uzletresz.hu/vallalkozas/20181008-700-ezres-fizetesert-keresnek-magyar-munkasokat-ausztriaban.html" title="700 ezres fizetésért keresnek magyar munkásokat Ausztriában" class="news-title">700 ezres fizetésért keresnek magyar munkásokat Ausztriában</a></h2>
+<p class="news-lead">A hasonló hazai munkakörnek fizetett bér több mint négyszereséről van szó.</p>
+</div></div></div><div class="wrap coltype-33" data-coltype="33">
+<div id="bannercon">
+<div class="goaWrap">
+<script>
+if (typeof zoneManager !== 'undefined'){
+zoneManager.insertZone({key:'under_investor'});
+}
+</script>
+</div>
+</div>
+</div>
+</div>
+<div class="news-wrap wrap-67-33 wrap-postr " name="2018514105534" id="2018514105534">
+<div id="reblog" class="section_header reblog_fejlec pro header_close">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 154 29" style="enable-background:new 0 0 154 29;" xml:space="preserve">
+<a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://reblog.hu/" style="pointer-events: bounding-box;">
+<g id="reblog" transform="translate(2.191781, 2.536968)">
+<g>
+<path class="st0" d="M-2.2-2.1v27.9h27.9V-2.1H-2.2z M9,9.7C8.6,9.5,8.2,9.5,7.6,9.5C7,9.5,6.4,9.6,5.9,9.9
+c-0.5,0.3-1.1,0.7-1.7,1.3v8.7H0.9V6.5h3.3v1.9C4.7,7.8,5.3,7.3,6,6.9c0.6-0.4,1.4-0.6,2.2-0.6c0.7,0,1.2,0.1,1.5,0.3L9,9.7z
+M22.7,14.1h-8.9c0.1,1.2,0.3,2,0.9,2.6c0.5,0.5,1.3,0.8,2.5,0.8c0.6,0,1.2-0.1,1.7-0.2c0.5-0.2,0.9-0.5,1.3-0.9l2.5,1.7
+c-0.5,0.8-1.2,1.4-2.1,1.7c-0.9,0.4-2,0.6-3.5,0.6c-2.2,0-3.9-0.6-4.9-1.7c-1.1-1.2-1.6-2.9-1.6-5.3c0-4.8,2.1-7.2,6.4-7.2
+c1.9,0,3.4,0.5,4.4,1.6c1,1.1,1.5,2.6,1.5,4.7V14.1z"/>
+<path class="st0" d="M16.8,8.7c-0.6,0-1.1,0.1-1.4,0.3c-0.4,0.2-0.7,0.5-0.9,0.9c-0.2,0.4-0.4,1-0.5,1.9h5.5
+C19.4,9.8,18.5,8.7,16.8,8.7z"/>
+</g>
+<path id="Fill-6" class="st0" d="M38.7,17.1c-0.6,0.8-1.4,1.3-2.4,1.3c-0.6,0-1.2-0.1-1.9-0.4c-0.6-0.3-1.2-0.6-1.7-1V9.8
+c0.5-0.5,1-0.9,1.7-1.2c0.6-0.3,1.3-0.5,2-0.5c1,0,1.8,0.4,2.4,1.2c0.5,0.8,0.8,2.1,0.8,3.9C39.6,14.9,39.3,16.2,38.7,17.1
+M36.9,6.1c-0.8,0-1.6,0.2-2.3,0.5c-0.7,0.3-1.3,0.7-1.8,1.2v-7h-2.2v19h2.2v-1.1c0.5,0.4,1.1,0.8,1.8,1.1c0.7,0.3,1.4,0.4,2.1,0.4
+c1.7,0,3-0.6,3.9-1.9c0.9-1.3,1.4-3,1.4-5.3c0-2.2-0.4-4-1.3-5.2C39.8,6.7,38.5,6.1,36.9,6.1"/>
+<polygon id="Fill-8" class="st0" points="45.7,19.9 47.9,19.9 47.9,0.9 45.7,0.9 	"/>
+<path id="Fill-10" class="st0" d="M60.3,17.1c-0.6,0.8-1.5,1.3-2.7,1.3c-1.3,0-2.2-0.4-2.8-1.3c-0.6-0.8-0.9-2.1-0.9-3.9
+c0-1.8,0.3-3.1,0.9-4C55.4,8.4,56.3,8,57.6,8c1.2,0,2.1,0.4,2.7,1.2c0.6,0.8,0.9,2.2,0.9,4C61.2,15,60.9,16.3,60.3,17.1 M57.6,6.1
+c-1.9,0-3.4,0.6-4.4,1.8c-1,1.2-1.5,3-1.5,5.4c0,2.4,0.5,4.1,1.5,5.3c1,1.2,2.5,1.8,4.4,1.8c1.9,0,3.4-0.6,4.4-1.8
+c1-1.2,1.5-3,1.5-5.3c0-2.3-0.5-4.1-1.5-5.3C60.9,6.7,59.5,6.1,57.6,6.1"/>
+<path id="Fill-11" class="st0" d="M75.5,16.2c-1.2,1.1-2.4,1.7-3.7,1.7c-1.1,0-1.9-0.4-2.4-1.2c-0.5-0.8-0.8-2-0.8-3.7
+c0-1.6,0.3-2.8,0.9-3.6c0.6-0.9,1.4-1.3,2.5-1.3c1.1,0,2.3,0.5,3.4,1.4L75.5,16.2L75.5,16.2z M75.5,7.6c-1.1-1-2.4-1.5-3.7-1.5
+c-1.7,0-3,0.6-3.9,1.8c-1,1.2-1.4,2.9-1.4,5.1c0,2.2,0.4,3.9,1.3,5.1c0.9,1.2,2.1,1.8,3.8,1.8c0.8,0,1.6-0.2,2.3-0.5
+c0.7-0.3,1.3-0.7,1.8-1.2v1.6c0,1.2-0.3,2.1-0.8,2.6c-0.6,0.5-1.5,0.8-2.7,0.8c-1.5,0-2.9-0.4-4-1.2l-0.8,1.8
+c1.3,0.8,2.9,1.3,4.9,1.3c2.1,0,3.5-0.4,4.4-1.3c0.9-0.9,1.3-2.2,1.3-4V6.5h-2.2V7.6z"/>
+</g>
+</a>
+</svg>
+<a class="section_start_reblog" href="http://reblog.hu/regisztracio/elsolepesuj" target="_blank">Indíts Blogot!</a>
+</div>
+<div class="wrap coltype-67 " data-coltype="67" id="undefined"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://otthonos.reblog.hu/tengerparti-hangulat-43m-en" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012tengerparti-hangulatu-lakas.jpg?w=642&h=322" src="http://rewrite.origos.hu/s/img/i/1810/20181012tengerparti-hangulatu-lakas.jpg?w=642&h=322" alt="" width="642" height="322"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://otthonos.reblog.hu/">otthonos</a></span></div>
+<h2><a href="http://otthonos.reblog.hu/tengerparti-hangulat-43m-en" title="Tengerparti hangulat a város közepén" class="news-title">Tengerparti hangulat a város közepén</a></h2>
+<p class="news-lead">A 43 négyzetméteres lakásban a szörfdeszka csak a kezdet.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://bezzeganya.reblog.hu/genetikai-teszten-derult-ki-a-baba-neme" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012terhes1.jpg?w=642&h=321" src="http://rewrite.origos.hu/s/img/i/1810/20181012terhes1.jpg?w=642&h=321" alt="" width="642" height="321"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://bezzeganya.reblog.hu">bezzeganya</a></span></div>
+<h2><a href="http://bezzeganya.reblog.hu/genetikai-teszten-derult-ki-a-baba-neme" title="Genetikai teszten<br>derült ki a baba neme" class="news-title">Genetikai teszten<br>derült ki a baba neme</a></h2>
+<p class="news-lead">Tényleg minden nő érzi, hogy fiú vagy lány lesz-e a baba?</p>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://bezzeganya.reblog.hu">bezzeganya</a></span></div>
+<h2><a href="http://bezzeganya.reblog.hu/bantalmaztak-a-fiamat-az-oviban-ovodat-valtottunk" title="Bántották a fiamat az óvodában" class="news-title">Bántották a fiamat az óvodában</a></h2>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://bezzeganya.reblog.hu">bezzeganya</a></span></div>
+<h2><a href="http://bezzeganya.reblog.hu/fogszabalyzot-kap-a-gyerekem" title="Fogszabályzót kap a gyerekem?" class="news-title">Fogszabályzót kap a gyerekem?</a></h2>
+</div></div><div class="news-wrap wrap-33-33 wrap-postr subsection" name="subsection_201851411158" id="subsection_201851411158"><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_201851411158-1"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://anyavilag.reblog.hu/metoo-en-a-nok-partjan-allok-es-a-ferfiaken-is" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012melania-trump1.jpg?w=308&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="" width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://anyavilag.reblog.hu">anyavilág</a></span></div>
+<h2><a href="http://anyavilag.reblog.hu/metoo-en-a-nok-partjan-allok-es-a-ferfiaken-is" title="MeToo: "Én a nők pártján állok. és a férfiakén is"" class="news-title">MeToo: "Én a nők pártján állok. és a férfiakén is"</a></h2>
+<p class="news-lead">Melania Trump beszélt a mozgalomról.</p>
+</div></div><div class="news-item related       ">
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://anyavilag.reblog.hu">anyavilág</a></span></div>
+<h2><a href="http://anyavilag.reblog.hu/jo-szervezo-vagy-kenyszerbeteg-recepcios---a-lelki-egeszseg-vila" title="OCD: jó szervező vagy kényszerbeteg recepciós?" class="news-title">OCD: jó szervező vagy kényszerbeteg recepciós?</a></h2>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://blogomnekem.reblog.hu/hutott-szerelem" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011benazas.gif?w=308&h=209" src="http://static.origos.hu/s/img/cimlap2013/blank.png" alt="" width="308" height="209"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://blogomnekem.reblog.hu">blogom nekem</a></span></div>
+<h2><a href="http://blogomnekem.reblog.hu/hutott-szerelem" title="Ebből így biztos nem lesz szex" class="news-title">Ebből így biztos nem lesz szex</a></h2>
+<p class="news-lead">És még a mentősök is elejtették.</p>
+</div></div><div class="news-item mega-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://darwin.reblog.hu/a-vaganysag-atka" title="Addig vagánykodott, amíg le nem esett" class="news-title">Addig vagánykodott, amíg le nem esett</a></h2>
+</div></div></div><div class="wrap coltype-33 subcolumn" data-coltype="33" id="subsection_201851411158-2"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://toochee.reblog.hu/az-elo-szerepjatek-nehez-pillanatai" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012modern-lovagok.gif?w=308&h=174" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="" width="308" height="174"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://toochee.reblog.hu">toochee</a></span></div>
+<h2><a href="http://toochee.reblog.hu/az-elo-szerepjatek-nehez-pillanatai" title="A modern lovagok élete<br>sem veszélytelen" class="news-title">A modern lovagok élete<br>sem veszélytelen</a></h2>
+<p class="news-lead">Ki mondta, hogy a szerepjátékosdi biztonságos?</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://kacagodelfinek.reblog.hu/iliasz-tizenkilencedik-enek---hogy-legyen-kedved-elolvasni" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012akhilleusz1.jpg?w=308&h=154" src="//cdn.nwmgroups.hu/s/img/cimlap2013/blank.png" alt="" width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>kacagó delfinek</span></span></div>
+<h2><a href="http://kacagodelfinek.reblog.hu/iliasz-tizenkilencedik-enek---hogy-legyen-kedved-elolvasni" title="Akhilleusz lovakkal beszélget" class="news-title">Akhilleusz lovakkal beszélget</a></h2>
+<p class="news-lead">A lovak nem közölnek túl jó híreket.</p>
+</div></div><div class="news-item mega-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://macskaorseg.reblog.hu/lopasgatlo-rendszer" title="Tuti védelem: Ezt a kocsit nem lopják el" class="news-title">Tuti védelem: Ezt a kocsit nem lopják el</a></h2>
+</div></div></div></div></div><div class="wrap coltype-33 " data-coltype="33" id="undefined"><div class="news-item   has-image video    ">
+<a class="news-item-image" href="http://napivideo.reblog.hu/mazlista-uszok" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012balnabebi1.jpg?w=308&h=155" src="http://rewrite.origos.hu/s/img/i/1810/20181012balnabebi1.jpg?w=308&h=155" alt="" width="308" height="155"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>napi videó</span></span></div>
+<h2><a href="http://napivideo.reblog.hu/mazlista-uszok" title="Játékos bálnabébi" class="news-title">Játékos bálnabébi</a></h2>
+<p class="news-lead">Óriási mázlija volt az úszóknak.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://bigblue.reblog.hu/az-orveny-melyen" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012orveny.jpg?w=308&h=205" src="http://rewrite.origos.hu/s/img/i/1810/20181012orveny.jpg?w=308&h=205" alt="" width="308" height="205"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://bigblue.reblog.hu">bigblue</a></span></div>
+<h2><a href="http://bigblue.reblog.hu/az-orveny-melyen" title="Búvárkodás az örvényben" class="news-title">Búvárkodás az örvényben</a></h2>
+<p class="news-lead">Mi zajlik a maelstorm mélyén?</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://autistic-art.reblog.hu/speci-kutyukkel-pillanthat-be-az-autistak-vilagaba" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181012autista.jpg?w=308&h=221" src="http://rewrite.origos.hu/s/img/i/1810/20181012autista.jpg?w=308&h=221" alt="" width="308" height="221"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://autistic-art.reblog.hu">autistic-art</a></span></div>
+<h2><a href="http://autistic-art.reblog.hu/speci-kutyukkel-pillanthat-be-az-autistak-vilagaba" title="Spéci kütyükkel pillanthat be az autisták világába" class="news-title">Spéci kütyükkel pillanthat be az autisták világába</a></h2>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://magasles.reblog.hu/allandosult-a-harc-medve-es-ember-kozott-erdelyben" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011medvetamadas1.jpg?w=308&h=173" src="http://rewrite.origos.hu/s/img/i/1810/20181011medvetamadas1.jpg?w=308&h=173" alt="" width="308" height="173"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://magasles.reblog.hu">magasles</a></span></div>
+<h2><a href="http://magasles.reblog.hu/allandosult-a-harc-medve-es-ember-kozott-erdelyben" title="Állandósult a harc medve és ember között Erdélyben" class="news-title">Állandósult a harc medve és ember között Erdélyben</a></h2>
+<p class="news-lead">A gazda vasvillát ragadva próbálta elkergetni a medvét - fél sikerrel.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://alomutak.reblog.hu/post-002" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011utazas.jpg?w=308&h=173" src="http://rewrite.origos.hu/s/img/i/1810/20181011utazas.jpg?w=308&h=173" alt="" width="308" height="173"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://alomutak.reblog.hu/">álomutak</a></span></div>
+<h2><a href="http://alomutak.reblog.hu/post-002" title="Utazás kézipoggyásszal" class="news-title">Utazás kézipoggyásszal</a></h2>
+<p class="news-lead">Ha ész nélkül vágsz bele, azért nem a légitársaság a hibás, hanem te magad.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://darwin.reblog.hu/a-rogzites-csak-idopocsekolas" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011rogzites.gif?w=308&h=186" src="http://rewrite.origos.hu/s/img/i/1810/20181011rogzites.gif?w=308&h=186" alt="" width="308" height="186"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv"><a href="http://darwin.reblog.hu">darwin</a></span></div>
+<h2><a href="http://darwin.reblog.hu/a-rogzites-csak-idopocsekolas" title="A rögzítés csak időpocsékolás" class="news-title">A rögzítés csak időpocsékolás</a></h2>
+<p class="news-lead">Mi lehetett a sofőr terve? Csak viccelt?</p>
+</div></div></div></div>
+<div class="news-wrap wrap-25-42-33 wrap-life " name="2018104113643" id="2018104113643">
+<div class="section_header">
+<a class="section_life_logo" href="http://www.life.hu?utm_source=origo-nyito&amp;utm_medium=cimlapi_box&amp;utm_campaign=sec&amp;utm_source=origo-nyito&amp;utm_medium=cimlapi_box&amp;utm_campaign=sec" target="_blank">Life</a>
+<div class="section_menu"><a target="_blank" href="http://www.life.hu/sztarszerzok/index.html" title="Sztárszerzők">Sztárszerzők</a><a target="_blank" href="http://www.life.hu/otthon/index.html" title="Otthon">Otthon</a><a target="_blank" href="http://www.life.hu/sztarok/index.html" title="Tv+Sztárok">Tv+Sztárok</a><a target="_blank" href="http://www.life.hu/trend/index.html" title="Trend">Trend</a><a target="_blank" href="http://www.life.hu/ez-zsir/index.html" title="Ez zsír!">Ez zsír!</a><a target="_blank" href="http://www.life.hu/csalad/index.html" title="Család">Család</a><a target="_blank" href="http://www.life.hu/intim/index.html" title="Intim">Intim</a><a target="_blank" href="http://www.life.hu/drlife/index.html" title="Dr. Life">Dr. Life</a><a target="_blank" href="http://www.life.hu/news/index.html" title="News">News</a><a target="_blank" href="http://www.life.hu/horoszkop/index.html" title="Horoszkóp">Horoszkóp</a></div>
+</div>
+<div class="wrap coltype-25 " data-coltype="25" id="undefined"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/sztarok/20181011-bochkor-gabor-osszeomlott-amikor-varkonyi-andrea-elhagyta.html" title="Forrás: Facebook/Várkonyi Andrea, MTI/Beliczay László "><img pre-src="http://rewrite.origos.hu/s/img/i/1605/20160513bochkor-gabor-es-varkonyi-andi2.jpg?w=225&h=113" src="http://rewrite.origos.hu/s/img/i/1605/20160513bochkor-gabor-es-varkonyi-andi2.jpg?w=225&h=113" alt="Forrás: Facebook/Várkonyi Andrea, MTI/Beliczay László " width="225" height="113"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/sztarok/20181011-bochkor-gabor-osszeomlott-amikor-varkonyi-andrea-elhagyta.html" title="Bochkor - Várkonyi szakítás: kiderült, ki hagyott ott kit" class="news-title">Bochkor - Várkonyi szakítás: kiderült, ki hagyott ott kit</a></h2>
+<p class="news-lead">Egyikük összeomlott, a másik új életet épít.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/news/20181011-irorszagot-es-skociat-kegyetlen-vihar-eri-el-penteken.html" title="Kegyetlen vihar érkezik pénteken Európába: 150 km/órás széllökések lesznek" class="news-title">Kegyetlen vihar érkezik pénteken Európába: 150 km/órás széllökések lesznek</a></h2>
+<p class="news-lead">Ezek az országok kapják a javát.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/lifeutazas/20181011-ezert-ne-vedd-le-soha-a-cipodet-a-repulon.html" title="Vallottak a légiutas-kísérők: ez az, amit soha ne tegyél meg egy repülőn" class="news-title">Vallottak a légiutas-kísérők: ez az, amit soha ne tegyél meg egy repülőn</a></h2>
+<p class="news-lead">Borzasztó szokás, és undorító.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/news/20181011-a-hazakba-beszoko-szongariai-cselopok-csipese-fajdalmas-nem-szabad-megfogni-az-allatot.html" title="Ilyen óriási pókok szökhetnek be az otthonunkba: senki se fogja meg őket" class="news-title">Ilyen óriási pókok szökhetnek be az otthonunkba: senki se fogja meg őket</a></h2>
+<p class="news-lead">Magyar madárpókként is emlegetik ezt a fajtát.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/sztarok/20181011-egy-vendeg-elfecsegte-a-meghivottak-nem-mehettek-ki-vecere-harry-herceg-eskuvojen.html" title="Forrás: Getty Images "><img pre-src="http://rewrite.origos.hu/s/img/i/1805/20180528meghan-markle-harry-herceg-eskuvoi.jpg?w=225&h=113" src="http://rewrite.origos.hu/s/img/i/1805/20180528meghan-markle-harry-herceg-eskuvoi.jpg?w=225&h=113" alt="Forrás: Getty Images " width="225" height="113"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/sztarok/20181011-egy-vendeg-elfecsegte-a-meghivottak-nem-mehettek-ki-vecere-harry-herceg-eskuvojen.html" title="Meglepő dolgot tiltottak meg a vendégeknek Harry hercegék esküvőjén" class="news-title">Meglepő dolgot tiltottak meg a vendégeknek Harry hercegék esküvőjén</a></h2>
+<p class="news-lead">Egy meghívott mesélte el.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/otthon/20181011-ezzel-dekorald-a-haloszobadat-ha-tobb-szexet-akarsz.html" title="Ha így dekorálod a hálószobád, többet fogsz szexelni (18+)" class="news-title">Ha így dekorálod a hálószobád, többet fogsz szexelni (18+)</a></h2>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/intim/20181011-pornooldalak-noknek.html" title="Forrás: Thinkstock "><img pre-src="http://rewrite.origos.hu/s/img/i/1704/20170428ezek-idegesitik-a-legjobban-a2.jpg?w=225&h=113" src="http://rewrite.origos.hu/s/img/i/1704/20170428ezek-idegesitik-a-legjobban-a2.jpg?w=225&h=113" alt="Forrás: Thinkstock " width="225" height="113"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/intim/20181011-pornooldalak-noknek.html" title="Íme, a top 6 pornóoldal, amiket a nők is szeretnek (18+)" class="news-title">Íme, a top 6 pornóoldal, amiket a nők is szeretnek (18+)</a></h2>
+<p class="news-lead">Nekik való tartalommal is szolgálnak.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/drlife/20181012-curtis-mutott-terde-miatt-hatalmas-fajdalmakat-elt-at-a-csak-show-es-mas-semmi-probain.html" title="Forrás: Instagram/curtis4ker "><img pre-src="http://rewrite.origos.hu/s/img/i/1808/20180824curtis2.jpg?w=225&h=113" src="http://rewrite.origos.hu/s/img/i/1808/20180824curtis2.jpg?w=225&h=113" alt="Forrás: Instagram/curtis4ker " width="225" height="113"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/drlife/20181012-curtis-mutott-terde-miatt-hatalmas-fajdalmakat-elt-at-a-csak-show-es-mas-semmi-probain.html" title="Hatalmas fájdalmai vannak Curtisnek: &quot;Összeszorított foggal tűrök&quot;" class="news-title">Hatalmas fájdalmai vannak Curtisnek: &quot;Összeszorított foggal tűrök&quot;</a></h2>
+<p class="news-lead">Nem vesz be gyógyszert.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/csalad/20181012-stohl-andras-nem-tudja-maganak-megbocsajtani-hogy-miatta-bantottak-a-lanyai.html" title="Stohl András megbántotta lányait:&quot;Ezt máig nem tudom magamnak megbocsátani&quot;" class="news-title">Stohl András megbántotta lányait:&quot;Ezt máig nem tudom magamnak megbocsátani&quot;</a></h2>
+<p class="news-lead">Őszinte vallomás.</p>
+</div></div></div><div class="wrap coltype-42 " data-coltype="42" id="undefined"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/kult/20181011-a-cia-aktaibol-hitler-maganeleti-titkaira-derulhetett-feny.html" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011adolf-hitler-und-eva-braun.jpg?w=392&h=261" src="http://rewrite.origos.hu/s/img/i/1810/20181011adolf-hitler-und-eva-braun.jpg?w=392&h=261" alt="" width="392" height="261"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/kult/20181011-a-cia-aktaibol-hitler-maganeleti-titkaira-derulhetett-feny.html" title="CIA-jelentés: elképesztő titkok derültek ki Adolf Hitler szexuális életéről" class="news-title">CIA-jelentés: elképesztő titkok derültek ki Adolf Hitler szexuális életéről</a></h2>
+<p class="news-lead">Ezt állítja a Fehér Ház antropológusa.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/intim/20181010-szortelenites-vege-a-teljes-csupaszsag-koranak.html" title="Forrás: Dreamstime "><img pre-src="http://rewrite.origos.hu/s/img/i/1808/20180803trend-a-bokrostol-a-leszallopalyan.jpg?w=392&h=196" src="http://rewrite.origos.hu/s/img/i/1808/20180803trend-a-bokrostol-a-leszallopalyan.jpg?w=392&h=196" alt="Forrás: Dreamstime " width="392" height="196"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/intim/20181010-szortelenites-vege-a-teljes-csupaszsag-koranak.html" title="Vége a csupaszság korának: ez most a legtrendibb intimfazon (18+)" class="news-title">Vége a csupaszság korának: ez most a legtrendibb intimfazon (18+)</a></h2>
+<p class="news-lead">Már csak ők szeretik a teljesen szőrtelen puncit.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/intim/20181010-ez-tortenik-valojaban-a-negynapos-titkos-szexfesztivalon.html" title="Forrás: Vimeo/GG Colombia "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181010ez-tortenik-valojaban-a-negynapos.jpg?w=392&h=220" src="http://rewrite.origos.hu/s/img/i/1810/20181010ez-tortenik-valojaban-a-negynapos.jpg?w=392&h=220" alt="Forrás: Vimeo/GG Colombia " width="392" height="220"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+<span class="subtitle subinv nohover"><span>(18+)</span></span></div>
+<h2><a href="http://www.life.hu/intim/20181010-ez-tortenik-valojaban-a-negynapos-titkos-szexfesztivalon.html" title="Ez történik valójában<br>a szigeten, ahol korlátlan<br>a szex, a drog és az alkohol " class="news-title">Ez történik valójában<br>a szigeten, ahol korlátlan<br>a szex, a drog és az alkohol </a></h2>
+<p class="news-lead">Ennyibe kerül a részvétel a titkos szexfesztiválon. </p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/trend/20181011-tevepatavillanto-bugyi-az-uj-trend.html" title="Forrás: AliExpress "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011tevepata-bugyi-az-uj-noi.jpg?w=392&h=196" src="http://rewrite.origos.hu/s/img/i/1810/20181011tevepata-bugyi-az-uj-noi.jpg?w=392&h=196" alt="Forrás: AliExpress " width="392" height="196"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/trend/20181011-tevepatavillanto-bugyi-az-uj-trend.html" title="Új trend hódít: eddig rejtegették, most viszont a bugyijukkal mutatják meg" class="news-title">Új trend hódít: eddig rejtegették, most viszont a bugyijukkal mutatják meg</a></h2>
+<p class="news-lead">Eredetileg transzneműek viselték ezt a ruhadarabot.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/intim/20181011-elo-szexbabava-muttette-magat-a-lett-modell-victoria-wild.html" title=""><img pre-src="http://rewrite.origos.hu/s/img/i/1809/20180903a-szexbaba-bordely-ellen-tiltakoznak.jpg?w=392&h=196" src="http://rewrite.origos.hu/s/img/i/1809/20180903a-szexbaba-bordely-ellen-tiltakoznak.jpg?w=392&h=196" alt="" width="392" height="196"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/intim/20181011-elo-szexbabava-muttette-magat-a-lett-modell-victoria-wild.html" title="30 millióért műttette magát emberi szexbabává: <br>így néz ki most" class="news-title">30 millióért műttette magát emberi szexbabává: <br>így néz ki most</a></h2>
+<p class="news-lead">Elégedett külsejével. </p>
+</div></div></div><div class="wrap coltype-33 " data-coltype="33" id="201810411363-4"><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/lifeutazas/20181011-ilyen-egy-igazi-szexhotel.html" title="Forrás: Instagram/Hotel Pelirocco "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011hotel-pelirocco-szexhotel2.jpg?w=308&h=153" src="http://rewrite.origos.hu/s/img/i/1810/20181011hotel-pelirocco-szexhotel2.jpg?w=308&h=153" alt="Forrás: Instagram/Hotel Pelirocco " width="308" height="153"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/lifeutazas/20181011-ilyen-egy-igazi-szexhotel.html" title="Less be egy igazi szexhotelbe: <br>fotók (18+)" class="news-title">Less be egy igazi szexhotelbe: <br>fotók (18+)</a></h2>
+<p class="news-lead">Igazán forró napokat lehet itt tölteni.</p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/sztarok/20181011-sebestyen-balazs-elarulta-miert-hagyna-abba-a-radiozast.html" title="Fotó: Adrián Zoltán - Origo "><img pre-src="http://rewrite.origos.hu/s/img/i/1711/20171102morning-show-sajtotajekoztato-sebestyen-balazs.jpg?w=308&h=154" src="http://rewrite.origos.hu/s/img/i/1711/20171102morning-show-sajtotajekoztato-sebestyen-balazs.jpg?w=308&h=154" alt="Fotó: Adrián Zoltán - Origo " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/sztarok/20181011-sebestyen-balazs-elarulta-miert-hagyna-abba-a-radiozast.html" title="Sebestyén Balázs abbahagyja a rádiózást? Ezért fakadt ki a műsorvezető" class="news-title">Sebestyén Balázs abbahagyja a rádiózást? Ezért fakadt ki a műsorvezető</a></h2>
+<p class="news-lead">Nem tetszik neki valami. </p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/news/20181010-kiderult-milyen-ido-varhato-november-elejeig.html" title="Itt a havi előrejelzés: hihetetlen, milyen időnk lesz november elejéig" class="news-title">Itt a havi előrejelzés: hihetetlen, milyen időnk lesz november elejéig</a></h2>
+<p class="news-lead">Erre kevesen számítottak. </p>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/kult/20181009-parhuzamos-eletek-kulonbsegek-eszak-es-delkorea-kozott-fotok.html" title="Forrás: AFP "><img pre-src="http://rewrite.origos.hu/s/img/i/1810/20181011parhuzamos-eletek--dobbenetes-kulonbsegek13.jpg?w=308&h=154" src="http://rewrite.origos.hu/s/img/i/1810/20181011parhuzamos-eletek--dobbenetes-kulonbsegek13.jpg?w=308&h=154" alt="Forrás: AFP " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/kult/20181009-parhuzamos-eletek-kulonbsegek-eszak-es-delkorea-kozott-fotok.html" title="Nem fogod elhinni! Képeken az Észak- és Dél-Korea közötti különbségek" class="news-title">Nem fogod elhinni! Képeken az Észak- és Dél-Korea közötti különbségek</a></h2>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/otthon/20181009-keszits-kedves-szellemeket-otthonra-halloween-dekoracio-diy.html" title="Költöztess szellemeket az otthonodba!" class="news-title">Költöztess szellemeket az otthonodba!</a></h2>
+<p class="news-lead">Ünnepeld így a Halloweent.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/ez-zsir/20181011-ma-van-a-tojas-vilagnapja-ezert-szeretjuk.html" title="Minden nap ezt reggelizte Marilyn Monroe: ma van a tojás világnapja" class="news-title">Minden nap ezt reggelizte Marilyn Monroe: ma van a tojás világnapja</a></h2>
+<p class="news-lead">Ezért olyan egészséges.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/trend/20181011-ezek-a-legszebb-hajszinek-az-oszi-szezonban.html" title="Mi már tudjuk, milyenre festeted a hajad idén ősszel" class="news-title">Mi már tudjuk, milyenre festeted a hajad idén ősszel</a></h2>
+</div></div><div class="news-item mega-item       ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/horoszkop/20181010-hetvegi-horoszkop-oktober-13-14.html" title="Hétvégi horoszkóp (október 13-14.)" class="news-title">Hétvégi horoszkóp (október 13-14.)</a></h2>
+</div></div><div class="news-item   has-image     ">
+<a class="news-item-image" href="http://www.life.hu/sztarok/20181012-kiraly-linda-korabbi-szakitasarol-meselt-osszetort-a-szive-es-anyagilag-is-tonkrement.html" title="Fotó: Szabó Gábor - Origo "><img pre-src="http://rewrite.origos.hu/s/img/i/1706/20170615kiraly-linda-ad-interjut-2016.jpg?w=308&h=154" src="http://rewrite.origos.hu/s/img/i/1706/20170615kiraly-linda-ad-interjut-2016.jpg?w=308&h=154" alt="Fotó: Szabó Gábor - Origo " width="308" height="154"/></a>
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/sztarok/20181012-kiraly-linda-korabbi-szakitasarol-meselt-osszetort-a-szive-es-anyagilag-is-tonkrement.html" title="Király Linda a szakításról: összetört a szíve és anyagilag is tönkrement" class="news-title">Király Linda a szakításról: összetört a szíve és anyagilag is tönkrement</a></h2>
+<p class="news-lead">Titkok a Király család életéből.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/ez-zsir/20181012-balazs-andi-egy-feherjedieta-segitsegevel-13-kilotol-szabadult-meg.html" title="Balázs Andi rengeteget fogyott: így néz ki most" class="news-title">Balázs Andi rengeteget fogyott: így néz ki most</a></h2>
+<p class="news-lead">30 éves kori önmagát akarta visszakapni: sikerült neki.</p>
+</div></div><div class="news-item        ">
+<div class="news-text-block">
+<div class="sub-comment">
+</div>
+<h2><a href="http://www.life.hu/sztarok/20181012-kulcsar-edina-reagalt-a-kommentelok-es-szentesi-eva-velemenyere.html" title="Kulcsár Edina reagált az őt ért vádakra kopasz fotójával kapcsolatban" class="news-title">Kulcsár Edina reagált az őt ért vádakra kopasz fotójával kapcsolatban</a></h2>
+<p class="news-lead">Ez a véleménye.</p>
+</div></div></div></div>
+</div>
+<div class="ecom-footer">
+<div class="goaWrap">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'ecom_1'});
+}
+</script>
+</div>
+<div class="goaWrap">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'ecom_2'});
+}
+</script>
+</div>
+<div class="goaWrap">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'ecom_3'});
+}
+</script>
+</div>
+<div class="goaWrap">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'ecom_4'});
+}
+</script>
+</div>
+<div class="goaWrap">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'ecom_5'});
+}
+</script>
+</div>
+<div class="goaWrap">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'ecom_6'});
+}
+</script>
+</div>
+</div>
+<div class="news-wrap wrap-grey wrap-tb wrap-33-33-33">
+<div class="wrap coltype-33">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'pr_footer_1', extraClass:'pr-item'});
+}
+</script>
+</div>
+<div class="wrap coltype-33">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'pr_footer_2', extraClass:'pr-item'});
+}
+</script>
+</div>
+<div class="wrap coltype-33">
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'pr_footer_3', extraClass:'pr-item'});
+}
+</script>
+</div>
+</div>
+<footer>
+<div class="nwmfooter nwmfooter-color-origo ">
+<div class="nwmfooter-container container">
+<div class="nwmfooter-topBlock">
+<div class="nwmfooter-leftBlock">
+<div class="nwmfooter-topLeftContents">
+<a target="blank" href="http://nwmgroup.hu/index.html">
+<div>
+<img id="nwmfooter-xsOnly-logo" src="//cdn.nwmgroups.hu/s/img/svg/footer/nwm-logo-only.svg">
+</div>
+<div>
+<img id="nwmfooter-logoTopText" src="//cdn.nwmgroups.hu/s/img/svg/footer/nwm-logo-top-text.svg">
+<img id="nwmfooter-logoBottomText" src="//cdn.nwmgroups.hu/s/img/svg/footer/nwm-logo-bottom-text.svg">
+</div>
+</a>
+</div>
+</div>
+<div class="nwmfooter-rightBlock">
+<div class="nwmfooter-skew-color-block nwmfooter-color-origo"></div>
+<div class="nwmfooter-topRightContents">
+<a href="http://origo.hu">
+<img class="nwmfooter-pageLogo" src="//cdn.nwmgroups.hu/s/img/svg/footer/origo-logo.svg">
+</a>
+</div>
+</div>
+</div>
+<div class="nwmfooter-botBlock">
+<div class="nwmfooter-socialIcons">
+<a target="blank" href="https://www.facebook.com/OrigoHirek">
+<img src="//cdn.nwmgroups.hu/s/img/svg/footer/facebook-logo.svg">
+</a>
+<a target="blank" href="https://twitter.com/origo_hu?lang=hu">
+<img src="//cdn.nwmgroups.hu/s/img/svg/footer/twitter-logo.svg">
+</a>
+<a target="blank" href="https://www.instagram.com/origo.hu/?hl=hu">
+<img src="//cdn.nwmgroups.hu/s/img/svg/footer/instagram-logo.svg">
+</a>
+<a target="blank" href="https://videa.hu/csatornak/origo-2">
+<img src="//cdn.nwmgroups.hu/s/img/svg/footer/videa-logo.svg">
+</a>
+<a target="blank" href="http://www.origo.hu/contentpartner/rss/origoall/origo.xml">
+<img src="//cdn.nwmgroups.hu/s/img/svg/footer/rss-logo.svg">
+</a>
+</div>
+<div class="nwmfooter-contactsBlock">
+<div class="nwmfooter-contactsLinks">
+<nav>
+<ul>
+<li><a target="blank" href="http://www.origo.hu/common/20180525-adatvedelmi-es-adatkezelesi-tajekoztato.html">adatkezelési nyilatkozat</a></li>
+<li><a target="blank" href="http://www.origo.hu/impresszum/index.html">impresszum</a></li>
+<li><a target="blank" href="https://evomedia.hu/">médiaajánlat</a></li>
+</ul>
+</nav>
+</div>
+<div class="nwmfooter-copyrightBlock">
+az origo kiadója a new wave media group kft. &copy; minden jog fenntartva.
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<!-- (c) 2018 Gemius SA / gemiusHeatMap / Origo_teszt -->
+<script>
+var ghmxy_type = 'absolute';
+var ghmxy_align = 'center';
+var ghmxy_identifier = 'okrgkrb4f2MSAikYxoFANpby3_mIVyNS_ZdvJl1rC53..7';
+var ghmxy_hitcollector = 'ghmhu.hit.gemius.pl';
+</script>
+<script async src="//ghmhu.hit.gemius.pl/hmapxy.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = '.cA7Mm7_HEhW_ocRqQjuTbeO71wwEyeu..OM_r0BuyD.y7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://gahu.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+<script>
+if (typeof zoneManager !== 'undefined') {
+zoneManager.insertZone({key:'sticky', extraClass:'frontpage-sticky goaBg'});
+zoneManager.insertZone({key:'layer', extraClass:''});
+zoneManager.insertZone({key:'retarget', extraClass:'retarget'});
+}
+$(document).trigger('onPageEnd');
+</script>
+<!-- -->
+</body></html>

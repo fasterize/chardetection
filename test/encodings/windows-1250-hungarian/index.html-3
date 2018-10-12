@@ -1,0 +1,1176 @@
+<!doctype html>
+<html lang="cs">
+<head>
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<script>
+        
+        var Unidata = {"ostrov":"ln_shp","rubrika":"ln_shp","zobrazeni":"home","verze":1,"timestamp":1539326645317.0}
+        
+	    try{var Po=window.PerformanceObserver;if(Po&&Math.random()<1/120){window.localStorage.performance||(window.localStorage.performance="");var notePerformance=function(e){window.localStorage.performance+=e+"\n"};new Po(function(e){e.getEntries().forEach(function(e){notePerformance(JSON.stringify(e))})}).observe({entryTypes:["frame","navigation","paint","longtask","resource"]}),notePerformance("-----\n"+Date.now())}}catch(e){}
+	</script>
+    <script src="https://1gr.cz/js/lidovky/ln5/RumAnalytics.min.js?v=171206" async></script>
+	<meta charset="windows-1250">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta name="viewport" content="width=1024">
+
+	<title>Lidovky.cz - zprávy z domova i ze světa</title>
+	
+		<meta property="og:title" content="Lidovky.cz - zprávy z domova i ze světa">
+	
+	<meta property="og:site_name" content="Lidovky.cz">
+
+	<meta name="description" lang="cs" content="Aktuální zprávy z domova i ze světa. Zprávy z ekonomiky, byznysu, kultury a sportu. Průvodce životním stylem. Lidovky.cz - aktuální zprávy.">
+	<meta property="og:description" lang="cs" content="Aktuální zprávy z domova i ze světa. Zprávy z ekonomiky, byznysu, kultury a sportu. Průvodce životním stylem. Lidovky.cz - aktuální zprávy.">
+
+	<meta name="keywords" lang="cs" content="Lidovky,zprávy,Lidové noviny">
+
+	<link rel="shortcut icon" href="//1gr.cz/u/favicon/lidovky.ico">
+
+	<link rel="apple-touch-icon-precomposed" href="https://1gr.cz/u/favicon/apple-touch-icon/lidovky-transparent.png">
+	<link href="//plus.google.com/103639108952848944247" rel="publisher">
+    <link rel="preconnect" href="https://spir.hit.gemius.pl"><link rel="preconnect" href="https://ls.hit.gemius.pl"><link rel="preconnect" href="https://go.idnes.bbelements.com"><link rel="preconnect" href="https://bbcdn.go.idnes.bbelements.com">
+
+    <base href="https://www.lidovky.cz/">
+
+	<script type="text/javascript" src="//1gr.cz/js/uni/uni.js?rr=015"></script>
+	<script type="text/javascript" src="//1gr.cz/js/lidovky/jquery/jquery-3.3.1.min.js?rr=015"></script>
+	<script type="text/javascript" src="//1gr.cz/js/lidovky/jquery/jcarousellite_1.0.1.pack.js?rr=015"></script>
+	<script type="text/javascript" src="//1gr.cz/js/lidovky/ln5/jquery/sys.js?rr=015"></script>
+	<script type="text/javascript" src="//1gr.cz/js/lidovky/ln5/jquery/photogallery.js?rr=015"></script>
+	<link href="https://servis.lidovky.cz/rss.aspx" rel="alternate" type="application/rss+xml" title="RSS">
+	<link rel="canonical" href="https://www.lidovky.cz/">
+
+	<meta name="msvalidate.01" content="70090E0B5E4E74BA7595954CCD4668F0">
+
+	<style type="text/css">
+	<!--
+		@import "//1gr.cz/css/ln5/uni.css?rr=015";
+		@import "//1gr.cz/css/ln5/reklama.css?rr=015";
+		@import "//1gr.cz/css/ln5/layout.css?rr=015";
+		@import "//1gr.cz/css/ln5/hp.css?rr=015";
+	-->
+	</style>
+
+	<script type="text/javascript">
+	<!--
+		try { document.domain = 'lidovky.cz' } catch(e) {}
+		
+	-->
+	</script>
+<script src="//1gr.cz/js/dtm/cache/satelliteLib-48fbeae0fb292bfc246d8faf8e887c00420fc0c1.js"></script>
+
+<!-- G:Up lidovky_ln_shp-->
+<!-- ---- Gemius2013: LN homepage -->
+<script>
+var pp_gemius_identifier = 'dwM7_cbPeM4OgVkp1o0HRtT4fQsN9SO_nQFMeKOOhu..67';
+
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async'); gt.src=l+'://spir.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+</script>
+<!-- Analytics: lidovky -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P32XPT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P32XPT');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+	
+<script async src="https://cdn.onthe.io/io.js/CBCjnyDC7PoT"></script>
+<script>
+    window._io_config = window._io_config || {};
+    window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+    window._io_config["0.2.0"].push({
+        page_url: window.location.toString(),
+        page_url_canonical: "https://www.lidovky.cz/",
+        page_title: document.title,
+        page_type: "main",
+        page_language: "cs"
+    });
+</script>
+	<div id="main">
+		<div class="counters">
+			
+		</div>
+		<table id="r17.1.10.2" class="ahead"><tr><td><div class="r-head"><span></span></div><div class="r-body"><div id='bmone2n-17.1.10.2'></div></div></td></tr></table>
+		<div class="m-bg-1">
+			<div class="m-bg-2">
+				<div class="m-bg-3">
+					<div class="m-bg-4">
+						<div id="portal" class="adbox">
+	<div id="p-1">
+		<div class="left">
+			<a href="//www.lidovky.cz" class="l-icon"></a>
+			<span class="date">Pátek 12. října 2018</span><span class="holiday">svátek má Marcel</span> <a href="https://www.lidovky.cz/pocasi" id="shp-weather" class="shp-weather">22 °C
+   			<img alt="jasno" src="https://1gr.cz/o/lidovky_ln5/pocasi/jasno.png"></a> 
+			
+			<a onclick="pageTracker._trackEvent('th_predplatne-ln','click');" href="//www.lidovenoviny.cz">Předplatné LN</a>
+		</div>
+		<div id="shp-weather-box" class="popup-box">
+   <ul>
+      <li class="day"><img alt="jasno" src="https://1gr.cz/o/lidovky_ln5/pocasi/jasno.png"><a href="https://www.lidovky.cz/pocasi/1" title="Počasí dnes: jasno 22 °C&#xA;&#x9;&#x9;&#x9;&#x9;&#x9; / 9 °C&#xA;&#x9;&#x9;&#x9;&#x9;"><strong>dnes<br>22 °C
+               				</strong> / 9 °C
+            			</a></li>
+      <li class="day"><img alt="jasno" src="https://1gr.cz/o/lidovky_ln5/pocasi/jasno.png"><a href="https://www.lidovky.cz/pocasi/2" title="Počasí zítra: jasno 21 °C&#xA;&#x9;&#x9;&#x9;&#x9;&#x9; / 8 °C&#xA;&#x9;&#x9;&#x9;&#x9;"><strong>zítra<br>21 °C
+               				</strong> / 8 °C
+            			</a></li>
+      <li class="day last"><a class="navig fr" href="https://www.lidovky.cz/pocasi"><strong class="list-next">další dny</strong></a></li>
+   </ul>
+   <div class="fc0"></div>
+</div>
+		<div class="right">
+			<ul id="toplinks">
+				<li class="customlink" id="customlink-neviditelnypes"><a title="Neviditelný pes" href="//neviditelnypes.lidovky.cz" onclick="pageTracker._trackEvent('header_menu_neviditelnypes','click');">Neviditelný pes</a></li><li class="customlink" id="customlink-ceskapozice"><a title="Česká pozice" href="//ceskapozice.lidovky.cz" onclick="pageTracker._trackEvent('header_menu_ceskapozice','click');">Česká pozice</a></li><li class="customlink" id="customlink-sportovnivysledky"><a title="Sportovní výsledky" href="//vysledky.lidovky.cz" onclick="pageTracker._trackEvent('header_menu_sportovnivysledky','click');">Sportovní výsledky</a></li><li class="customlink" id="customlink-soubojmazlicku"><a title="Souboj mazlíčků" href="//mazlicek.lidovky.cz" onclick="pageTracker._trackEvent('header_menu_soubojmazlicku','click');">Souboj mazlíčků</a></li><li class="customlink" id="customlink-pieta"><a title="Pieta" href="//www.lidovky.cz/pieta" onclick="pageTracker._trackEvent('header_menu_pieta','click');">Pieta</a></li><li class="customlink" id="customlink-lidovenoviny"><a title="Lidové noviny" href="//www.lidovenoviny.cz" onclick="pageTracker._trackEvent('header_menu_lidovenoviny','click');">Lidové noviny</a></li><li class="customlink" id="customlink-pocasi"><a title="Počasí" href="//www.lidovky.cz/pocasi" onclick="pageTracker._trackEvent('header_menu_pocasi','click');">Počasí</a></li>
+				<li class="loginlink">
+					<script>PrukazLN.zobrazPrihlaseni();</script>
+				</li>
+				<li class="searchlink"><a href="https://www.lidovky.cz/hledani"></a></li>
+				<li class="webmaplink"><a href="https://www.lidovky.cz/mapa-webu"></a></li>
+			</ul>
+			<script>Customlinks.show();</script>
+			<div id="login-box" class="popup-box js-set-1">
+				<span onclick=" $('#login-box').fadeOut(300)" class="cross"></span>
+				<form method="post" action="https://www.lidovky.cz/ctenari" name="frm_login">
+					<input type="text" placeholder="Email/Telefon" name="login" maxlength="128"><br>
+					<input type="password" maxlength="255" placeholder="Heslo" name="heslo">
+					<input type="submit" value="Přihlásit" name="b_login">
+					<input type="hidden" name="akce" value="login" />
+					<input type="hidden" name="ref" value="https://www.lidovky.cz/" />
+				</form>
+				<a href="https://www.lidovky.cz/ctenari/registrace">Registrovat</a> <a href="https://www.lidovky.cz/ctenari/zapomenute-heslo">Zapomenuté heslo</a>
+			</div>
+			<div id="search-box" class="popup-box js-set-1">
+				<span onclick=" $('#search-box').fadeOut(300)" class="cross"></span>
+				<form method="get" action="https://www.lidovky.cz/hledani">
+					<input type="text" accesskey="4" title="Vyhledávání" name="q">
+					<input type="submit" value="Hledat" name="hledej">
+				</form>
+			</div>
+			<div id="webmap-box" class="popup-box js-set-1">
+				<span onclick="Webmap.close()" class="cross"></span>
+				<div id="webmap"></div>
+			</div>
+		</div>
+		<div class="fc0"></div>
+	</div>
+	
+	<div id="p-2">
+		<div id="portal-include-1"><!--text--></div>
+		<div id="portal-include-2"><!--text--></div>
+		
+		<h1 id="logoln">
+			<a class="logow" href="//www.lidovky.cz/" title="Lidovky.cz" accesskey="2" onclick="pageTracker._trackEvent('th_logo','click');">
+				<span>Lidovky.cz</span>
+			</a>
+		</h1>
+		
+	</div>
+	<div id="p-menu">
+		<div id="p-menu-1">
+	<menu>
+		<li id="ln5-domov"><a href="https://www.lidovky.cz/domov">Domov</a></li>
+	
+		<li id="ln5-svet"><a href="https://www.lidovky.cz/svet">Svět</a></li>
+	
+		<li id="ln5-byznys"><a href="https://www.lidovky.cz/byznys">Byznys</a></li>
+	
+		<li id="ln5-sport"><a href="https://www.lidovky.cz/sport">Sport</a></li>
+	
+		<li id="ln5-kultura"><a href="https://www.lidovky.cz/kultura">Kultura</a></li>
+	
+		<li id="ln5-cestovani"><a href="https://www.lidovky.cz/cestovani">Cestování</a></li>
+	
+		<li id="ln5-relax"><a href="//relax.lidovky.cz/">Relax</a></li>
+	
+		<li id="ln5-design"><a href="https://www.lidovky.cz/relax/design">Design</a></li>
+	
+		<li id="ln5-dobra-chut"><a href="https://www.lidovky.cz/relax/dobra-chut">Dobrá chuť</a></li>
+	
+		<li id="ln5-nazory"><a href="https://www.lidovky.cz/nazory">Názory</a></li>
+	
+		<li id="ln5-lide"><a href="https://www.lidovky.cz/lide">Lidé</a></li>
+	
+		<li id="ln5-lidovky-video"><a href="https://www.lidovky.cz/video">Video</a></li>
+	
+		<li id="ln5-specialy"><a href="https://www.lidovky.cz/specialy">Speciály</a></li>
+	
+		<li id="ln5-dnesni-ln"><a href="http://www.lidovenoviny.cz/clanky.aspx" target="_blank">Dnešní LN</a></li>
+	</menu>
+</div>
+	</div>
+	
+	<div class="fc0"></div>
+</div>
+						<div class="content" id="content">
+							
+							<!-- INC: ln_lidovky/shp-top-mess.htm -->
+<!--text-->
+							
+							
+							<!--Cached--><!-- generate: 12.10.2018 8:44:04 -->
+
+		<div class="row mainart-type-1" id="row-a">
+			<div class="shp-box-ab">
+				<div class="art mainart">
+					<h1>
+						<a href="https://www.lidovky.cz/domov/senat-muze-brzdit-alianci-babise-a-zemana-ve-volbach-hraje-vlada-o-klid-na-praci-mini-expert.A181011_112158_ln_domov_jho" title="Senát může brzdit alianci Babiše a Zemana, vláda hraje ve volbách o klid na práci, míní expert" onclick="pageTracker._trackEvent('shp_ln_shp_c1_clanek-460','click');">Senát může brzdit alianci Babiše a Zemana, vláda hraje ve volbách o klid na práci, míní expert</a>
+					</h1>
+					<a href="https://www.lidovky.cz/domov/senat-muze-brzdit-alianci-babise-a-zemana-ve-volbach-hraje-vlada-o-klid-na-praci-mini-expert.A181011_112158_ln_domov_jho" title="Senát může brzdit alianci Babiše a Zemana, vláda hraje ve volbách o klid na práci, míní expert" class="mark-video lnc460" onclick="pageTracker._trackEvent('shp_ln_shp_c1_clanek-460','click');">
+						<img src="//1gr.cz/fotky/lidovky/18/061/lnc460/PEV73cf17_140918_9437547.jpg" alt="Prezident Miloš Zeman jmenoval Andreje Babiše podruh&#233; premi&#233;rem. | na serveru Lidovky.cz | aktuální zprávy" title="Senát může brzdit alianci Babiše a Zemana, vláda hraje ve volbách o klid na práci, míní expert" width="460" height="300">
+						<span></span>
+					</a>
+					<div class="art-info">
+						<span class="time">
+	5:00
+</span>
+						<span class="brisk">Rozhovor</span>
+					</div>
+					
+						<p class="perex">Na první pohled se ve 2. kole senátních voleb, jež startuje tento pátek, budou bít především ODS a hnutí ANO. Občanští...</p>
+						<ul class="shp-style">
+							<li><a href="https://www.lidovky.cz/domov/vytlaci-piratske-dredy-karlovo-ciro-top-09-bez-pomoci-konci-piraty-zuctovani-teprve-ceka.A181010_093652_ln_domov_jho">Pirátské dredy střídají Karlovo číro. TOP 09 bez pomoci končí, Piráty zúčtování teprve čeká</a></li><li><a href="https://www.lidovky.cz/domov/kluk-z-valasska-prezil-komplot-v-praze-aneb-jak-husarsky-kousek-zachranil-karieru-jiriho-cunka.A181008_101352_ln_domov_jho">Kluk z Valašska přežil komplot v Praze aneb Jak husarský kousek zachránil kariéru Jiřího Čunka</a></li><li><a href="https://www.lidovky.cz/domov/obecni-volby-i-prvni-kolo-obmeny-tretiny-senatoru-skoncily-zacinaji-se-scitat-hlasy.A181006_140332_ln_domov_mpr">V senátních volbách uspěly ODS a ANO, v obecních kláních vítězí ze stran KDU-ČSL</a></li>
+						</ul>
+					
+					<div class="fc0"></div>
+				</div>
+			</div>
+			
+			<div class="shp-box-c">
+				<div id="shp-nejnovejsi">
+
+		<div class="art type-tb">
+	<a href="https://www.lidovky.cz/relax/design/prvorepublikove-skvosty-husovy-sbory-dve-veze-ktere-spojuji-vrsovice-a-vinohrady.A181011_144917_ln-bydleni_mber" title="PRVOREPUBLIKOVÉ SKVOSTY: Husovy sbory. Dvě věže, které spojují Vršovice a Vinohrady" class="mark-video lnbox1" onclick="pageTracker._trackEvent('shp_special_c1_clanek-240','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/101/lnbox1/MBE768e4d_42406805924704_7273552679421345792_n.jpg" alt="Husovy sbory ve Vršovic&#237;ch a na Vinohradech. | na serveru Lidovky.cz | aktuální zprávy" title="PRVOREPUBLIKOVÉ SKVOSTY: Husovy sbory. Dvě věže, které spojují Vršovice a Vinohrady" width="240" height="137">
+		<span></span>
+	</a>
+	<h2>
+		<a href="https://www.lidovky.cz/relax/design/prvorepublikove-skvosty-husovy-sbory-dve-veze-ktere-spojuji-vrsovice-a-vinohrady.A181011_144917_ln-bydleni_mber" title="PRVOREPUBLIKOVÉ SKVOSTY: Husovy sbory. Dvě věže, které spojují Vršovice a Vinohrady" onclick="pageTracker._trackEvent('shp_special_c1_clanek-240','click');">PRVOREPUBLIKOVÉ SKVOSTY: Husovy sbory. Dvě věže, které spojují Vršovice a Vinohrady</a>
+	</h2>
+	<div class="fc0"></div>
+</div>
+	
+		<div class="art type-tb">
+	<a href="https://www.lidovky.cz/relax/moda/justin-timberlake-navrhl-vlastni-kolekci-obleceni-pro-znacku-levis.A181009_113905_moda_ape" title="Justin Timberlake navrhl vlastní kolekci oblečení pro značku Levis" class="mark-video lnbox1" onclick="pageTracker._trackEvent('shp_special_c2_clanek-240','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/101/lnbox1/APE768d9a__Birch_Location_L1002254_sRGB_350dpi.jpg" alt="Justin Timberlake představuje svou vlastn&#237; kolekci Fresh Leaves navrženou pro... | na serveru Lidovky.cz | aktuální zprávy" title="Justin Timberlake navrhl vlastní kolekci oblečení pro značku Levis" width="240" height="137">
+		<span></span>
+	</a>
+	<h2>
+		<a href="https://www.lidovky.cz/relax/moda/justin-timberlake-navrhl-vlastni-kolekci-obleceni-pro-znacku-levis.A181009_113905_moda_ape" title="Justin Timberlake navrhl vlastní kolekci oblečení pro značku Levis" onclick="pageTracker._trackEvent('shp_special_c2_clanek-240','click');">Justin Timberlake navrhl vlastní kolekci oblečení pro značku Levis</a>
+	</h2>
+	<div class="fc0"></div>
+</div>
+	
+</div>
+			</div>
+			
+			<div class="fc0"></div>
+		</div>
+							
+							<div id="row-b" class="row">
+								<div class="shp-box-a">
+									<!--Cached--><!-- generate: 12.10.2018 8:44:04 -->
+
+		<div class="art">
+	<div class="art-info">
+		<span class="brisk">Rozhovor</span>
+		<span class="time">
+	12. října 2018&nbsp;6:00
+</span>
+		
+	</div>
+	<h2>
+		<a href="https://www.lidovky.cz/noviny/masaryk-nebyl-zadny-taticek-ale-rvac-rika-spisovatel-pavel-kosatik.A181011_164515_ln_noviny_ele" title="Masaryk nebyl žádný tatíček, ale rváč. Čapkem pohrdal, říká spisovatel Kosatík" onclick="pageTracker._trackEvent('shp_ln_shp_c2_clanek-210','click');">Masaryk nebyl žádný tatíček, ale rváč. Čapkem pohrdal, říká spisovatel Kosatík</a>
+	</h2>
+	<a href="https://www.lidovky.cz/noviny/masaryk-nebyl-zadny-taticek-ale-rvac-rika-spisovatel-pavel-kosatik.A181011_164515_ln_noviny_ele" title="Masaryk nebyl žádný tatíček, ale rváč. Čapkem pohrdal, říká spisovatel Kosatík" class="mark-video lnp210" onclick="pageTracker._trackEvent('shp_ln_shp_c2_clanek-210','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnp210/VLH769a01__FO00101943.jpeg" alt="Tom&#225;š Garrigue Masaryk (vlevo) a Karel Čapek | na serveru Lidovky.cz | aktuální zprávy" title="Masaryk nebyl žádný tatíček, ale rváč. Čapkem pohrdal, říká spisovatel Kosatík" width="210" height="119">
+		<span></span>
+	</a>
+	<p class="perex">U některých lidí, s nimiž dělají novináři rozhovory, je těžké vymyslet, na co se ptát. To rozhodně nebyl případ...</p>
+	<div class="fc0"></div>
+</div>
+	
+		<div class="art">
+	<div class="art-info">
+		
+		<span class="time">
+	12. října 2018&nbsp;5:00
+</span>
+		
+		<span class="domicil">PRAHA</span>
+		
+	</div>
+	<h2>
+		<a href="https://www.lidovky.cz/domov/nejzajimavejsi-senatni-souboje-belobradek-s-cervickem-kritik-zemana-proti-sefovi-rozhlasu.A181011_164737_ln_domov_rsa" title="Nejzajímavější senátní souboje: Bělobrádek s Červíčkem, kritik Zemana proti exšéfovi Českého rozhlasu" onclick="pageTracker._trackEvent('shp_ln_shp_c3_clanek-210','click');">Nejzajímavější senátní souboje: Bělobrádek s Červíčkem, kritik Zemana proti exšéfovi Českého rozhlasu</a>
+	</h2>
+	<a href="https://www.lidovky.cz/domov/nejzajimavejsi-senatni-souboje-belobradek-s-cervickem-kritik-zemana-proti-sefovi-rozhlasu.A181011_164737_ln_domov_rsa" title="Nejzajímavější senátní souboje: Bělobrádek s Červíčkem, kritik Zemana proti exšéfovi Českého rozhlasu" class="mark-video lnp210" onclick="pageTracker._trackEvent('shp_ln_shp_c3_clanek-210','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnp210/JEI769a21_kol.png" alt="Pavel Bělobr&#225;dek a Martin Červ&#237;ček. | na serveru Lidovky.cz | aktuální zprávy" title="Nejzajímavější senátní souboje: Bělobrádek s Červíčkem, kritik Zemana proti exšéfovi Českého rozhlasu" width="210" height="119">
+		<span></span>
+	</a>
+	<p class="perex">Dva senátorské posty jsou již zabrány. Získali je Jiří Čunek (KDU-ČSL) a Jiří Drahoš (s podporou KDU-ČSL, TOP 09, STAN...</p>
+	<div class="fc0"></div>
+</div>
+	
+		<div class="art">
+	<div class="art-info">
+		
+		<span class="time">
+	12. října 2018&nbsp;6:00
+</span>
+		
+		<span class="domicil">PRAHA</span>
+		
+		<a class="author" href="https://www.lidovky.cz/novinari/martin-rychlik.N3573">Martin Rychlík</a>
+		
+	</div>
+	<h2>
+		<a href="https://www.lidovky.cz/noviny/rektor-cvut-vola-na-pomoc-merkelovou-do-sporu-o-kybercentrum-ciirc-vstupuji-zeman-i-babis.A181011_225115_ln_noviny_ele" title="Rektor ČVUT volá na pomoc Merkelovou. Do sporu o robotické centrum vstupují i Zeman a Babiš" onclick="pageTracker._trackEvent('shp_ln_shp_c4_clanek-210','click');">Rektor ČVUT volá na pomoc Merkelovou. Do sporu o robotické centrum vstupují i Zeman a Babiš</a>
+	</h2>
+	<a href="https://www.lidovky.cz/noviny/rektor-cvut-vola-na-pomoc-merkelovou-do-sporu-o-kybercentrum-ciirc-vstupuji-zeman-i-babis.A181011_225115_ln_noviny_ele" title="Rektor ČVUT volá na pomoc Merkelovou. Do sporu o robotické centrum vstupují i Zeman a Babiš" class="lnp210" onclick="pageTracker._trackEvent('shp_ln_shp_c4_clanek-210','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/071/lnp210/CEH745c33_P201807010307101.jpg" alt="Německ&#225; kancl&#233;řka Angela Merkelov&#225;. | na serveru Lidovky.cz | aktuální zprávy" title="Rektor ČVUT volá na pomoc Merkelovou. Do sporu o robotické centrum vstupují i Zeman a Babiš" width="210" height="119">
+		
+	</a>
+	<p class="perex">Názvem je to České vysoké učení technické (ČVUT), ale ve dvou velkých případech se široce rozkročilo i do zahraničí. Za...</p>
+	<div class="fc0"></div>
+</div>
+	
+		<div class="art">
+	<div class="art-info">
+		
+		<span class="time">
+	12. října 2018&nbsp;6:00
+</span>
+		
+		<span class="domicil">URUMČI/PRAHA</span>
+		
+		<a class="author" href="https://www.lidovky.cz/novinari/ivana-milenkovicova.N3587">Ivana Milenkovičová</a>
+		
+	</div>
+	<h2>
+		<a href="https://www.lidovky.cz/svet/cina-legalizovala-vychovne-tabory-jejichz-existenci-dosud-popirala.A181011_225753_ln_zahranici_ele" title="Čína legalizovala výchovné tábory, jejichž existenci dosud popírala. Zadržuje až milion Ujgurů" onclick="pageTracker._trackEvent('shp_ln_shp_c5_clanek-210','click');">Čína legalizovala výchovné tábory, jejichž existenci dosud popírala. Zadržuje až milion Ujgurů</a>
+	</h2>
+	<a href="https://www.lidovky.cz/svet/cina-legalizovala-vychovne-tabory-jejichz-existenci-dosud-popirala.A181011_225753_ln_zahranici_ele" title="Čína legalizovala výchovné tábory, jejichž existenci dosud popírala. Zadržuje až milion Ujgurů" class="lnp210" onclick="pageTracker._trackEvent('shp_ln_shp_c5_clanek-210','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnp210/MSL4eefa9_PEK300_CHINA_TIANANMEN_1029_11.JPG" alt="Č&#237;na legalizovala v&#253;chovn&#233; t&#225;bory, jejichž existenci až do ned&#225;vna pop&#237;rala.... | na serveru Lidovky.cz | aktuální zprávy" title="Čína legalizovala výchovné tábory, jejichž existenci dosud popírala. Zadržuje až milion Ujgurů" width="210" height="119">
+		
+	</a>
+	<p class="perex">Čínská vláda podle OSN do převýchovných zařízení internovala až milion Ujgurů, příslušníků turkického etnika z oblasti...</p>
+	<div class="fc0"></div>
+</div>
+									<!--Cached--><div class="art opinion">
+	<div class="art-info">
+		<span class="time">
+	12. října 2018&nbsp;6:00
+</span>
+		
+	</div>
+	<h2>
+		<a title="Ve veřejném zájmu? Pohřební průvod Jana Kočky zablokuje tepnu Prahy" href="https://www.lidovky.cz/nazory/petracek-ve-verejnem-zajmu-pohrebni-pruvod-jana-kocky-zablokuje-tepnu-prahy.A181011_224601_ln_nazory_ele" onclick="pageTracker._trackEvent('shp_nazory_c1_komentar','click');">Ve veřejném zájmu? Pohřební průvod Jana Kočky zablokuje tepnu Prahy</a>
+	</h2>
+	<a title="Ve veřejném zájmu? Pohřební průvod Jana Kočky zablokuje tepnu Prahy" href="https://www.lidovky.cz/nazory/petracek-ve-verejnem-zajmu-pohrebni-pruvod-jana-kocky-zablokuje-tepnu-prahy.A181011_224601_ln_nazory_ele" onclick="pageTracker._trackEvent('shp_nazory_c1_komentar','click');">
+		<img width="140" height="115" src="//1gr.cz/data/lidovky/novinari/petracek-zbynek.png" title="Ve veřejném zájmu? Pohřební průvod Jana Kočky zablokuje tepnu Prahy">
+	</a>
+	<p class="perex">Historie zařídila, že většina žijících občanů ČR viděla nanejvýš dva státní...</p>
+	<div class="fc0"></div>
+	<div class="opinion-author">
+	Zbyněk Petráček
+		
+	
+	</div>
+</div>
+								</div>
+								<div class="shp-box-bc">
+									<div id="row-b-sticky">
+										<div id="r17.1.11.3" class="hid m58"><hr class="h"><div class="r-head"><span></span></div><div class="r-body"><div id='bmone2n-17.1.11.3'></div><div class="fc0"></div></div><div class="fc0"></div><hr class="h"></div>
+									</div>
+									<script>Misc.sticky({ id: "row-b-sticky", end: "row-b-sticky-end", className: "fix-block" });</script>
+								</div>
+								<div class="shp-box-bc bottom">
+                                    <div id="row-b-sticky-end" class="fc0"></div>
+									<div id="switch-box" class="show-swich-1">
+										<div id="switch-box-1" class="prep-3">
+	<div class="newstype">
+	
+		<span>Nejčtenější</span> <span class="switch-box-link" onclick="element('switch-box').classes.add('show-swich-2');element('switch-box').classes.remove('show-swich-1');">Diskutované</span>
+	
+	</div>
+
+	<div class="when">
+		<a href="#" id="switch-box-1-a1" class="sel-1">24 hodin</a>
+		<a href="#" id="switch-box-1-a2" class="sel-2">3 dny</a>
+		<a href="#" id="switch-box-1-a3" class="sel-3">7 dní</a>
+	</div>
+	<div class="fc0"></div>
+
+	<ul class="arts-1 shp-style">
+		<li><a href="https://www.lidovky.cz/lod-sojuz-po-startu-k-iss-kvuli-havarii-rakety-nouzove-pristala-posadka-zazila-velke-pretizeni-i26-/zpravy-svet.aspx?c=A181011_111329_ln_zahranici_gib#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Loď Sojuz po startu k ISS kvůli havárii rakety nouzově...</a></li><li><a href="https://www.lidovky.cz/priznal-se-ze-to-v-opilosti-udelal-tvrdi-matka-podezreleho-z-vrazdy-bulharske-novinarky-g6x-/zpravy-svet.aspx?c=A181011_124152_ln_zahranici_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Syn se přiznal, že to udělal v opilosti, řekla matka...</a></li><li><a href="https://www.lidovky.cz/skvadra-vrahu-saudskeho-novinare-udajne-prijel-zabit-15clenny-tym-soucasti-byl-i-soudni-lekar-idr-/zpravy-svet.aspx?c=A181011_114520_ln_zahranici_mha#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">‚Skvadra vrahů.‘ Saúdského novináře údajně přijel zabít...</a></li><li class="last"><a href="https://www.lidovky.cz/v-praze-se-nasel-dalsi-exoticky-had-tentokrat-krajta-fy9-/zpravy-domov.aspx?c=A181011_120617_ln_domov_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">V Praze se našel další exotický had. V Butovicích na...</a></li>
+	</ul>
+
+	<ul class="arts-2 shp-style">
+		<li><a href="https://www.lidovky.cz/kdo-je-nova-primatorka-brna-vankova-karierni-zastupitelka-advokatka-a-milovnice-divadla-guu-/zpravy-domov.aspx?c=A181010_162315_ln_domov_rsa#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Kdo je nová primátorka Brna Vaňková? Kariérní zastupitelka,...</a></li><li><a href="https://www.lidovky.cz/vytlaci-piratske-dredy-karlovo-ciro-top-09-bez-pomoci-konci-piraty-zuctovani-teprve-ceka-gu5-/zpravy-domov.aspx?c=A181010_093652_ln_domov_jho#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Pirátské dredy střídají Karlovo číro. TOP 09 bez pomoci...</a></li><li><a href="https://www.lidovky.cz/teror-po-cesku-strujce-srazek-s-vlakem-se-malem-dostal-na-svobodu-do-pripadu-se-vlozila-rodina-ipc-/zpravy-domov.aspx?c=A181003_095012_ln_domov_jho#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Policie ho viní z terorismu. Strůjce srážek s vlakem...</a></li><li class="last"><a href="https://www.lidovky.cz/babicka-rusa-vineneho-z-otravy-skripalovych-zmizela-prozradila-ze-dostal-vyznamenani-gl7-/zpravy-svet.aspx?c=A181010_105555_ln_zahranici_mha#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Babička Rusa viněného z otravy Skripalových zmizela....</a></li>
+	</ul>
+
+	<ul class="arts-3 shp-style">
+		<li><a href="https://www.lidovky.cz/kdo-je-pirat-hrib-mozny-primator-prahy-lekar-ktery-neleci-a-propagator-pouzivani-sede-kury-mozk-i2s-/zpravy-domov.aspx?c=A181007_115656_ln_domov_rsa#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Kdo je Pirát Hřib, možný primátor Prahy? Lékař, který...</a></li><li><a href="https://www.lidovky.cz/kdo-je-nova-primatorka-brna-vankova-karierni-zastupitelka-advokatka-a-milovnice-divadla-guu-/zpravy-domov.aspx?c=A181010_162315_ln_domov_rsa#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Kdo je nová primátorka Brna Vaňková? Kariérní zastupitelka,...</a></li><li><a href="https://www.lidovky.cz/smrtelne-jedovata-mamba-se-nasla-informuje-mestska-cast-policie-ceka-na-prijezd-obornika-g62-/zpravy-domov.aspx?c=A181005_175755_ln_domov_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Smrtelně jedovatou mambu našla žena na stromě stovky...</a></li><li class="last"><a href="https://www.lidovky.cz/pro-ano-je-to-vetsi-neuspech-nez-to-vypada-silnejsi-nebude-babis-podruhe-selhal-mini-politolog-ipt-/zpravy-domov.aspx?c=A181007_162407_ln_domov_rsa#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.nejctenejsi">Pro ANO je to větší neúspěch, než to vypadá, silnější...</a></li>
+	</ul>
+</div>
+<script type="text/javascript">Misc.prepinac({ id: "switch-box-1" })</script>
+										<div id="switch-box-2" class="prep-2">
+	<div class="newstype">
+	
+		<span class="switch-box-link" onclick="element('switch-box').classes.add('show-swich-1');element('switch-box').classes.remove('show-swich-2');">Nejčtenější</span> <span>Diskutované</span>
+	
+	</div>
+
+	<div class="when">
+		<a href="#" id="switch-box-2-a1" class="sel-1">24 hodin</a>
+		<a href="#" id="switch-box-2-a2" class="sel-2">3 dny</a>
+		<a href="#" id="switch-box-2-a3" class="sel-3">7 dní</a>
+	</div>
+	<div class="fc0"></div>
+
+	<ul class="arts-1 shp-style">
+		<li><a href="https://www.lidovky.cz/lod-sojuz-po-startu-k-iss-kvuli-havarii-rakety-nouzove-pristala-posadka-zazila-velke-pretizeni-i26-/zpravy-svet.aspx?c=A181011_111329_ln_zahranici_gib#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Loď Sojuz po startu k ISS kvůli havárii rakety nouzově...</a></li><li><a href="https://www.lidovky.cz/genderiste-a-homosexualove-vam-zasantroci-deti-rekl-knez-pri-kazani-ted-celi-trestnimu-oznameni-ieo-/zpravy-domov.aspx?c=A181011_202532_ln_domov_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Genderisté a homosexualisté vám zašantročí děti, řekl...</a></li><li><a href="https://www.lidovky.cz/ukrajinska-cirkev-se-osamostatnuje-po-300-letech-prestala-byt-primo-podrizena-moskve-gmw-/zpravy-svet.aspx?c=A181011_195900_ln_zahranici_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Ukrajinská církev se osamostatňuje, po 300 letech přestala...</a></li><li class="last"><a href="https://www.lidovky.cz/priznal-se-ze-to-v-opilosti-udelal-tvrdi-matka-podezreleho-z-vrazdy-bulharske-novinarky-g6x-/zpravy-svet.aspx?c=A181011_124152_ln_zahranici_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Syn se přiznal, že to udělal v opilosti, řekla matka...</a></li>
+	</ul>
+
+	<ul class="arts-2 shp-style">
+		<li><a href="https://www.lidovky.cz/v-brne-vznikne-koalice-ods-kdu-csl-cssd-a-piratu-vitezne-ano-bude-v-opozici-1rw-/zpravy-domov.aspx?c=A181009_151417_ln_domov_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Obejdou ANO, v Brně vznikne koalice ODS, KDU-ČSL, ČSSD...</a></li><li><a href="https://www.lidovky.cz/agenti-gru-ze-salisbury-vineni-z-otravy-novicokem-byli-v-praze-ve-stejnou-dobu-jako-skripal-gy3-/zpravy-domov.aspx?c=A181010_072052_ln_zahranici_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Agenti GRU ze Salisbury, vinění z útoku novičokem,...</a></li><li><a href="https://www.lidovky.cz/kdo-je-nova-primatorka-brna-vankova-karierni-zastupitelka-advokatka-a-milovnice-divadla-guu-/zpravy-domov.aspx?c=A181010_162315_ln_domov_rsa#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Kdo je nová primátorka Brna Vaňková? Kariérní zastupitelka,...</a></li><li class="last"><a href="https://www.lidovky.cz/babicka-rusa-vineneho-z-otravy-skripalovych-zmizela-prozradila-ze-dostal-vyznamenani-gl7-/zpravy-svet.aspx?c=A181010_105555_ln_zahranici_mha#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Babička Rusa viněného z otravy Skripalových zmizela....</a></li>
+	</ul>
+
+	<ul class="arts-3 shp-style">
+		<li><a href="https://www.lidovky.cz/mame-posledni-sanci-zabranit-svetove-katastrofe-varuji-vedci-oteplovani-zeme-muze-ovlivnit-kazdy-z-irx-/zpravy-svet.aspx?c=A181008_164907_ln_zahranici_tn#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Hrozí globální katastrofa, vědci mají záchranný plán...</a></li><li><a href="https://www.lidovky.cz/britsti-hackeri-umi-zhasnout-moskvu-dvr-/zpravy-svet.aspx?c=A181008_143948_ln_zahranici_mha#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Britští hackeři umí ‚zhasnout’ Moskvu. Jako případnou...</a></li><li><a href="https://www.lidovky.cz/zavrete-pusu-pani-redaktorko-zeman-se-ve-volebni-mistnosti-oprel-do-novinarky-192-/zpravy-domov.aspx?c=A181005_144603_ln_domov_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">‚Zavřete pusu, paní redaktorko.‘ Zeman se ve volební...</a></li><li class="last"><a href="https://www.lidovky.cz/v-brne-vznikne-koalice-ods-kdu-csl-cssd-a-piratu-vitezne-ano-bude-v-opozici-1rw-/zpravy-domov.aspx?c=A181009_151417_ln_domov_ele#utm_source=sph.lidovky&amp;utm_medium=text&amp;utm_campaign=box.diskutovane">Obejdou ANO, v Brně vznikne koalice ODS, KDU-ČSL, ČSSD...</a></li>
+	</ul>
+</div>
+<script type="text/javascript">Misc.prepinac({ id: "switch-box-2" })</script>
+									</div>
+									<div class="selfpromo">
+										<!-- INC: ln_lidovky/selfpromo-na-shp.htm -->
+<!--text--><a href="https://www.lidovky.cz/ck-telegraf.aspx"
+               onclick="pageTracker._trackEvent('shp_banner-selfpromo-302x235','click');"><img src="https://1gr.cz/o/lidovky/bannery/banner_ckt_hp-maly.001.jpg"
+               alt="CK Telegraf" title="CK Telegraf"
+               /></a>
+               
+               
+
+									</div>
+								</div>
+								<div class="fc0"></div>
+							</div>
+							
+							<div id="row-c" class="row">
+								<div class="shp-box-ab">
+									
+									<h3 class="heading"><a href="https://www.lidovky.cz/domov"><span>DOMOV</span></a></h3>
+									<!--Cached--><div class="rubrika rubrika-4A">
+	<div class="shp-box-a">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a title="Nová legislativa dává podnikatelům zabrat. Kvůli GDPR často chybují, míní úřad" href="https://www.lidovky.cz/domov/firmy-jsou-kvuli-gdpr-v-sede-pravni-zone-mini-urad-zamette-si-pred-vlastnim-prahem-vzkazuji-firmy.A181003_164449_ln_domov_mber" onclick="pageTracker._trackEvent('shp_domov_c1_clanek-240','click');">Nová legislativa dává podnikatelům zabrat. Kvůli GDPR často chybují, míní úřad</a>
+	</div>
+	<a title="Nová legislativa dává podnikatelům zabrat. Kvůli GDPR často chybují, míní úřad" href="https://www.lidovky.cz/domov/firmy-jsou-kvuli-gdpr-v-sede-pravni-zone-mini-urad-zamette-si-pred-vlastnim-prahem-vzkazuji-firmy.A181003_164449_ln_domov_mber" class="lnbox1" onclick="pageTracker._trackEvent('shp_domov_c1_clanek-240','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/053/lnbox1/PKK73806e_europe_2021308_1280.jpg" alt="Už 25. května zač&#237;n&#225; platit evropsk&#233; nař&#237;zen&#237; o ochraně osobn&#237;ch &#250;dajů GDPR. | na serveru Lidovky.cz | aktuální zprávy" title="Nová legislativa dává podnikatelům zabrat. Kvůli GDPR často chybují, míní úřad" width="240" height="137">
+		
+	</a>
+	<p class="perex">Obecné nařízení o ochraně osobních údajů (GDPR) zkomplikovalo život firmám i jejich zákazníkům. Mírná vlna paniky...</p>
+	<div class="fc0"></div>
+</div>
+			
+				<div class="art">
+	<div class="title-h2">
+		<a title="Genderisté a homosexualisté vám zašantročí děti, řekl kněz v katedrále sv. Víta. Teď čelí trestnímu oznámení" href="https://www.lidovky.cz/domov/genderiste-a-homosexualove-vam-zasantroci-deti-rekl-knez-pri-kazani-ted-celi-trestnimu-oznameni.A181011_202532_ln_domov_ele" onclick="pageTracker._trackEvent('shp_domov_c2_clanek-240','click');">Genderisté a homosexualisté vám zašantročí děti, řekl kněz v katedrále sv. Víta. Teď čelí trestnímu oznámení</a>
+	</div>
+	<a title="Genderisté a homosexualisté vám zašantročí děti, řekl kněz v katedrále sv. Víta. Teď čelí trestnímu oznámení" href="https://www.lidovky.cz/domov/genderiste-a-homosexualove-vam-zasantroci-deti-rekl-knez-pri-kazani-ted-celi-trestnimu-oznameni.A181011_202532_ln_domov_ele" class="lnbox1" onclick="pageTracker._trackEvent('shp_domov_c2_clanek-240','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnbox1/ELE769b0f_piha.jpg" alt="Katolick&#253; kněz Petr Piťha čel&#237; trestn&#237;mu ozn&#225;men&#237; kvůli sv&#253;m v&#253;rokům na adresu... | na serveru Lidovky.cz | aktuální zprávy" title="Genderisté a homosexualisté vám zašantročí děti, řekl kněz v katedrále sv. Víta. Teď čelí trestnímu oznámení" width="240" height="137">
+		
+	</a>
+	<p class="perex">Česká ženská lobby podala ve čtvrtek trestní oznámení na katolického kněze Petra Piťhu, který při svém svatováclavském...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="shp-box-b">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a title="S SPD koalice neděláme. Kladno je výjimka potvrzující pravidlo, říká šéf ODS Fiala" href="https://www.lidovky.cz/domov/s-spd-koalice-nedelame-kladno-je-vyjimka-potvrzujici-pravidlo-rika-sef-ods-fiala.A181011_190205_ln_domov_ele" onclick="pageTracker._trackEvent('shp_domov_c3_clanek-175','click');">S SPD koalice neděláme. Kladno je výjimka potvrzující pravidlo, říká šéf ODS Fiala</a>
+	</div>
+	<a title="S SPD koalice neděláme. Kladno je výjimka potvrzující pravidlo, říká šéf ODS Fiala" href="https://www.lidovky.cz/domov/s-spd-koalice-nedelame-kladno-je-vyjimka-potvrzujici-pravidlo-rika-sef-ods-fiala.A181011_190205_ln_domov_ele" class="lnp175" onclick="pageTracker._trackEvent('shp_domov_c3_clanek-175','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/012/lnp175/ELE70a4b3_115614_3236940.jpg" alt="Předseda ODS Petr Fiala. | na serveru Lidovky.cz | aktuální zprávy" title="S SPD koalice neděláme. Kladno je výjimka potvrzující pravidlo, říká šéf ODS Fiala" width="175" height="100">
+		
+	</a>
+	<p class="perex">Koalice, kterou ODS uzavřelo v Kladně s SPD Tomia Okamury, je výjimka...</p>
+	<div class="fc0"></div>
+</div>
+			
+		
+				<div class="art">
+	<div class="title-h2">
+		<a href="https://www.lidovky.cz/domov/piratum-v-brne-nabidka-ano-na-koalici-nedava-smysl-dohromady-nemaji-dost-mandatu.A181011_194208_ln_domov_ele" title="Pirátům v Brně nabídka ANO na koalici nedává smysl, dohromady by neměli potřebnou většinu" onclick="pageTracker._trackEvent('shp_domov_c4_clanek-bez','click');">Pirátům v Brně nabídka ANO na koalici nedává smysl, dohromady by neměli potřebnou většinu</a>
+	</div>
+	<p class="perex">Brněnským Pirátům nabídka ANO na účast v koalici nedává smysl. Tyto...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="fc0"></div>
+</div>
+									
+									<h3 class="heading"><a href="https://www.lidovky.cz/svet"><span>SVĚT</span></a></h3>
+									<!--Cached--><div class="rubrika rubrika-3B">
+	<div class="shp-box-b">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a title="Katalánský parlament vyzval ke zrušení monarchie, Madrid se zlobí" href="https://www.lidovky.cz/svet/katalansky-parlament-vyzval-ke-zruseni-monarchie-madrid-se-zlobi.A181012_081336_ln_zahranici_ele" onclick="pageTracker._trackEvent('shp_svet_c1_clanek-175','click');">Katalánský parlament vyzval ke zrušení monarchie, Madrid se zlobí</a>
+	</div>
+	<a title="Katalánský parlament vyzval ke zrušení monarchie, Madrid se zlobí" href="https://www.lidovky.cz/svet/katalansky-parlament-vyzval-ke-zruseni-monarchie-madrid-se-zlobi.A181012_081336_ln_zahranici_ele" class="lnp175" onclick="pageTracker._trackEvent('shp_svet_c1_clanek-175','click');">
+		<img src="//1gr.cz/fotky/lidovky/16/051/lnp175/MSL53fd82_CHM19_SPAIN_KING_0619_11.jpg" alt="Španělsk&#253; kr&#225;l Felipe VI. | na serveru Lidovky.cz | aktuální zprávy" title="Katalánský parlament vyzval ke zrušení monarchie, Madrid se zlobí" width="175" height="100">
+		
+	</a>
+	<p class="perex">Separatisté v katalánském parlamentu ve čtvrtek prosadili schválení...</p>
+	<div class="fc0"></div>
+</div>
+			
+
+		
+				<div class="art">
+	<div class="title-h2">
+		<a href="https://www.lidovky.cz/svet/ukrajinska-cirkev-se-osamostatnuje-po-300-letech-prestala-byt-primo-podrizena-moskve.A181011_195900_ln_zahranici_ele" title="Ukrajinská církev se osamostatňuje, po 300 letech přestala být přímo podřízená Moskvě" onclick="pageTracker._trackEvent('shp_svet_c2_clanek-bez','click');">Ukrajinská církev se osamostatňuje, po 300 letech přestala být přímo podřízená Moskvě</a>
+	</div>
+	<p class="perex">Konstantinopolský patriarchát pravoslavné církve ve čtvrtek zrušil...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="shp-box-a">
+		
+				<div class="art opener">
+	<div class="title-h2">
+		<a href="https://www.lidovky.cz/svet/trumpova-se-citi-jako-jeden-z-nejvice-sikanovanych-lidi-na-svete-rekla-v-rozhovoru-pro-abc-news.A181012_075951_ln_zahranici_ele" title="Trumpová se cítí jako jeden z nejvíce šikanovaných lidí na světě, řekla v rozhovoru pro ABC News" onclick="pageTracker._trackEvent('shp_svet_c3_clanek-460','click');">Trumpová se cítí jako jeden z nejvíce šikanovaných lidí na světě, řekla v rozhovoru pro ABC News</a>
+	</div>
+	<a href="https://www.lidovky.cz/svet/trumpova-se-citi-jako-jeden-z-nejvice-sikanovanych-lidi-na-svete-rekla-v-rozhovoru-pro-abc-news.A181012_075951_ln_zahranici_ele" title="Trumpová se cítí jako jeden z nejvíce šikanovaných lidí na světě, řekla v rozhovoru pro ABC News" class="lnc460" onclick="pageTracker._trackEvent('shp_svet_c3_clanek-460','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/092/lnc460/ELE75f1b1_P201809110747801.jpg" alt="Donald Trump a prvn&#237; d&#225;ma Melanie Trumpov&#225;. | na serveru Lidovky.cz | aktuální zprávy" title="Trumpová se cítí jako jeden z nejvíce šikanovaných lidí na světě, řekla v rozhovoru pro ABC News" width="460" height="300">
+		
+	</a>
+	<p class="perex">Manželka amerického prezidenta Donalda Trumpa Melania se považuje za jednoho z nejvíce šikanovaných lidí na světě....</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="fc0"></div>
+</div>
+									
+									<h3 class="heading"><a href="https://www.lidovky.cz/byznys"><span>BYZNYS</span></a></h3>
+									<!--Cached--><div class="rubrika rubrika-4A">
+	<div class="shp-box-a">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a title="Salát vypěstovaný robotem. V Americe otevřeli farmu, která téměř nepotřebuje lidi" href="https://www.lidovky.cz/byznys/firmy-a-trhy/salat-vypestovany-robotem-v-americe-otevreli-farmu-ktera-nepotrebuje-lidi.A181010_172433_firmy-trhy_pkk" onclick="pageTracker._trackEvent('shp_byznys_c1_clanek-240','click');">Salát vypěstovaný robotem. V Americe otevřeli farmu, která téměř nepotřebuje lidi</a>
+	</div>
+	<a title="Salát vypěstovaný robotem. V Americe otevřeli farmu, která téměř nepotřebuje lidi" href="https://www.lidovky.cz/byznys/firmy-a-trhy/salat-vypestovany-robotem-v-americe-otevreli-farmu-ktera-nepotrebuje-lidi.A181010_172433_firmy-trhy_pkk" class="lnbox1" onclick="pageTracker._trackEvent('shp_byznys_c1_clanek-240','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnbox1/PKK7694cd_farma.png" alt="Autonomn&#237; farma vypěstuje sal&#225;t i bez člověka. | na serveru Lidovky.cz | aktuální zprávy" title="Salát vypěstovaný robotem. V Americe otevřeli farmu, která téměř nepotřebuje lidi" width="240" height="137">
+		
+	</a>
+	<p class="perex">První americkou farmu plnou robotů otevřeli na začátku října v Kalifornii. Firma Iron Ox, která stojí za první farmou,...</p>
+	<div class="fc0"></div>
+</div>
+			
+				<div class="art">
+	<div class="title-h2">
+		<a title="Ohrožení 500 000 uživatelů? Google má vysvětlit, proč informoval o problému s Google+ až po sedmi měsících" href="https://www.lidovky.cz/byznys/firmy-a-trhy/google-ma-vysvetlit-pro-hned-neinformoval-o-problemu-s-google.A181011_205040_firmy-trhy_pev" onclick="pageTracker._trackEvent('shp_byznys_c2_clanek-240','click');">Ohrožení 500 000 uživatelů? Google má vysvětlit, proč informoval o problému s Google+ až po sedmi měsících</a>
+	</div>
+	<a title="Ohrožení 500 000 uživatelů? Google má vysvětlit, proč informoval o problému s Google+ až po sedmi měsících" href="https://www.lidovky.cz/byznys/firmy-a-trhy/google-ma-vysvetlit-pro-hned-neinformoval-o-problemu-s-google.A181011_205040_firmy-trhy_pev" class="lnbox1" onclick="pageTracker._trackEvent('shp_byznys_c2_clanek-240','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/072/lnbox1/PKK74bae4_FW1_EU_GOOGLE_ANTITRUST_0716_11.JPG" alt="Google. | na serveru Lidovky.cz | aktuální zprávy" title="Ohrožení 500 000 uživatelů? Google má vysvětlit, proč informoval o problému s Google+ až po sedmi měsících" width="240" height="137">
+		
+	</a>
+	<p class="perex">Společnost Google má vysvětlit, proč odložila zveřejnění informace o zranitelnosti komunikační sítě Google+. Vyzvali ji...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="shp-box-b">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a title="Začal nejdelší komerční let světa. Letadlo míří ze Singapuru do New Yorku, ve vzduchu bude 19 hodin" href="https://www.lidovky.cz/byznys/doprava/zacal-nejdelsi-komercni-let-na-svete-letadlo-miri-se-singapuru-do-new-yorku-ve-vzduchu-bude-19-hodin.A181011_184634_ln-doprava_ele" onclick="pageTracker._trackEvent('shp_byznys_c3_clanek-175','click');">Začal nejdelší komerční let světa. Letadlo míří ze Singapuru do New Yorku, ve vzduchu bude 19 hodin</a>
+	</div>
+	<a title="Začal nejdelší komerční let světa. Letadlo míří ze Singapuru do New Yorku, ve vzduchu bude 19 hodin" href="https://www.lidovky.cz/byznys/doprava/zacal-nejdelsi-komercni-let-na-svete-letadlo-miri-se-singapuru-do-new-yorku-ve-vzduchu-bude-19-hodin.A181011_184634_ln-doprava_ele" class="lnp175" onclick="pageTracker._trackEvent('shp_byznys_c3_clanek-175','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnp175/ELE769a8c_p201810110747201.jpg" alt="Pasaž&#233;ři letu Singapur-New York čekaj&#237; na otevřen&#237; n&#225;stupu do letadla. | na serveru Lidovky.cz | aktuální zprávy" title="Začal nejdelší komerční let světa. Letadlo míří ze Singapuru do New Yorku, ve vzduchu bude 19 hodin" width="175" height="100">
+		
+	</a>
+	<p class="perex">Společnost Singapore Airlines ve čtvrtek zahájila nejdelší komerční...</p>
+	<div class="fc0"></div>
+</div>
+			
+		
+				<div class="art">
+	<div class="title-h2">
+		<a href="https://www.lidovky.cz/byznys/firmy-a-trhy/akcie-v-asii-a-evrope-navazaly-na-stredecni-propad-v-usa.A181011_183414_firmy-trhy_ele" title="Výprodej akcií v USA se odrazil i v Evropě a Asii. Trump z něj viní americkou centrální banku" onclick="pageTracker._trackEvent('shp_byznys_c4_clanek-bez','click');">Výprodej akcií v USA se odrazil i v Evropě a Asii. Trump z něj viní americkou centrální banku</a>
+	</div>
+	<p class="perex">Akciové trhy v Asii a Evropě ve čtvrtek navázaly na středeční propad...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="fc0"></div>
+</div>
+								</div>
+								<div class="shp-box-c">
+									<div id="row-c-sticky">
+										<div id="r17.1.10.1" class="hid m11"><hr class="h"><div class="r-head"><span></span></div><div class="r-body"><div id='bmone2n-17.1.10.1'></div><div class="fc0"></div></div><div class="fc0"></div><hr class="h"></div>
+									</div>
+									<script>Misc.sticky({ id: "row-c-sticky", end: "row-c-sticky-end", className: "fix-block" });</script>
+								</div>
+                                <div id="row-c-sticky-end" class="fc0"></div>
+							</div>
+						    
+							
+							<div id="row-d" class="row">
+								<h3 class="heading"><a href="https://www.lidovky.cz/sport"><span>SPORT</span></a></h3>
+								<!--Cached--><div class="rubrika rubrika-3S-B">
+	
+			<div class="art type-tr lnph250">
+	<div class="title-h2">
+		<a title="Jako z telenovely. Mladý Schumacher vítězí a zvažuje, kam dál" href="https://www.lidovky.cz/sport/ostatni-sporty/jako-z-telenovely-mlady-schumacher-vitezi-a-zvazuje-kam-dal.A181011_201511_ln-sport-ostatni_rkj" onclick="pageTracker._trackEvent('shp_sport_c1_clanek-250','click');">Jako z telenovely. Mladý Schumacher vítězí a zvažuje, kam dál</a>
+	</div>
+	<a title="Jako z telenovely. Mladý Schumacher vítězí a zvažuje, kam dál" href="https://www.lidovky.cz/sport/ostatni-sporty/jako-z-telenovely-mlady-schumacher-vitezi-a-zvazuje-kam-dal.A181011_201511_ln-sport-ostatni_rkj" class="mark-video lnph250" onclick="pageTracker._trackEvent('shp_sport_c1_clanek-250','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/074/lnph250/ELE75042e_mickschumacher.png" alt="Mick Schumacher oslavuje po prvn&#237; v&#253;hře ve Formuli 3. | na serveru Lidovky.cz | aktuální zprávy" title="Jako z telenovely. Mladý Schumacher vítězí a zvažuje, kam dál" width="175" height="250">
+		<span></span>
+	</a>
+	<p class="perex">Mick Schumacher, syn legendárního rekordmana formule 1 Michaela, prožívá sezonu jako na houpačce. A...</p>
+	<div class="fc0"></div>
+</div>
+		
+			<div class="art type-tr lnph250">
+	<div class="title-h2">
+		<a title="Další obvinění ze znásilnění. Dal si Ronaldo opravdu takovéto vlastní góly?" href="https://www.lidovky.cz/sport/fotbal/dalsi-obvineni-ze-znasilneni-dal-si-ronaldo-opravdu-takoveto-vlastni-goly.A181011_203326_ln-sport-fotbal_rkj" onclick="pageTracker._trackEvent('shp_sport_c2_clanek-250','click');">Další obvinění ze znásilnění. Dal si Ronaldo opravdu takovéto vlastní góly?</a>
+	</div>
+	<a title="Další obvinění ze znásilnění. Dal si Ronaldo opravdu takovéto vlastní góly?" href="https://www.lidovky.cz/sport/fotbal/dalsi-obvineni-ze-znasilneni-dal-si-ronaldo-opravdu-takoveto-vlastni-goly.A181011_203326_ln-sport-fotbal_rkj" class="mark-video lnph250" onclick="pageTracker._trackEvent('shp_sport_c2_clanek-250','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/072/lnph250/LAR74b124_P201807160282301.jpg" alt="Cristiano Ronaldo se prod&#237;r&#225; davy fanoušků Juventusu. | na serveru Lidovky.cz | aktuální zprávy" title="Další obvinění ze znásilnění. Dal si Ronaldo opravdu takovéto vlastní góly?" width="175" height="250">
+		<span></span>
+	</a>
+	<p class="perex">V létě za velké pozornosti odešel z Realu Madrid do turínského Juventusu. Španělský celek se bez...</p>
+	<div class="fc0"></div>
+</div>
+		
+			<div class="art type-tr lnph250">
+	<div class="title-h2">
+		<a title="Jeho koni se do září nedařilo, nyní je ve formě. Bartoš však euforii mírní" href="https://www.lidovky.cz/sport/ostatni-sporty/jeho-koni-se-do-zari-nedarilo-nyni-je-ve-forme-bartos-vsak-euforii-mirni.A181011_194619_ln-sport-ostatni_rkj" onclick="pageTracker._trackEvent('shp_sport_c3_clanek-250','click');">Jeho koni se do září nedařilo, nyní je ve formě. Bartoš však euforii mírní</a>
+	</div>
+	<a title="Jeho koni se do září nedařilo, nyní je ve formě. Bartoš však euforii mírní" href="https://www.lidovky.cz/sport/ostatni-sporty/jeho-koni-se-do-zari-nedarilo-nyni-je-ve-forme-bartos-vsak-euforii-mirni.A181011_194619_ln-sport-ostatni_rkj" class="mark-video lnph250" onclick="pageTracker._trackEvent('shp_sport_c3_clanek-250','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnph250/RKJ769ad5_barto3.jpg" alt="Josef Bartoš s Josefem V&#225;ňou ve Slušovic&#237;ch. | na serveru Lidovky.cz | aktuální zprávy" title="Jeho koni se do září nedařilo, nyní je ve formě. Bartoš však euforii mírní" width="175" height="250">
+		<span></span>
+	</a>
+	<p class="perex">Dorazili spolu do cíle čtvrté kvalifikace na Velkou pardubickou na třetím místě, jen těsně za...</p>
+	<div class="fc0"></div>
+</div>
+		
+	<div class="fc0"></div>
+</div>
+							</div>
+							
+							<div id="row-e" class="row">
+								<h3 class="heading"><a href="https://www.lidovky.cz/kultura"><span>KULTURA</span></a></h3>
+								<!--Cached--><div class="rubrika rubrika-3S-A">
+	<div class="shp-box-a">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a title="RECENZE: První člověk. Intimní a intenzivní cesta na Měsíc" href="https://www.lidovky.cz/kultura/recenze-prvni-clovek-intimni-a-intenzivni-cesta-na-mesic.A181011_110940_ln_kultura_jto" onclick="pageTracker._trackEvent('shp_kultura_c1_clanek-240','click');">RECENZE: První člověk. Intimní a intenzivní cesta na Měsíc</a>
+	</div>
+	<a title="RECENZE: První člověk. Intimní a intenzivní cesta na Měsíc" href="https://www.lidovky.cz/kultura/recenze-prvni-clovek-intimni-a-intenzivni-cesta-na-mesic.A181011_110940_ln_kultura_jto" class="mark-video lnbox1" onclick="pageTracker._trackEvent('shp_kultura_c1_clanek-240','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/062/lnbox1/JTO73ea83_62MV5BMTY5NTM4NjY3NV5BMl5BanBnXkFtZT.jpg" alt="Ryan Gosling v popřed&#237; jako astronaut Neil Armstrong. Sn&#237;mek Prvn&#237; člověk... | na serveru Lidovky.cz | aktuální zprávy" title="RECENZE: První člověk. Intimní a intenzivní cesta na Měsíc" width="240" height="137">
+		<span></span>
+	</a>
+	<p class="perex">Oscarový režisér Damien Chazelle po triu hudebních filmů natočil překvapivě melancholický a intimní snímek o prvním...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="shp-box-bc">
+		
+				<div class="art">
+	<a title="RECENZE: Ten černý vzadu. Nový Othello jako multikulturní drama na základní škole" href="https://www.lidovky.cz/kultura/recenze-ten-cerny-vzadu-novy-othello-jako-multikulturni-drama-na-zakladni-skole.A181006_140733_ln_kultura_krku" class="mark-video lnbox1" onclick="pageTracker._trackEvent('shp_kultura_c1_clanek-240','click');">
+		<img src="//1gr.cz/fotky/lidovky/17/071/lnbox1/JTO6c66a5_34620293914_0bd403f5d7_b.jpg" alt="Inscenace Othello. Marco Vratogna a Jonas Kaufmann. | na serveru Lidovky.cz | aktuální zprávy" title="RECENZE: Ten černý vzadu. Nový Othello jako multikulturní drama na základní škole" width="240" height="137">
+		<span></span>
+	</a>
+	<div class="title-h2">
+		<a title="RECENZE: Ten černý vzadu. Nový Othello jako multikulturní drama na základní škole" href="https://www.lidovky.cz/kultura/recenze-ten-cerny-vzadu-novy-othello-jako-multikulturni-drama-na-zakladni-skole.A181006_140733_ln_kultura_krku" onclick="pageTracker._trackEvent('shp_kultura_c1_clanek-240','click');">RECENZE: Ten černý vzadu. Nový Othello jako multikulturní drama na základní škole</a>
+	</div>
+	<div class="fc0"></div>
+</div>
+			
+				<div class="art">
+	<a title="Povídky i romány. Souhvězdí Gulag Karla Pecky připomene život za oponou" href="https://www.lidovky.cz/kultura/povidky-i-romany-souhvezdi-gulag-karla-pecky-pripomene-zivot-za-oponou.A181011_114907_ln_kultura_jto" class="mark-video lnbox1" onclick="pageTracker._trackEvent('shp_kultura_c2_clanek-240','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnbox1/JTO769915_FO00038218.jpeg" alt="Česk&#253; b&#225;sn&#237;k Karel Pecka v roce 1996. | na serveru Lidovky.cz | aktuální zprávy" title="Povídky i romány. Souhvězdí Gulag Karla Pecky připomene život za oponou" width="240" height="137">
+		<span></span>
+	</a>
+	<div class="title-h2">
+		<a title="Povídky i romány. Souhvězdí Gulag Karla Pecky připomene život za oponou" href="https://www.lidovky.cz/kultura/povidky-i-romany-souhvezdi-gulag-karla-pecky-pripomene-zivot-za-oponou.A181011_114907_ln_kultura_jto" onclick="pageTracker._trackEvent('shp_kultura_c2_clanek-240','click');">Povídky i romány. Souhvězdí Gulag Karla Pecky připomene život za oponou</a>
+	</div>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="fc0"></div>
+</div>
+							</div>
+							
+							<div class="row adrow" id="row-f">
+								<div class="heading"><span>REKLAMA</span></div>
+								<div class="half fl">
+									<div class="r-body">
+										<div id='bmone2n-17.1.25.33'></div>
+									</div>
+								</div>
+								<div class="half fr">
+									<div class="r-body">
+										<div id='bmone2n-17.1.20.33'></div>
+									</div>
+								</div>
+								<div class="fc0"></div>
+							</div>
+							
+							<div id="row-g" class="row">
+								<div class="shp-box-ab">
+									<h3 class="heading"><a href="https://www.lidovky.cz/relax"><span>RELAX</span></a></h3>
+									<!--Cached--><div class="rubrika">
+	
+			<div class="art">
+	<div class="title-h2">
+		<a href="https://www.lidovky.cz/lide/cesti-strelci-zbrane-evropska-unie-zakazova-smernice-eu-lex.A181010_133941_ln_domov_tpc/foto" title="Čeští střelci. Kdo jsou lidé, kteří propadli střelnému prachu" onclick="pageTracker._trackEvent('shp_relax_c1_clanek-460','click');">Čeští střelci. Kdo jsou lidé, kteří propadli střelnému prachu</a>
+	</div>
+	<a href="https://www.lidovky.cz/lide/cesti-strelci-zbrane-evropska-unie-zakazova-smernice-eu-lex.A181010_133941_ln_domov_tpc/foto" title="Čeští střelci. Kdo jsou lidé, kteří propadli střelnému prachu" class="mark-video lnc460" onclick="pageTracker._trackEvent('shp_relax_c1_clanek-460','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnc460/TPC7693c3_d.JPG" alt="ČEŠT&#205; STŘELCI. | na serveru Lidovky.cz | aktuální zprávy" title="Čeští střelci. Kdo jsou lidé, kteří propadli střelnému prachu" width="460" height="300">
+		<span></span>
+	</a>
+	<p class="perex">Středoškolský pedagog, vedoucí v supermarketu nebo strojní mechanik. Lidé nejrůznějšího věku i povolání spojuje jedno: láska ke zbraním. „Jen o nás nic nepište, ať se to ještě víc nepokazí,“ zaznělo několikrát během šestiměsíční práce na tomto portrétu majitelů zbraní. Při tom na začátku stála...</p>
+	<div class="fc0"></div>
+</div>
+		
+	<div class="fc0"></div>
+</div>
+
+<div class="rubrika">
+	
+			<div class="art type-tr lnpv175">
+	<div class="title-h2">
+		<a title="Trapná jsem denně, takže mi nedělá problém si ze sebe udělat legraci, říká komička" href="https://www.lidovky.cz/lide/trapna-jsem-denne-takze-mi-nedela-problem-si-ze-sebe-udelat-legraci-rika-komicka.A181010_120125_lide_ape" onclick="pageTracker._trackEvent('shp_relax_c2_clanek-250','click');">Trapná jsem denně, takže mi nedělá problém si ze sebe udělat legraci, říká komička</a>
+	</div>
+	<a title="Trapná jsem denně, takže mi nedělá problém si ze sebe udělat legraci, říká komička" href="https://www.lidovky.cz/lide/trapna-jsem-denne-takze-mi-nedela-problem-si-ze-sebe-udelat-legraci-rika-komicka.A181010_120125_lide_ape" class="mark-video lnph250" onclick="pageTracker._trackEvent('shp_relax_c2_clanek-250','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnph250/APE7693e6_absolutka_adela_pavel_5.jpg" alt="Ad&#233;la Elbel | na serveru Lidovky.cz | aktuální zprávy" title="Trapná jsem denně, takže mi nedělá problém si ze sebe udělat legraci, říká komička" width="175" height="250">
+		<span></span>
+	</a>
+	<p class="perex">Spoluzaložila hudební duo Čokovoko, překládá z nizozemštiny a zároveň se živí jako stand-up komička, která se ale...</p>
+	<div class="fc0"></div>
+</div>
+		
+			<div class="art type-tr lnpv175">
+	<div class="title-h2">
+		<a title="Jak ohromit na rodinné oslavě? Připravte dušenou jehněčí plec podle šéfkuchaře Davida" href="https://www.lidovky.cz/relax/dobra-chut/jak-ohromit-na-rodinne-oslave-pripravte-dusenou-jehneci-plec-podle-sefkuchare-davida.A181010_121947_dobra-chut_ape" onclick="pageTracker._trackEvent('shp_relax_c3_clanek-250','click');">Jak ohromit na rodinné oslavě? Připravte dušenou jehněčí plec podle šéfkuchaře Davida</a>
+	</div>
+	<a title="Jak ohromit na rodinné oslavě? Připravte dušenou jehněčí plec podle šéfkuchaře Davida" href="https://www.lidovky.cz/relax/dobra-chut/jak-ohromit-na-rodinne-oslave-pripravte-dusenou-jehneci-plec-podle-sefkuchare-davida.A181010_121947_dobra-chut_ape" class="lnph250" onclick="pageTracker._trackEvent('shp_relax_c3_clanek-250','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnph250/APE769368_veranada.jpg" alt="Dušen&#225; jehněč&#237; plec s červen&#253;m v&#237;nem, kořenov&#225; zelenina s houbami, růžičkov&#225;... | na serveru Lidovky.cz | aktuální zprávy" title="Jak ohromit na rodinné oslavě? Připravte dušenou jehněčí plec podle šéfkuchaře Davida" width="175" height="250">
+		
+	</a>
+	<p class="perex">Na talířích se na podzim objevuje jehněčí čím dál tím častěji. Jak ho ale připravit tak, abyste ohromili návštěvu či...</p>
+	<div class="fc0"></div>
+</div>
+		
+	<div class="fc0"></div>
+</div>
+
+<div class="rubrika">
+	<div class="shp-box-b">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a title="Areál Klíny. Vyzkoušejte novou bobovou dráhu" href="https://www.lidovky.cz/cestovani/aktuality/kliny-vyzkousejte-novou-bobovou-drahu.A181009_103255_aktuality_ape" onclick="pageTracker._trackEvent('shp_relax_c5_clanek-250','click');">Areál Klíny. Vyzkoušejte novou bobovou dráhu</a>
+	</div>
+	<a title="Areál Klíny. Vyzkoušejte novou bobovou dráhu" href="https://www.lidovky.cz/cestovani/aktuality/kliny-vyzkousejte-novou-bobovou-drahu.A181009_103255_aktuality_ape" class="mark-video lnph250" onclick="pageTracker._trackEvent('shp_relax_c5_clanek-250','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/101/lnph250/APE768d5f_20180801_175107.jpg" alt="Horkou novinkou letošn&#237; sezony je na Kl&#237;nech bobov&#225; dr&#225;ha, kter&#225; je dlouh&#225;... | na serveru Lidovky.cz | aktuální zprávy" title="Areál Klíny. Vyzkoušejte novou bobovou dráhu" width="175" height="250">
+		<span></span>
+	</a>
+	<p class="perex">Klíny jsou letním sportovně-rodinným areálem, jehož nabídka letních...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="shp-box-a">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a href="https://www.lidovky.cz/relax/zdravi/lekari-by-meli-mit-prehled-o-vsech-lecich-predepsanych-pacientovi.A181010_115147_ln-zdravi_ape" title="Lékaři by měli mít přehled o všech lécích předepsaných pacientovi" onclick="pageTracker._trackEvent('shp_relax_c4_clanek-460','click');">Lékaři by měli mít přehled o všech lécích předepsaných pacientovi</a>
+	</div>
+	<a href="https://www.lidovky.cz/relax/zdravi/lekari-by-meli-mit-prehled-o-vsech-lecich-predepsanych-pacientovi.A181010_115147_ln-zdravi_ape" title="Lékaři by měli mít přehled o všech lécích předepsaných pacientovi" class="lnc460" onclick="pageTracker._trackEvent('shp_relax_c4_clanek-460','click');">
+		<img src="//1gr.cz/fotky/lidovky/17/023/lnc460/MEV3c8752_shutterstock_63842389.jpg" alt="L&#233;ky - ilustračn&#237; foto | na serveru Lidovky.cz | aktuální zprávy" title="Lékaři by měli mít přehled o všech lécích předepsaných pacientovi" width="460" height="300">
+		
+	</a>
+	<p class="perex">Lékaři a lékárníci by měli mít v budoucnu přehled o všech lécích, které má pacient předepsané. Počítá s tím návrh...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="fc0"></div>
+</div>
+
+<div class="rubrika">
+	<div class="shp-box-a">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a href="https://www.lidovky.cz/lide/soud-zrusil-jeden-z-sesti-bodu-obzaloby-proti-weinsteinovi-udajna-obet-pry-lhala.A181011_185608_lide_ele" title="Soud zrušil jeden z šesti bodů obžaloby proti Weinsteinovi, jedna z žen měla lhát pod přísahou" onclick="pageTracker._trackEvent('shp_relax_c6_clanek-460','click');">Soud zrušil jeden z šesti bodů obžaloby proti Weinsteinovi, jedna z žen měla lhát pod přísahou</a>
+	</div>
+	<a href="https://www.lidovky.cz/lide/soud-zrusil-jeden-z-sesti-bodu-obzaloby-proti-weinsteinovi-udajna-obet-pry-lhala.A181011_185608_lide_ele" title="Soud zrušil jeden z šesti bodů obžaloby proti Weinsteinovi, jedna z žen měla lhát pod přísahou" class="lnc460" onclick="pageTracker._trackEvent('shp_relax_c6_clanek-460','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/071/lnc460/FOR7462e0_74TOR321_PEOPLE_HARVEYWEINSTEIN_070.JPG" alt="Harvey Weinstein na cestě k soudu v New Yorku. | na serveru Lidovky.cz | aktuální zprávy" title="Soud zrušil jeden z šesti bodů obžaloby proti Weinsteinovi, jedna z žen měla lhát pod přísahou" width="460" height="300">
+		
+	</a>
+	<p class="perex">Newyorský soud ve čtvrtek zrušil jeden z šesti bodů obžaloby proti...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="shp-box-b">
+		
+				<div class="art">
+	<div class="title-h2">
+		<a title="CK Telegraf: 18 dní před založením Československa se za oceánem otřásla země" href="https://www.lidovky.cz/relax/zajimavosti/ck-telegraf-18-dni-pred-zalozenim-ceskoslovenska-se-za-oceanem-otrasla-zeme.A181011_154634_ln-zajimavosti_pev" onclick="pageTracker._trackEvent('shp_relax_c7_clanek-250','click');">CK Telegraf: 18 dní před založením Československa se za oceánem otřásla země</a>
+	</div>
+	<a title="CK Telegraf: 18 dní před založením Československa se za oceánem otřásla země" href="https://www.lidovky.cz/relax/zajimavosti/ck-telegraf-18-dni-pred-zalozenim-ceskoslovenska-se-za-oceanem-otrasla-zeme.A181011_154634_ln-zajimavosti_pev" class="lnph250" onclick="pageTracker._trackEvent('shp_relax_c7_clanek-250','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnph250/PEV7699d3_DV769583_portoriko.png" alt="Ničiv&#233; zemětřesen&#237; v Portoriku | na serveru Lidovky.cz | aktuální zprávy" title="CK Telegraf: 18 dní před založením Československa se za oceánem otřásla země" width="175" height="250">
+		
+	</a>
+	<p class="perex">Už jen na prstech všech končetin můžeme počítat dny zbývající do 100letého výročí od vyhlášení samostatného...</p>
+	<div class="fc0"></div>
+</div>
+			
+	</div>
+	<div class="fc0"></div>
+</div>
+								</div>
+								<div class="shp-box-c">
+									<div id="row-g-sticky">
+										<h3 class="heading advert"><span>KOMERČNÍ SDĚLENÍ</span></h3>
+										<div class="s-art-2 art">
+   <h3><a href="https://reality.idnes.cz/detail/prodej/dum/zdiby-tisova/5b96369aa26e3a337d047ef6/?ad=zabka#utm_source=sph.idnes&amp;utm_medium=richtext&amp;utm_content=sph-box" onmousedown="Log.link(this,'hypertext_sph2015_reality')">
+         Reality: Zdiby</a></h3><span class="midi block" style="background-image:url('//1gr.cz/data/selfboxy/Reality/img/5799eae3a705dc6ba9197adb6a554.jpg')"></span><p>Cena: <span class="price">7 950 000 Kč</span></p>
+</div><div class="s-art-2 art">
+   <h3><a href="https://www.jobdnes.cz/nabidky-prace?search-result-value=5bb60d0ba5ad955371499072&amp;do=search-result-setSelect&amp;track_campaign=idnes-sph&amp;fill=0#utm_source=sph.idnes&amp;utm_medium=richtext&amp;utm_content=sph-box&amp;track_campaign=idnes-sph" onmousedown="Log.link(this,'hypertext_sph2015_jobdnes')">
+         Zaměstnání: Asistent/ka - Praha - Zličín</a></h3><span class="midi block" style="background-image:url('https://data.idnes.cz/jobdnes/images/IndustryImages/small/3_Automobilový průmysl/prodejce-aut.jpg')"></span><p>B + R automatizace, spol. s r.o.</p>
+</div><div class="sme-art2">
+   <table>
+      <tbody>
+         <tr>
+            <td class="td-1" rowspan="2"><a href="https://www.automodul.cz/volvo-v90-d4-awd-inscription-rezervace-c1342985#utm_source=sph.idnes&amp;utm_medium=richtext&amp;utm_content=sph-box" onmousedown="Log.link(this,'hypertext_sph_automodul')"><span style="background-image:url('//1gr.cz/data/selfboxy/Automodul/img/1342985-80x60.jpg')" class="midi block"></span></a></td>
+            <td class="td-2" colspan="2">
+               <h3><a href="https://www.automodul.cz/volvo-v90-d4-awd-inscription-rezervace-c1342985#utm_source=sph.idnes&amp;utm_medium=richtext&amp;utm_content=sph-box" onmousedown="Log.link(this,'hypertext_sph_automodul')">
+                     						Auta: Volvo V90 D4 AWD INSCRIPTION REZERVACE</a></h3>
+            </td>
+         </tr>
+         <tr>
+            <td class="td-3">
+               <p>Ojeté za <span class="price">1 349 000 Kč</span></p>
+            </td>
+            <td class="ico-r"><a href="http://automodul.idnes.cz#utm_source=sph.idnes&amp;utm_medium=richtext&amp;utm_content=sph-box" class="ico-next" onmousedown="Log.link(this,'hypertext_sph_automodul')"><span></span> další auta
+                  				</a></td>
+         </tr>
+      </tbody>
+   </table>
+</div><div id='bmone2n-98.14.12.33'></div>
+									</div>
+									<script>Misc.sticky({ id: "row-g-sticky", end: "row-g-sticky-end", className: "fix-block" });</script>
+								</div>
+							</div>
+                            <div id="row-g-sticky-end" class="fc0"></div>
+							
+							<div class="row adrow" id="row-h">
+								<div class="heading"><span>REKLAMA</span></div>
+								<div class="half fl">
+									<div class="r-body">
+										<div id='bmone2n-17.1.27.33'></div>
+									</div>
+								</div>
+								<div class="half fr">
+									<div class="r-body">
+										<div id='bmone2n-17.1.26.33'></div>
+									</div>
+								</div>
+								<div class="fc0"></div>
+							</div>
+							
+							<div id="row-i" class="row">
+								<div class="shp-box-a">
+									<!--Cached--><h3 class="heading"><a href="https://www.lidovky.cz/nazory"><span>NÁZORY</span></a></h3>
+<div class="rubrika">
+	
+			<div class="art opinion">
+	<a title="Proč věci nemusí mít důvod – k odchodu Nikki Haleyové" href="https://www.lidovky.cz/monitor-jana-machacka/machacek-proc-veci-nemusi-mit-duvod-k-odchodu-nikki-haleyove.A181011_131720_monitor-jana-machacka_gib" onclick="pageTracker._trackEvent('shp_nazory_c2_komentar','click');">
+		<img width="140" height="115" src="//1gr.cz/data/lidovky/novinari/machacek-jan.png" title="Proč věci nemusí mít důvod – k odchodu Nikki Haleyové">
+	</a>
+	<div class="title-h2">
+		<a title="Proč věci nemusí mít důvod – k odchodu Nikki Haleyové" href="https://www.lidovky.cz/monitor-jana-machacka/machacek-proc-veci-nemusi-mit-duvod-k-odchodu-nikki-haleyove.A181011_131720_monitor-jana-machacka_gib" onclick="pageTracker._trackEvent('shp_nazory_c2_komentar','click');">Proč věci nemusí mít důvod – k odchodu Nikki Haleyové</a>
+	</div>
+	<p class="perex">Respektovaná americká velvyslankyně při OSN Nikki Haleyová překvapivě oznámila, že na tomto postu ke konci roku skončí...</p>
+	<div class="fc0"></div>
+	<div class="opinion-author">
+	Jan Macháček
+		
+	
+	</div>
+</div>
+		
+			<div class="art opinion">
+	<a title="Museum – Museum. Humbuk kolem stanic MHD zakrývá větší problémy" href="https://www.lidovky.cz/nazory/petracek-museum-museum-humbuk-kolem-stanic-mhd-zakryva-vetsi-problemy.A181010_220736_ln_nazory_ele" onclick="pageTracker._trackEvent('shp_nazory_c3_komentar','click');">
+		<img width="140" height="115" src="//1gr.cz/data/lidovky/novinari/petracek-zbynek.png" title="Museum – Museum. Humbuk kolem stanic MHD zakrývá větší problémy">
+	</a>
+	<div class="title-h2">
+		<a title="Museum – Museum. Humbuk kolem stanic MHD zakrývá větší problémy" href="https://www.lidovky.cz/nazory/petracek-museum-museum-humbuk-kolem-stanic-mhd-zakryva-vetsi-problemy.A181010_220736_ln_nazory_ele" onclick="pageTracker._trackEvent('shp_nazory_c3_komentar','click');">Museum – Museum. Humbuk kolem stanic MHD zakrývá větší problémy</a>
+	</div>
+	<p class="perex">Bourání a stavění pomníků, přejmenovávání letišť, ulic i stanic veřejné dopravy, to hýbe komunální politikou. Kdepak...</p>
+	<div class="fc0"></div>
+	<div class="opinion-author">
+	Zbyněk Petráček
+		
+	
+	</div>
+</div>
+		
+			<div class="art opinion">
+	<a title="Spitzenkandidat Maroš Šefčovič?" href="https://www.lidovky.cz/monitor-jana-machacka/machacek-spitzenkandidat-maros-sefcovic.A181010_131609_monitor-jana-machacka_pev" onclick="pageTracker._trackEvent('shp_nazory_c4_komentar','click');">
+		<img width="140" height="115" src="//1gr.cz/data/lidovky/novinari/machacek-jan.png" title="Spitzenkandidat Maroš Šefčovič?">
+	</a>
+	<div class="title-h2">
+		<a title="Spitzenkandidat Maroš Šefčovič?" href="https://www.lidovky.cz/monitor-jana-machacka/machacek-spitzenkandidat-maros-sefcovic.A181010_131609_monitor-jana-machacka_pev" onclick="pageTracker._trackEvent('shp_nazory_c4_komentar','click');">Spitzenkandidat Maroš Šefčovič?</a>
+	</div>
+	<p class="perex">Leckdo se vysmívá katastrofálním výsledkům ČSSD v obecních volbách, ale úpadek sociální demokracie je, jak známo,...</p>
+	<div class="fc0"></div>
+	<div class="opinion-author">
+	Jan Macháček
+		
+	
+	</div>
+</div>
+		
+</div>
+									<!--Cached--><h3 class="heading neviditelnypes"><a href="http://neviditelnypes.lidovky.cz"><span>NEVIDITELNÝ PES</span></a></h3>
+<div class="rubrika neviditelnypes">
+	
+			<div class="art">
+		<div class="title-h2">
+			<a href="http://neviditelnypes.lidovky.cz/svet-feministky-vs-smartphone-dzq-/p_zahranici.aspx?c=A181009_222138_p_zahranici_wag&" title="SVĚT: Feministky vs. smartphone" onclick="pageTracker._trackEvent('shp_ln5_hp_pes_neviditelny_c1_clanek-bez','click');">
+				SVĚT: Feministky vs. smartphone
+			</a>
+		</div>
+		
+		<a class="author" href="http://neviditelnypes.lidovky.cz/svet-feministky-vs-smartphone-dzq-/p_zahranici.aspx?c=A181009_222138_p_zahranici_wag&" title="SVĚT: Feministky vs. smartphone" onclick="pageTracker._trackEvent('shp_ln5_hp_pes_neviditelny_c1_autor','click');">Tomáš Zdechovský</a>
+		
+	</div>
+		
+			<div class="art">
+		<div class="title-h2">
+			<a href="http://neviditelnypes.lidovky.cz/politika-vstanou-novi-bojovnici-dov-/p_politika.aspx?c=A181011_175133_p_politika_wag&" title="POLITIKA: Vstanou noví bojovníci?" onclick="pageTracker._trackEvent('shp_ln5_hp_pes_neviditelny_c2_clanek-bez','click');">
+				POLITIKA: Vstanou noví bojovníci?
+			</a>
+		</div>
+		
+		<a class="author" href="http://neviditelnypes.lidovky.cz/politika-vstanou-novi-bojovnici-dov-/p_politika.aspx?c=A181011_175133_p_politika_wag&" title="POLITIKA: Vstanou noví bojovníci?" onclick="pageTracker._trackEvent('shp_ln5_hp_pes_neviditelny_c2_autor','click');">Tomáš Vodvářka</a>
+		
+	</div>
+		
+			<div class="art">
+		<div class="title-h2">
+			<a href="http://neviditelnypes.lidovky.cz/uzasny-projekt-eu-03d-/p_cirkus.aspx?c=A181011_223922_p_cirkus_nef&" title="Úžasný projekt EU" onclick="pageTracker._trackEvent('shp_ln5_hp_pes_neviditelny_c3_clanek-bez','click');">
+				Úžasný projekt EU
+			</a>
+		</div>
+		
+		<a class="author" href="http://neviditelnypes.lidovky.cz/uzasny-projekt-eu-03d-/p_cirkus.aspx?c=A181011_223922_p_cirkus_nef&" title="Úžasný projekt EU" onclick="pageTracker._trackEvent('shp_ln5_hp_pes_neviditelny_c3_autor','click');">Ondřej Neff</a>
+		
+	</div>
+		
+	<div class="fc0"></div>
+</div>
+								</div>
+								<div class="shp-box-bc">
+									<!--Cached--><h3 class="heading"><a href="https://www.lidovky.cz/video"><span>VIDEO</span></a></h3>
+<div id="video" class="galerie">
+	
+			<div class="art">
+	<a title="VIDEO: Chtěla si o prázdninách ve Skotsku vydělat na studia. Tobin ji pohřbil pod kostel a pak nad ní vydával jídlo" href="https://www.lidovky.cz/lide/chtela-si-o-prazdninach-ve-skotsku-vydelat-na-studia-studentku-pohrbil-pod-kostel-a-pak-nad-ni-vydaval-jidlo.A181002_002256_lide_gib" class="mark-video lnp175" onclick="pageTracker._trackEvent('shp_video_c1_clanek-175','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/101/lnp175/GIB7663a5_tobinhp.jpg" alt="Peter Tobin a dvě z jeho obět&#237; - Angelika Klukov&#225; a Dinah McNicolov&#225;. | na serveru Lidovky.cz | aktuální zprávy" title="VIDEO: Chtěla si o prázdninách ve Skotsku vydělat na studia. Tobin ji pohřbil pod kostel a pak nad ní vydával jídlo" width="175" height="100">
+		<span></span>
+	</a>
+	<div class="title-h2">
+		<a title="VIDEO: Chtěla si o prázdninách ve Skotsku vydělat na studia. Tobin ji pohřbil pod kostel a pak nad ní vydával jídlo" href="https://www.lidovky.cz/lide/chtela-si-o-prazdninach-ve-skotsku-vydelat-na-studia-studentku-pohrbil-pod-kostel-a-pak-nad-ni-vydaval-jidlo.A181002_002256_lide_gib" onclick="pageTracker._trackEvent('shp_video_c1_clanek-175','click');">VIDEO: Chtěla si o prázdninách ve Skotsku vydělat na studia. Tobin ji pohřbil pod kostel a pak nad ní vydával jídlo</a>
+	</div>
+	<div class="fc0"></div>
+</div>
+		
+			<div class="art">
+	<a title="VIDEO: Zabil ženy, děti i kněze. Čtyři táborníci se vrahovi věřícímu ve spiknutí hippies prý nabídli jako oběti" href="https://www.lidovky.cz/lide/vrazdil-zeny-deti-i-kneze-ctyri-tabornici-se-vrahovi-vericimu-ve-spiknuti-hippies-pry-nabidli-jako-obeti.A180917_235859_lide_gib" class="mark-video lnp175" onclick="pageTracker._trackEvent('shp_video_c2_clanek-175','click');">
+		<img src="//1gr.cz/fotky/lidovky/17/051/lnp175/GIB6afcc6_96herbert_williams_mullin_005_a_voz_.jpg" alt="Herbert Mullin se h&#225;jil „bož&#237;mi hlasy“. | na serveru Lidovky.cz | aktuální zprávy" title="VIDEO: Zabil ženy, děti i kněze. Čtyři táborníci se vrahovi věřícímu ve spiknutí hippies prý nabídli jako oběti" width="175" height="100">
+		<span></span>
+	</a>
+	<div class="title-h2">
+		<a title="VIDEO: Zabil ženy, děti i kněze. Čtyři táborníci se vrahovi věřícímu ve spiknutí hippies prý nabídli jako oběti" href="https://www.lidovky.cz/lide/vrazdil-zeny-deti-i-kneze-ctyri-tabornici-se-vrahovi-vericimu-ve-spiknuti-hippies-pry-nabidli-jako-obeti.A180917_235859_lide_gib" onclick="pageTracker._trackEvent('shp_video_c2_clanek-175','click');">VIDEO: Zabil ženy, děti i kněze. Čtyři táborníci se vrahovi věřícímu ve spiknutí hippies prý nabídli jako oběti</a>
+	</div>
+	<div class="fc0"></div>
+</div>
+		
+	<a class="galerie-next" href="https://www.lidovky.cz/video"></a>
+	<div class="fc0"></div>
+</div>
+<div class="fc0"></div>
+									<!--Cached--><h3 class="heading"><a href="http://ceskapozice.lidovky.cz/"><span>ČESKÁ POZICE</span></a></h3>
+<div id="ceskapozice">
+	
+			<div class="art type-tr lnp175">
+	<div class="title-h2">
+		<a title="DEBATA Jana Macháčka: Je jedno, je-li majitelem banky Čech" href="http://ceskapozice.lidovky.cz/debata-jana-machacka-je-jedno-je-li-majitelem-banky-cech-pfs-/debata-jana-machacka.aspx?c=A181011_095922_machackova-debata_houd&" onclick="pageTracker._trackEvent('shp_ln5_hp_ceskapozice_c1_clanek-175','click');">DEBATA Jana Macháčka: Je jedno, je-li majitelem banky Čech</a>
+	</div>
+	<a title="DEBATA Jana Macháčka: Je jedno, je-li majitelem banky Čech" href="http://ceskapozice.lidovky.cz/debata-jana-machacka-je-jedno-je-li-majitelem-banky-cech-pfs-/debata-jana-machacka.aspx?c=A181011_095922_machackova-debata_houd&" class="lnp175" onclick="pageTracker._trackEvent('shp_ln5_hp_ceskapozice_c1_clanek-175','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/102/lnp175/HOU76996d_machacekceskebanky.jpg" alt="Nastal čas na česk&#233; vlastn&#237;ky bank? | na serveru Lidovky.cz | aktuální zprávy" title="DEBATA Jana Macháčka: Je jedno, je-li majitelem banky Čech" width="175" height="100">
+		
+	</a>
+	<p class="perex">
+		Air Bank, Moneta a Home Creit se spojí do jednoho bankovního subjektu ovládaného skupinou PPF. Ta sice není českou...
+	</p>
+	<div class="fc0"></div>
+</div>
+		
+			<div class="art type-tr lnp175">
+	<div class="title-h2">
+		<a title="Poražený správce českého mýta se nevzdává. Zvažuje žalobu" href="http://ceskapozice.lidovky.cz/porazeny-spravce-ceskeho-myta-se-nevzdava-zvazuje-zalobu-p3z-/tema.aspx?c=A181004_173828_pozice-tema_lube&" onclick="pageTracker._trackEvent('shp_ln5_hp_ceskapozice_c2_clanek-175','click');">Poražený správce českého mýta se nevzdává. Zvažuje žalobu</a>
+	</div>
+	<a title="Poražený správce českého mýta se nevzdává. Zvažuje žalobu" href="http://ceskapozice.lidovky.cz/porazeny-spravce-ceskeho-myta-se-nevzdava-zvazuje-zalobu-p3z-/tema.aspx?c=A181004_173828_pozice-tema_lube&" class="lnp175" onclick="pageTracker._trackEvent('shp_ln5_hp_ceskapozice_c2_clanek-175','click');">
+		<img src="//1gr.cz/fotky/lidovky/18/042/lnp175/PKK729fd1_ilustracemyto.jpg" alt="Jak&#225; je budoucnost česk&#233;ho m&#253;ta? | na serveru Lidovky.cz | aktuální zprávy" title="Poražený správce českého mýta se nevzdává. Zvažuje žalobu" width="175" height="100">
+		
+	</a>
+	<p class="perex">
+		U českého mýta jde o hodně – ve hře je desetiletá zakázka za více než deset miliard korun. Dle firmy Kapsch, jež ho...
+	</p>
+	<div class="fc0"></div>
+</div>
+		
+			<div class="art type-tr lnp175">
+	<div class="title-h2">
+		<a title="Plzeňská právnická fakulta získala nazpět pozitivní perspektivu" href="http://ceskapozice.lidovky.cz/plzenska-pravnicka-fakulta-ziskala-nazpet-pozitivni-perspektivu-101-/tema.aspx?c=A181009_173843_pozice-tema_lube&" onclick="pageTracker._trackEvent('shp_ln5_hp_ceskapozice_c3_clanek-175','click');">Plzeňská právnická fakulta získala nazpět pozitivní perspektivu</a>
+	</div>
+	<a title="Plzeňská právnická fakulta získala nazpět pozitivní perspektivu" href="http://ceskapozice.lidovky.cz/plzenska-pravnicka-fakulta-ziskala-nazpet-pozitivni-perspektivu-101-/tema.aspx?c=A181009_173843_pozice-tema_lube&" class="lnp175" onclick="pageTracker._trackEvent('shp_ln5_hp_ceskapozice_c3_clanek-175','click');">
+		<img src="//1gr.cz/fotky/lidovky/12/021/lnp210/PTA40eb63_dekan.jpg" alt="Děkan pr&#225;vnick&#233; fakulty Jan Pauly.  | na serveru Lidovky.cz | aktuální zprávy" title="Plzeňská právnická fakulta získala nazpět pozitivní perspektivu" width="175" height="100">
+		
+	</a>
+	<p class="perex">
+		Devět let po plagiátorské aféře byla plzeňské právnické fakultě udělena dlouhodobá akreditace. „Škola je v normální...
+	</p>
+	<div class="fc0"></div>
+</div>
+		
+</div>
+<div class="fc0"></div>
+								</div>
+								<div class="fc0"></div>
+								<!-- INC: sph/box-ln-hp-idnes.htm -->
+<h3 class="heading"><a href="http://www.idnes.cz/" onmousedown="Log.link(this,'lidovky-hp-box-idnes')"><span>iDNES</span></a></h3><div id="idnes"><div class="art type-tr"><div class="title-h2"><a href="https://technet.idnes.cz/stanislav-petera-fotograf-armada-cr-vysadkovy-pluk-cina-foglar-rychle-sipy-164-/tec_foto.aspx?c=A181007_194929_tec_foto_kuz" onclick="pageTracker._trackEvent('shp_idnes_c1','click');">Jeho fotky jsou až neskutečně nádherné. Podívejte se, jak vznikají</a></div><a class="mark-video sp5" href="https://technet.idnes.cz/stanislav-petera-fotograf-armada-cr-vysadkovy-pluk-cina-foglar-rychle-sipy-164-/tec_foto.aspx?c=A181007_194929_tec_foto_kuz" onclick="pageTracker._trackEvent('shp_idnes_c1','click');"><img width="172" height="129" src="//1gr.cz/fotky/idnes/18/102/sph/KUZ76927b_vysadkari_vybuch_01.jpg" alt="Kalendář 43. výsadkového praporu - Nic nepotěší potápěče průzkumného týmu po..."></a><p class="perex">Jeho fotky výsadkářů z Chrudimi viděl téměř každý. Vypadají jako vystřižené z toho nejdražšího hollywoodského akčního trháku. Fotograf Stanislav Petera...</p><div class="fc0"></div></div><div class="art type-tr"><div class="title-h2"><a href="https://technet.idnes.cz/sedm-castych-lzi-mytu-a-omylu-o-prechodu-na-nove-televizni-vysilani-1py-/tec_video.aspx?c=A181009_225054_tec_video_nyv" onclick="pageTracker._trackEvent('shp_idnes_c2','click');">Sedm častých lží, mýtů a omylů o přechodu na nové televizní vysílání</a></div><a class="mark-video sp5" href="https://technet.idnes.cz/sedm-castych-lzi-mytu-a-omylu-o-prechodu-na-nove-televizni-vysilani-1py-/tec_video.aspx?c=A181009_225054_tec_video_nyv" onclick="pageTracker._trackEvent('shp_idnes_c2','click');"><img width="172" height="129" src="//1gr.cz/fotky/idnes/18/102/sph/NYV610451_dvbtmontaztv.jpg" alt="V roce 2020 budou mít sběrné dvory napilno."></a><p class="perex">Mnoho lidí se v blížící změně vysílacího standardu neorientuje, a tak se snadno může klamavou nabídkou či vychytralým obchodníkem nechat přesvědčit ke...</p><div class="fc0"></div></div></div>
+							</div>
+							<div id="row-j" class="row"><h3 class="heading"><a href="https://www.lidovky.cz/fotogalerie"><span>FOTOGALERIE</span></a></h3><div class="foto-wrap"><div id="foto-large"><a href="https://www.lidovky.cz/Fsojuz?url=https%3A%2F%2Fwww.lidovky.cz" onclick="pageTracker._trackEvent('shp_fotogalerie_foto','click');"><img width="705" height="460" src="//1gr.cz/fotky/lidovky/18/102/lnmaxi/MHA7698c6_BAI25_SPACE_STATION_LAUNCH_1011_11.JPG"><span>Loď Sojuz k ISS nedorazí. Kvůli havárii rakety musela nouzově přistát, posádka je v pořádku</span></a></div><div class="foto-galery"><div id="foto-list"><ul><li id="thumb-1"><img onclick="pageTracker._trackEvent('shp_fotogalerie_f1_nahled','click');" width="240" height="137" src="//1gr.cz/fotky/lidovky/18/102/lnbox1/MHA7698c6_BAI25_SPACE_STATION_LAUNCH_1011_11.JPG" rel="//1gr.cz/fotky/lidovky/18/102/lnmaxi/MHA7698c6_BAI25_SPACE_STATION_LAUNCH_1011_11.JPG" title="Loď Sojuz k ISS nedorazí. Kvůli havárii rakety musela nouzově přistát, posádka je v pořádku"><span class="hid">https://www.lidovky.cz/Fsojuz?url=https%3A%2F%2Fwww.lidovky.cz</span></li><li id="thumb-2"><img onclick="pageTracker._trackEvent('shp_fotogalerie_f2_nahled','click');" width="240" height="137" src="//1gr.cz/fotky/lidovky/18/102/lnbox1/ELE76940a_tor201_storm_michael_1009_11_1.jpg" rel="//1gr.cz/fotky/lidovky/18/102/lnmaxi/ELE76940a_tor201_storm_michael_1009_11_1.jpg" title="Na Floridu se řítí hurikán Michael. Má být nejničivější za poslední desetiletí"><span class="hid">https://www.lidovky.cz/Fhurikan_Michael?url=https%3A%2F%2Fwww.lidovky.cz</span></li><li id="thumb-3"><img onclick="pageTracker._trackEvent('shp_fotogalerie_f3_nahled','click');" width="240" height="137" src="//1gr.cz/fotky/lidovky/18/101/lnbox1/ELE768f18_104843_1048841.jpg" rel="//1gr.cz/fotky/lidovky/18/101/lnmaxi/ELE768f18_104843_1048841.jpg" title="Česko zažívá teplý a slunečný podzim"><span class="hid">https://www.lidovky.cz/FPocasi_podzim?url=https%3A%2F%2Fwww.lidovky.cz</span></li><li id="thumb-4"><img onclick="pageTracker._trackEvent('shp_fotogalerie_f4_nahled','click');" width="240" height="137" src="//1gr.cz/fotky/lidovky/18/101/lnbox1/FOR76832f_225232_6040102.jpg" rel="//1gr.cz/fotky/lidovky/18/101/lnmaxi/FOR76832f_225232_6040102.jpg" title="Politici ve volebních štábech slavili i zapíjeli neštěstí ve volbách"><span class="hid">https://www.lidovky.cz/Fvolebnistaby2018?url=https%3A%2F%2Fwww.lidovky.cz</span></li><li id="thumb-5"><img onclick="pageTracker._trackEvent('shp_fotogalerie_f5_nahled','click');" width="240" height="137" src="//1gr.cz/fotky/lidovky/18/101/lnbox1/ELE767903_192529_14406213.jpg" rel="//1gr.cz/fotky/lidovky/18/101/lnmaxi/ELE767903_192529_14406213.jpg" title="Jak v Praze chytali smrtelně jedovatou mambu"><span class="hid">https://www.lidovky.cz/Fmamba_lov?url=https%3A%2F%2Fwww.lidovky.cz</span></li><li id="thumb-6"><img onclick="pageTracker._trackEvent('shp_fotogalerie_f6_nahled','click');" width="240" height="137" src="//1gr.cz/fotky/lidovky/18/101/lnbox1/ELE76780e_143247_6826311.jpg" rel="//1gr.cz/fotky/lidovky/18/101/lnmaxi/ELE76780e_143247_6826311.jpg" title="Komunální a senátní volby 2018"><span class="hid">https://www.lidovky.cz/Fkomu_rijen?url=https%3A%2F%2Fwww.lidovky.cz</span></li></ul></div><div id="eyes-move-down" class="eyes-move-down" onclick="pageTracker._trackEvent('shp_fotogalerie_sipka','click');"></div><div id="eyes-move-up" class="eyes-move-up" onclick="pageTracker._trackEvent('shp_fotogalerie_sipka','click');"></div></div><div class="fc0"></div></div></div>
+							<a href="https://www.lidovky.cz/?setver=touch" class="btn-mobillink" rel="nofollow">PŘEJDĚTE NA MOBILNÍ VERZI</a>
+						</div>
+						<div id="footer">
+    
+	<p id="channels">
+        <a onclick="pageTracker._trackEvent('tf_servis-mobil','click');" title="Mobilní zprávy" href="https://www.lidovky.cz/?setver=touch" class="mobil">Mobilní zprávy</a>
+		<a onclick="pageTracker._trackEvent('tf_servis-zpravyemailem','click');" title="Zprávy e-mailem" href="https://www.lidovky.cz/ctenari/emailizace" class="mailem">Zprávy e-mailem</a>
+		<a onclick="pageTracker._trackEvent('tf_servis-kindle','click');" title="Zprávy do Kindlu" href="https://www.lidovky.cz/kindle.aspx" class="kindle">Zprávy do Kindlu</a>
+		<a onclick="pageTracker._trackEvent('tf_servis-rss','click');" title="RSS" href="https://www.lidovky.cz/rss.aspx" class="rss">RSS</a>
+        <br />
+        <a onclick="pageTracker._trackEvent('tf_servis-facebook','click');" title="Facebook" href="https://www.facebook.com/lidovky.cz" class="fb social"><span></span>Facebook</a>
+		<a onclick="pageTracker._trackEvent('tf_servis-twitter','click');" title="Twitter" href="https://twitter.com/lidovky" class="twitter social"><span></span>Twitter</a>
+        <a onclick="pageTracker._trackEvent('tf_servis-instagram','click');" title="Fecebook" href="https://www.instagram.com/lidovky/" class="instagram social"><span></span>Instagram</a>
+		<a onclick="pageTracker._trackEvent('tf_servis-viber','click');" title="Twitter" href="https://chats.viber.com/lidovky.cz" class="viber social"><span></span>Viber</a>
+	</p>
+	<p id="copy">
+		<a id="logoln-foot" href="https://www.lidovky.cz" title="Lidovky - zprávy z domova i ze světa">
+			<span>Lidovky.cz</span>
+		</a>
+		
+		&copy; 2018 MAFRA, a.s., ISSN 1213-1385 &copy; Copyright ČTK, Reuters. Publikování nebo šíření obsahu je zakázáno bez předchozího souhlasu. Provozovatelem serveru Lidovky.cz je MAFRA, a.s., se sídlem Praha 5, Karla Engliše 519/11, PSČ 150 00, IČ: 45313351, zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl B, vložka 1328. Vydavatelství MAFRA, a.s. je členem koncernu AGROFERT.
+		
+	</p>
+	<p id="ln-linky">
+		<a onclick="pageTracker._trackEvent('tf_menu-inzerce-lidovky','click');" title="Inzerce na Lidovky.cz" href="https://1gr.cz/data/soubory/mafraweb/A180726_RAVE_018_CENIK92018.PDF" target="_blank">Inzerce na Lidovky.cz</a>
+		<a onclick="pageTracker._trackEvent('tf_menu-inzerce-ln','click');" title="Inzerce v Lidových novinách" href="http://www.mafra.cz/cs/default.asp?y=mafra_all\cs_pro-inzerenty_lidove-noviny-s-magaziny.htm">Inzerce v Lidových novinách</a>
+		<a onclick="pageTracker._trackEvent('tf_menu-pracevmafra','click');" title="Práce" href="http://www.mafra.cz/volnamista/">Najděte si práci v MAFRA</a>
+		<a onclick="pageTracker._trackEvent('tf_menu-redakce','click');" title="Redakce" href="https://www.lidovky.cz/redakce/redakce-uvod.Iredakce_uvod#members">Redakce serveru Lidovky.cz a LN</a>
+		<a onclick="pageTracker._trackEvent('tf_menu-archiv','click');" href="https://www.lidovky.cz/archiv" title="Archiv zpráv zpravodajského serveru Lidovky.cz" class="cp">Archiv zpráv</a>
+		<a onclick="pageTracker._trackEvent('tf_menu-soukromi','click');" title="Soukromí" href="https://www.mafra.cz/soukromi">Soukromí</a>
+		<a onclick="pageTracker._trackEvent('tf_menu-mapavebu','click');" title="Mapa webu" href="https://www.lidovky.cz/mapa-stranek">Mapa webu</a>
+		<a onclick="pageTracker._trackEvent('tf_menu-kontakt','click');" href="https://www.lidovky.cz/redakce/redakce-uvod.Iredakce_uvod" title="Kontakt">Kontakt</a>
+	</p>
+	<img src="//1gr.cz/u/IWEB25.gif" class="iweb" />
+    <!-- lev.bruncvik@lidovky.cz -->
+</div>
+<script>
+    adbDetect=new function(n,t,e,r){function o(n){return n&&n.length||0}function i(){tn(),R(),e(function(){en?u():d()},U+D)}function c(){try{var t=n.localStorage;return t&&t.getItem("tmp"),t}catch(n){return Q(E,"localStorage err"),null}}function a(){function n(n){Q(f,"set mul",n);var t=c();t&&t.setItem(a,n)}function e(){if(t.head.io32)Q(f,"duplicity");else{t.head.io32=!0;var n=Math.random();if(Q(f,"loader "+n+" > "+u/100),n>u/100&&(Q(f,"skip"),!W))return!0;Q(f,"noskip")}}function r(n){var e=d.shift();if(e){e=S(e)+"?"+V,Q(f,"create css",e);var o=t.createElement("link");o.rel="stylesheet",o.type="text/css",o.onload=function(t){Q(f,"css ok",e),n(t)},o.onerror=function(t){Q(f,"css error",o),r(n)},o.href=e,t.body.appendChild(o)}else Q(f,"css end")}function o(t){var e=g("kuarrow"),r=getComputedStyle(e),o=r.backgroundImage;return n(r.zIndex),w(e),o}function i(n){var t=o(n),e=t&&t.match(/base64,([^"]+)"?\)/);if(e){Q(f,"call");var r=S(e[1]).split("HuGo")[1],i=new Function(r),c={multiple:u,hadAdblock:rn,hasAdblock:en,plugin:J,arrow:n.target.href.match(/\/\/([^/]+)/)[1],ver:"v0.1.560"};i.call(c)}}var a="kununu_mul",u=function(){var n=c();return n&&(n.getItem(a+"_f")||n.getItem(a))||5}(),f="[k]",d=["aHR0cHM6Ly9kM2V5ZDk2MXdpMTBibC5jbG91ZGZyb250Lm5ldC9jc3MvYXJyb3cuY3Nz","aHR0cHM6Ly9kMWRhZW9uYnFjcTBvaC5jbG91ZGZyb250Lm5ldC9jc3MvYXJyb3cuY3Nz","aHR0cHM6Ly90b2kuY2RuLmRvcGMuY3ovY3NzL2Fycm93LmNzcw=="];W&&(d=["L2Nzcy9hcnJvdy5jc3M=","L25vdC1mb3VuZA=="]),e()||r(i)}function u(){cn=en,fn&&un&&en&&un>fn&&(Q(E,"segment off:",un,fn),cn=!1),null!==on&&(Q(E,"adb force",on),cn=on),an(B()),Q(E,rn,"=>",cn),1===r.loader||(cn||cn!==rn)&&F(z),new a}function f(n){return t.cookie.indexOf(n)>-1}function d(){function n(){var t=K.pop();if(t){var r=t[0],i=t[1];l(r,function(){en=!1,u()},function(){0===o(K)?(en=!0,u()):n()},t[2]&&e,i)}}if(nn())u();else{var e=t.createElement("iframe");e.setAttribute("style","position:absolute;left:-20000px;width:1px;height:1px;"),t.body.appendChild(e),n()}}function l(n,e,r,o,i){if(n){i=i||"script";var c=t.createElement(i);c.onerror=function(t){Q(E,i,"err",n),r(c),w(c)},c.onload=function(t){Q(E,i,"loaded",n),e(c),w(c)},c.src=n,(o||t.body).appendChild(c)}}function s(){return Math.random().toString(36).replace(/[^a-z]+/g,"")}function m(n){var t=new Date;return t.setTime(t.getTime()+864e5*n),t.toUTCString()}function p(n){return location.hostname.split(".").slice(-n).join(".")}function b(n,t,e){var r="";N&&(r="domain=."+p(N)+";");var o=n+"=;expires="+m(-1)+";path=/;";v(o),v(o+"domain=."+location.hostname),v(o+"domain=."+p(2)),v(n+"="+t+"; "+r+" expires="+m(e||30)+"; path=/")}function v(n){t.cookie=n}function h(n,t){return Math.floor(Math.random()*(t-n+1))+n}function y(){if(!f(X+"=")){var n=h(9e3,9e10);b(P,n),b(X,s(),1/24),Q(P,n)}}function g(n,e){var r=t.createElement(e||"div");return n&&(r.id=n,r.className=n),(t.body||t.head).appendChild(r),r}function k(n){return!n.offsetParent}function Z(n){return!!k(n)&&(Q(E,"elem",n.id),en=!0,!0)}function Y(n,t){function r(){var n=Z(o);return w(o),n}var o=g(n);if(!t)return r();e(r,U)}function w(n){n.parentNode.removeChild(n)}function C(){return n.RTCPeerConnection||n.webkitRTCPeerConnection||""}function G(){var n=Object.getOwnPropertyDescriptor(Element.prototype,"shadowRoot");if(n&&-1===n.get.toString().indexOf("native code"))return"ABP";var t=C(),e=C().toString();return e.indexOf("WrappedRTCPeerConnection")>-1?"ABP":-1===e.indexOf(t.name)?"ABP":void 0}function L(){var n,e=t.querySelectorAll("head>style:empty");for(n=0;n<o(e);n++){var r=e[n],i=r&&r.sheet.cssRules;if(o(i)&&"display: none !important;"===i[0].style.cssText)return"uBlock"}}function M(){return J||G()||L()||null}function R(){J=M(),Q("plugin",J),x(!0)}function x(n){for(var t=0;t<o(dn);t++)if(Y(dn[t],n))return!0}function F(n){A("beforeunload",n)}function z(){cn?(Q("adb on"),b(T,1),b($,s()+_+s(),1),y()):(Q("adb off"),b(T,0,-1),b($,0,-1),b(P,0,-1),b(X,0,-1)),fn&&!un&&b(O,h(1,100),1)}function B(){return{had:rn,has:en,newState:cn,segment:un,enforce:on,plugin:J,ver:"v0.1.560"}}function H(){t.body?e(i,300):(Q("body wait"),e(H,200))}n.btoa;var S=n.atob,W=n[S("YWRiX2RlYnVn")],V=3,j=s(),I=t.createElement("iframe");t.head.appendChild(I);var A=I.contentWindow.addEventListener.bind(n);w(I);var N=2,T="adb",E="[d]",P="adb.key",X="_"+P,O="adb.segment",J=null,U=500,D=100,q=function(){},Q=f(S("dHMuZGVidWc9MQ=="))?console.log:q,_="ywrgapxnpq",$=function(){var n=t.cookie.match(new RegExp("([^ =;]+)=[a-z]*"+_+"[a-z]*(;|$)"));return n?(Q(E,"rand",n[1]),n[1]):s()}(),K=[[S("Ly9zay5hZG9jZWFuLnBsL2ZpbGVzL2pzL2Fkby5qcw=="),"script",!1],[S("Ly9nby5ldS5iYmVsZW1lbnRzLmNvbS9wbGVhc2UvY29kZQ=="),"script",!1],[S("Ly9jei5zZWFyY2guZXRhcmdldG5ldC5jb20v"),"script",!1]].sort(function(){return.5-Math.random()}).slice(0,2),nn=function(){return!1},tn=function(){},en=null,rn=f(T+"=1")||f($+"="+_),on=null,cn=null,an=q,un=function(){var n=t.cookie.match(new RegExp(O+"=(\\d+)"));return n&&Number(n[1])}(),fn=0,dn=(S("YmFubmVyIHNrbGlrIHJla2xhbXkgcHJvbW8tYm94IHNrbGlrUmVrbGFtYSBiYW5uZXItd3JhcHBlciBsZWFkZXIgYm1vbmUybiBhZHZfY29udGFpbmVyIGFkdnRvcA==")+S("YWZzX2FkcyBza2xpay1hZHMgc2tsaWstYWQgcmVrbGFtYSBldGFyZ2V0UmVrbGFtYSBBZFRvcA==")+"").split(" ");this.enforce=function(n){on=n},this.callback=function(n){an=n},this.percent=function(n){fn=n},this.info=B,1!==r.loader&&(function(){var t=n.onerror;n.onerror=function(n,e,r,o,i){return"string"==typeof n&&n.indexOf(j)>-1?(Q("ha"),!0):t instanceof Function?t(n,e,r,o,i):void 0}.bind()}(),function(){var n=Function.prototype.toString,t=n.bind;n.bind=function(e){if("injected"===e.name)throw J="ABP",n.bind=t,j;return t(e)},e(function(){n.bind=t},300)}()),H()}(window,document,setTimeout,this);
+</script>
+
+<script type="text/javascript" src="//1gr.cz/js/uni/paticka.js?rr=015"></script>
+	<script type="text/javascript" src="//1gr.cz/js/lidovky/ln5/make-links-https.js?rr=015"></script>
+	
+<link rel="preconnect" href="https://stats.g.doubleclick.net" />
+<link rel="preconnect" href="https://www.googleadservices.com" />
+<link rel="preconnect" href="https://bbcdn-bbnaut.ibillboard.com" />
+<link rel="preconnect" href="https://track.adform.net" />
+<link rel="preconnect" href="https://pixel.cpex.cz" />
+
+
+<div class="counters"><script>Ads.bmone2({28: "17.1.10.2",58: "17.1.11.3",11: "17.1.10.1",41: "17.1.25.33",42: "17.1.20.33",46: "98.14.12.33",43: "17.1.27.33",44: "17.1.26.33"});</script>
+<div id='bmone2t-17.1.10.2' style='display:none'><script>bmone2n.makeAd('17.1.10.2');</script></div>
+<div id='bmone2t-17.1.11.3' style='display:none'><script>bmone2n.makeAd('17.1.11.3');</script></div>
+<div id='bmone2t-17.1.10.1' style='display:none'><script>bmone2n.makeAd('17.1.10.1');</script></div>
+<div id='bmone2t-17.1.25.33' style='display:none'><script>bmone2n.makeAd('17.1.25.33');</script></div>
+<div id='bmone2t-17.1.20.33' style='display:none'><script>bmone2n.makeAd('17.1.20.33');</script></div>
+<div id='bmone2t-98.14.12.33' style='display:none'><script>bmone2n.makeAd('98.14.12.33');</script></div>
+<div id='bmone2t-17.1.27.33' style='display:none'><script>bmone2n.makeAd('17.1.27.33');</script></div>
+<div id='bmone2t-17.1.26.33' style='display:none'><script>bmone2n.makeAd('17.1.26.33');</script></div>
+<script>bmone2n.moveAd();</script>
+</div><script>
+                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                  ga('create', 'UA-12562358-1', '.lidovky.cz');
+                  ga('send', 'pageview');
+                  ga('create', 'UA-11837204-1', '.lidovky.cz', 'secondTracker');
+                  ga('secondTracker.send', 'pageview');
+                  var pageTracker = {
+                      _trackEvent: function (eventCategory, eventAction, eventValue, fieldsObject) {
+                          ga('send', 'event', eventCategory, eventAction, eventValue, fieldsObject);
+                      }
+                  }
+                  var secondTracker = {
+                      _trackEvent: function (eventCategory, eventAction, eventValue, fieldsObject) {
+                          ga('secondTracker.send', 'event', eventCategory, eventAction, eventValue, fieldsObject);
+                      }
+                  }</script>
+<!-- Analytics: lidovky -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P32XPT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P32XPT');</script>
+<!-- End Google Tag Manager -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

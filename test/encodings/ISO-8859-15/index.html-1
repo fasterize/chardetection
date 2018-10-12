@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1"/>
+<link rel="preload" href="https://e00-elmundo.uecdn.es/fonts/clearWeb/ClearSans-Bold-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://e00-elmundo.uecdn.es/fonts/clearWeb/ClearSans-Regular-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://e00-elmundo.uecdn.es/fonts/PTSerifWeb/pt_serif-web-regular-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://e00-elmundo.uecdn.es/fonts/PTSerifWeb/pt_serif-web-bolditalic-webfont.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" type="text/css" href="https://e00-elmundo.uecdn.es/assets/v11/css/core-portada-elmundo-desktop.css">
+<!--[if lte IE 9]>
+        <link href="https://e00-elmundo.uecdn.es/assets/v11/css/core-portada-elmundo-desktop-ie.css" media="all" rel="stylesheet" type="text/css"/>
+<![endif]--> <title data-ue-u="title" data-ue-c="innerHTML">EL MUNDO - Diario online líder de información en español </title>
+<script type='text/javascript'>var _sf_async_config=_sf_async_config||{};_sf_async_config.uid=52682;_sf_async_config.domain='elmundo.es';_sf_async_config.flickerControl=false;_sf_async_config.useCanonical=true;var _sf_startpt=(new Date()).getTime();</script><script src='//static.chartbeat.com/js/chartbeat_mab.js'></script>
+<meta name="description" content="Noticias, actualidad, álbumes, debates, sociedad, servicios, entretenimiento y última hora en España y el mundo"/>
+<meta name="keywords" content="elmundo, elmundo.es, El Mundo, Diario, periodico, periódico, noticias, España, Espana, internacional, economia, economía, dinero, opinion, ultimas noticias, deportes, sport, Madrid, politica, Cataluña, Catalunya, navegante, internet, Salud, Metropoli, Spain, daily, newspaper, news, breaking news, urgente, technology, tecnología, tiempo, weather, buscador"/>
+<meta name="date" content="2018-10-12T08:40:19+02:00"/>
+<meta name="robots" content="index,follow"/>
+<meta name="organization" content="Unidad Editorial Información General S.L.U."/>
+<meta name="theme-color" content="#2e6d9d">
+<!-- ##IBEXCLU --> <link rel="canonical" data-ue-c="href" data-ue-u="canonical" HREF="http://www.elmundo.es/"/>
+<link rel="publisher" href="https://plus.google.com/u/0/+elmundo"/>
+<!-- ##FBEXCLU --> <meta property="article:modified_time" content="2018-10-12T08:40:19+02:00"/>
+<meta property="article:section" content="Portada"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@elmundoes"/>
+<meta name="twitter:title" content="EL MUNDO - Diario online líder de información en español"/>
+<meta name="twitter:image" content="https://e00-elmundo.uecdn.es/assets/desktop/master/img/iconos/elmundo.png"/>
+<meta name="twitter:description" content="Noticias, actualidad, álbumes, debates, sociedad, servicios, entretenimiento y última hora en España y el mundo"/>
+<meta property="og:title" content="EL MUNDO - Diario online líder de información en español"/>
+<meta property="og:description" content="Noticias, actualidad, álbumes, debates, sociedad, servicios, entretenimiento y última hora en España y el mundo"/> <meta property="og:url" content="http://www.elmundo.es/"/> <meta property="og:type" content="website"/>
+<meta property="og:image" content="https://e00-elmundo.uecdn.es/assets/desktop/master/img/iconos/elmundo.png"/>
+<meta property="og:site_name" content="ELMUNDO"/>
+<meta property="fb:app_id" content="279395918757488"/>
+<meta property="fb:pages" content="10407631866"/>
+<link href="https://e00-elmundo.uecdn.es/rss/portada.xml" rel="alternate" type="application/rss+xml" title="RSS Portada"/> <link href="https://e00-elmundo.uecdn.es/favicon.ico" type="image/ico" rel="icon"/>
+<link href="https://e00-elmundo.uecdn.es/favicon.ico" type="image/ico" rel="shortcut icon"/>
+<link rel="apple-touch-icon-precomposed" href="https://e00-elmundo.uecdn.es/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://e00-elmundo.uecdn.es/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://e00-elmundo.uecdn.es/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://e00-elmundo.uecdn.es/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://e00-elmundo.uecdn.es/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://e00-elmundo.uecdn.es/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://e00-elmundo.uecdn.es/apple-touch-icon-152x152-precomposed.png">
+<script async=true src='https://e00-elmundo.uecdn.es/assets/uelogin/v1/ueLogin.5988e29b6ef1b7d87007.js' charset='utf-8'></script>
+<script src="https://e00-elmundo.uecdn.es/assets/v11/js/jquery.2.1.4.js" type="text/javascript"></script>
+<!--[if lte IE 9]>
+    <script type="text/javascript" src="https://e00-elmundo.uecdn.es/assets/desktop/master/js/jquery.ie8.js"></script>
+<![endif]--><!--[if lt IE 9]>
+    <script type="text/javascript" src="https://e00-elmundo.uecdn.es/assets/desktop/master/js/html5.js"></script>
+<![endif]--> <script type="text/javascript">var utilsEvent=new Event('cargaUtils');if(navigator.appName.indexOf('Microsoft Internet Explorer')===-1&&navigator.userAgent.indexOf('Trident')===-1){var event_youtube_player=new Event('YouTubeIframeAPIReady');};</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"http://www.elmundo.es","dateModified":"2018-10-12T08:40","image":"https://e00-elmundo.uecdn.es/assets/v11/img/elmundo-desktop-portada.png","potentialAction":{"@type":"SearchAction","target":"http://ariadna.elmundo.es/buscador/archivo.html?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="text/javascript" language="javascript" src="https://e00-ue.uecdn.es/cookies/js/policy_v3.js"></script>
+<script type="text/javascript" src="https://sdk.privacy-center.org/loader.js" data-key="03f1af55-a479-4c1f-891a-7481345171ce" id="spcloader" async></script>
+<script class="kxct" data-id="qk36wkwac" data-timing="async" data-version="1.9" type="didomi/javascript" data-vendor="c:krux">window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);(function(){var k=document.createElement('script');k.type='text/javascript';k.async=true;var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);k.src=/^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src)?src:src==="disable"?"":(location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=qk36wkwac";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);}())</script>
+<script type="text/javascript">!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js")</script>
+</head>
+<body class="portada-diario portada "><script>var gptadslots=[],googletag=googletag||{};googletag.cmd=googletag.cmd||[]</script>
+<script>(function(){var frm=document.createElement('script');frm.async=true;frm.type='text/javascript';var useSSL='https:'==document.location.protocol;frm.src=(useSSL?'https:':'http:')+'//e00-elmundo.uecdn.es/js/1475575201_elmundo.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(frm,node);})()</script>
+<div id="pixelcontabilizacionelmundo" class="pixelcontabilizacion" style="position:absolute;top:0px;left:0px;width:1px;height:1px;z-Index:1"><img src="https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2F%2Findex%2Ehtml&amp;s=elmundo&amp;d=W8BDF8CoF0oAAFNfLw0" width="1" height="1" alt="" /><script type="text/javascript">function DM_prepClient(csid,client){var cat=document.location.href.split('/');url_section=cat[6];client.DM_addEncToLoc("as_section",url_section);}</script></div>
+<img style="display:none;position:absolute;top:0px;left:0px;width:1px;height:1px;z-Index:1" Src="//www.elmundo.es/ue-cdn/services/cdn_cookie_service.html" alt="">
+
+<script type="text/javascript">
+(function() {
+function getCookie(name){var re=new RegExp(name+"=([^;]+)");var value=re.exec(document.cookie);return(value!=null)?unescape(value[1]):null;}
+!function(n){"use strict";function t(n,t){var r=(65535&n)+(65535&t);return(n>>16)+(t>>16)+(r>>16)<<16|65535&r}function r(n,t){return n<<t|n>>>32-t}function e(n,e,o,u,c,f){return t(r(t(t(e,n),t(u,f)),c),o)}function o(n,t,r,o,u,c,f){return e(t&r|~t&o,n,t,u,c,f)}function u(n,t,r,o,u,c,f){return e(t&o|r&~o,n,t,u,c,f)}function c(n,t,r,o,u,c,f){return e(t^r^o,n,t,u,c,f)}function f(n,t,r,o,u,c,f){return e(r^(t|~o),n,t,u,c,f)}function i(n,r){n[r>>5]|=128<<r%32,n[14+(r+64>>>9<<4)]=r;var e,i,a,d,h,l=1732584193,g=-271733879,v=-1732584194,m=271733878;for(e=0;e<n.length;e+=16)i=l,a=g,d=v,h=m,g=f(g=f(g=f(g=f(g=c(g=c(g=c(g=c(g=u(g=u(g=u(g=u(g=o(g=o(g=o(g=o(g,v=o(v,m=o(m,l=o(l,g,v,m,n[e],7,-680876936),g,v,n[e+1],12,-389564586),l,g,n[e+2],17,606105819),m,l,n[e+3],22,-1044525330),v=o(v,m=o(m,l=o(l,g,v,m,n[e+4],7,-176418897),g,v,n[e+5],12,1200080426),l,g,n[e+6],17,-1473231341),m,l,n[e+7],22,-45705983),v=o(v,m=o(m,l=o(l,g,v,m,n[e+8],7,1770035416),g,v,n[e+9],12,-1958414417),l,g,n[e+10],17,-42063),m,l,n[e+11],22,-1990404162),v=o(v,m=o(m,l=o(l,g,v,m,n[e+12],7,1804603682),g,v,n[e+13],12,-40341101),l,g,n[e+14],17,-1502002290),m,l,n[e+15],22,1236535329),v=u(v,m=u(m,l=u(l,g,v,m,n[e+1],5,-165796510),g,v,n[e+6],9,-1069501632),l,g,n[e+11],14,643717713),m,l,n[e],20,-373897302),v=u(v,m=u(m,l=u(l,g,v,m,n[e+5],5,-701558691),g,v,n[e+10],9,38016083),l,g,n[e+15],14,-660478335),m,l,n[e+4],20,-405537848),v=u(v,m=u(m,l=u(l,g,v,m,n[e+9],5,568446438),g,v,n[e+14],9,-1019803690),l,g,n[e+3],14,-187363961),m,l,n[e+8],20,1163531501),v=u(v,m=u(m,l=u(l,g,v,m,n[e+13],5,-1444681467),g,v,n[e+2],9,-51403784),l,g,n[e+7],14,1735328473),m,l,n[e+12],20,-1926607734),v=c(v,m=c(m,l=c(l,g,v,m,n[e+5],4,-378558),g,v,n[e+8],11,-2022574463),l,g,n[e+11],16,1839030562),m,l,n[e+14],23,-35309556),v=c(v,m=c(m,l=c(l,g,v,m,n[e+1],4,-1530992060),g,v,n[e+4],11,1272893353),l,g,n[e+7],16,-155497632),m,l,n[e+10],23,-1094730640),v=c(v,m=c(m,l=c(l,g,v,m,n[e+13],4,681279174),g,v,n[e],11,-358537222),l,g,n[e+3],16,-722521979),m,l,n[e+6],23,76029189),v=c(v,m=c(m,l=c(l,g,v,m,n[e+9],4,-640364487),g,v,n[e+12],11,-421815835),l,g,n[e+15],16,530742520),m,l,n[e+2],23,-995338651),v=f(v,m=f(m,l=f(l,g,v,m,n[e],6,-198630844),g,v,n[e+7],10,1126891415),l,g,n[e+14],15,-1416354905),m,l,n[e+5],21,-57434055),v=f(v,m=f(m,l=f(l,g,v,m,n[e+12],6,1700485571),g,v,n[e+3],10,-1894986606),l,g,n[e+10],15,-1051523),m,l,n[e+1],21,-2054922799),v=f(v,m=f(m,l=f(l,g,v,m,n[e+8],6,1873313359),g,v,n[e+15],10,-30611744),l,g,n[e+6],15,-1560198380),m,l,n[e+13],21,1309151649),v=f(v,m=f(m,l=f(l,g,v,m,n[e+4],6,-145523070),g,v,n[e+11],10,-1120210379),l,g,n[e+2],15,718787259),m,l,n[e+9],21,-343485551),l=t(l,i),g=t(g,a),v=t(v,d),m=t(m,h);return[l,g,v,m]}function a(n){var t,r="",e=32*n.length;for(t=0;t<e;t+=8)r+=String.fromCharCode(n[t>>5]>>>t%32&255);return r}function d(n){var t,r=[];for(r[(n.length>>2)-1]=void 0,t=0;t<r.length;t+=1)r[t]=0;var e=8*n.length;for(t=0;t<e;t+=8)r[t>>5]|=(255&n.charCodeAt(t/8))<<t%32;return r}function h(n){return a(i(d(n),8*n.length))}function l(n,t){var r,e,o=d(n),u=[],c=[];for(u[15]=c[15]=void 0,o.length>16&&(o=i(o,8*n.length)),r=0;r<16;r+=1)u[r]=909522486^o[r],c[r]=1549556828^o[r];return e=i(u.concat(d(t)),512+8*t.length),a(i(c.concat(e),640))}function g(n){var t,r,e="";for(r=0;r<n.length;r+=1)t=n.charCodeAt(r),e+="0123456789abcdef".charAt(t>>>4&15)+"0123456789abcdef".charAt(15&t);return e}function v(n){return unescape(encodeURIComponent(n))}function m(n){return h(v(n))}function p(n){return g(m(n))}function s(n,t){return l(v(n),v(t))}function C(n,t){return g(s(n,t))}function A(n,t,r){return t?r?s(t,n):C(t,n):r?m(n):p(n)}"function"==typeof define&&define.amd?define(function(){return A}):"object"==typeof module&&module.exports?module.exports=A:n.md5=A}(this);
+var tsOld = 0;
+var tsNew = 0;
+if (typeof(Storage) !== "undefined") {
+	tsOld = new Date(localStorage.getItem('dmpue_m_ueseg') == null? 0 : parseInt(localStorage.getItem('dmpue_m_ueseg')));
+	tsNew = new Date();
+}
+var ueseg=getCookie("UESeg");
+if ((tsNew.getTime()-tsOld.getTime())>86400000||ueseg===null||ueseg.split("|")[2]=== "null") {
+	var p = 'elmundo.es';
+	var t = (new Date()).getTime().toString();
+	var s_fid = getCookie('s_fid');
+	var f = md5(p + t + s_fid + 'cookie de segmentacion');
+	(new Image()).src = '//s.el-mundo.net/e.gif?p='+p+'&t='+t+'&s_fid='+s_fid+'&f='+f;
+	if (typeof(Storage) !== "undefined") localStorage.setItem('dmpue_m_ueseg', (Date.now()).toString());
+}
+})();
+</script>
+<script>var nav_continua_active=true;</script>
+<script type="text/javascript">!function(t){var e;"undefined"!=typeof window?e=window:"undefined"!=typeof self&&(e=self),e.lazyload=t()}(function(){return function t(e,n,r){function o(u,c){if(!n[u]){if(!e[u]){var f="function"==typeof require&&require;if(!c&&f)return f(u,!0);if(i)return i(u,!0);var a=new Error("Cannot find module '"+u+"'");throw a.code="MODULE_NOT_FOUND",a}var l=n[u]={exports:{}};e[u][0].call(l.exports,function(t){var n=e[u][1][t];return o(n?n:t)},l,l.exports,t,e,n,r)}return n[u].exports}for(var i="function"==typeof require&&require,u=0;u<r.length;u++)o(r[u]);return o}({1:[function(t,e,n){(function(n){function r(t){-1===c.call(a,t)&&a.push(t)}function o(t){function e(t){var e=n(t);e&&(t.src=e),t.setAttribute("data-lzled",!0),i[c.call(i,t)]=null}function n(e){return"function"==typeof t.src?t.src(e):e.getAttribute(t.src)}function o(n){d&&n.classList.add(t.deprecated),n.onload=null,n.removeAttribute("onload"),n.onerror=null,n.removeAttribute("onerror"),-1===c.call(i,n)&&f(n,t,e)}t=u({offset:1048,src:"data-src",container:!1,deprecated:"force-size"},t||{}),"string"==typeof t.src&&r(t.src);var i=[];return o}function i(t){var e="HTML"+t+"Element";if(e in n!=!1){var r=n[e].prototype.getAttribute;n[e].prototype.getAttribute=function(t){if("src"===t){for(var e,n=0,o=a.length;o>n&&!(e=r.call(this,a[n]));n++);return e||r.call(this,t)}return r.call(this,t)}}}function u(t,e){for(var n in t)void 0===e[n]&&(e[n]=t[n]);return e}function c(t){for(var e=this.length;e--&&this[e]!==t;);return e}e.exports=o;var f=t("in-viewport"),a=["data-src"],l=function(){var t=navigator.userAgent,e=/like android/i.test(t),n=function(e){var n=t.match(e);return n&&n.length>1&&n[1]||""},r={};return r.device=/tablet/i.test(t)||/[^-]mobi/i.test(t),r.chrome=/CrOS|chrome|crios|crmo/i.test(t),r.android=!e&&/android/i.test(t),r.osVersion=r.android&&n(/android[ \/-](\d+(\.\d+)*)/i),r.version=n(/version\/(\d+(\.\d+)?)/i),r.device&&!r.chrome&&r.android&&parseFloat(r.osVersion)<4.4&&parseInt(r.version)<=4},d=l();n.lzld=o(),i("Image"),i("IFrame")}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{"in-viewport":2}],2:[function(t,e,n){(function(t){function n(e,n,r){var o={container:t.document.body,offset:0};(void 0===n||"function"==typeof n)&&(r=n,n={});for(var u=o.container=n.container||o.container,c=o.offset=n.offset||o.offset,a=0;a<f.length;a++)if(f[a].container===u)return f[a].isInViewport(e,c,r);return f[f.push(i(u))-1].isInViewport(e,c,r)}function r(t,e,n){t.attachEvent?t.attachEvent("on"+e,n):t.addEventListener(e,n,!1)}function o(t,e,n){var r;return function(){function o(){r=null,n||t.apply(i,u)}var i=this,u=arguments,c=n&&!r;clearTimeout(r),r=setTimeout(o,e),c&&t.apply(i,u)}}function i(e){function n(t,e,n){if(!n)return d(t,e);var r=i(t,e,n);return r.watch(),r}function i(t,e,n){function r(){s.add(t,e,n)}function o(){s.remove(t)}return{watch:r,dispose:o}}function f(t,e,n){d(t,e)&&(s.remove(t),n(t))}function d(n,r){if(!l(t.document.documentElement,n)||!l(t.document.documentElement,e))return!1;if(!n.offsetWidth||!n.offsetHeight)return!1;var o=n.getBoundingClientRect(),i={};if(e===t.document.body)i={top:-r,left:-r,right:t.document.documentElement.clientWidth+r,bottom:t.document.documentElement.clientHeight+r};else{var u=e.getBoundingClientRect();i={top:u.top-r,left:u.left-r,right:u.right+r,bottom:u.bottom+r}}var c=o.right>=i.left&&o.left<=i.right&&o.bottom>=i.top&&o.top<=i.bottom;return c}var s=u(),p=e===t.document.body?t:e,v=o(s.checkAll(f),15);return r(p,"scroll",v),p===t&&r(t,"resize",v),a&&c(s,e,v),setInterval(v,150),{container:e,isInViewport:n}}function u(){function t(t,e,n){r(t)||i.push([t,e,n])}function e(t){var e=n(t);-1!==e&&i.splice(e,1)}function n(t){for(var e=i.length-1;e>=0;e--)if(i[e][0]===t)return e;return-1}function r(t){return-1!==n(t)}function o(t){return function(){for(var e=i.length-1;e>=0;e--)t.apply(this,i[e])}}var i=[];return{add:t,remove:e,isWatched:r,checkAll:o}}function c(t,e,n){function r(t){t.some(o)===!0&&setTimeout(n,0)}function o(e){var n=c.call([],Array.prototype.slice.call(e.addedNodes),e.target);return u.call(n,t.isWatched).length>0}var i=new MutationObserver(r),u=Array.prototype.filter,c=Array.prototype.concat;i.observe(e,{childList:!0,subtree:!0,attributes:!0})}e.exports=n;var f=[],a="function"==typeof t.MutationObserver,l=t.document.documentElement.compareDocumentPosition?function(t,e){return!!(16&t.compareDocumentPosition(e))}:t.document.documentElement.contains?function(t,e){return t!==e&&(t.contains?t.contains(e):!1)}:function(t,e){for(;e=e.parentNode;)if(e===t)return!0;return!1}}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}]},{},[1])(1)});</script>
+<script>lazyload({offset:1048,'deprecated':'force-size'});</script>
+<script type="text/javascript">var sectionMainMenuActive='default';var uniqueCtId='526feae561fd3d3c3f8b4578';var activeUeNavigation=true;</script><script type="text/javascript">var uePages=[{"url":"http://www.elmundo.es/espana.html","titulo":"España"},{"url":"http://www.elmundo.es/economia.html","titulo":"Economía"},{"url":"http://www.elmundo.es/internacional.html","titulo":"Internacional"},{"url":"http://www.elmundo.es/loc.html","titulo":"LOC"},{"url":"http://www.elmundo.es/cultura.html","titulo":"Cultura"},{"url":"http://www.elmundo.es/yodona.html","titulo":"Yo Dona"},{"url":"http://www.elmundo.es/television.html","titulo":"Televisión"},{"url":"http://www.elmundo.es/ciencia-y-salud.html","titulo":"Ciencia y Salud"},{"url":"http://www.elmundo.es/motor.html","titulo":"Motor"},{"url":"http://www.elmundo.es/tecnologia.html","titulo":"Tecnología"},{"url":"http://www.elmundo.es/canales.html","titulo":"Canales"}];</script>
+<script type="text/javascript">var cookieList=document.cookie.split(';');cookieList.forEach(function(item){if(typeof item=="string"&&item.indexOf("REGMUNDO")!=-1){var ifr_seed=document.createElement("iframe");ifr_seed.src="https://5214106.fls.doubleclick.net/activityi;src=5214106;type=corp;cat=regis00;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord="+Math.random()*1000000000000+"?";ifr_seed.width="1";ifr_seed.height="1";ifr_seed.style.display="none";ifr_seed.setAttribute("frameborder","0");var node=document.body.getElementsByTagName("script")[0];node.parentNode.insertBefore(ifr_seed,node);}});</script>
+<noscript>
+<iframe src="https://5214106.fls.doubleclick.net/activityi;src=5214106;type=corp;cat=regis00;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<script type="text/javascript">
+
+    var gptIsDisableInitialLoad = true;
+    var IsAPSEnabled = true;
+
+    
+window.Adomik = window.Adomik || {};
+Adomik.randomAdGroup = function() {
+    var rand = Math.random();
+    switch (false) {
+        case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));
+        case !(rand < 0.10): return "ad_bc";
+        default: return "ad_opt";
+    }
+};
+
+window.ueUserContentGoogle = (function() {
+    if (!window || !window.ueCookiesPolicy || typeof window.ueCookiesPolicy.isAccepted != 'function') {
+        console.warn('Module ueCookiesPolicy not exists.')
+        return false
+    }
+    var googleAccepted =  ueCookiesPolicy.isAccepted({vendors: 'google'})
+    if(googleAccepted === null) { googleAccepted = undefined }
+    return googleAccepted
+}());
+var data = {"networkId":"99071977","divId":"div-gpt-ad-portada","customTargeting":{},"adSlots":[{"adUnit":"mun/portada","customTargeting":{"p":["f"]}},{"adUnit":"mun/portada","sizes":[[728,90],[728,250],[970,90],[970,250],[970,375],[980,90],[980,180],[980,200],[980,220],[980,250],[990,305],[990,90],[990,200],[990,250],[1029,90],[1029,250],[1,1]],"customTargeting":{"p":["m"]}},{"adUnit":"mun/portada","sizes":[[300,250],[300,300],[300,600],[1,1]],"customTargeting":{"p":["r"]}},{"adUnit":"mun/portada","sizes":[[300,250],[300,300],[1,1]],"customTargeting":{"p":["rb"]}},{"adUnit":"mun/portada","sizes":[[120,800],[120,1000],[160,600],[160,1000],[450,1000],[1,1]],"customTargeting":{"p":["si"]}},{"adUnit":"mun/portada","sizes":[[120,801],[120,1001],[160,600],[160,1001],[450,1001],[1,1]],"customTargeting":{"p":["sd"]}},{"adUnit":"mun/portada","sizes":[[300,250],[300,300],[300,600],[1,1]],"customTargeting":{"p":["rc"]}},{"adUnit":"mun/portada","sizes":[[300,100],[1,1]],"customTargeting":{"p":["b300x100"]}},{"adUnit":"mun/portada","sizes":[[300,100],[1,1]],"customTargeting":{"p":["b300x100b"]}},{"adUnit":"mun/portada","sizes":[[300,100],[1,1]],"customTargeting":{"p":["b300x100c"]}},{"adUnit":"mun/portada","sizes":[[300,300],[1,1]],"customTargeting":{"p":["nata"]}},
+{"adUnit":"mun/portada","sizes":[[728,90],[980,50],[980,181],[980,201],[990,50],[990,90],[990,181],[990,201],[1,1]],"customTargeting":{"p":["c990x50_320x53"]}},
+{"adUnit":"mun/portada","sizes":[[300,250],[300,300],[300,600],[1,1]],"customTargeting":{"p":["rd"]}}]};
+    googletag.cmd.push(function () {
+        data.customTargeting.t = ['portada-diario'];
+data.customTargeting.tag = ['portada'];
+data.customTargeting.referer = ['home'];
+data.customTargeting.newsid = ['526feae561fd3d3c3f8b4578'];
+
+(function() {
+function getCookie(name){var re=new RegExp(name+"=([^;]+)");var value=re.exec(document.cookie);return(value!=null)?unescape(value[1]):null;}
+var ueseg=getCookie("UESeg");
+if(typeof(data)=="object")
+if(typeof(data.customTargeting)=="object")
+if(ueseg!==null){
+	var ueseg_v=ueseg.split("|");
+	if (ueseg_v.length >= 3) data.customTargeting.ueid = [ueseg_v[2]];
+} else {
+	data.customTargeting.ueid = 'NoUESeg';
+}
+})();
+
+window["ueDFPData"] = data;
+
+function kruxretrieve(n) {
+    var m, k = 'kxunidad_' + n;
+    if (window.localStorage) {
+        return window.localStorage[k] || '';
+    } else if (navigator.cookieEnabled) {
+        m = document.cookie.match(k + '=([^;]*)');
+        return (m && unescape(m[1])) || '';
+    } else {
+        return '';
+    }
+}
+
+data.customTargeting.kuid = 'NoDefinido';
+data.customTargeting.ksegs = 'NoDefinido';
+var kuser = kruxretrieve('user');
+if (kuser) {
+    data.customTargeting.kuid = kuser;
+}
+var ksegments = kruxretrieve('segs');
+if (ksegments) {
+    data.customTargeting.ksegs = ksegments.split(',');
+}
+
+var divId = '';
+data.adSlots.forEach(function(adSlot) {
+    var adUnit = adSlot.adUnit ? adSlot.adUnit : data.adUnit;
+    var slot;
+    divId = data.divId + '_' + adSlot.customTargeting.p.join('_');
+    divId += '_' + '526feae561fd3d3c3f8b4578'
+    adSlot.divId = divId;
+    adUnit = '/' + data.networkId + '/' + adUnit;
+    if (adSlot.sizes) {
+        slot = googletag.defineSlot(adUnit, adSlot.sizes, adSlot.divId);
+    } else {
+        slot = googletag.defineOutOfPageSlot(adUnit, adSlot.divId);
+    }
+
+    for (var key in adSlot.customTargeting) {
+        if (adSlot.customTargeting.hasOwnProperty(key)) {
+            slot.setTargeting(key, adSlot.customTargeting[key]);
+        }
+    }
+	
+    if (typeof Adomik !== 'undefined') {
+		slot.setTargeting('ad_group', Adomik.randomAdGroup());
+    }
+	
+    slot.addService(googletag.pubads());
+});
+
+if ((typeof DisableenableSingleRequest === 'undefined') || !DisableenableSingleRequest) {
+    googletag.pubads().enableSingleRequest();
+}
+
+for (var key in data.customTargeting) {
+    if (data.customTargeting.hasOwnProperty(key)) {
+        googletag.pubads().setTargeting(key, data.customTargeting[key]);
+    }
+}
+
+googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+    var count = 0;
+    var interval = setInterval(function() {
+        count++;
+        if (event && event.slot) {
+            jQuery(window).trigger('slotRendered', {
+                "slotId": event.slot.getSlotElementId(),
+                "intervalId": interval
+            });
+            var container = jQuery("#" + event.slot.getSlotElementId());
+            container.attr("style", "height:" + container.height() + "px;");
+        }
+        if (count > 9) {
+            clearInterval(interval);
+        }
+    }, 500);
+});
+
+googletag.pubads().enableAsyncRendering();
+if (((typeof gptIsDisableInitialLoad !== 'undefined') && gptIsDisableInitialLoad) || (typeof IsAPSEnabled !== 'undefined' && IsAPSEnabled)) {
+    googletag.pubads().disableInitialLoad();
+}
+
+if (window.ueUserContentGoogle !== undefined) {
+    if (window.ueUserContentGoogle === true) {
+        googletag.pubads().setRequestNonPersonalizedAds(0);
+    } else {
+        googletag.pubads().setRequestNonPersonalizedAds(1);
+    }
+} else {
+    googletag.pubads().disableInitialLoad();
+}
+if (typeof pbjs !== 'undefined') {
+    pbjs.que.push(function() {
+        pbjs.setTargetingForGPTAsync();
+    });
+}
+googletag.enableServices();
+    });
+	
+	googletag.cmd.push(function() {
+		var id, sky;
+		googletag.pubads().addEventListener('slotRenderEnded', function(e) {
+		try {
+		if (!id) {
+		sky = document.querySelector('.ad-item-si.js-sky').children[0];
+		id = sky.id;
+		}
+		if (id && e.slot.getSlotElementId() === id) {
+		var width = e.size[0];
+		setTimeout(function (){sky.style.width = width + 'px'},1e3);
+		}
+		}
+		catch(e) {}
+		});
+	}); 
+	
+    function amz() {
+    var ueConsentData = localStorage.getItem('ueConsentData');
+    apstag.init({
+        pubID: '3537',
+        adServer: 'googletag',
+        bidTimeout: 1e3,
+        gdpr: {
+            enabled: Boolean(ueConsentData),
+            consent: ueConsentData
+        }
+    });
+
+    var aps_data = {slots:[]};
+    googletag.destroySlots(googletag.pubads().getSlots().filter(function(x){ return !(x.getSlotElementId() in window)}));
+    googletag.pubads().getSlots().forEach(function(adSlot, i) {
+        var sizes = adSlot.getSizes();
+        if (sizes.length > 0) {
+            sizes = sizes.map(function(adSlotSize) {
+                    return [adSlotSize.getWidth(), adSlotSize.getHeight()];
+                })
+                .filter(function(size) {
+                    return (size[0] !== 1) && (size[1] !== 1);
+                });
+            if (sizes.length > 0) {
+                aps_data.slots.push({
+                    slotID: adSlot.getSlotElementId(),
+                    slotName: adSlot.getAdUnitPath(),
+                    sizes: sizes
+                });
+            }
+        }
+    });
+    apstag.fetchBids(aps_data, function(bids) {
+        googletag.cmd.push(function() {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+}
+amz = (function(amz) {
+    var DOMContentLoadedReady = false;
+    window.addEventListener('DOMContentLoaded', function() {
+        DOMContentLoadedReady = true;
+    });
+    return function() {
+        DOMContentLoadedReady ? amz() : window.addEventListener('DOMContentLoaded', amz)
+    };
+})(amz);
+if (window.ueUserContentGoogle !== undefined) {
+  googletag.cmd.push(function () {
+    if (typeof IsAPSEnabled !== 'undefined' && IsAPSEnabled) {
+        amz();
+    }
+  });
+}else{
+    window.addEventListener('ueConsentChanged', function (event) {
+        googletag.cmd.push(function () {
+            if(  event.detail.consents.vendors.google === true ){
+                googletag.pubads().setRequestNonPersonalizedAds(0);
+            }else{
+                googletag.pubads().setRequestNonPersonalizedAds(1);
+            }
+            if (typeof IsAPSEnabled !== 'undefined' && IsAPSEnabled) {
+                amz();
+            }else{
+                googletag.pubads().refresh();
+            }
+        });
+    }, false);
+}
+</script> <script>googletag.cmd.push(function(){var slots=googletag.pubads().getSlots();slots.map(function(x){var DOMId=x.getSlotId().getDomId();googletag.display(DOMId);});});googletag.cmd.push(function(){if((window.navigator.userAgent.indexOf("Edge")>-1)||(!!navigator.userAgent.match(/Trident\/7\./))){setTimeout(function(){var slot=googletag.pubads().getSlots()[0];if(slot){googletag.display(slot.getSlotId().getDomId());}});}});</script>
+<header class="site-header main-section-header js-cnav-header" data-ue-model="">
+<div class="container-header">
+<div class="site-logo">
+<time datetime="2018-10-12T08:40:19+02:00" class="date-home">viernes, 12 de octubre de 2018</time>
+<div class="logo"><a href="http://www.elmundo.es/?intcmp=MENUHOM24801&s_kw=logo_home" title="El Mundo"><span class="hidden-content">El Mundo</span></a></div>
+<aside class="tools-header">
+<ul class="tools-header-corporative">
+<li class="tools-corporative-subscription">
+<a href="https://clk.tradedoubler.com/click?p=271574&a=2404199&g=23242684" title="Suscripciones El Mundo" class="tools-corporative-link">Suscr&iacute;bete</a>
+</li>
+<li class="tools-corporative-login toolbar-login nav-login js-ueUserPanel"></li>
+</ul>
+</aside>
+<div id="pixelcontabilizacionNLalerta" class="pixelcontabilizacion" style="position:absolute;top:0px;left:0px;width:1px;height:1px;z-index:1">
+<img src="https://impes.tradedoubler.com/imp?type(inv)g(23242684)a(2404199)" width="1" height="1" alt=""/>
+</div>
+</div>
+</div>
+<div class="nav-container js-desdefixed js-hastafixed">
+<div class="container-header">
+ <script>
+    (function(window) {
+        'use strict';
+        var MBL = null;
+        var MenuBeforeLoad = function(args) {
+            this.btnMenu = args.btnMenu;
+            this.menuUrl = args.menuUrl;
+            this.menuDiv = null;
+            this.menuHeight = null;
+            window.statusMenu = null;
+            this.addEvent(this.btnMenu, "click", menuDeploy);
+        };
+        MenuBeforeLoad.prototype = {
+            _openMenu: function() {
+                window.statusMenu = 'open';
+                this.btnMenu.classList.add('active');
+                this.menuDiv.style.opacity = 1;
+                this.menuDiv.style.height = this.menuHeight + "px";
+                this.addEvent(window, "scroll", closeMenuHandler);
+            },
+            _closeMenu: function() {
+                window.statusMenu = 'close';
+                this.btnMenu.classList.remove('active');
+                this.menuDiv.style.height = "0px";
+                this.delEvent(window, "scroll", closeMenuHandler);
+            },
+            _menuDeploy: function() {
+                if (this.btnMenu.hasAttribute('data-loaded')) {
+                    window.statusMenu !== 'open' ? this._openMenu() : this._closeMenu();
+                } else {
+                    var content = document.createElement("div");
+                    var q = this._getRemoteHtml();
+                    this.btnMenu.setAttribute('data-loaded', true);
+                    q.onreadystatechange = function() {
+                        if (q.readyState == 4 && q.status == 200) {
+                            content.innerHTML = q.responseText;
+                            this.menuDiv = content.children[0];
+                            this.btnMenu.parentNode.parentNode.appendChild(this.menuDiv);
+                            this.menuHeight = parseInt(this.menuDiv.offsetHeight);
+                            this._addStylesAndBehaviorToMenuDiv();
+                            this._openMenu();
+                        }
+                    }.bind(this);
+                }
+            },
+            _addStylesAndBehaviorToMenuDiv: function() {
+                this.menuDiv.style.transition = "all 0.2s";
+                //this.menuDiv.style.opacity = 0;
+                this.menuDiv.style.height = "0px";
+                this.menuDiv.style.overflow = 'hidden';
+                this.menuDiv.classList.contains("no-visible") && this.menuDiv.classList.remove('no-visible');
+                this.addEvent(this.menuDiv, "transitionend", endTrasitionHandler);
+            },
+            _getRemoteHtml: function() {
+                var xhttp = new XMLHttpRequest();
+                xhttp.open('GET', this.menuUrl, true);
+                xhttp.send();
+                return xhttp;
+            },
+            addEvent : function(element, event, fnc) {
+                return element.attachEvent ? element.attachEvent('on' + event, fnc) : element.addEventListener(event, fnc, false);
+            },
+            delEvent : function(element, event, fnc) {
+                return element.detachEvent ? element.detachEvent('on' + event, fnc) : element.removeEventListener(event, fnc, false);
+            }
+        };
+        function init() {
+            var btnMenu = document.getElementsByClassName("js-supermenu-portada")[0];
+            var menuUrl = btnMenu.getAttribute('data-menu-section-path-click');
+            MBL = new MenuBeforeLoad({btnMenu: btnMenu, menuUrl: menuUrl});
+            return MBL;
+        }
+        function menuDeploy(e) {
+            e.preventDefault();
+            MBL._menuDeploy();
+        }
+        function endTrasitionHandler() {
+            if (MBL.menuDiv.style.height == "0px") {
+                MBL.menuDiv.style.opacity = 0;
+            }
+        }
+        function closeMenuHandler() {
+            if (/(open)/.test(window.statusMenu)) {
+                MBL._closeMenu();
+            }
+        }
+        function destroyMenuHandler() {
+            window.statusMenu = 'close';
+            MBL.menuDiv.style.display = 'none';
+            MBL.btnMenu.classList.remove('active');
+            MBL.delEvent(window, "scroll", destroyMenuHandler);
+        }
+        window["delMBL"] = function() {
+            MBL.delEvent(MBL.btnMenu, 'click', menuDeploy);
+            if (window.statusMenu) {
+                MBL.delEvent(window, "scroll", closeMenuHandler);
+                MBL.addEvent(window, "scroll", destroyMenuHandler);
+                MBL.delEvent(MBL.menuDiv, 'transitionend', endTrasitionHandler);
+                MBL.menuDiv.removeAttribute('style');
+                if (window.statusMenu=='close') {
+                    MBL.menuDiv.style.display = 'none';
+                }
+            }
+            delete window["_MBL_"];
+        };
+        window["_MBL_"] = init;
+    }(window));
+</script>
+<nav role="navigation" class="js-navTab">
+<ul class="nav-tabs js-mainNavigation">
+
+<li class="tab tab-national" data-section="espana">
+<a href="http://www.elmundo.es/espana.html?intcmp=MENUHOM24801&s_kw=espana" data-menu-active="espana">España</a>
+<div class="tab-container" id="submenuNational">
+<ul class="tab-content">
+<li><span class="tab-header">Secciones</span></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/espana.html?intcmp=MENUDES22301&s_kw=espana" class="tab-list-header">Portada</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/madrid.html?intcmp=MENUDES22301&s_kw=madrid" class="tab-list-header">Madrid</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/andalucia.html?intcmp=MENUDES22301&s_kw=andalucia" class="tab-list-header">Andalucía</a>
+<ul>
+<li class="tab-list-link"><a href="http://www.elmundo.es/andalucia/sevilla.html?intcmp=MENUDES22301&s_kw=sevilla">Sevilla</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/andalucia/malaga.html?intcmp=MENUDES22301&s_kw=malaga">Málaga</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/andalucia/el-caminante.html?intcmp=MENUDES22301&s_kw=el_caminante">El Caminante</a></li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/baleares.html?intcmp=MENUDES22301&s_kw=baleares" class="tab-list-header">Baleares</a>
+<ul>
+<li class="tab-list-link"><a href="http://www.elmundo.es/baleares/ibiza.html?intcmp=MENUDES22301&s_kw=ibiza">Ibiza</a></li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/catalunya.html?intcmp=MENUDES22301&s_kw=catalunya" class="tab-list-header">Cataluña</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/comunidad-valenciana.html?intcmp=MENUDES22301&s_kw=comunidad-valenciana" class="tab-list-header">Comunidad Valenciana</a>
+<ul>
+<li class="tab-list-link"><a href="http://www.elmundo.es/comunidad-valenciana/alicante.html?intcmp=MENUDES22301&s_kw=alicante">Alicante</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/comunidad-valenciana/castellon.html?intcmp=MENUDES22301&s_kw=castellon">Castellón</a></li>
+</ul>
+</li>
+<li class="tab-list"><a href="http://www.elmundo.es/pais-vasco.html?intcmp=MENUDES22301&s_kw=pais-vasco" class="tab-list-header">País Vasco</a></li>
+</ul>
+</div>
+</li>
+
+<li class="tab tab-opinion" data-section="opinion">
+<a href="http://www.elmundo.es/opinion.html?intcmp=MENUHOM24801&s_kw=opinion" data-menu-active="opinion">Opinión</a>
+<div class="tab-container" id="submenuOpinion">
+<ul class="tab-content">
+<li><span class="tab-header">Secciones</span></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/opinion.html?intcmp=MENUDES22301&s_kw=opinion" class="tab-list-header">Portada</a>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/opinion/editorial.html?intcmp=MENUDES22301&s_kw=editorial" class="tab-list-header">Editoriales</a>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/opinion/columnistas.html?intcmp=MENUDES22301&s_kw=columnistas" class="tab-list-header">Columnistas</a>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/blogs.html?intcmp=MENUDES22301&s_kw=blogs" class="tab-list-header">Blogs</a>
+</li>
+</ul>
+</div>
+</li>
+
+<li class="tab tab-economics" data-section="economia">
+<a href="http://www.elmundo.es/economia.html?intcmp=MENUHOM24801&s_kw=economia" data-menu-active="economia">Economía</a>
+<div class="tab-container" id="submenuEconomics">
+<ul class="tab-content">
+<li><span class="tab-header">Secciones</span></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/economia.html?intcmp=MENUDES22301&s_kw=economia" class="tab-list-header">Portada</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/economia/macroeconomia.html?intcmp=MENUDES22301&s_kw=macroeconomia" class="tab-list-header">Macroeconomía</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/economia/empresas.html?intcmp=MENUDES22301&s_kw=empresas" class="tab-list-header">Empresas</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/economia/bolsa/indices.html?intcmp=MENUDES22301&s_kw=bolsa" class="tab-list-header">Bolsa</a>
+<ul>
+<li class="tab-list-link"><a href="http://www.elmundo.es/economia/bolsa/indices/ibex35_I.IB.html?intcmp=MENUDES22301&s_kw=ibex35">Ibex 35</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/economia/bolsa/indices/dowjones_I.NY.html?intcmp=MENUDES22301&s_kw=dowjones">Dow Jones</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/economia/bolsa/indices/nasdaq100_I.QQ.html?intcmp=MENUDES22301&s_kw=nasdaq">Nasdaq</a></li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/economia/ahorro-y-consumo.html?intcmp=MENUDES22301&s_kw=ahorro-y-consumo" class="tab-list-header">Consumistas</a>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/economia/vivienda.html?intcmp=MENUDES22301&s_kw=vivienda" class="tab-list-header">Vivienda</a>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/economia/innovadores.html?intcmp=MENUDES22301&s_kw=innovadores" class="tab-list-header">INnovadores</a>
+</li>
+</ul>
+</div>
+</li>
+
+<li class="tab tab-world" data-section="internacional">
+<a href="http://www.elmundo.es/internacional.html?intcmp=MENUHOM24801&s_kw=internacional" data-menu-active="internacional">Internacional</a>
+<div class="tab-container" id="submenuInternacional">
+<ul class="tab-content">
+<li><span class="tab-header">Secciones</span></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/internacional.html?intcmp=MENUDES22301&s_kw=internacional" class="tab-list-header">Portada</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/internacional/america.html?intcmp=MENUDES22301&s_kw=america" class="tab-list-header">América</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/internacional/europa.html?intcmp=MENUDES22301&s_kw=europa" class="tab-list-header">Europa</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/internacional/asia.html?intcmp=MENUDES22301&s_kw=asia" class="tab-list-header">Asia</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/internacional/africa.html?intcmp=MENUDES22301&s_kw=africa" class="tab-list-header">África</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/internacional/oceania.html?intcmp=MENUDES22301&s_kw=oceania" class="tab-list-header">Oceanía</a></li>
+</ul>
+</div>
+</li>
+
+<li class="tab tab-sports" data-section="deportes">
+<a href="http://www.elmundo.es/deportes.html?intcmp=MENUHOM24801&s_kw=deportes" data-menu-active="deportes">Deportes</a>
+<div class="tab-container" id="submenuSports">
+<ul class="tab-content">
+<li><span class="tab-header">Secciones</span></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/deportes.html?intcmp=MENUDES22301&s_kw=deportes" class="tab-list-header">Portada</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/deportes/futbol.html?intcmp=MENUDES22301&s_kw=futbol" class="tab-list-header">Fútbol</a>
+<ul>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/futbol/primera-division.html?intcmp=MENUDES22301&s_kw=primera_division" title="LaLiga Santander">LaLiga Santander</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/futbol/segunda-division.html?intcmp=MENUDES22301&s_kw=segunda-division" title="LaLiga 123">LaLiga 123</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/futbol/champions-league.html?intcmp=MENUDES22301&s_kw=champios_league" title="Champions League">Champions League</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/futbol/europa-league/calendario.html?intcmp=MENUDES22301&s_kw=europa_league" title="Europa League">Europa League</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/futbol/copa-del-rey.html?intcmp=MENUDES22301&s_kw=copa_del_rey" title="Copa del Rey">Copa del Rey</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/futbol/bundesliga.html?intcmp=MENUDES22301&s_kw=bundesliga" title="Alemania">Alemania</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/futbol/premier-league.html?intcmp=MENUDES22301&s_kw=premier_league" title="Premier League">Premier League</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/futbol/serie-a.html?intcmp=MENUDES22301&s_kw=serie_a" title="Italia">Italia</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/elmundodeporte/futbol/liga-segunda-b/grupo-1.html?intcmp=MENUDES22301&s_kw=liga_segunda" title="Segunda B">Segunda B</a></li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/deportes/baloncesto.html?intcmp=MENUDES22301&s_kw=baloncesto" class="tab-list-header">Baloncesto</a>
+<ul>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/baloncesto/acb.html?intcmp=MENUDES22301&s_kw=acb">ACB</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/baloncesto/nba.html?intcmp=MENUDES22301&s_kw=nba">NBA</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/baloncesto/euroliga.html?intcmp=MENUDES22301&s_kw=euroliga">Euroliga</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/baloncesto/copa-del-rey/calendario.html?intcmp=MENUDES22301&s_kw=copa_del_rey_data">Copa Rey</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/baloncesto/eurobasket.html?intcmp=MENUDES22301&s_kw=eurobasket">Eurobasket</a></li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/deportes/ciclismo.html?intcmp=MENUDES22301&s_kw=ciclismo" class="tab-list-header">Ciclismo</a>
+<ul>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/ciclismo/tour-de-francia.html?intcmp=MENUDES22301&s_kw=tour_de_francia">Tour de Francia</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/ciclismo/giro-de-italia.html?intcmp=MENUDES22301&s_kw=giro_de_italia">Giro de Italia</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/ciclismo/vuelta-a-espana.html?intcmp=MENUDES22301&s_kw=vuelta_a_espana">Vuelta a España</a></li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/deportes/tenis.html?intcmp=MENUDES22301&s_kw=tenis" class="tab-list-header">Tenis</a>
+<ul>
+<li class="tab-list-link"><a href="http://www.elmundo.es/elmundodeporte/tenis/roland-garros/?intcmp=MENUDES22301&s_kw=roland_garros">Roland Garros</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/deportes/tenis/open-de-australia.html?intcmp=MENUDES22301&s_kw=open">Open Australia</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/elmundodeporte/tenis/wimbledon/?intcmp=MENUDES22301&s_kw=wimbledon">Wimbledon</a></li>
+<li class="tab-list-link"><a href="http://www.elmundo.es/elmundodeporte/tenis/us-open/?intcmp=MENUDES22301&s_kw=us_open">US Open</a></li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/deportes/formula-1.html?intcmp=MENUDES22301&s_kw=formula-1" class="tab-list-header">Fórmula 1</a>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/deportes/motociclismo.html?intcmp=MENUDES22301&s_kw=motociclismo" class="tab-list-header">Motociclismo</a>
+</li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/deportes/mas-deporte.html?intcmp=MENUDES22301&s_kw=mas-deporte" class="tab-list-header">Más deporte</a>
+</li>
+</ul>
+</div>
+</li>
+
+<li class="tab tab-culture" data-section="cultura">
+<a href="http://www.elmundo.es/cultura.html?intcmp=MENUHOM24801&s_kw=cultura" data-menu-active="cultura">Cultura</a>
+<div class="tab-container" id="submenuCulture">
+<ul class="tab-content">
+<li><span class="tab-header">Secciones</span></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/cultura.html?intcmp=MENUDES22301&s_kw=cultura" class="tab-list-header">Portada</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/cultura/cine.html?intcmp=MENUDES22301&s_kw=cine" class="tab-list-header">Cine</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/cultura/musica.html?intcmp=MENUDES22301&s_kw=musica" class="tab-list-header">Música</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/cultura/literatura.html?intcmp=MENUDES22301&s_kw=literatura" class="tab-list-header">Literatura</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/cultura/comic.html?intcmp=MENUDES22301&s_kw=comic" class="tab-list-header">Cómic</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/cultura/toros.html?intcmp=MENUDES22301&s_kw=toros" class="tab-list-header">Toros</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/cultura/teatro.html?intcmp=MENUDES22301&s_kw=teatro" class="tab-list-header">Teatro</a></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/cultura/danza.html?intcmp=MENUDES22301&s_kw=danza" class="tab-list-header">Danza</a></li>
+</ul>
+</div>
+</li>
+
+<li class="tab tab-tv" data-section="television">
+<a href="http://www.elmundo.es/television.html?intcmp=MENUHOM24801&s_kw=television" data-menu-active="television">Tv</a>
+<div class="tab-container" id="submenuTelevision">
+<ul class="tab-content">
+<li><span class="tab-header">Secciones</span></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/television.html?intcmp=MENUDES22301&s_kw=television" class="tab-list-header">Portada</a></li>
+<li class="tab-list"><a href="http://www.elmundo.es/television/medios.html?intcmp=MENUDES22301&s_kw=medios" class="tab-list-header">Medios</a></li>
+<li class="tab-list"><a href="http://www.elmundo.es/television/programacion-tv/?intcmp=MENUDES22301&s_kw=program_tv" class="tab-list-header">Guía TV - Programación</a></li>
+</ul>
+</div>
+</li>
+
+<li class="tab tab-science" data-section="ciencia-y-salud">
+<a href="http://www.elmundo.es/ciencia-y-salud.html?intcmp=MENUHOM24801$s_kw=ciencia-salud" data-menu-active="ciencia-y-salud">Ciencia y Salud</a>
+</li>
+
+<li class="tab tab-technology" data-section="tecnologia">
+<a href="http://www.elmundo.es/tecnologia.html?intcmp=MENUHOM24801&s_kw=tecnologia" data-menu-active="tecnologia">Tecnología</a>
+<div class="tab-container" id="submenuTechnology">
+<ul class="tab-content">
+<li><span class="tab-header">Secciones</span></li>
+<li class="tab-list">
+<a href="http://www.elmundo.es/tecnologia.html?intcmp=MENUDES22301&s_kw=tecnologia" class="tab-list-header">Portada</a>
+</li>
+<li class="tab-list"><a href="http://www.elmundo.es/blogs/elmundo/el-gadgetoblog/?intcmp=MENUDES22301&s_kw=gadgets" class="tab-list-header">Gadgets</a></li>
+<li class="tab-list"><a href="http://www.elmundo.es/t/vi/videojuegos.html?intcmp=MENUDES22301&s_kw=videojuegos" class="tab-list-header">Videojuegos</a></li>
+</ul>
+</div>
+</li>
+
+<li class="tab tab-papel" data-section="papel">
+<a href="http://www.elmundo.es/papel.html?intcmp=MENUHOM24801&s_kw=papel" data-menu-active="papel">Papel</a>
+</li>
+
+<li class="menu" data-insertar>
+<div class="nav-toggle">
+<a href="http://www.elmundo.es/menu.html" class="btn-nav-toggle js-supermenu-portada" data-menu-section-path-click="http://www.elmundo.es/em/supermenu-portada.html">
+<span class="icon-text" data-click-role="cambiarIconos">
+Más<i class="icon-arrow_down_12x12_a"></i>
+</span>
+<span class="icon-text" data-click-role="cambiarIconos">
+Cerrar<i class="icon-close_12x12_d"></i>
+</span>
+</a>
+</div>
+</li>
+</ul>
+</nav>
+<p class="section-title-text js-tituloseccion">Portada</p>
+<script>_MBL_();</script>
+ <div class="header-search" aria-label="Buscador">
+<form action="http://buscador.elmundo.es/perl/busca-generico.html" method="get" class="js-search-portada" role="search">
+<input type="search" name="cadena" placeholder="Buscar en elmundo.es" title="Buscar en elmundo.es">
+<input type="hidden" name="donde" value="11" id="enelmundoes">
+<input value="" name="b_avanzada" type="hidden">
+<div class="search-btn js-searchClick-portada">
+<a href="http://ariadna.elmundo.es/buscador/archivo.html" title="Buscador El Mundo">
+<span><i class="icon-search_16x16_a"></i><strong>Buscar</strong></span>
+</a>
+</div>
+<span class="close-btn js-close-btn-portada"><i class="icon-close_16x16_a"></i></span>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="percentage-bar-container">
+<div class="percentage-bar" id="js_progressBar"></div>
+</div>
+</header> <script>var portal="portada";</script>
+<main role="main" class="main main-section js_navContinua " data-ue-contenido="" id="js_526feae561fd3d3c3f8b4578">
+<div id='div-gpt-ad-portada_f_526feae561fd3d3c3f8b4578' class="publicidad"></div>
+<div class="skin-ad"></div>
+<div class="tab-title hidden-content">
+<div class="container-header">
+<h1 class="tab-title-text js_seccionPortadilla">Portada</h1>
+</div>
+</div>
+<div class="container"><aside class="content-ad">
+<div class="ad-item-si js-sky">
+<div id='div-gpt-ad-portada_si_526feae561fd3d3c3f8b4578' class="publicidad"></div>
+</div>
+</aside>
+<aside class="content-ad">
+<div class="ad-item-sd js-sky">
+<div id='div-gpt-ad-portada_sd_526feae561fd3d3c3f8b4578' class="publicidad"></div>
+</div>
+</aside>
+<aside class="content-ad">
+<div class="ad-item">
+<div id='div-gpt-ad-portada_m_526feae561fd3d3c3f8b4578' class="publicidad"></div>
+</div>
+</aside>  <div class="ue-breaking-news-container js-ueBreakingNews"></div>
+<script src='https://e00-elmundo.uecdn.es/assets/uebreakingnews/v1/ueBreakingNews.js' charset='utf-8'></script>
+ </div>
+<div id='div-gpt-ad-portada_msup_526feae561fd3d3c3f8b4578' class="publicidad"></div>
+<script>var ueDataPage={rootSection:"default",classContNav:"",sectionPrettyName:"Portada",portal:"elmundo",ct:"p",model:"portada-diario",contentId:'526feae561fd3d3c3f8b4578',breadcrumb:'<ul itemscope="" itemtype="http://schema.org/BreadcrumbList" class="tab-breadcrumb js-containerbreadcrumb"><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="home" id="bread-0"><a itemscope="" itemtype="http://schema.org/Thing" itemprop="item" title="Inicio" href="http://www.elmundo.es"><span class="hidden-content">Volver a:&nbsp; </span><span itemprop="name">Inicio</span></a><span class="arrow"></span><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="first-level" id="bread-1"><a itemscope="" itemtype="http://schema.org/Thing" itemprop="item" title="Portada" href="http://www.elmundo.es/"><span class="hidden-content">Volver a:&nbsp; </span><span itemprop="name">Portada</span></a><meta itemprop="position" content="2" /></li></ul>',children:'<ul class="tab-breadcrumb-list js-breadcrumbChildren js-breadcrumb-submenu"><li data-section="espana"><a title="España" href="http://www.elmundo.es/espana.html">España</a></li><li data-section="economia"><a title="Economía" href="http://www.elmundo.es/economia.html">Economía</a></li><li data-section="internacional"><a title="Internacional" href="http://www.elmundo.es/internacional.html">Internacional</a></li><li data-section="loc"><a title="LOC" href="http://www.elmundo.es/loc.html">LOC</a></li><li data-section="cultura"><a title="Cultura" href="http://www.elmundo.es/cultura.html">Cultura</a></li><li data-section="yodona"><a title="Yodona" href="http://www.elmundo.es/yodona.html">Yodona</a></li><li data-section="television"><a title="Televisión" href="http://www.elmundo.es/television.html">Televisión</a></li><li data-section="ciencia-y-salud"><a title="Ciencia y Salud" href="http://www.elmundo.es/ciencia-y-salud.html">Ciencia y Salud</a></li><li data-section="motor"><a title="Motor" href="http://www.elmundo.es/motor.html">Motor</a></li><li data-section="tecnologia"><a title="Tecnología" href="http://www.elmundo.es/tecnologia.html">Tecnología</a></li><li data-section="canales"><a title="Canales" href="http://www.elmundo.es/canales.html">Canales</a></li></ul>',numComments:''}</script>
+<section class="row-layout"><div class="container"><ul class="content-items flex-a"><li class="content-item"><article class="mod-item mod-news mod-default  baleares " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/baleares/2018/10/12/5bbfa87f22601d526c8b45ec.html" title="Agentes de la Guardia Civil conversan con un hombre en la localidad de..." class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393030917484.jpg" itemprop="url" alt="Agentes de la Guardia Civil conversan con un hombre en la localidad de..."/></a><figcaption class="caption" itemprop="description">Agentes de la Guardia Civil conversan con un hombre en la localidad de Sant Llorenç. </figcaption></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/baleares/2018/10/12/5bbfa87f22601d526c8b45ec.html" itemprop="url">Los guardias civiles que salvaron a una familia: "Nos gritaban y hacían luces para que los rescatáramos"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">MARCOS TORÍO</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Palma</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:51:56"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/baleares/2018/10/12/5bbfa87f22601d526c8b45ec.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>20<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer><ul class="mod-related"><li><a href="http://www.elmundo.es/baleares/2018/10/11/5bbf8a07e5fdeaa3328b45c4.html">En busca del ciclista que salvó la vida a Úrsula, la hija de la farmacéutica muerta por las inundaciones en Sant Llorenç</a></li></ul></article></li><li class="content-item"><article class="mod-item mod-news mod-default  economiamacroeconomia " itemscope="" itemtype="http://schema.org/NewsArticle"><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/economia/macroeconomia/2018/10/12/5bbf9fd8e5fdeae15d8b45d3.html" itemprop="url">La subida masiva de impuestos del Gobierno y Podemos sí afectará a la clase media</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><a href="http://www.elmundo.es/social/usuarios/daniel_viana/" title><span itemprop="name">DANIEL VIAÑA</span></a></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:52:19"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/economia/macroeconomia/2018/10/12/5bbf9fd8e5fdeae15d8b45d3.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>83<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  internacional " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/internacional/2018/10/12/5bbf8372468aebdf098b45e4.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393032267936.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/internacional/2018/10/12/5bbf8372468aebdf098b45e4.html" itemprop="url">Human Rights Watch: "Zapatero ha sido un excelente encubridor de la dictadura de Maduro"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">DANIEL LOZANO</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Caracas</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:52:43"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/internacional/2018/10/12/5bbf8372468aebdf098b45e4.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>37<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li></ul></div></section>
+<section class="row-layout"><div class="container"><ul class="flex flex--4 js_fixed_container"><li class="flex__item flex__item--4-1"><article class="flex-article  espana " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="flex-article__multimedia" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/espana/2018/10/12/5bbf9d6522601dee0b8b45e7.html" title="Banderas de España ondean durante el desfile del pasado 12 de octubre" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393032676280.jpg" itemprop="url" alt="Banderas de España ondean durante el desfile del pasado 12 de octubre"/></a></figure><div class="flex-article__container"><div class="flex-article__headband"></div><header class="flex-article__header"><h2 class="flex-article__heading"><a href="http://www.elmundo.es/espana/2018/10/12/5bbf9d6522601dee0b8b45e7.html" class="flex-article__heading-link">Pedro Sánchez debuta en el desfile del 12 de octubre que Defensa ocultó</a></h2></header><footer><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><a href="http://www.elmundo.es/social/usuarios/pablo_herraiz/" title><span itemprop="name">PABLO HERRAIZ</span></a></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:59:34"></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/espana/2018/10/12/5bbf9d6522601dee0b8b45e7.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>28<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></div></article></li><li class="flex__item flex__item--4-2"><article class="flex-article  espana " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="flex-article__multimedia" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/espana/2018/10/12/5bc03b5c268e3e3b768b4575.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393251018978.jpg" itemprop="url" alt=""/></a></figure><div class="flex-article__container"><div class="flex-article__headband"></div><header class="flex-article__header"><h2 class="flex-article__heading"><a href="http://www.elmundo.es/espana/2018/10/12/5bc03b5c268e3e3b768b4575.html" class="flex-article__heading-link">Rajoy culpa a la "extrema izquierda" y a los "independentistas" de su marcha</a></h2></header><footer><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EFE</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Quito</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 08:15:10"></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/espana/2018/10/12/5bc03b5c268e3e3b768b4575.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>7<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></div></article></li><li class="flex__item flex__item--4-3"><article class="flex-article  internacional " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="flex-article__multimedia" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/internacional/2018/10/12/5bbf7123e5fdea5e068b4596.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393033750895.jpg" itemprop="url" alt=""/></a></figure><div class="flex-article__container"><div class="flex-article__headband"></div><header class="flex-article__header"><h2 class="flex-article__heading"><a href="http://www.elmundo.es/internacional/2018/10/12/5bbf7123e5fdea5e068b4596.html" class="flex-article__heading-link">Weber: "Baviera será independiente en 10 años y Cataluña en cinco"</a></h2></header><footer><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">CARMEN VALERO</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Berlín</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:59:52"></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/internacional/2018/10/12/5bbf7123e5fdea5e068b4596.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>67<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></div></article></li><li class="flex__item flex__item--4-4"><article class="flex-article  deportesfutbol " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="flex-article__multimedia" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbfb78146163ffd948b45ca.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393034054258.jpg" itemprop="url" alt=""/></a></figure><div class="flex-article__container"><div class="flex-article__headband"></div><header class="flex-article__header"><h2 class="flex-article__heading"><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbfb78146163ffd948b45ca.html" class="flex-article__heading-link">Un paseo de España por Cardiff (1-4)</a></h2></header><footer><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EDUARDO J. CASTELAO</span></li><li itemprop="jobTitle" class="author-status">
+Enviado especial
+</li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Cardiff</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 22:50:34"></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbfb78146163ffd948b45ca.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>6<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></div></article></li><li class="flex__publi"><aside class="ad-item js_fixed"><span class="ad-item__title">PUBLICIDAD</span><div id='div-gpt-ad-portada_r_526feae561fd3d3c3f8b4578' class="publicidad"></div></aside></li></ul></div></section>
+<section class="js_slider_container seo-links-container"><div class="js_slider_viewport"><ul class="list-seo-links slider-viewport"><li><span>Es noticia: </span></li><li><a title="Inundaciones en Mallorca" href="http://www.elmundo.es/baleares/2018/10/12/5bbfa87f22601d526c8b45ec.html">Inundaciones en Mallorca</a></li><li><a title="Impuestos" href="http://www.elmundo.es/economia/macroeconomia/2018/10/12/5bbf9fd8e5fdeae15d8b45d3.html">Impuestos</a></li><li><a title="Zapatero" href="http://www.elmundo.es/internacional/2018/10/12/5bbf8372468aebdf098b45e4.html">Zapatero</a></li><li><a title="Desfile 12-0" href="http://www.elmundo.es/espana/2018/10/12/5bbf9d6522601dee0b8b45e7.html">Desfile 12-0</a></li><li><a title="Padilla" href="http://www.elmundo.es/papel/historias/2018/10/12/5bbf1c20468aebf60b8b45f0.html">Padilla</a></li><li><a title="Cesáreas" href="http://www.elmundo.es/ciencia-y-salud/salud/2018/10/12/5bbf71a346163f912f8b4578.html">Cesáreas</a></li><li><a title="Paco Alcácer" href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbfb78146163ffd948b45ca.html">Paco Alcácer</a></li><li><a title="Kanye West y Trump" href="http://www.elmundo.es/internacional/2018/10/12/5bbfd83522601d266a8b461e.html">Kanye West y Trump</a></li></ul></div></section>
+<section class="row-layout ad-990"><div class="container"><div class="content-items fix-belt" itemscope="" itemtype="http://schema.org/ItemList"><ul><li class="content-item"><aside class="ad-item"><div id='div-gpt-ad-portada_c990x50_320x53_526feae561fd3d3c3f8b4578' class="publicidad"></div></aside></li></ul></div></div></section>
+<section class="row-layout"><div class="container"><ul class="content-items flex-a"><li class="content-item"><article class="mod-item mod-news mod-default  papelhistorias " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/papel/historias/2018/10/12/5bbf1c20468aebf60b8b45f0.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393035149582.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title title-400" itemprop="headline"><a href="http://www.elmundo.es/papel/historias/2018/10/12/5bbf1c20468aebf60b8b45f0.html" itemprop="url">El adiós de Padilla: "Llegar hasta aquí me ha costado más que un ojo de la cara"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><a href="http://www.elmundo.es/social/usuarios/rterrasa/" title><span itemprop="name">RODRIGO TERRASA</span></a></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Sanlúcar de Barrameda</span></li></ul><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">FOTOGRAFÍAS: CARLOS GARCÍA POZO</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:49:14"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/papel/historias/2018/10/12/5bbf1c20468aebf60b8b45f0.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>12<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer><ul class="mod-related"><li><a href="http://www.elmundo.es/papel/firmas/2018/10/12/5bbf3b88468aebf60b8b45fc.html">Padilla, el torero de las siete vidas</a></li></ul></article></li><li class="content-item"><article class="mod-item mod-news mod-default  internacional " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/internacional/2018/10/12/5bbfd83522601d266a8b461e.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393037287619.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/internacional/2018/10/12/5bbfd83522601d266a8b461e.html" itemprop="url">Kanye West se desata en una surrealista reunión con su "héroe", Donald Trump</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EFE</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Washington</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:09:56"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/internacional/2018/10/12/5bbfd83522601d266a8b461e.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>12<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  ciencia-y-saludsalud " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/ciencia-y-salud/salud/2018/10/12/5bbf71a346163f912f8b4578.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393251344680.jpg" itemprop="url" alt=""/><span class="view-chart"><span>Gráfico</span><i class="icon-grafico_32_d"></i></span></a></figure><header class="mod-header"><p><a href="http://www.elmundo.es/ciencia-y-salud/salud/2018/10/12/5bbf71a346163f912f8b4578.html" class="mod-subtitle" title=""><span itemprop="alternativeHeadline">
+Congreso Mundial de Ginecología y Obstetricia
+</span></a></p><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/ciencia-y-salud/salud/2018/10/12/5bbf71a346163f912f8b4578.html" itemprop="url">España supera en un 70% las cesáreas recomendadas</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">BEATRIZ G. PORTALATÍN</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:37:31"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/ciencia-y-salud/salud/2018/10/12/5bbf71a346163f912f8b4578.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>6<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  internacional " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/internacional/2018/10/12/5bbf702b22601d266a8b45cc.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393036965636.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/internacional/2018/10/12/5bbf702b22601d266a8b45cc.html" itemprop="url">Desaparecidos forzados: los otros Yamal Khashoggi</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><a href="http://www.elmundo.es/social/usuarios/rosa_meneses/" title><span itemprop="name">ROSA MENESES</span></a></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 02:02:30"><strong>
+12/10/2018
+</strong></time></footer></article></li></ul></div></section>
+<section class="row-layout belt services header-section">
+<h2><span>Servicios</span><a title="Ver más servicios" href="http://www.elmundo.es/servicios/">Ver más servicios</a></h2>
+<div class="container"><div class="content-items fix-belt" itemscope="" itemtype="http://schema.org/ItemList"><ul><li class="content-item"><div class="mod-item">
+<section class="mod-tiempo">
+<h3><a title="Ir a El tiempo" href="http://www.elmundo.es/tiempo/index.html">El Tiempo</a></h3>
+<dl>
+<dt>
+<a href="/tiempo/pronostico/69/34_28457_c.html" title="Ir a El tiempo en Madrid">Madrid</a>
+</dt>
+<dd class="meteo_prediccion">
+<i class="icon-nuboso"></i>
+<span class="hidden-content">nuboso</span>
+</dd>
+<dd class="meteo_max">
+<i class="icon-maxima"></i>
+<span class="hidden-content">Temperatura máxima:</span>
+<span>23°C</span>
+</dd>
+<dd class="meteo_min">
+<i class="icon-minima"></i>
+<span class="hidden-content">Temperatura mí­nima:</span>
+<span>16°C</span>
+</dd>
+</dl>
+</section> </div></li><li class="content-item"><div class="mod-item"><section class="mod-ibex35">
+<h3>
+<a href="http://www.elmundo.es/economia/bolsa/indices/ibex35_I.IB.html">
+Ibex 35
+</a>
+</h3>
+<div id="ibex-35"></div>
+ <script type="text/javascript">try{var ibexEvent=new Event("cargaIbex");}catch(e){var ibexEvent=document.createEvent("Event");ibexEvent.initEvent("cargaIbex",true,false);}
+window.addEventListener('cargaIbex',function(e){var useSSL='https:'==document.location.protocol;var VALOR_JSON=(useSSL?'https:':'http:')+"//www.elmundo.es/bolsa/datos/valor_ficha.html";if(typeof llave=='undefined'){llave="";}
+var cod_indices=new Array("I.IB");procesaIndicesListasDef('ibex-35',cod_indices,VALOR_JSON);},false);</script>
+</section>
+<script>(function(){var script=document.createElement("script");var src="https://e00-elmundo.uecdn.es/assets/desktop/master/js/economia/indicesajax.js";var node=document.getElementById("ibex-35");script.async=true;script.onload=function(){if(ibexEvent){window.dispatchEvent(ibexEvent);}};script.src=src;node.parentNode.insertBefore(script,node);})();</script>
+</div></li><li class="content-item"><div class="mod-item"><section class="mod-guia-tv">
+<h3><a href="http://www.elmundo.es/television/programacion-tv/" title="Ir a Guía TV">Gu&iacute;a TV</a></h3>
+<i class="icon-guia-tv"></i>
+<p>Todos los canales</p>
+</section>
+</div></li><li class="content-item"><div class="mod-item"><section class="mod-horoscopo"><h3><a href="http://www.elmundo.es/horoscopo/">Hor&oacute;scopo</a></h3><i class="icon-horoscopo"></i><p>Las claves del destino</p></section></div></li></ul></div></div>
+</section>
+<section class="row-layout"><div class="container"><ul class="content-items flex-b"><li class="content-item"><article class="mod-item mod-news mod-default  cronica " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/cronica/2018/10/12/5bb9e70a22601dd3278b45bc.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393038721911.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/cronica/2018/10/12/5bb9e70a22601dd3278b45bc.html" itemprop="url">Cabrogalletazo: La 'galleta' que se dieron Cabronazi y Cuétara</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">MARTÍN MUCHA</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 02:22:38"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/cronica/2018/10/12/5bb9e70a22601dd3278b45bc.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>3<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><aside class="ad-item"><div id='div-gpt-ad-portada_rb_526feae561fd3d3c3f8b4578' class="publicidad"></div></aside></li><li class="content-item"><aside class="ad-item"><div id='div-gpt-ad-portada_nata_526feae561fd3d3c3f8b4578' class="publicidad"></div></aside></li></ul></div></section>
+<section class="row-layout"><div class="container"><ul class="content-items flex-b"><li class="content-item"><article class="mod-item mod-news mod-default  economiavivienda " itemscope="" itemtype="http://schema.org/NewsArticle"><div class="ribbon"><a href="/economia/vivienda.html"><span>Vivienda</span></a></div><header class="mod-header"><p><a href="http://www.elmundo.es/economia/vivienda/2018/10/12/5bbf6bec468aeb5a348b4630.html" class="mod-subtitle" title=""><span itemprop="alternativeHeadline">
+Grado Propio de Intensificación en Planificación y Gestión Inmobiliaria
+</span></a></p><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/economia/vivienda/2018/10/12/5bbf6bec468aeb5a348b4630.html" itemprop="url">Los futuros líderes del sector inmobiliario se gradúan</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">C. RUIZ</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:48:28"><strong>
+12/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  espana " itemscope="" itemtype="http://schema.org/NewsArticle"><div class="ribbon"><a href="/espana.html"><span>Pedro Sánchez</span></a></div><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/espana/2018/10/11/5bbfa37422601d526c8b45e4.html" itemprop="url">Medidas legales por la resolución del Parlament contra el Rey</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">LUIS ÁNGEL SANZ</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 21:25:07"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/espana/2018/10/11/5bbfa37422601d526c8b45e4.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>96<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  madrid " itemscope="" itemtype="http://schema.org/NewsArticle"><div class="ribbon"><a href="/madrid.html"><span>Madrid</span></a></div><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/madrid/2018/10/11/5bbfa2e3468aebef1b8b4666.html" itemprop="url">Manuela Carmena no cede con la restricción de Madrid Central</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">ISABEL F. LANTIGUA</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 21:44:47"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/madrid/2018/10/11/5bbfa2e3468aebef1b8b4666.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>8<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li></ul></div></section>
+<section class="row-layout belt other-webs header-section">
+<div class="container"><ul class="content-items flex-a"><li class="content-item"><div class="mod-item"><div class="js-bt"></div><div class="js-bt"></div></div></li><li class="content-item"><article class="mod-item mod-news mod-default  papelcultura " itemscope="" itemtype="http://schema.org/NewsArticle"><div class="ribbon"><a href="/papel/cultura.html"><span>Traci Lords, ex estrella porno</span></a></div><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/papel/cultura/2018/10/12/5bbf70c0268e3ee05c8b45da.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393040454049.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/papel/cultura/2018/10/12/5bbf70c0268e3ee05c8b45da.html" itemprop="url">"El problema conmigo fue que se excitaban al ver a una menor"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">JAVIER BLÁNQUEZ</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Barcelona</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:49:16"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/papel/cultura/2018/10/12/5bbf70c0268e3ee05c8b45da.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>2<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li></ul></div>
+</section>
+<section class="row-layout buttons"><div class="container"><ul class="content-items flex-b"><li class="content-item"><aside class="ad-item"><div id='div-gpt-ad-portada_b300x100_526feae561fd3d3c3f8b4578' class="publicidad"></div></aside></li><li class="content-item"><aside class="ad-item"><div id='div-gpt-ad-portada_b300x100b_526feae561fd3d3c3f8b4578' class="publicidad"></div></aside></li><li class="content-item"><aside class="ad-item"><div id='div-gpt-ad-portada_b300x100c_526feae561fd3d3c3f8b4578' class="publicidad"></div></aside></li></ul></div></section>
+<section class="row-layout belt videos header-section">
+<h2><span>Vídeos</span><a title="Ver más vídeos" href="http://videos.elmundo.es">Ver más vídeos</a></h2>
+<div class="container"><div class="content-items fix-belt" itemscope="" itemtype="http://schema.org/ItemList"><ul><li class="content-item"><article class="mod-item mod-news mod-default el-mundo-tv " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://videos.elmundo.es/v/0_t3vj263h-karina-y-juan-miguel-eclipsan-a-su-hija-el-dia-de-su-boda" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/10/15391845991771.jpg" itemprop="url" alt=""/><span class="view-video"> Vídeo</span></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://videos.elmundo.es/v/0_t3vj263h-karina-y-juan-miguel-eclipsan-a-su-hija-el-dia-de-su-boda" itemprop="url">Karina y Juan Miguel eclipsan a su hija el día de su boda</a></h2></header></article></li><li class="content-item"><article class="mod-item mod-news mod-default el-mundo-tv " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://videos.elmundo.es/v/0_1rrlxou1-selena-gomez-ingresada-en-un-centro-psiquiatrico" title="" class="image-item enlace-video"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392508743600.jpg" itemprop="url" alt=""/><span class="view-video"> Vídeo</span></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://videos.elmundo.es/v/0_1rrlxou1-selena-gomez-ingresada-en-un-centro-psiquiatrico" itemprop="url">Selena Gómez, ingresada en un centro psiquiátrico</a></h2></header></article></li><li class="content-item"><article class="mod-item mod-news mod-default el-mundo-tv " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://videos.elmundo.es/v/0_04at8bf5-nadal-se-remanga-por-mallorca-y-ayuda-tras-las-inundaciones" title="" class="image-item enlace-video"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392710320305.jpg" itemprop="url" alt=""/><span class="view-video"> Vídeo</span></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://videos.elmundo.es/v/0_04at8bf5-nadal-se-remanga-por-mallorca-y-ayuda-tras-las-inundaciones" itemprop="url">Nadal se remanga por Mallorca y ayuda tras las inundaciones</a></h2></header></article></li><li class="content-item"><article class="mod-item mod-news mod-default el-mundo-tv " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://videos.elmundo.es/v/0_cx5a0278-estos-son-los-pasos-a-seguir-para-escapar-de-una-riada" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/10/15391912272113.jpg" itemprop="url" alt=""/><span class="view-video"> Vídeo</span></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://videos.elmundo.es/v/0_cx5a0278-estos-son-los-pasos-a-seguir-para-escapar-de-una-riada" itemprop="url">Estos son los pasos a seguir para escapar de una riada</a></h2></header></article></li></ul></div></div>
+</section>
+<section class="row-layout highlight header-section">
+<h2><span>DESTACADOS</span></h2>
+<div class="container"><ul class="content-items fixed-a-ad js_fixed_container"><li class="content-item"><article class="mod-item mod-news mod-default  papelgastro " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/papel/gastro/2018/10/10/5bbe22fde2704e2c4d8b456e.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393041058657.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/papel/gastro/2018/10/10/5bbe22fde2704e2c4d8b456e.html" itemprop="url">De la tortilla de patata a la perdiz con chocolate: así inventó España la cocina fusión</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">VÍCTOR DE LA SERNA</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-10"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-10 18:25:48"><strong>
+10/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default opinion televisionmomentvs " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/television/momentvs/2018/10/12/5bc0407e268e3e95448b45c1.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393263888124.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title title-220" itemprop="headline"><a href="http://www.elmundo.es/television/momentvs/2018/10/12/5bc0407e268e3e95448b45c1.html" itemprop="url">Jorge Javier 'revienta' a Omar en GH VIP: "¡Estoy hasta las narices de los talibanes de la moral!"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">ESTHER MUCIENTES</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 08:35:00"><strong>
+12/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  metropoliotros-planes " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/album/metropoli/otros-planes/2018/10/11/5bbf155ee5fdeab54f8b4671.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393263263569.jpg" itemprop="url" alt=""/><span class="view-gallery"><span>Imágenes</span><i class="icon-galeria_32_d  "></i></span></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/album/metropoli/otros-planes/2018/10/11/5bbf155ee5fdeab54f8b4671.html" itemprop="url">Puente del Pilar: 10 planes gratuitos para la familia en Madrid</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">NOELIA MURILLO</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 12:53:18"><strong>
+11/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  madrid " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/madrid/2018/10/11/5bbf2e61468aebd90c8b4663.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392863648893.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/madrid/2018/10/11/5bbf2e61468aebd90c8b4663.html" itemprop="url">Cortes de tráfico y líneas de EMT afectadas en Madrid por el desfile militar</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EL MUNDO</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 14:27:48"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/madrid/2018/10/11/5bbf2e61468aebd90c8b4663.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>2<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><aside class="ad-item js_fixed"><div id='div-gpt-ad-portada_rc_526feae561fd3d3c3f8b4578' class="publicidad"></div></aside></li></ul></div>
+<div class="container"><ul class="content-items flex-b"><li class="content-item"><div class="mod-item"><article datemodified="" datepublished="" itemtype="http://schema.org/NewsArticle" itemscope="" class="mod-item mod-news sponsorship minirecomendados_correresdevalientes">
+<div class="ribbon">
+<span><span>Correr es de valientes</span></span>
+</div>
+<figure itemprop="image" itemtype="https://schema.org/ImageObject" class="multimedia-item">
+<a href="http://www.correresdevalientes.elmundo.es/ponte-en-forma/como-volver-a-correr-tras-una-lesion" title="" class="image-item">
+<img src="https://e00-elmundo.uecdn.es/elmundo/imagenes/2018/10/11/minirecomendados_correresdevalientes/1485945154_extras_noticia_foton_1_0.jpg" border="0" width="310" height="174" alt="[foto de la noticia]"/></a>
+</figure>
+<header class="mod-header">
+<h3 class="mod-title" itemprop="headline"><a href="http://www.correresdevalientes.elmundo.es/ponte-en-forma/como-volver-a-correr-tras-una-lesion" title="" itemprop="url">¿Cómo volver a correr tras una lesión?</a></h3>
+</header>
+<footer class="mod-footer">
+<address>
+<ul class="mod-author" itemprop="author" itemtype="http://schema.org/Person">
+<li>
+<a href="#" title="Esther Payueta">
+<span itemprop="name">Esther Payueta</span>
+</a>
+</li>
+</ul>
+</address>
+</footer>
+</article></div></li><li class="content-item"><article class="mod-item mod-news mod-default  tecnologia " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/tecnologia/2018/10/12/5bbf1880e5fdea1c458b4684.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393262744782.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/tecnologia/2018/10/12/5bbf1880e5fdea1c458b4684.html" itemprop="url">¿Hace mejores fotos un teléfono móvil con cuatro cámaras?</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">BRUNO TOLEDANO</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:46:45"><strong>
+12/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  viajesespana " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/viajes/espana/2018/10/11/5bbdbea746163ffe648b458f.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393043772879.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/viajes/espana/2018/10/11/5bbdbea746163ffe648b458f.html" itemprop="url">Seis pueblos compiten por conseguir (gratis) las luces de Navidad</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">ALEX ALONSO</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 02:01:24"><strong>
+11/10/2018
+</strong></time></footer></article></li></ul></div>
+<div class="container"><ul class="content-items flex-b"><li class="content-item"><article class="mod-item mod-news mod-default  culturaliteratura " itemscope="" itemtype="http://schema.org/NewsArticle"><div class="ribbon"><a href="/cultura/literatura.html"><span>Santi Balmes</span></a></div><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/cultura/literatura/2018/10/12/5bbf8aa5468aebcf1a8b4638.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393045261174.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><p><a href="http://www.elmundo.es/cultura/literatura/2018/10/12/5bbf8aa5468aebcf1a8b4638.html" class="mod-subtitle" title=""><span itemprop="alternativeHeadline">
+Literatura
+</span></a></p><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/cultura/literatura/2018/10/12/5bbf8aa5468aebcf1a8b4638.html" itemprop="url">"Tras el éxito me di una hostia que me permitió no ser un imbécil"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">ISMAEL MARINERO</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 02:07:35"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/cultura/literatura/2018/10/12/5bbf8aa5468aebcf1a8b4638.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>1<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  vida-sanasexo " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/vida-sana/sexo/2018/10/12/5bbf3f2822601def0d8b4647.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393045562974.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/vida-sana/sexo/2018/10/12/5bbf3f2822601def0d8b4647.html" itemprop="url">Clubs de lectura para hablar (también) de sexo</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">ANA SIERRA</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 02:08:01"><strong>
+12/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  f5comparte " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/f5/comparte/2018/10/12/5bbf123246163f6a9a8b4698.html" title="Duarte Xavier, el portugués que se hizo pasar por mujer en Tinder." class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393046470702.jpg" itemprop="url" alt="Duarte Xavier, el portugués que se hizo pasar por mujer en Tinder."/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/f5/comparte/2018/10/12/5bbf123246163f6a9a8b4698.html" itemprop="url">Condenado por hacerse pasar por ama de casa aburrida en Tinder</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">AITOR HERNÁNDEZ-MORALES</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Lisboa</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 02:08:25"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/f5/comparte/2018/10/12/5bbf123246163f6a9a8b4698.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>5<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li></ul></div>
+</section>
+<section class="row-layout"><div class="container"><ul class="content-items flex-b"><li class="content-item"><article class="mod-item mod-news mod-default  madrid " itemscope="" itemtype="http://schema.org/NewsArticle"><div class="ribbon"><a href="/madrid.html"><span>Madrid</span></a></div><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/madrid/2018/10/12/5bbe512be2704eba3a8b4762.html" itemprop="url">Multa a Metro por no realizar controles por el amianto</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><a href="http://www.elmundo.es/social/usuarios/marta_belver/" title><span itemprop="name">MARTA BELVER</span></a></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 02:03:24"><strong>
+12/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  economiamacroeconomia " itemscope="" itemtype="http://schema.org/NewsArticle"><div class="ribbon"><a href="/economia/macroeconomia.html"><span>Bolsa</span></a></div><header class="mod-header"><p><a href="http://www.elmundo.es/economia/macroeconomia/2018/10/11/5bbef9f1468aeb3a0f8b45b3.html" class="mod-subtitle" title=""><span itemprop="alternativeHeadline">
+Sesión en los mercados
+</span></a></p><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/economia/macroeconomia/2018/10/11/5bbef9f1468aeb3a0f8b45b3.html" itemprop="url">El Ibex salva los 9.000 puntos en otro día de caídas</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">M. HERNÁNDEZ</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 09:25:01"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/economia/macroeconomia/2018/10/11/5bbef9f1468aeb3a0f8b45b3.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>26<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  ciencia-y-saludsalud " itemscope="" itemtype="http://schema.org/NewsArticle"><div class="ribbon"><a href="/ciencia-y-salud/salud.html"><span>EEEUU</span></a></div><header class="mod-header"><p><a href="http://www.elmundo.es/ciencia-y-salud/salud/2018/10/11/5bbf772a46163f06338b45b5.html" class="mod-subtitle" title=""><span itemprop="alternativeHeadline">
+La privacidad de los datos genealógicos a debate
+</span></a></p><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/ciencia-y-salud/salud/2018/10/11/5bbf772a46163f06338b45b5.html" itemprop="url">El peligro de compartir ADN en el 'Facebook' genético</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">MAR DE MIGUEL</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Madrid</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 20:00:26"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/ciencia-y-salud/salud/2018/10/11/5bbf772a46163f06338b45b5.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>1<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  internacional " itemscope="" itemtype="http://schema.org/NewsArticle"><div class="ribbon"><a href="/internacional.html"><span>Reino Unido</span></a></div><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/internacional/2018/10/11/5bbf8ac6e2704e6e358b459c.html" itemprop="url">Tasa anual de 456 euros por la sanidad a inmigrantes</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EFE</span></li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Londres</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 20:31:14"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/internacional/2018/10/11/5bbf8ac6e2704e6e358b459c.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>13<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li></ul></div></section>
+<section class="row-layout belt opinion header-section">
+<h2><span>Opinión</span><a title="Ver más opinión" href="http://www.elmundo.es/opinion.html">Ver más opinión</a></h2>
+<div class="container"><div class="content-items fix-belt" itemscope="" itemtype="http://schema.org/ItemList"><ul><li class="content-item"><article class="mod-item mod-news mod-default opinion opinion " itemscope="" itemtype="http://schema.org/NewsArticle"><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf7e14ca4741bd418b456e.html" itemprop="url">EL TEATRO DE LOS PRESUPUESTOS</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EDITORIAL</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:44:44"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf7e14ca4741bd418b456e.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>1<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer><p class="entradilla"><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf7e14ca4741bd418b456e.html">Ya los clásicos advertían de su efecto inmediato sobre el espectador para concluir que no hay mejor instrumento de propaganda</a></p></article></li><li class="content-item"><article class="mod-item mod-news mod-default opinion opinion " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf8ecc268e3e9e428b4667.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393049723022.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf8ecc268e3e9e428b4667.html" itemprop="url">"Delgado quiere impunidad. Es inaceptable. En un Gobierno, delictivo"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">FEDERICO JIMÉNEZ LOSANTOS</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:44:51"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf8ecc268e3e9e428b4667.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>7<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default opinion opinion " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf2b04ca4741472c8b4587.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393050255505.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf2b04ca4741472c8b4587.html" itemprop="url">"Es el único partido que puede prometer la abolición de las autonomías"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><a href="http://www.elmundo.es/social/usuarios/emilialandaluce/" title><span itemprop="name">EMILIA LANDALUCE</span></a></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:44:57"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf2b04ca4741472c8b4587.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>8<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default opinion opinion " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf8baf468aebd2648b4643.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15393050659097.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf8baf468aebd2648b4643.html" itemprop="url">"Iglesias tiene que conformarse con un ensayo de frente popular"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">RAÚL DEL POZO</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 01:44:55"><strong>
+12/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/opinion/2018/10/12/5bbf8baf468aebd2648b4643.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>4<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li></ul></div></div>
+</section>
+<section class="row-layout sports header-section">
+<h2><span><a href="http://www.elmundo.es/deportes.html">DEPORTES</a></span></h2>
+<div class="container-include"><ul><div class="mod-item"><div class="container"><!-- ##IBEXCLU --><script type="text/javascript" Src="https://components.unidadeditorial.es/lib/polyfills/v1.0.23/helpers.min.js"></script><script type="text/javascript" Src="https://components.unidadeditorial.es/lib/polyfills/v1.0.23/custom-elements-es5-adapter.js"></script><script type="text/javascript" Src="https://components.unidadeditorial.es/lib/polyfills/v1.0.23/webcomponents-loader.js"></script><link rel="import" Href="https://components.unidadeditorial.es/visual/sports/ueSportEventsCarousel/v1/ue-sport-events-carousel.html"><!-- ##FBEXCLU --><ue-sport-events-carousel class="ue-c-carousel-theme" limit="18" controls="true" intersection-width="160" link="http://www.elmundo.es/deportes/resultados.html" sort-url="https://e00-elmundo.uecdn.es/assets/agenda/v1/config/es/sort-futbol.json" sport-events-url-base="https://api.unidadeditorial.es/sports/v1/events?site=8&fields=sport,tournament,sportEvent,score,tv,bets,editorialInfo"></ue-sport-events-carousel></div></div></ul></div>
+<div class="container"><ul class="content-items fixed-a-ad js_fixed_container"><li class="content-item"><article class="mod-item mod-news mod-default  deportesfutbol " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/deportes/futbol/2018/10/12/5bbfc97e46163fdc5c8b45c0.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15392957530356.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><p><a href="http://www.elmundo.es/deportes/futbol/2018/10/12/5bbfc97e46163fdc5c8b45c0.html" class="mod-subtitle" title=""><span itemprop="alternativeHeadline">
+Selección española
+</span></a></p><h2 class="mod-title title-280" itemprop="headline"><a href="http://www.elmundo.es/deportes/futbol/2018/10/12/5bbfc97e46163fdc5c8b45c0.html" itemprop="url">Luis Enrique, Iñigo Martínez y la "descoordinación" entre los médicos</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EDUARDO J. CASTELAO</span></li><li itemprop="jobTitle" class="author-status">
+Enviado especial
+</li><li itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress" class="author-city"><span itemprop="addressLocality">Cardiff</span></li></ul></address><meta itemprop="datePublished" content="2018-10-12"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-12 00:07:07"><strong>
+12/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  deportesbaloncesto " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/eventos/en-directo/2018/10/11/62707-real-madrid-darussafaka-dogus/" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392864437267.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/eventos/en-directo/2018/10/11/62707-real-madrid-darussafaka-dogus/" itemprop="url">El Real Madrid comienza lanzado la defensa de la Euroliga</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EL MUNDO</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 20:40:11"><strong>
+11/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default opinion deportesfutbol " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbfb693268e3ee05c8b461a.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392918953694.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbfb693268e3ee05c8b461a.html" itemprop="url">Luis Enrique y la vida de los otros</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">ORFEO SUÁREZ</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 23:02:43"><strong>
+11/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  deportesfutbol " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbf25e1e5fdea5e358b45c3.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392541285628.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbf25e1e5fdea5e358b45c3.html" itemprop="url">El Barcelona deja en evidencia a Arturo Vidal</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">FRANCISCO CABEZAS</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 12:30:03"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbf25e1e5fdea5e358b45c3.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>2<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><aside class="ad-item js_fixed"><div id='div-gpt-ad-portada_rd_526feae561fd3d3c3f8b4578' class="publicidad"></div></aside></li></ul></div>
+<div class="container"><ul class="content-items flex-b"><li class="content-item"><article class="mod-item mod-news mod-default  deportestenis " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/deportes/tenis/2018/10/11/5bbf8cc3e2704e36518b4573.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392810267538.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/deportes/tenis/2018/10/11/5bbf8cc3e2704e36518b4573.html" itemprop="url">"En el ánimo de Rafa está ayudar, no salir en la prensa"</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EUROPA PRESS</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 19:47:59"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/deportes/tenis/2018/10/11/5bbf8cc3e2704e36518b4573.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>85<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  deportesmas-deporte " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/deportes/mas-deporte/2018/10/11/5bbf7f01e2704ece348b456f.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392797652488.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/deportes/mas-deporte/2018/10/11/5bbf7f01e2704ece348b456f.html" itemprop="url">Khabib dejará la UFC si no readmiten al que golpeó a McGregor</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">DAVID RODRÍGUEZ</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 18:56:59"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/deportes/mas-deporte/2018/10/11/5bbf7f01e2704ece348b456f.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>4<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  deportestenis " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/deportes/tenis/2018/10/11/5bbf798622601db15c8b45b6.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/12/15392957828723.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/deportes/tenis/2018/10/11/5bbf798622601db15c8b45b6.html" itemprop="url">Djokovic y Federer se desmarcan de la Davis de Piqué</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">AFP</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 18:26:13"><strong>
+11/10/2018
+</strong></time><ul class="mod-comments"><li><a href="http://www.elmundo.es/deportes/tenis/2018/10/11/5bbf798622601db15c8b45b6.html#ancla_comentarios"><i class="icon-comentarios_16_b"></i>14<span class="hidden-content"> &nbsp;comentarios</span></a></li></ul></footer></article></li></ul></div>
+<div class="container"><ul class="content-items flex-b"><li class="content-item"><article class="mod-item mod-news mod-default  deportesfutbol " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbfc34546163ff36c8b45ae.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392942315818.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/deportes/futbol/2018/10/11/5bbfc34546163ff36c8b45ae.html" itemprop="url">Mbappé evita la derrota de Francia</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">EFE</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 23:42:57"><strong>
+11/10/2018
+</strong></time></footer></article></li><li class="content-item"><article class="mod-item mod-news mod-default  deportesbaloncesto " itemscope="" itemtype="http://schema.org/NewsArticle"><figure class="multimedia-item" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject"><a href="http://www.elmundo.es/deportes/baloncesto/2018/10/11/5bbfa6ae46163fcc2b8b45be.html" title="" class="image-item"><img src="https://e00-elmundo.uecdn.es/iconos/v1.x/v1.0/imgP.gif" onload="lzld(this)" data-src="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/11/15392867792554.jpg" itemprop="url" alt=""/></a></figure><header class="mod-header"><h2 class="mod-title normal" itemprop="headline"><a href="http://www.elmundo.es/deportes/baloncesto/2018/10/11/5bbfa6ae46163fcc2b8b45be.html" itemprop="url">La revolución del Barça no llega a Moscú</a></h2></header><footer class="mod-footer"><address><ul class="mod-author" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><li><span itemprop="name">FRANCISCO CABEZAS</span></li></ul></address><meta itemprop="datePublished" content="2018-10-11"><time class="mod-date n-visible" itemprop="dateModified" datetime="2018-10-11 21:38:37"><strong>
+11/10/2018
+</strong></time></footer></article></li><li class="content-item"><div class="mod-item"><article class="mod-item mod-news mod-default sponsorship" itemscope="" itemtype="http://schema.org/NewsArticle"><div id="player_5ba21568268e3ec22d8b4593" class="vimeo-player"></div><header class="mod-header"><h3 class="mod-title normal" itemprop="headline"><a href="http://www.realidadyficcion.elmundo.es/terror-20-el-nuevo-fenomeno-viral-entre-adolescentes" title="Terror 2.0, el nuevo fenómeno viral entre adolescentes" itemprop="url">
+Terror 2.0, el nuevo fenómeno viral entre adolescentes </a></h3></header></article><script>jQuery(function(){var width_5ba21568268e3ec22d8b4593=jQuery('#player_5ba21568268e3ec22d8b4593').parent().width();var height_5ba21568268e3ec22d8b4593=width_5ba21568268e3ec22d8b4593*9/16;jQuery('#player_5ba21568268e3ec22d8b4593').append('<iframe src="https://player.vimeo.com/video/293901502?autoplay=1i&muted=1i&title=0&byline=0&portrait=0" width="'+width_5ba21568268e3ec22d8b4593+'" height="'+height_5ba21568268e3ec22d8b4593+'" " frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>');});</script></div></li></ul></div>
+</section>
+<script>jQuery.noConflict();jQuery(function(){if(typeof jQuery.fn.Tab==='function'){jQuery('#js_526feae561fd3d3c3f8b4578').find('.js-tabs').Tab();};if(typeof jQuery.fn.ElementoFijo==='function'){jQuery('#js_526feae561fd3d3c3f8b4578').find('.js_fixed').ElementoFijo({elementosAnteriores:['.site-header'],elementoDesdeFixed:'.js_fixed_container ',minWidthFijo:768});};if(navigator.appName.indexOf('Microsoft Internet Explorer')===-1&&navigator.userAgent.indexOf('Trident')===-1){if(jQuery('.YT-player').length>0&&jQuery('script[src*="https://www.youtube.com/iframe_api"]').length===0){try{var s=document.createElement('script');s.async='true';s.type='text/javascript';s.src='https://www.youtube.com/iframe_api';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(s,node);}catch(e){console.error(e);};}else{if(jQuery('script[src*="https://www.youtube.com/iframe_api"]').length>0){document.dispatchEvent(event_youtube_player);};};};});</script>
+</main>
+<div class="container loading-module no-visible">
+<img class="loading-icon" src="https://e00-elmundo.uecdn.es/assets/v11/img/loading-icon.gif" alt="Cargando...">
+<div class="loading-next">
+<p>Cargando siguiente contenido</p>
+<p class="js_navTitulo"></p>
+</div>
+</div>
+<footer class="site-footer horizontal" itemscope="" itemtype="http://schema.org/Organization" role="contentinfo">
+<div class="container-list-footer js-toggle-footer">
+<div class="js-botonera-toggle arrow-toggle" role="button" aria-expanded="false" aria-controls="webs_ue" onclick="footerToggle()">
+<h3>Otras webs de Unidad Editorial</h3>
+</div>
+<section role="region" aria-label="Otras webs de Unidad Editorial" class="js-contenido-toggle container-toggle" id="webs_ue">
+<ul class="list-footer">
+<li class="highlight"><span>El Mundo</span></li>
+<li itemprop="member" itemtype="http://schema.org/Organization"><a href="https://clk.tradedoubler.com/click?p=271538&amp;a=2404199&amp;g=23657328" title="El Mundo en Orbyt" target="_blank" itemprop="url"><span itemprop="name">El Mundo en Orbyt</span></a></li>
+<li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.elmundo.es/economia/vivienda.html" target="_blank" itemprop="url"><span itemprop="name">Su Vivienda</span></a></li>
+<li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.elmundo.es/television/programacion-tv/" target="_blank" itemprop="url"><span itemprop="name">Guía TV</span></a></li>
+<li itemprop="member" itemtype="http://schema.org/Organization"><a href="https://inversionesinmobiliarias.elmundo.es/" target="_blank" itemprop="url"><span itemprop="name">Inversiones inmobiliarias</span></a></li>
+<li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://descuentos.elmundo.es" target="_blank" itemprop="url" rel="nofollow><span itemprop="name">Códigos descuento</span></a></li>
+            </ul>
+            <div id="pixelcontabilizacionNLalerta" class="pixelcontabilizacion" style="position:absolute;top:0px;left:0px;width:1px;height:1px;z-index:1">
+                <img src="https://impes.tradedoubler.com/imp?type(inv)g(23657328)a(2404199)" width="1" height="1" alt="">
+            </div>
+            <ul class="list-footer">
+                <li class="highlight"><span>Ocio y Salud</span></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.telva.com/" target="_blank" itemprop="url"><span itemprop="name">Telva</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.buhomag.com/" target="_blank" itemprop="url"><span itemprop="name">El Búho</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.recetasdecocinadesergio.com/" target="_blank" itemprop="url"><span itemprop="name">Recetas de cocina de Sergio</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://cinemania.elmundo.es/" target="_blank" itemprop="url"><span itemprop="name">Cinemanía</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="https://cuidateplus.marca.com/" target="_blank" itemprop="url"><span itemprop="name">Cuídate Plus</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.diariomedico.com/" target="_blank" itemprop="url"><span itemprop="name">Diario Médico</span></a></li>
+            </ul>
+            <ul class="list-footer">
+                <li class="highlight"><span>Unidad Editorial</span></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.expansion.com/" target="_blank" itemprop="url"><span itemprop="name">Expansión</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.marca.com" target="_blank" itemprop="url"><span itemprop="name">MARCA</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="https://deportes.marcaapuestas.es/es" target="_blank" itemprop="url"><span itemprop="name">Apuestas Deportivas MARCA</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="https://esports.marca.com" target="_blank" itemprop="url"><span itemprop="name">MARCA eSports</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="https://tienda.marca.com/?cid=ZM38603&amp;s_kw=zm_foo_home" target="_blank" itemprop="url"><span itemprop="name">Tienda MARCA</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="https://saposyprincesas.elmundo.es/" target="_blank" itemprop="url"><span itemprop="name">Sapos y Princesas</span></a></li>
+            </ul>
+            <ul class="list-footer">
+                <li class="highlight"><span>Empleo</span></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.escuelaunidadeditorial.es/" title="Masters - Escuela Unidad Editorial" target="_blank" itemprop="url"><span itemprop="name">Escuela Unidad Editorial</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.unidadeditorial.es/" target="_blank" itemprop="url"><span itemprop="name">Unidad Editorial</span></a></li>
+                <li itemprop="member" itemtype="http://schema.org/Organization"><a href="http://www.expansionyempleo.com/" title="Trabajo - Expansion y Empleo" target="_blank" itemprop="url"><span itemprop="name">Expansión y Empleo</span></a>
+                </li>
+            </ul>
+        </section>
+    </div>
+    <div class="container-about-footer">
+        <div class="container">
+            <ul class="partners">
+                <li><a href="http://www.reverso.net/" rel="nofollow"><i class="icon-partners-reverso"></i><span class="hidden-content">Powered by Reverso</span></a></li>
+                <li><a href="http://www.eu.ntt.com/es/index.html" rel="nofollow"><i class="icon-partners-powered-ntt"></i><span class="hidden-content">Powered by NTT</span></a></li>
+            </ul>
+            <ul class="about-list">
+                <li class="copyright">
+                    <span class="icon-elmundo-mobile"></span>
+                    <address aria-label="Dirección y datos de contacto">© <span itemprop="name">Elmundo.es Avda San Luis 25 - 28033 Madrid. Una web de Unidad Editorial</span></address>
+                </li>
+            </ul>
+            <section aria-label="Redes Sociales" class="footer-social-networks">
+                <ul>
+                    <li><a href="https://twitter.com/elmundoes" class="icon-twitter" target="_blank" title="Twitter" itemprop="sameAs"><i class="icon-twitter_30_a"></i><span class="hidden-content">Siguenos en Twitter</span></a></li>
+                    <li><a href="https://www.facebook.com/elmundo" class="icon-facebook" target="_blank" title="Facebook" itemprop="sameAs"><i class="icon-facebook_30_a"></i><span class="hidden-content">Siguenos en Facebook</span></a></li>
+                    <li><a href="http://www.elmundo.es/rss/" class="icon-rss" title="RSS" target="_blank" itemprop="sameAs"><i class="icon-rss_30_a"></i><span class="hidden-content">Agregar RSS</span></a></li>
+                </ul>
+            </section>
+        </div>
+    </div>
+    <div class="container-list-footer">
+        <div class="container">
+            <nav role="navigation" aria-label="Menú corporativo">
+                <ul class="list-corporative">
+                    <li><a title="Política de cookies" href="http://cookies.unidadeditorial.es/" class="js-uecookiespolicy-preferences-show">Política de cookies</a></li>
+                    <li><a title="Política de privacidad" href="http://www.elmundo.es/privacidad/">Política de privacidad</a></li>
+                    <li><a title="Venta de contenidos" href="https://www.uesyndication.com/">Venta de contenidos</a></li>
+                    <li><a title="Términos y condiciones de uso" href="http://www.elmundo.es/privacidad/avisolegal.html">Términos y condiciones de uso</a></li>
+                    <li><a title="Publicidad" href="http://www.unidadeditorial.com/publicidad">Publicidad</a></li>
+                    <li><a title="Certificado por OJD" href="http://www.ojd.es/">Certificado por OJD</a></li>
+                    <li><a title="Contacto" href="http://www.elmundo.es/registro/contacto.html">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</footer>        <script>
+if (typeof gptIsDisableInitialLoad !== 'undefined' && gptIsDisableInitialLoad) {
+	if (typeof IsAPSEnabled === 'undefined' || !IsAPSEnabled) {
+		googletag.cmd.push(function() { googletag.pubads().refresh(); });
+	}
+}
+</script>
+
+                    <script>if (jQuery('#privacyPolicyLayerN').css('display') == 'block'){s.events = s.apl(s.events, 'event49', ',', 1);}jQuery('.privacyA').click(function(){s.linkTrackVars = 'events,eVar12,eVar63,channel,prop1,prop2,prop3,prop4,prop5,prop6,prop7,prop11,prop29,prop30,prop32,prop75,prop33,prop52';s.linkTrackEvents = 'event50';s.tl(this, 'o', 'click en faldon cookies');s.linkTrackVars = 'None';s.linkTrackEvents = 'None';});</script><script>var _npin = Math.random() * 654; if (_npin < 1) {var _prum = [['id', '592d53465992c77990e908e9'], ['mark', 'firstbyte', (new Date()).getTime()]]; (function() { var s = document.getElementsByTagName('script')[0], p = document.createElement('script'); p.async = 'async'; p.src = '//rum-static.pingdom.net/prum.min.js'; s.parentNode.insertBefore(p, s);})();}</script>        
+            <script src="https://e00-elmundo.uecdn.es/assets/v11/js/legazy.min.js" type="text/javascript"></script>
+    <script>
+        if (utilsEvent) {
+            window.dispatchEvent(utilsEvent);
+        }
+    </script>
+    <script src="https://e00-elmundo.uecdn.es/assets/v11/js/desktop.min.js" type="text/javascript" onload="delMBL && delMBL()"></script>
+
+    <script type="text/javascript" src="https://e00-elmundo.uecdn.es/assets/navcontinua/v2/navegacioncontinua.min.js"></script>
+
+        <script type="text/javascript">
+        function onYouTubeIframeAPIReady() {
+            document.dispatchEvent(event_youtube_player);
+        };
+    </script>    <script language="javaScript" type="text/javascript">
+        function autoRefresh()
+        {
+            window.location = location.href;
+        }
+        setTimeout('autoRefresh()', eval(900 * 1000));
+    </script>
+    <noscript>
+        <meta http-equiv="Refresh" content="900" />
+    </noscript>                                    <!-- SiteCatalyst code version: H.25.1.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" data-ue-omniture>
+var s = {};var pageName = "http://www.elmundo.es/";s.pageType="";
+s.pageName=pageName;s.channel="portada";s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.prop6="";s.prop7="elmundo.es";s.prop11="Portada-526feae561fd3d3c3f8b4578";s.hier1="elmundo.es|portada";
+                                    s.prop27="web";
+    s.prop28="0|0";
+s.prop29="Portada";
+s.list2="Portada";
+s.prop30="";
+        s.prop52="";
+    s.prop53="";
+    s.prop32="portada";
+s.hier1 = "elmundo.es|portada" + "|" + "portada";s.prop33="portada-diario";
+s.prop35="origen";
+s.prop36="";
+s.prop39="nuevo-10-12";s.prop75="";
+/* Conversion Variables */
+s.eVar1=s.channel;
+s.eVar2=s.prop1;
+s.eVar3=s.prop2;
+s.eVar4=s.prop3;
+s.eVar5=s.prop4;
+s.eVar6=s.prop5;
+s.eVar7=s.prop7;
+s.eVar11=s.prop11;
+s.eVar27=s.prop27;
+s.eVar28=s.prop28;
+s.eVar29=s.prop29;
+s.eVar30=s.prop30;
+s.eVar31=s.prop6;
+s.eVar32=s.prop32;
+s.eVar33=s.prop33;
+s.eVar39=s.prop39;
+s.eVar52=s.prop52;
+s.eVar53=s.prop53;
+s.eVar75=s.prop75;
+var s_omniture = s;<!-- ==== pageName="http://www.elmundo.es/" ==== -->
+<!-- ==== pageType="" ==== -->
+<!-- ==== channel="portada" ==== -->
+<!-- ==== prop1="" ==== -->
+<!-- ==== prop2="" ==== -->
+<!-- ==== prop3="" ==== -->
+<!-- ==== prop4="" ==== -->
+<!-- ==== prop5="" ==== -->
+<!-- ==== prop6="" ==== -->
+<!-- ==== prop7="elmundo.es" ==== -->
+<!-- ==== prop11="Portada-526feae561fd3d3c3f8b4578" ==== -->
+<!-- ==== hier1="elmundo.es|portada" ==== -->
+<!-- ==== prop29="Portada" ==== -->
+<!-- ==== list2="Portada" ==== -->
+<!-- ==== prop30="" ==== -->
+<!-- ==== prop32="portadilla-nc" ==== -->
+<!-- ==== prop33="portada-diario" ==== -->
+<!-- ==== prop35="origen" ==== -->
+<!-- ==== prop36="" ==== -->
+<!-- ==== prop39="nuevo-10-12" ==== -->
+<!-- ==== prop75="" ==== -->
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+</script>
+
+<script type="text/javascript">
+function DM_prepClient(csid,client) {
+   client.DM_cat("portada > portada-diario > autocover");
+}
+</script>
+
+
+                    
+
+                    <div id="tradedoubler"></div>
+    <script type="text/javascript">
+    setTimeout(function() {
+        var TDConf = TDConf || {};
+        TDConf.Config = {
+            protocol : document.location.protocol, containerTagId : "12029"
+        };
+        var asinTD = document.createElement("script");
+        if(typeof (TDConf) != "undefined"){
+            TDConf.sudomain = ("https:" == document.location.protocol) ? "swrap" : "wrap";
+            TDConf.host = ".tradedoubler.com/wrap";
+            TDConf.containerTagURL = (("https:" == document.location.protocol) ? "https://" : "http://") + TDConf.sudomain + TDConf.host;
+            if (typeof (TDConf.Config) != "undefined") {
+                asinTD.type = 'text/javascript';
+                asinTD.async = true;
+                asinTD.src = TDConf.containerTagURL + "?id="+ TDConf.Config.containerTagId;
+                var container = document.getElementById ("tradedoubler");
+                container.appendChild(asinTD);
+            }
+        }
+    }, 3500);
+
+    </script>
+        <script type="text/javascript">!function(e){function t(o){if(n[o])return n[o].exports;var r=n[o]={exports:{},id:o,loaded:!1};return e[o].call(r.exports,r,r.exports,t),r.loaded=!0,r.exports}var n={};return t.m=e,t.c=n,t.p="",t(0)}([function(e,t,n){"use strict";function o(e,t){0==t.nIndex?r():c.set({prop71:""})}function r(){try{var e=i.getModules();c.set({prop71:u.omniture.tag_origen+"_"+e[0].site+","+u.omniture.tag_origen+"_"+e[1].site}),s.getHtmlfor(e[0],e[1],function(t,n){if(!t){var o=JSON.parse(n),r="div.js-bt";o.length>0&&a.inject(r,o,e)}})}catch(e){}}var i=n(1),s=n(4),a=n(5),u=n(2),c=n(6);try{r(),jQuery(document).on("contentLoaded",o)}catch(e){}},function(e,t,n){"use strict";var o=n(2),r=n(3),i=function(){function e(e,t){var n=0,o=0,i=[];for(o=0;o<t.length;++o)r.isVisited(t[o].site)==e&&(i.push({site:t[o].site,p:t[o].p}),n+=t[o].p);for(o=0;o<i.length;++o)i[o].p/=n;return i}function t(e){for(var t=Math.random(),n=0,o=0;o<e.length-1;++o){if(t>=n&&t<e[o].p+n)return e[o];n+=e[o].p}return e[o]}function n(t){var n=!0;return e(n,t)}function i(t){var n=!1;return e(n,t)}function s(){var e="",r="",s=o.modules,a=n(s),u=i(s);if(0==u.length)for(e=t(s),r=t(s);e==r;)r=t(s);else if(a.length>0&&u.length>1)for(e=t(u),r=t(u);e==r;)r=t(u);else if(1==u.length)e=u.pop(),r=t(a);else for(e=t(s),r=t(s);e==r;)r=t(s);return[e,r]}return{getModules:s,getVisited:n,getNoVisited:i}}();e.exports=i},function(e,t){e.exports={url:"https://e00-elmundo.uecdn.es/json/bt/v1/",omniture:{tag_origen:"elmundo"},cookie_uepref:"ue_pref",sites_codes:{elmundo:"q9od42az2",expansion:"q9od7p0un",marca:"q9oecdx9a",dmedicina:"q9odwb5re",buho:"q9od2rlz4",tiramillas:"q9oei6n3w",telva:"q9oegasjt",fueradeserie:"q9oeajp20",yodona:"q9oek79z7"},modules:[{site:"expansion",p:.4166666666666668},{site:"marca",p:.4166666666666667},{site:"telva",p:.04166666666666667},{site:"dmedicina",p:.125}]}},function(e,t,n){"use strict";var o=n(2),r=function(){function e(){var e=o.sites_codes,t=[],n=localStorage.getItem("kxunidad_segs");if(n&&null!==n)for(var r in e)n.indexOf(e[r])!=-1&&t.push(r);return t}function t(t){var n=e();return t=t.toLowerCase(),n.indexOf(t)!=-1}return{getVisitedPortals:e,isVisited:t}}();e.exports=r},function(e,t,n){"use strict";var o=n(2),r=function(){function e(e,t,n){try{var o=new XMLHttpRequest;o.onreadystatechange=function(){4===o.readyState&&(parseInt(o.status)>=200&&parseInt(o.status)<300?n(!1,o.responseText):n("Request error"))},o.open("GET",e,!0),o.send(t)}catch(e){n(e)}}function t(e,t,n){var o,i=e.site+"_"+t.site;"m"===this.getDevice()&&(i+="_m"),i+=".json",o=r+i,this.fetch(o,{method:"GET",headers:{Accept:"application/json","Content-Type":"application/json"}},n)}function n(){var e="default";if(navigator.cookieEnabled)try{var t=decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;\\s*)"+o.cookie_uepref+"\\s*\\=\\s*([^;]*).*$)|^.*$","i"),"$1"));t&&(e=JSON.parse(t).d)}catch(t){e=null}return e}var r=o.url;return{getHtmlfor:t,fetch:e,getDevice:n}}();e.exports=r},function(e,t,n){"use strict";var o=n(2),r=function(){function e(e){var t=document.createElement("div");return t.innerHTML=e.replace(/^\s*/,""),t}function t(e){return function(t){try{t.ctrlKey||t.shiftKey||t.metaKey||t.button&&1==t.button?envioBTSC(e):window.addEventListener("beforeunload",function(){"function"==typeof envioBTSC&&envioBTSC(e)})}catch(e){}}}function n(n,r,i){var s=o.omniture.tag_origen;[].slice.call(document.querySelectorAll(n)).map(function(n,o){if(r&&r[o]){var a,u=e(r[o]),c=u.getElementsByTagName("a");for(a=0;a<c.length;++a)c[a].onclick=t(s+"_"+i[o].site);n.parentNode.replaceChild(u.firstChild,n)}})}return{inject:n,createElement:e}}();e.exports=r},function(e,t){"use strict";var n=function(e){if("object"==typeof window.s)for(var t in e)void 0!==e[t]&&(window.s[t]=0===e[t]?"0":e[t])};e.exports.set=n}]);</script>
+
+            <div id='div-gpt-ad-portada_fp_526feae561fd3d3c3f8b4578' class="publicidad"></div>
+    <img src="//amplifypixel.outbrain.com/pixel?mid=008d6342efb6be8a979dc0f7a159804afd" alt=""><!-- SiteCatalyst code version: H.21.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script type="text/javascript" src="https://e00-elmundo.uecdn.es/js/s_code_mu.js"></script>
+<script type="text/javascript"><!--
+if (window['s_omniture']) {for(var i in s_omniture) {s[i]=s_omniture[i];}}
+try {omniture_fill_vars_reg_user_metrics('REGMUNDO','UEMeter',s,'UEIdUsrAnon');} catch (omniture_fill_vars_reg_user_exception) {}
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
+//--></script><noscript><img src="https://smetrics.el-mundo.net/b/ss/uevistatest/1/H.21--NS/0"
+height="1" width="1" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.21. -->
+<script type='text/javascript'>var _sf_async_config={};_sf_async_config.uid=52682;_sf_async_config.domain=s?(s.prop7?s.prop7:"elmundo.es"):"elmundo.es";_sf_async_config.useCanonical=true;_sf_async_config.sections=s?(s.channel?s.channel:"no definido"):"no definido";_sf_async_config.authors=s?(s.prop75?s.prop75:"no definido"):"no definido";_sf_async_config.type=s?(s.prop32?s.prop32:"no definido"):"no definido";(function(){function loadChartbeat(){window._sf_endpt=(new Date()).getTime();var e=document.createElement('script');e.setAttribute('language','javascript');e.setAttribute('type','text/javascript');e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');document.body.appendChild(e);}var oldonload=window.onload;window.onload=(typeof window.onload!='function')?loadChartbeat:function(){oldonload();loadChartbeat();};})();</script>
+<!-- Facebook Pixel Code -->
+<script type="didomi/javascript" data-vendor="didomi:facebook">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1175626949248059'); // Insert your pixel ID here.
+fbq('track', 'PageView')
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1175626949248059&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code --></body>
+</html>

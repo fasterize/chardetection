@@ -1,0 +1,1223 @@
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '592658194155317']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=592658194155317&amp;ev=NoScript" /></noscript>
+
+<!DOCTYPE html><html lang="pt-br"> <head> <meta charset="ISO-8859-1"> <meta name="viewport" content ="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">     
+
+ <meta name="keywords" content="olx, bomnegocio, Classificados, Anúncios grátis, à venda, usados, Imóveis, Carros, Motos, Animais de estimação, Empregos, bomnegócio.com, Bom Negócio"> <meta name="author" content="OLX">  <title>OLX - O Maior Site de Compra e Venda do Brasil</title> <link rel="icon" href="https://static.bn-static.com/img-48802/mobile/favicon-16x16.png"> <meta name="mobile-web-app-capable" content="yes"> <link rel="icon" sizes="192x192" href="https://static.bn-static.com/img-48802/mobile/touch/chrome-touch-icon-192x192.png"> <meta name="google-site-verification" content="uqJwtiNExrXVCtT-w4AryaEhN-mU4ognZGnDIX3ds-w" /> <meta name="format-detection" content="telephone=no"> <meta name="apple-mobile-web-app-capable" content="yes"> <meta name="apple-mobile-web-app-status-bar-style" content="black"> <meta name="apple-mobile-web-app-title" content="OLX Brasil"> <link rel="apple-touch-icon" href="https://static.bn-static.com/img-48802/mobile/touch/favicon-touch-icon-iphone.png" sizes="57x57"> <link rel="apple-touch-icon" href="https://static.bn-static.com/img-48802/mobile/touch/favicon-touch-icon-ipad.png" sizes="72x72"> <link rel="apple-touch-icon" href="https://static.bn-static.com/img-48802/mobile/touch/favicon-apple-touch-ipad-retina.png" sizes="114x114"> <link rel="apple-touch-icon" href="https://static.bn-static.com/img-48802/mobile/touch/favicon-apple-touch-iphone-retina.png" sizes="144x144"> <!--[if IE]><link rel="shortcut icon" href="https://static.bn-static.com/img-48802/mobile/favicon-16x16.ico"><![endif]--> <meta name="application-name" content="OLX"> <meta name="msapplication-TileImage" content="https://static.bn-static.com/img-48802/mobile/touch/ms-touch-icon-144x144-precomposed.png"> <meta name="msapplication-TileColor" content="#2978BD">  
+
+
+	<!-- BEGIN CANONICAL LINK -->
+	
+		<link rel="canonical" href="https://www.olx.com.br">
+	
+	<!-- END CANONICAL LINK -->
+
+
+    
+<meta property="og:title" content="OLX - O Maior Site de Compra e Venda do Brasil">
+<meta property="og:site_name" content="OLX">
+<meta property="og:url" content="https://www.olx.com.br">
+<meta property="og:description" content="Oferta. Na OLX você encontra as melhores ofertas perto de você.">
+<meta property="og:image" content="https://static.bn-static.com/img-48802/olx-share.jpg"> 
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+ <meta property="fb:app_id" content="106401512762894">
+ <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@OLX_Brasil">
+<meta name="twitter:creator" content="@OLX_Brasil">
+<meta name="twitter:title" content="OLX - O Maior Site de Compra e Venda do Brasil">
+<meta name="twitter:description" content="Oferta. Na OLX você encontra as melhores ofertas perto de você.">
+<meta name="twitter:image" content="https://static.bn-static.com/img-48802/olx-share.jpg">
+
+<meta name="twitter:app:name:iphone" content="OLX">
+<meta name="twitter:app:id:iphone" content="692808319">
+<meta name="twitter:app:url:iphone" content="
+	
+
+	
+	
+olxapp://main/">
+<meta name="twitter:app:name:ipad" content="OLX">
+<meta name="twitter:app:id:ipad" content="692808319">
+<meta name="twitter:app:url:ipad" content="
+	
+
+	
+	
+olxapp://main/">
+
+<meta name="twitter:url" content="https://www.olx.com.br">
+ <meta property="al:ios:app_store_id" content="692808319" />
+<meta property="al:ios:app_name" content="Bom Negócio" />
+<meta property="al:ios:url" content="
+	
+
+	
+	
+olxapp://main/" />
+ 
+ 
+
+	
+
+	  
+	
+
+	
+	
+
+
+	  
+
+	  <link rel="alternate" href="android-app://com.schibsted.bomnegocio.androidApp/olxapp/main/?source=organic"/>
+
+	
+
+  <link rel="stylesheet" href="https://static.bn-static.com/css-48802/mobile/page_home.css">  <script> document.write('<script src=https://static.bn-static.com/js-48802/' + ('__proto__' in {} ? '' : 'jquery_') + 'mobile/page_home.js></sc' + 'ript>'); </script> <script bna_appl="m_index_mobile" type="text/javascript" src="https://static.bn-static.com/js-48802/bna_mobile.js"></script>  <script type="text/javascript" src="https://static.bn-static.com/js-48802/prebid.min.js"></script> <script type="text/javascript" src="https://static.bn-static.com/js-48802/string.js" charset="utf-8"></script>     <link rel="prefetch" href="https://m.olx.com.br/busca?ca=0_s">  
+ 
+  <script type="text/javascript" src="https://static.bn-static.com/js-48802/new_relic_browser.js"></script>  <!-- BEGIN TAIL --> 
+<!-- TailTarget Tag Manager TT-12113-4/CT-886 -->
+<script>
+(function(i) {
+  var ts = document.createElement('script');
+  ts.type = 'text/javascript';
+  ts.async = true;
+  ts.src = ('https:' == document.location.protocol ? 'https://' : 'https://') + 'tags.t.tailtarget.com/t3m.js?i=' + i;
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(ts, s);
+})('TT-12113-4/CT-886');
+</script>
+<!-- End TailTarget Tag Manager --> <!-- END TAIL --> <script type="application/ld+json"> { "@context": "http://schema.org/", "@type": "WebSite", "name": "OLX", "alternateName": "OLX", "url": "https://www.olx.com.br" } </script> <script type="application/ld+json"> { "@context": "http://schema.org", "@type": "Organization", "name": "OLX", "alternateName": "OLX", "url": "https://www.olx.com.br", "logo": "https://www.olx.com.br/mapa-do-site/static/media/brand-olx.d04ffe18.svg", "sameAs": [ "https://www.facebook.com/olxbrasil", "https://twitter.com/olx_Brasil", "https://plus.google.com/+olxbrasil", "https://www.instagram.com/olxbrasil/", "https://www.youtube.com/user/OLXBrasil" ] } </script> </head> <body> <div id="page" class="site_wapper">  <header class="site_header home" role="banner"> <div class="grid-row"> <div class="grid-col size-35"> <div class="section_logo"> <div class="inner"> <a href="https://m.olx.com.br" class="logo-olx" title="Anúncios grátis - olx.com.br" rel="home">Anúncios grátis - olx.com.br</a> </div> </div> </div> <div class="grid-col size-65"> <div class="section_button"> <div class="inner"> <span class="label-free"> <a href="https://m2.olx.com.br/inserir" title="Inserir anúncio" class="btn btn-large btn-orange btn-ad-insertion" lurker="ad_insertion">Anunciar agora</a> </span> </div> </div> </div> </div></header>  <script> $ (function() { try { var default_ca = bn_cookies.read("default_ca"); var mobile_w = bn_cookies.read("mobile_w"); var loc = bn_cookies.read("loc"); var home_url = "https://m.olx.com.br/"; if (loc != null && default_ca != null && default_ca != "0_s" && document.referrer != home_url) { window.location = "https://m.olx.com.br/busca?ca=" + default_ca + "&w=" + mobile_w; } } catch (err) { } });</script><main class="site_main" role="main"> <div class="page_home">  <div class="section_regions"> <nav class="nav-regions" role="navigation"> <p class="regions_title">Selecione seu estado:</p>   <ul class="state_list">   <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Rio de Janeiro</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=21_s&w=6" onclick="ca('RJ');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=21_s&w=1" onclick="ca('21');" title="Anúncios em DDD 21 - Rio de Janeiro e região">DDD 21 - Rio de Janeiro e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=22_s&w=1" onclick="ca('22');" title="Anúncios em DDD 22 - Norte do Estado e Região dos Lagos">DDD 22 - Norte do Estado e Região dos Lagos</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=24_s&w=1" onclick="ca('24');" title="Anúncios em DDD 24 - Serra, Angra dos Reis e região">DDD 24 - Serra, Angra dos Reis e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">São Paulo</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=11_s&w=6" onclick="ca('SP');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=11_s&w=1" onclick="ca('11');" title="Anúncios em DDD 11 - São Paulo e região">DDD 11 - São Paulo e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=12_s&w=1" onclick="ca('12');" title="Anúncios em DDD 12 - V. do Paraíba e Litoral Norte">DDD 12 - V. do Paraíba e Litoral Norte</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=13_s&w=1" onclick="ca('13');" title="Anúncios em DDD 13 - Baixada Santista e Litoral Sul">DDD 13 - Baixada Santista e Litoral Sul</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=14_s&w=1" onclick="ca('14');" title="Anúncios em DDD 14 - Bauru, Marília e região">DDD 14 - Bauru, Marília e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=15_s&w=1" onclick="ca('15');" title="Anúncios em DDD 15 - Sorocaba e região">DDD 15 - Sorocaba e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=16_s&w=1" onclick="ca('16');" title="Anúncios em DDD 16 - Ribeirão Preto e região">DDD 16 - Ribeirão Preto e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=17_s&w=1" onclick="ca('17');" title="Anúncios em DDD 17 - S. José do Rio Preto e região">DDD 17 - S. José do Rio Preto e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=18_s&w=1" onclick="ca('18');" title="Anúncios em DDD 18 - Presidente Prudente e região">DDD 18 - Presidente Prudente e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=19_s&w=1" onclick="ca('19');" title="Anúncios em DDD 19 - Grande Campinas">DDD 19 - Grande Campinas</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Minas Gerais</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=31_s&w=6" onclick="ca('MG');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=31_s&w=1" onclick="ca('31');" title="Anúncios em DDD 31 - Belo Horizonte e região">DDD 31 - Belo Horizonte e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=32_s&w=1" onclick="ca('32');" title="Anúncios em DDD 32 - Juiz de Fora e região">DDD 32 - Juiz de Fora e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=33_s&w=1" onclick="ca('33');" title="Anúncios em DDD 33 - Gov. Valadares, T. Otoni e região">DDD 33 - Gov. Valadares, T. Otoni e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=34_s&w=1" onclick="ca('34');" title="Anúncios em DDD 34 - Uberlândia, Uberaba e região">DDD 34 - Uberlândia, Uberaba e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=35_s&w=1" onclick="ca('35');" title="Anúncios em DDD 35 - Poços de Caldas e Varginha">DDD 35 - Poços de Caldas e Varginha</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=37_s&w=1" onclick="ca('37');" title="Anúncios em DDD 37 - Divinópolis e região">DDD 37 - Divinópolis e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=38_s&w=1" onclick="ca('38');" title="Anúncios em DDD 38 - Mtes Claros, Diamantina e região">DDD 38 - Mtes Claros, Diamantina e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Paraná</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=41_s&w=6" onclick="ca('PR');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=41_s&w=1" onclick="ca('41');" title="Anúncios em DDD 41 - Curitiba e região">DDD 41 - Curitiba e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=42_s&w=1" onclick="ca('42');" title="Anúncios em DDD 42 - Pta Grossa, Guarapuava e região">DDD 42 - Pta Grossa, Guarapuava e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=43_s&w=1" onclick="ca('43');" title="Anúncios em DDD 43 - Londrina e região">DDD 43 - Londrina e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=44_s&w=1" onclick="ca('44');" title="Anúncios em DDD 44 - Maringá e região">DDD 44 - Maringá e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=45_s&w=1" onclick="ca('45');" title="Anúncios em DDD 45 - Foz do Iguaçu, Cascavel e região">DDD 45 - Foz do Iguaçu, Cascavel e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=46_s&w=1" onclick="ca('46');" title="Anúncios em DDD 46 - F. Beltrão e Pato Branco e região">DDD 46 - F. Beltrão e Pato Branco e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Rio Grande do Sul</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=51_s&w=6" onclick="ca('RS');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=51_s&w=1" onclick="ca('51');" title="Anúncios em DDD 51 - Porto Alegre e região">DDD 51 - Porto Alegre e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=53_s&w=1" onclick="ca('53');" title="Anúncios em DDD 53 - Pelotas, Bagé, Rio Gde e região">DDD 53 - Pelotas, Bagé, Rio Gde e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=54_s&w=1" onclick="ca('54');" title="Anúncios em DDD 54 - Caxias do Sul e região">DDD 54 - Caxias do Sul e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=55_s&w=1" onclick="ca('55');" title="Anúncios em DDD 55 - Sta Maria, Cruz Alta e região">DDD 55 - Sta Maria, Cruz Alta e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Santa Catarina</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=47_s&w=6" onclick="ca('SC');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=47_s&w=1" onclick="ca('47');" title="Anúncios em DDD 47 - Norte de Santa Catarina">DDD 47 - Norte de Santa Catarina</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=48_s&w=1" onclick="ca('48');" title="Anúncios em DDD 48 - Florianópolis e região">DDD 48 - Florianópolis e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=49_s&w=1" onclick="ca('49');" title="Anúncios em DDD 49 - Oeste de Santa Catarina">DDD 49 - Oeste de Santa Catarina</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Espírito Santo</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=27_s&w=6" onclick="ca('ES');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=27_s&w=1" onclick="ca('27');" title="Anúncios em DDD 27 - Norte do Espírito Santo">DDD 27 - Norte do Espírito Santo</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=28_s&w=1" onclick="ca('28');" title="Anúncios em DDD 28 - Sul do Espírito Santo">DDD 28 - Sul do Espírito Santo</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Bahia</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=75_s&w=6" onclick="ca('BA');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=71_s&w=1" onclick="ca('71');" title="Anúncios em DDD 71 - Salvador">DDD 71 - Salvador</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=73_s&w=1" onclick="ca('73');" title="Anúncios em DDD 73 - Sul da Bahia">DDD 73 - Sul da Bahia</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=74_s&w=1" onclick="ca('74');" title="Anúncios em DDD 74 - Juazeiro, Jacobina e região">DDD 74 - Juazeiro, Jacobina e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=75_s&w=1" onclick="ca('75');" title="Anúncios em DDD 75 - F. de Santana, Alagoinhas e região">DDD 75 - F. de Santana, Alagoinhas e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=77_s&w=1" onclick="ca('77');" title="Anúncios em DDD 77 - V da Conquista, Barreiras e região">DDD 77 - V da Conquista, Barreiras e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Pernambuco</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=81_s&w=6" onclick="ca('PE');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=81_s&w=1" onclick="ca('81');" title="Anúncios em DDD 81 - Grande Recife">DDD 81 - Grande Recife</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=87_s&w=1" onclick="ca('87');" title="Anúncios em DDD 87 - Petrolina, Garanhuns e região">DDD 87 - Petrolina, Garanhuns e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Distrito Federal</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=61_s&w=6" onclick="ca('DF');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=61_s&w=1" onclick="ca('61');" title="Anúncios em DDD 61 - Distrito Federal e região">DDD 61 - Distrito Federal e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Ceará</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=85_s&w=6" onclick="ca('CE');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=85_s&w=1" onclick="ca('85');" title="Anúncios em DDD 85 - Fortaleza e região">DDD 85 - Fortaleza e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=88_s&w=1" onclick="ca('88');" title="Anúncios em DDD 88 - Juazeiro do Norte, Sobral e região">DDD 88 - Juazeiro do Norte, Sobral e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Mato Grosso do Sul</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=67_s&w=6" onclick="ca('MS');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=67_s&w=1" onclick="ca('67');" title="Anúncios em DDD 67 - Mato Grosso do Sul">DDD 67 - Mato Grosso do Sul</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Goiás</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=62_s&w=6" onclick="ca('GO');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=62_s&w=1" onclick="ca('62');" title="Anúncios em DDD 62 - Grande Goiânia e Anápolis">DDD 62 - Grande Goiânia e Anápolis</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=64_s&w=1" onclick="ca('64');" title="Anúncios em DDD 64 - Rio Verde, Caldas Novas e região">DDD 64 - Rio Verde, Caldas Novas e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Amazonas</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=92_s&w=6" onclick="ca('AM');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=92_s&w=1" onclick="ca('92');" title="Anúncios em DDD 92 - Região de Manaus">DDD 92 - Região de Manaus</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=97_s&w=1" onclick="ca('97');" title="Anúncios em DDD 97 - Leste do Amazonas">DDD 97 - Leste do Amazonas</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Rio Grande do Norte</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=84_s&w=6" onclick="ca('RN');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=84_s&w=1" onclick="ca('84');" title="Anúncios em DDD 84 - Rio Grande do Norte">DDD 84 - Rio Grande do Norte</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Paraíba</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=83_s&w=6" onclick="ca('PB');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=83_s&w=1" onclick="ca('83');" title="Anúncios em DDD 83 - Paraíba">DDD 83 - Paraíba</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Pará</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=91_s&w=6" onclick="ca('PA');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=91_s&w=1" onclick="ca('91');" title="Anúncios em DDD 91 - Região de Belém">DDD 91 - Região de Belém</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=93_s&w=1" onclick="ca('93');" title="Anúncios em DDD 93 - Região de Santarém">DDD 93 - Região de Santarém</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=94_s&w=1" onclick="ca('94');" title="Anúncios em DDD 94 - Região de Marabá">DDD 94 - Região de Marabá</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Mato Grosso</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=65_s&w=6" onclick="ca('MT');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=65_s&w=1" onclick="ca('65');" title="Anúncios em DDD 65 - Cuiabá e região">DDD 65 - Cuiabá e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=66_s&w=1" onclick="ca('66');" title="Anúncios em DDD 66 - Rondonópolis, Sinop e região">DDD 66 - Rondonópolis, Sinop e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Alagoas</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=82_s&w=6" onclick="ca('AL');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=82_s&w=1" onclick="ca('82');" title="Anúncios em DDD 82 - Alagoas">DDD 82 - Alagoas</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Sergipe</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=79_s&w=6" onclick="ca('SE');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=79_s&w=1" onclick="ca('79');" title="Anúncios em DDD 79 - Sergipe">DDD 79 - Sergipe</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Maranhão</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=98_s&w=6" onclick="ca('MA');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=98_s&w=1" onclick="ca('98');" title="Anúncios em DDD 98 - Região de São Luís">DDD 98 - Região de São Luís</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=99_s&w=1" onclick="ca('99');" title="Anúncios em DDD 99 - Imperatriz, Caxias e região">DDD 99 - Imperatriz, Caxias e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Acre</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=68_s&w=6" onclick="ca('AC');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=68_s&w=1" onclick="ca('68');" title="Anúncios em DDD 68 - Acre">DDD 68 - Acre</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Rondônia</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=69_s&w=6" onclick="ca('RO');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=69_s&w=1" onclick="ca('69');" title="Anúncios em DDD 69 - Rondônia">DDD 69 - Rondônia</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Tocantins</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=63_s&w=6" onclick="ca('TO');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=63_s&w=1" onclick="ca('63');" title="Anúncios em DDD 63 - Tocantins">DDD 63 - Tocantins</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Piauí</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=86_s&w=6" onclick="ca('PI');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=86_s&w=1" onclick="ca('86');" title="Anúncios em DDD 86 - Teresina, Parnaíba e região">DDD 86 - Teresina, Parnaíba e região</a></h3> </li>  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=89_s&w=1" onclick="ca('89');" title="Anúncios em DDD 89 - Picos, Floriano e região">DDD 89 - Picos, Floriano e região</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Amapá</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=96_s&w=6" onclick="ca('AP');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=96_s&w=1" onclick="ca('96');" title="Anúncios em DDD 96 - Amapá">DDD 96 - Amapá</a></h3> </li>  </ul>  </li>    <li onclick="toggleActive(this)" class="state_item"> <h2 class="state_name">Roraima</h2> <ul class="submenu_list"> <li class="submenu_item"><h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=95_s&w=6" onclick="ca('RR');" title="Todo Estado">Todo Estado</a></h3></li> </ul>    <ul class="submenu_list">  <li class="submenu_item"> <h3 class="submenu_name"><a class="link" href="https://m.olx.com.br/busca?ca=95_s&w=1" onclick="ca('95');" title="Anúncios em DDD 95 - Roraima">DDD 95 - Roraima</a></h3> </li>  </ul>  </li>   </ul>  </nav> </div>  </div></main> <!-- START Shopping --> 
+
+<!-- OLX For Shopping<br> -->
+ 
+<div id="module_olx_shopping"></div>
+
+<style>
+  #module_olx_shopping {
+    height: auto !important;
+  }
+</style>
+
+<script>
+  function fixAfshLayout() {
+    const WRAPPER = document.getElementById('module_olx_shopping');
+
+    WRAPPER.style.background = '#fff';
+    WRAPPER.style.height = 'initial';
+    WRAPPER.style.overflow = 'hidden';
+    WRAPPER.style.width = '728px';
+  }
+
+  var OLXShopping = function (options) {
+    this.container = document.getElementById(options.container);
+    this.params = options.params;
+    this.params.category = this.params.category.trim();
+  }
+
+  OLXShopping.prototype.hasHeampContent = function (callback) {
+    var parameters = "&category=" + (this.params.category || 0);
+    const state = '';
+
+    if (this.params.search_kw) {
+      parameters = parameters + "&keyword=" + this.params.search_kw;
+    }
+
+    if (state) {
+      parameters = parameters + "&location_site=" + state;
+    } else if (this.params.uf) {
+      parameters = parameters + "&location_site=" + this.params.uf;
+    }
+
+    var xhttp = new XMLHttpRequest();
+
+    xhttp.onload = function() {
+      if (this.status == 200) {
+        callback(JSON.parse(xhttp.responseText))
+      } else {
+        callback({})
+      }
+    };
+
+    xhttp.open("GET", "https://display.vitrines.in/dynamic-ad/embed.js?zid=1961&prodlst=true" + parameters, true);
+    xhttp.send();
+  }
+  OLXShopping.prototype.isValidCategory = function () {
+    const BLOCKED_CATEGORIES = {
+      1000: 'Imóveis',
+      1020: 'Apartamentos',
+      1040: 'Casas',
+      1060: 'Aluguel de quartos',
+      1080: 'Temporada',
+      1100: 'Terrenos, sítios e fazendas',
+      1120: 'Indústria e comércio',
+      1140: 'Lançamentos',
+      2000: 'Autos e Peças',
+      2020: 'Carros, vans e utilitários',
+      2060: 'Motos',
+      2050: 'Ônibus',
+      2040: 'Caminhões',
+      2080: 'Barcos e aeronaves',
+      2100: 'Peças e acessórios',
+      2101: 'Carros, vans e utilitários',
+      2103: 'Motos',
+      2105: 'Ônibus',
+      2102: 'Caminhões',
+      2104: 'Barcos e aeronaves',
+      10000: 'Animais de Estimação',
+      10040: 'Cachorros e acessórios',
+      10060: 'Gatos e acessórios',
+      10080: 'Cavalos e acessórios',
+      10100: 'Aquários e acessórios',
+      10120: 'Roedores e acessórios',
+      10140: 'Outros animais e acessórios',
+      12000: 'Agro e Indústria',
+      12020: 'Tratores e máquinas agrícolas',
+      12120: 'Máquinas pesadas para construção',
+      12140: 'Máquinas para produção industrial',
+      12040: 'Peças para tratores e máquinas',
+      12100: 'Animais para agropecuária',
+      12160: 'Outros itens para agro e indústria',
+      14000: 'Comércio e escritório',
+      12060: 'Equipamentos e mobiliário',
+      12080: 'Trailers e carrinhos comerciais',
+      7080: 'Outros itens para comércio e escritório',
+      7000: 'Jobs',
+      7060: 'Serviços',
+      7020: 'Empregos'
+    }
+    if (BLOCKED_CATEGORIES[this.params.category.trim()]) {
+      console.warn('ADVERTISING', 'AFSH not available for category', this.params.category)
+      return false
+    }
+
+    return true
+  }
+
+  OLXShopping.prototype.hide = function (callback) {
+    this.container.style.display = 'none'
+  }
+
+  OLXShopping.prototype.printReamp = function () {
+    var _vidata = {
+      product: {
+        category: [this.params.category], location: [this.params.uf], kw_search: [this.params.search_kw]
+      }
+    };
+    (function () {
+      var s = document.createElement('script');
+      var x = document.getElementsByTagName('script')[0];
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = 'https://display.vitrines.in/retargeting/400/tracking.js';
+      x.parentNode.insertBefore(s, x);
+    })();
+
+    var vitrineUrl = '//display.vitrines.in/dynamic-ad/embed.js?zid=1961&container=module_olx_shopping&responsive=true';
+
+    vitrineUrl = vitrineUrl + "&category=" + (this.params.category || 0);
+
+    if (this.params.search_kw) {
+      vitrineUrl = vitrineUrl + "&keyword=" + this.params.search_kw;
+    }
+
+    if (this.params.uf) {
+      vitrineUrl = vitrineUrl + "&location_site=" + this.params.uf;
+    }
+
+    var s = document.createElement('script');
+    var x = document.getElementsByTagName('script')[0];
+    s.type = 'text/javascript';
+    s.src = vitrineUrl;
+    x.parentNode.insertBefore(s, x);
+  }
+
+  OLXShopping.prototype.printAfs = function () {
+    var strCat = this.params.parent_category.trim() || this.params.category.trim();
+
+    if (!this.params.afsh_pub_id) {
+      return console.log('ADVERTISING', 'AFSH called but not available', this.params)
+    }
+
+    if (!this.isValidCategory()) return
+
+    if(!(this.params.search_kw && this.params.search_kw.trim())){
+      return console.log('ADVERTISING', 'AFSH missing kw_search')
+    }
+
+    var s = document.createElement('script');
+    var x = document.getElementsByTagName('script')[0];
+    s.type = 'text/javascript';
+    s.src = 'https://www.google.com/adsense/search/ads.js';
+    x.parentNode.insertBefore(s, x);
+
+    (function (g, o) {
+      g[o] = g[o] || function () {
+        (g[o]['q'] = g[o]['q'] || []).push(
+          arguments)
+      }, g[o]['t'] = 1 * new Date
+    })(window, '_googCsa');
+
+    var adsResponseCallback = function(adContainer, hasAds){
+      if(!hasAds) {
+        console.log("AFSH has no coverage");
+        this.container.hide()
+        return
+      }
+
+      var newItem = document.createElement("h2");
+      var textnode = document.createTextNode("Ofertas patrocinadas");
+
+      var titleHeight = 40
+      var indexOf = adContainer.style.height.indexOf('px')
+      var divHeight = adContainer.style.height.substring(0, indexOf)
+
+      var height = titleHeight + parseInt(divHeight)
+
+      newItem.appendChild(textnode)
+
+      newItem.style.height = 'initial';
+      newItem.style.fontSize = '20px';
+      newItem.style.fontWeight = 'bold';
+      newItem.style.fontStyle = 'normal';
+      newItem.style.fontStretch = 'normal';
+      newItem.style.lineHeight = 'normal';
+      newItem.style.letterSpacing = 'normal';
+      newItem.style.textAlign = 'left';
+      newItem.style.color = '#333333';
+      newItem.style.fontFamily = 'Nunito, sans-serif';
+
+      adContainer.style.height = height + 'px'
+
+      adContainer.insertBefore(newItem, adContainer.childNodes[0]);
+    }
+
+    var pageOptions = {
+      pubId: this.params.afsh_pub_id,
+      query: this.params.search_kw,
+      linkTarget: '_blank',
+      adLoadedCallback: adsResponseCallback
+    };
+
+    var afshblock = {
+      'container': this.container,
+      'width': location.href.indexOf('?q=') > -1 ? 728 : 605,
+      'height': 300
+    };
+
+    _googCsa('plas', pageOptions, afshblock);
+    var container = this.container
+
+    return console.log('ADVERTISING', 'AFSH called with kw', this.params.search_kw, 'pubId', this.params.afsh_pub_id)
+
+  }
+
+  
+  
+  
+  // <pre>shopping_cg:  </pre>
+  // <pre>shopping_var: </pre>
+  // <pre>%: </pre>
+  // <pre>parent_cg:  </pre>
+  // <pre>shopping_category:  % parent_cg</pre>
+  // <pre>parent_category: </pre>
+  // <pre>parent: </pre>
+ // <pre>cg: </pre>
+ // <pre>category: </pre>
+ // <pre>appl: m_index_mobile</pre>
+
+
+
+
+
+var query = '';
+
+
+
+window.shopping = new OLXShopping({
+  container: 'module_olx_shopping',
+  params: {
+    source: 'mobile',
+    uf: '',
+    ddd: '',
+    search_kw: S(query).latinise().s,
+    category: ' ',
+    parent_category: ' ',
+  }
+});
+
+
+
+
+
+
+</script>
+ <!-- END Shopping --> 
+
+
+
+
+	
+
+
+<footer class="site_footer" role="contentinfo">
+	 
+		<div class="section_download-apps hidden">
+			<div class="grid-row mb15px">
+				<div class="grid-col size-100">
+					<div class="inner">
+						<p class="text">Baixe grátis o aplicativo!</p>
+					</div>
+				</div>
+			</div>
+			<div class="grid-row">
+				<div class="grid-col size-100">
+					<div class="inner pr10px pl10px">
+						<a href="https://itunes.apple.com/br/app/apple-store/id692808319?pt=839460&ct=footer-mobile&mt=8" class="btn btn-medium btn-app app-store hidden" target="_blank"></a>
+						<a href="https://play.google.com/store/apps/details?id=com.schibsted.bomnegocio.androidApp&hl=pt_BR&utm_source=mobile&utm_campaign=footer" class="btn btn-medium btn-app google-play hidden" target="_blank"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+
+	
+
+	<h6 class="copyright">Copyright OLX.com.br</h6>
+	<div class="section_nav-footer">
+		<nav class="nav-footer" role="navigation">
+		<ul class="list">
+				<li class="item"><a bna="Footer_help" class="link" href="https://www.olx.com.br/faq.htm" title="Ajuda">Ajuda</a></li>
+				<li class="item"><a bna="Footer_security" class="link" href="https://www.olx.com.br/security_tips.htm" title="Dicas para a sua negociação">Dicas para a sua negociação</a></li>
+				<li class="item"><a bna="Footer_rules" class="link" href="https://www.olx.com.br/rules.htm" title="Regras">Regras</a></li>
+				<li class="item"><a bna="Footer_termsandprivacy" class="link" href="https://www.olx.com.br/copyright.htm" title="Termos de uso">Termos de uso</a></li>
+				<li class="item"><a bna="Footer_privacypolicy" class="link" href="https://www.olx.com.br/privacy_policy.htm" title="Política de Privacidade">Política de Privacidade</a></li>
+				
+					<li class="item"><a bna="Footer_myads" class="link" href="https://m2.olx.com.br/meus_anuncios" title="Meus Anúncios">Meus Anúncios</a></li>
+				
+				<li class="item"><a bna="Footer_webversion" href="https://www.olx.com.br" class="link" onclick="setFullWebVersionCookie('20','.olx.com.br');" title="ver versão web">Ver Versão Web</a></li>
+
+				
+				
+			</ul>
+		
+		</nav>
+	</div>
+</footer>
+ 
+ 
+	<div id="app_smartbanner" class="app_smartbanner hidden">
+		<span class="smartbanner-close" onclick="closeSmartBanner()">×</span>
+		<img class="smartbanner-icon" src="https://static.bn-static.com/img-48802/mobile/transparent.png" alt="Logo OLX">
+		<div class="smartbanner-info">
+			<p class="smartbanner-info-title">Use grátis o app da OLX</p>
+			<p class="smartbanner-info-text">Mais prático e mais rápido!</p>
+		</div>
+			<a href="javascript://" lurker="smartbanner_openapp" data-lurker_app="ios" title="Usar" onclick="show_ios_app();" class="smartbanner-button app-store hidden">Usar</a>
+			<a href="javascript://" lurker="smartbanner_openapp" data-lurker_app="android" title="Usar" title="Usar" onclick="show_android_app();" class="smartbanner-button google-play hidden">Usar</a>
+	</div>
+
+
+
+<script type="text/javascript">
+
+	$(function() {
+		show_app_smart_banner();
+	});
+
+	// VARIAVEIS GLOBAIS
+	user_agent = navigator.userAgent || navigator.vendor || window.opera;
+	hide_asb = bn_cookies.read("hide_app_smart_banner");
+	var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+	var is_explorer = navigator.userAgent.toLowerCase().indexOf('msie') > -1 || navigator.userAgent.toLowerCase().indexOf('iemobile') > -1;
+	var is_firefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
+	var is_safari = navigator.userAgent.toLowerCase().indexOf("safari") > -1;
+	var is_opera = navigator.userAgent.toLowerCase().indexOf("opr") > -1;
+	if ((is_chrome) && (is_safari)) {is_safari=false;}
+	if ((is_chrome) && (is_opera)) {is_chrome=false;}
+
+	// DEFININDO O VALOR DO XITI REFERENTE AO OS DO DISPOSTIVO
+	var deviceOS = "";
+	if ( user_agent.match( /Android/i ) ) {
+		deviceOS = "android";
+	} else if( user_agent.match( /iPad/i ) || user_agent.match( /iPhone/i ) || user_agent.match( /iPod/i ) ) {
+		deviceOS = "ios";
+	}
+
+	// FECHA O SMARTBANNER E SETA VALOR 1 NO COOKIE QUE DEFINE QUE O MESMO NÃO DEVE SER MOSTRADO
+	function closeSmartBanner() {
+		$('#app_smartbanner').remove();
+		bn_cookies.write("hide_app_smart_banner",1);
+		Lurker.send({
+			event_type: 'click',
+			object_detail: 'smartbanner_close',
+			app: deviceOS
+		});
+	}
+
+	// VERIFICA SE O DISPOSITIVO TEM VALOR NULL E SAI;
+	// VERIFICA SE O COOKIE PARA ESCONDER O SMARTBANNER EXISTE, SENÃO ELE EXIBE O SMARTBANNER
+	function show_app_smart_banner() {
+		var sb = document.getElementById("app_smartbanner");
+		if (!hide_asb) {
+			sb.className = sb.className.replace(/\bhidden\b/,'');
+			Lurker.send({
+				event_type: 'view',
+				object_detail: 'smartbanner_view',
+				app: deviceOS
+			});
+		}
+	}
+
+	// REALIZA O REDIRECIONAMENTO PARA DOWNLOAD OU ABERTURA DO APP IOS
+	function show_ios_app() {
+		if ( (is_chrome) || (is_safari) || (is_opera) ) {
+			setTimeout(function () { window.location = "https://itunes.apple.com/br/app/apple-store/id692808319?pt=839460&ct=smartbanner-mobile&mt=8"; }, 25);
+			window.location = "olxapp://";
+		} else {
+			window.location = "https://itunes.apple.com/br/app/apple-store/id692808319?pt=839460&ct=smartbanner-mobile&mt=8";
+		}
+	}
+
+	// REALIZA O REDIRECIONAMENTO PARA DOWNLOAD OU ABERTURA DO APP ANDROID
+	function show_android_app() {
+		if ( (is_chrome) )  {
+			setTimeout(function () { window.location = 'intent://main#Intent;scheme=olxapp;package=com.schibsted.bomnegocio.androidApp;end'; }, 15);
+			window.location = "olxapp://";
+		} else {
+			window.location = 'market://details?id=com.schibsted.bomnegocio.androidApp&utm_source=mobile&utm_campaign=smartbanner';
+		}
+	}
+
+</script>
+
+
+ </div> <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "15236236" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=15236236&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+
+
+
+
+	<script type="text/javascript">
+
+		
+	</script>
+
+
+
+
+
+
+<!-- XITI STAT CODE -->
+<script type="text/javascript">
+<!--
+
+xtnv = document; 
+xtsd = "//logc247"; 
+xtsite = "483760"; 
+xtn2 = "1"; 
+xtpage = "Home_page_mobile"; 
+xtdi = ""; 
+xt_an = ""; 
+xt_ac = ""; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+	xt_multc = "&x1=&x2=&x3=&x4=4&x5=&x6=0&x7=&x8=&x9=&x10=4&x11=&x12=&x13=&x14=0&x15=1&f1=";
+
+ 
+
+function get_xt_multc() { return xt_multc; }
+
+
+
+
+
+
+if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+xt_multc;}
+else{window.xtparam = "&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+
+//-->
+
+</script>
+<script type="text/javascript">
+<!--
+(function(){
+  var at=document.createElement('script');
+  at.type='text/javascript';
+  at.async=true;
+  at.src='https://static.bn-static.com/js-48802/xiti_bn.js';
+  if(typeof(xitiLoadCallback)==='function') {
+	at.onload = function(){xitiLoadCallback();};
+  }
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]||document.getElementsByTagName('script')[0].parentNode).insertBefore(at,null);
+})();
+
+if (getCookie("ad_not_found")) {
+	if(jQuery.inArray("m_index_mobile", ["vi", "m_vi", "li", "m_listing"])) {
+		if( "" == "error_page") {
+			appl = "m_index_mobile";
+			if(appl == "m_vi") {
+				xtpage = "Error_ad_not_found_mobile";
+			} else if(document.referrer == "" || document.referrer.indexOf("olx.com.br") == -1) {
+				xtpage = "Error_ad_not_found_External_Link";
+			} else {
+				xtpage = "Error_ad_not_found";
+			}
+		}
+	}
+}
+//-->
+</script>
+<noscript>
+	<img width="1" height="1" src="//logc247.xiti.olx/hit.xiti?s=483760&s2=1&p=Home_page_mobile&di=&ac=&an=&x1=&x2=&x3=&x4=4&x5=&x6=0&x7=&x8=&x9=&x10=4&x11=&x12=&x13=&x14=0&x15=1&f1=" alt="xiti">
+</noscript>
+<!-- END XITI TAGGING -->
+
+
+
+<!-- BEGIN TAG MANAGER -->
+
+
+
+
+
+
+<script type="text/javascript">
+	var mobileSources = ['mobile', 'msite', 'ios', 'android'];
+
+	function isMobile() {
+		var source = getSource();
+
+		if (mobileSources.indexOf(source) != -1) {
+			return true;
+		}
+		return false;
+	}
+
+	function getSource() {
+		var userAgent = navigator.userAgent.toLowerCase();
+		var source = "";
+
+		if (window.bna_vars && bna_vars.src) {
+			if (bna_vars.src == 'w') {
+				source = 'web';
+			} else if (bna_vars.src == 'm') {
+				source = 'msite';
+			}
+		} else {
+			source = 'mobile'.toLowerCase();
+			if (source == 'mobile') {
+				source = 'msite'
+			}
+		}
+
+		var resultMatch = userAgent.match(/olx-source\/(\w+);/);
+		if (resultMatch) {
+			source = resultMatch[1];
+		}
+
+		if (mobileSources.indexOf(source) == -1 && source != 'web') {
+			source = 'web';
+		}
+
+		return source;
+	}
+
+	dataLayer = function() {
+		var initialDatalayer = {
+			'config': {
+				'lurkerURL': '//tracking.olx.com.br/track'
+			},
+			'site': {
+				'isMobile': isMobile(),
+				'source': getSource()
+			},
+			'page': {
+				'pageType': 'home',
+				'detail': {
+					
+					
+					
+					'state_id': '',
+					
+					
+					
+				},
+				
+			},
+			'session': {
+				'user': {
+					'userID': null,
+					'loginType': null
+				}
+			},
+			
+
+			'pageType': 'Home_page_mobile',
+			'abtestingEnable' : '1',
+
+			
+
+			// Listing information
+			
+			
+			
+
+			// Ad information
+			
+			
+			
+			'category': '',
+			
+			
+			'listId': '',
+
+			//Account Information
+			
+			'loggedUser':'0',
+			'source': 'mobile',
+			'referrer': '',
+			'loggedUserPhoneValidated':false,
+			
+
+			//User Information
+			
+			
+		};
+
+		if (self.adParams) {
+			for (key in adParams) {
+				var page = initialDatalayer.page;
+				page.detail[key] = adParams[key];
+				if (page.adDetail) {
+					page.adDetail[key] = adParams[key];
+				}
+			}
+		}
+		return [initialDatalayer];
+	}();
+</script>
+
+<script type="text/javascript" src="https://cdn.simility.com/b.js"></script>
+
+<script type="text/javascript" src="//static.olx.com.br/olx/js/lurker.min.js"></script>
+
+	<!-- Google Tag Manager -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-6QC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">
+	var userAgent = navigator.userAgent.toLowerCase();
+	var isIOSApp = userAgent.match(/olx-source\/ios;/);
+	var version = userAgent.match(/olx-source-version\/(.*);/);
+
+	if(!isIOSApp || (isIOSApp && version >= '11.5.3')) {
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		document.location.protocol+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-6QC7');
+	}
+</script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5L4NM3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">
+	var userAgent = navigator.userAgent.toLowerCase();
+	var isIOSApp = userAgent.match(/olx-source\/ios;/);
+	var version = userAgent.match(/olx-source-version\/(.*);/);
+
+	if(!isIOSApp || (isIOSApp && version >= '11.5.3')) {
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		document.location.protocol+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5L4NM3');
+	}
+</script>
+
+
+<!-- End Google Tag Manager -->
+
+
+<!-- END TAG MANAGER -->
+ 
+
+
+  <script>
+function setFullWebVersionCookie(expiration_minutes,domain) {
+	var today = new Date();
+	var expire = new Date();
+	expire.setTime(today.getTime() + 1000*60*expiration_minutes);
+	document.cookie = "web_version="+escape(1)
+	+";expires="+expire.toGMTString()
+	+";path=/"
+	+";domain="+escape(domain);
+	return true;
+}
+</script>
+ <script>
+var account_domain = "https://www3.olx.com.br",
+mobile_domain = "https://m2.olx.com.br",
+mobile_account_domain = "https://m2.olx.com.br";
+
+</script>
+ 
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+
+	
+		
+	
+
+	
+		
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+		
+		
+
+ 
+
+<script>
+	var getTailTargetParam = function(a) {
+		var ttCookieName = "_ttdmp";
+		if (!window._ttprofilescache) {
+			window._ttprofilescache = {};
+				try {
+				var c = document.cookie.match('(^|;)\\s*' + ttCookieName + '\\s*=\\s*([^;]+)');
+				var d = c ? c.pop().split('|') : [];
+				for (var i = 0; i < d.length; i++) {
+					var kv = d[i].split(":");
+					if (kv[1] && kv[1].indexOf(",") > 0) {
+						window._ttprofilescache[kv[0]] = kv[1].split(",");
+					} else {
+						window._ttprofilescache[kv[0]] = kv[1];
+					}
+				}
+			} catch (e) {}
+		}
+		return window._ttprofilescache[a] ? window._ttprofilescache[a] : 'na';
+	};
+
+  var trackableAdUnits = {};
+  var hasTrackedAllAdUnits = false;
+  var trackableAdUnitsTimeout = 6000;
+
+  
+      
+      
+  
+  var pbjs = pbjs || {};
+  pbjs.que = pbjs.que || [];
+
+  pbjs.que.push(function() {
+      pbjs.enableSendAllBids();
+  });
+	
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+
+	googletag.cmd.push(function() {
+	    googletag.pubads().disableInitialLoad();
+	});
+
+	pbjs.que.push(function() {
+    var adUnits = [
+    
+	];
+
+	var arrayTrackableAds = [
+    
+    ];
+
+	var uniqueAdUnits = {};
+	adUnits.forEach(function(adUnit) {
+		uniqueAdUnits[adUnit.code] = adUnit;
+	});
+	adUnits = [];
+	Object.keys(uniqueAdUnits).forEach(function(key) {
+		adUnits.push(uniqueAdUnits[key]);
+	});
+
+	var uniqueTrackableAds = {};
+	arrayTrackableAds.forEach(function(trackableAd) {
+		uniqueTrackableAds[trackableAd.code] = trackableAd;
+	});
+
+	arrayTrackableAds = [];
+	Object.keys(uniqueTrackableAds).forEach(function(key) {
+		arrayTrackableAds.push(uniqueTrackableAds[key]);
+	});
+	arrayTrackableAds.forEach(function(adUnit) {
+		trackableAdUnits[adUnit.code] = {
+			start_load: new Date().getTime()
+		}
+	});
+
+    pbjs.addAdUnits(adUnits);
+    pbjs.requestBids({
+        bidsBackHandler: sendAdserverRequest
+    });
+  });
+
+	function sendAdserverRequest() {
+	    if (pbjs.adserverRequestSent) return;
+	    pbjs.adserverRequestSent = true;
+	    googletag.cmd.push(function() {
+	        pbjs.que.push(function() {
+	            pbjs.setTargetingForGPTAsync();
+	            googletag.pubads().refresh(dfpSlots, { changeCorrelator: false });
+	        });
+	    });
+	}
+
+	var PREBID_TIMEOUT = 3000;
+
+	setTimeout(function() {
+	    sendAdserverRequest();
+	}, PREBID_TIMEOUT);
+
+</script>
+
+<script type="text/javascript">
+	var generateGUID = (typeof(window.crypto) != 'undefined' && 
+                typeof(window.crypto.getRandomValues) != 'undefined') ?
+    function() {
+        // If we have a cryptographically secure PRNG, use that
+        // https://stackoverflow.com/questions/6906916/collisions-when-generating-uuids-in-javascript
+        var buf = new Uint16Array(8);
+        window.crypto.getRandomValues(buf);
+        var S4 = function(num) {
+            var ret = num.toString(16);
+            while(ret.length < 4){
+                ret = "0"+ret;
+            }
+            return ret;
+        };
+        return (S4(buf[0])+S4(buf[1])+"-"+S4(buf[2])+"-"+S4(buf[3])+"-"+S4(buf[4])+"-"+S4(buf[5])+S4(buf[6])+S4(buf[7]));
+    }
+
+    :
+
+    function() {
+        // Otherwise, just use Math.random
+        // https://stackoverflow.com/questions/105034/how-to-create-a-guid-uuid-in-javascript/2117523#2117523
+        return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+            var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8);
+            return v.toString(16);
+        });
+    };
+
+	(function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+
+    function get_ranges(min_value, max_value) {
+        var ranges = [
+            
+        ];
+
+        var final_ranges = [],
+            min,
+            max;
+
+        for (var i = 0, len = ranges.length; i < len; ++i) {
+            min = ranges[i][0], max = ranges[i][1];
+            if (min_value < max && max_value >= min) {
+                final_ranges.push(min + '-' + (max !== Number.POSITIVE_INFINITY ? max : 'mais'));
+            }
+        }
+        return final_ranges;
+    }
+
+    var largura = jQuery(window).width();
+
+    var dfpSlots = [];
+    var scrollBannerSlots = [];
+    var scrollBanner;
+    var scrollBannerData;
+
+    googletag.cmd.push(function() {
+    
+		var public_account_id = '';
+		googletag.pubads().setPublisherProvidedId(public_account_id);
+		
+		
+
+		googletag.pubads().setTargeting('bairro', []);
+
+		
+		
+
+		googletag.pubads().setTargeting("plataforma", "msite");
+		var vasTransactionId; 
+
+		// Begin Hydra targeting
+		
+		// End Hydra Targeting
+
+		
+
+		
+
+		// Begin TailTarget Params
+		googletag.pubads().setTargeting('cluster', getTailTargetParam('LS'));
+		googletag.pubads().setTargeting('subjects', getTailTargetParam('S'));
+		googletag.pubads().setTargeting('team', getTailTargetParam('T'));
+		googletag.pubads().setTargeting('sclass', getTailTargetParam('C'));
+		googletag.pubads().setTargeting('microsegments', getTailTargetParam('U'));
+		googletag.pubads().setTargeting('customaud', getTailTargetParam('CA'));
+		googletag.pubads().setTargeting('equipment', getTailTargetParam('E'));
+		googletag.pubads().setTargeting('age', getTailTargetParam('A'));
+		googletag.pubads().setTargeting('gender', getTailTargetParam('G'));
+		// End TailTarget Params
+
+		googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+			var code = event.slot.getSlotElementId();
+			var format = event.size.join('x');
+
+			trackableAdUnits[code].end_load = new Date().getTime();
+			trackableAdUnits[code].creative_id = event.creativeId;
+			trackableAdUnits[code].line_item = event.lineItemId;
+			trackableAdUnits[code].format = format;
+			trackableAdUnits[code].rendered = true;
+
+			OLX.Advertisement.Dfp.setStateSlot(code, event.creativeId, event.lineItemId, event.isEmpty, format, vasTransactionId);
+
+			var allUnitsAreRendered = true;
+			for (var unitCode in trackableAdUnits) {
+				if (!trackableAdUnits[unitCode].rendered) {
+					allUnitsAreRendered = false;
+				}
+			}
+			if (allUnitsAreRendered) {
+				sendTrackableAdUnitsToLurker();
+			}
+			
+			if (code == 'web_listing_banner_top' && event.size[1] == 250) {
+				setTimeout(function() {
+					var billboard_disabled_time = parseInt('400' || 0);
+					// ï¿½ billboard
+					jQuery('#' + code)
+						.addClass('disabled-billboard')
+						.css('height', 250);
+					setTimeout(function() {
+						jQuery('#' + code).removeClass('disabled-billboard')
+					}, 600 + billboard_disabled_time);
+				});
+			}
+
+			if (code === 'advertising_vas_adview'){						
+				jQuery('.OLXad-separator')
+					.hide()
+			}else{
+				jQuery('.OLXad-separator')
+						.show()
+			}
+
+		});
+
+		var trackAdUnitsTimeout = setTimeout(function() {
+			sendTrackableAdUnitsToLurker();
+		}, trackableAdUnitsTimeout);
+
+		var sendTrackableAdUnitsToLurker = function() {
+			if (hasTrackedAllAdUnits) {
+				return;
+			}
+			clearTimeout(trackAdUnitsTimeout);
+			hasTrackedAllAdUnits = true;
+			trackableAdUnits.vas_transaction_id = vasTransactionId;
+			Lurker.send({
+				event_type: 'impression',
+				object_detail: 'advertising',
+				adv_data: trackableAdUnits
+			});
+			return null;
+		}
+
+		window.onbeforeunload = sendTrackableAdUnitsToLurker;
+
+		if(window.crtg_content != null) {
+			if(crtg_content.match('.*criteo600=1.*')) {
+				googletag.pubads().setTargeting("criteo600", "1");
+			}
+		}
+
+		if (window.bn_cookies) {
+			var testABOnlineSalesBanner = bn_cookies.read("TestAB_OnlineSalesBanner");
+			var testABPub734            = "PUB-734-" + (bn_cookies.read("TestAB_PUB734")  || "ORIGINAL");
+			var testABRec9              = "REC9-"    + (bn_cookies.read("TestAB_REC9")    || "ORIGINAL");
+			var testABRecAdv2           = "RECADV2-" + (bn_cookies.read("TestAB_RECADV2") || "ORIGINAL");
+
+			googletag.pubads().setTargeting("onlie_sales_banner", testABOnlineSalesBanner == 'A' ? "true" : "false");
+			googletag.pubads().setTargeting("TestAB_REC9"       , testABRec9);
+			googletag.pubads().setTargeting("TestAB_RECADV2"    , testABRecAdv2);
+		}
+
+		googletag.pubads().enableSingleRequest();
+	});
+
+
+	var dfp_push = function() {
+		if (window.dfp_push_called) return;
+		window.dfp_push_called = true;
+
+		googletag.cmd.push(function() {
+		
+		try{ nvg34409.dfpnvg(); } catch(e){};
+		googletag.enableServices();
+			
+			scrollBannerStart(scrollBannerSlots);
+		});
+	};
+
+	jQuery(document).on('ready', function () {
+		
+		setTimeout(dfp_push, 1000);
+
+	});
+
+	function scrollBannerStart(slots) {
+		function findBannerMatch(slot) {
+			return slot.match(/web_listing_banner_right_.*/i);
+		}
+
+		scrollBannerDataSlots = slots.filter(findBannerMatch);
+
+		if (scrollBannerDataSlots.length == 2) {
+			scrollBannerData = {
+				containerHeight: jQuery(document).height(),
+				positions: [
+					{
+						name: scrollBannerDataSlots[0],
+						limits: [
+							{
+								limit: 1500.0, action: 'stay', y: 0.0
+							},
+							{
+								limit: 2100.0, action: 'run', y: 1500.0
+							},
+							{
+								limit: 2700.0, action: 'stay', y: -600.0
+							}
+						]
+					},
+					{
+						name: scrollBannerDataSlots[1],
+						limits: [
+							{
+								limit: 1500.0, action: 'stay', y: 600.0
+							},
+							{
+								limit: 2100.0, action: 'run', y: 2100.0
+							},
+							{
+								limit: 5000.0, action: 'stay', y: 0.0
+							}
+						]
+					}
+				]
+			}
+			scrollBanner = new ScrollBanner(scrollBannerData)
+			scrollBanner.start()
+		}
+	}
+
+</script>
+
+ <script type="text/javascript">
+// -- OLX_HELPER BEGIN --
+(function() {
+    'use strict';
+
+    window.OLX_HELPER = window.OLX_HELPER || {};
+
+    window.OLX_HELPER = (function() {
+        var Helper = function() {};
+
+        if (document.domain.match(/^m\./i)) {
+            Helper.platform = "mobile";
+        } else {
+            Helper.platform = "web";
+        }
+        Helper.appl = "m_index_mobile";
+        return Helper;
+    })();
+})();
+// -- OLX_HELPER END --
+</script>
+ 
+ <script type="text/javascript" src="//static.olx.com.br/pp/js/pp-inject.js" ></script> </body></html><!-- 2018-10-12 03:35:51 mobile-0b3b46ae1b3ca7df0 3266 -->

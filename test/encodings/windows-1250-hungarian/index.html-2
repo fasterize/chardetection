@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage">
+<head>
+<title>GRY-OnLine.pl - Gry Online dla wszystkich, Gry Komputerowe, Gry na Konsole, Darmowe Gry - wszystko o grach | GRYOnline.pl</title>
+<meta property="og:title" name="twitter:title" content="GRY-OnLine.pl - Gry Online dla wszystkich, Gry Komputerowe, Gry na Konsole, Darmowe Gry - wszystko o grach | GRYOnline.pl">
+<meta property="og:description" name="description" content="Na GRYOnline.pl znajdziesz wiadomoœci o grach i darmowe gry do grania. Encyklopedia Gier zawiera opisy gier na PC, konsole PS4, Xbox One, Switch, urz¹dzenia mobilne i inne platformy. Znajdziecie u nas poradniki do gier, filmy video z gier, w dziale Czytaj o Grach s¹ przygotowane dla Ciebie recenzje i zapowiedzi gier oraz growe teksty publicystyczne. Nasza telewizja dla graczy tvgry.pl zaprasza Ciê codziennie na nowe programy. W dziale Pobierz znajdziesz pliki zwi¹zane z grami. Je¿eli chcesz porozmawiaæ z innymi graczami, zapraszamy na forum dyskusyjne. ">
+<meta itemprop="description" content="Na GRYOnline.pl znajdziesz wiadomoœci o grach i darmowe gry do grania. Encyklopedia Gier zawiera opisy gier na PC, konsole PS4, Xbox One, Switch, urz¹dzenia mobilne i inne platformy. Znajdziecie u nas poradniki do gier, filmy video z gier, w dziale Czytaj o Grach s¹ przygotowane dla Ciebie recenzje i zapowiedzi gier oraz growe teksty publicystyczne. Nasza telewizja dla graczy tvgry.pl zaprasza Ciê codziennie na nowe programy. W dziale Pobierz znajdziesz pliki zwi¹zane z grami. Je¿eli chcesz porozmawiaæ z innymi graczami, zapraszamy na forum dyskusyjne. ">
+<link rel="canonical" href="https://www.gry-online.pl/">
+<meta property="og:url" content="https://www.gry-online.pl/">
+<meta charset="windows-1250">
+<meta property="og:locale" content="pl_PL">
+<meta property="fb:app_id" content="118783244813558">
+<meta property="fb:pages" content="119212621459574" />
+
+<meta property="og:site_name" content="GRY-Online.pl">
+<meta http-equiv="imagetoolbar" content="no">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#b91d47">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="dns-prefetch" href="https://tvgry.pl"><link rel="dns-prefetch" href="https://gameplay.pl"><link rel="dns-prefetch" href="https://cdn.gracza.pl"><link rel="dns-prefetch" href="https://cdn2.gracza.pl"><link rel="dns-prefetch" href="https://cdn3.gracza.pl">
+<link rel="dns-prefetch" href="https://ads.gry-online.pl"><link rel="dns-prefetch" href="https://www.googletagservices.com"><link rel="dns-prefetch" href="https://sb.scorecardresearch.com">
+<link rel="dns-prefetch" href="https://ajax.googleapis.com"><link rel="dns-prefetch" href="https://fonts.googleapis.com"><link rel="dns-prefetch" href="https://fonts.gstatic.com">
+<link rel="dns-prefetch" href="https://ced.sascdn.com"><link rel="dns-prefetch" href="https://www14.smartadserver.com"><link rel="dns-prefetch" href="https://images9.gry-online.pl">
+<link rel="dns-prefetch" href="https://www.google-analytics.com"><link rel="dns-prefetch" href="https://gapl.hit.gemius.pl"><link rel="dns-prefetch" href="https://connect.facebook.net">
+
+<meta property="og:type" content="website">
+<meta name="robots" content="index, follow, noodp"><style>@font-face{font-family:"Roboto";font-style:italic;font-weight:400;src:local("Roboto Italic"),local("Roboto-Italic"),url(https://fonts.gstatic.com/s/roboto/v16/dFWsweFqlD8ExfyN7Gh_GPesZW2xOQ-xsNqO47m55DA.woff) format("woff")}@font-face{font-family:"Roboto";font-style:italic;font-weight:500;src:local("Roboto Medium Italic"),local("Roboto-MediumItalic"),url(https://fonts.gstatic.com/s/roboto/v16/OLffGBTaF0XFOW1gnuHF0dIh4imgI8P11RFo6YPCPC0.woff) format("woff")}@font-face{font-family:"Roboto";font-style:italic;font-weight:700;src:local("Roboto Bold Italic"),local("Roboto-BoldItalic"),url(https://fonts.gstatic.com/s/roboto/v16/t6Nd4cfPRhZP44Q5QAjcC9Ih4imgI8P11RFo6YPCPC0.woff) format("woff")}@font-face{font-family:"Roboto";font-style:normal;font-weight:400;src:local("Roboto"),local("Roboto-Regular"),url(https://fonts.gstatic.com/s/roboto/v16/Xyjz-jNkfiYuJf8UC3Lizw.woff) format("woff")}@font-face{font-family:"Roboto";font-style:normal;font-weight:500;src:local("Roboto Medium"),local("Roboto-Medium"),url(https://fonts.gstatic.com/s/roboto/v16/oOeFwZNlrTefzLYmlVV1UD8E0i7KZn-EPnyo3HZu7kw.woff) format("woff")}@font-face{font-family:"Roboto";font-style:normal;font-weight:700;src:local("Roboto Bold"),local("Roboto-Bold"),url(https://fonts.gstatic.com/s/roboto/v16/97uahxiqZRoncBaCEI3aWz8E0i7KZn-EPnyo3HZu7kw.woff) format("woff")}@font-face{font-family:"Roboto Condensed";font-style:normal;font-weight:300;src:local("Roboto Condensed Light"),local("RobotoCondensed-Light"),url(https://fonts.gstatic.com/s/robotocondensed/v14/b9QBgL0iMZfDSpmcXcE8nCj3Mi2hOMP9GNHlaDA9WRI.woff) format("woff")}@font-face{font-family:"Roboto Condensed";font-style:normal;font-weight:400;src:local("Roboto Condensed"),local("RobotoCondensed-Regular"),url(https://fonts.gstatic.com/s/robotocondensed/v14/Zd2E9abXLFGSr9G3YK2MsK8NE7_Gi-Xz52ZQ_AwfA78.woff) format("woff")}@font-face{font-family:"Roboto Condensed";font-style:normal;font-weight:700;src:local("Roboto Condensed Bold"),local("RobotoCondensed-Bold"),url(https://fonts.gstatic.com/s/robotocondensed/v14/b9QBgL0iMZfDSpmcXcE8nJT5GEmoOtNsejy4tIPLwv0.woff) format("woff")}abbr,address,article,aside,audio,b,blockquote,body,canvas,caption,cite,code,dd,del,details,dfn,div,dl,dt,em,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,main,mark,menu,nav,object,ol,p,pre,q,samp,section,small,span,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,ul,var,video{margin:0;padding:0;border:0;outline:0;background:transparent}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section{display:block}body{min-width:320px;-webkit-text-size-adjust:none;background:#f4f4f4}a{margin:0;padding:0;background:transparent;text-decoration:none;cursor:pointer}a:link,a:visited{outline:none}a:hover{text-decoration:underline}:focus{outline:none}img{display:block;font-size:14px}input,select{vertical-align:middle}*{box-sizing:border-box}svg{fill:none}.top-extra-tlo{background:rgba(0,0,0,.05)}.clr{clear:both}.ff-rob-cond,div,figcaption,h1,h2,h3,h4,h5,h6,img,input,li,nav,ol,option,p,select,td,textarea,th,ul{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}.fonts-loaded .gpc *,.fonts-loaded div,.fonts-loaded figcaption,.fonts-loaded img,.fonts-loaded input,.fonts-loaded li,.fonts-loaded nav,.fonts-loaded ol,.fonts-loaded option,.fonts-loaded p,.fonts-loaded select,.fonts-loaded td,.fonts-loaded textarea,.fonts-loaded th,.fonts-loaded ul{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}.fonts-loaded .ff-rob-cond,.fonts-loaded .mnu-third a span,.fonts-loaded h1,.fonts-loaded h2,.fonts-loaded h3,.fonts-loaded h4,.fonts-loaded h5,.fonts-loaded h6{font-family:"Roboto Condensed","Helvetica Neue",Helvetica,Arial,sans-serif}.fonts-loaded .jw-icon{font-family:"jw-icons"}main{width:100%;margin-left:auto;margin-right:auto;clear:both;background:#fff;cursor:default;min-height:1000px;min-width:320px;padding-bottom:10px}main:after,section:after{content:"";display:block;clear:both}article,section{background:#fff;position:relative}article,aside,section{width:100%;float:none}@media screen and (min-width:1024px){main{width:1000px}section.article-left{width:670px;float:left}aside{width:320px;float:right;padding-top:20px}}@media screen and (min-width:1680px){main{width:1300px}section.article-left{width:980px;float:left}aside{width:320px;float:right}}@media screen and (max-width:640px){aside{padding-left:0;padding-right:0}}.mnu-top-c{margin-bottom:10px}.mnu-top,.mnu-top-c{width:1000px;margin-left:auto;margin-right:auto}.mnu-top{height:130px;position:relative;background:#fff}.mnu-top-img-back{width:1000px;height:130px;position:absolute;left:0;top:0;overflow:hidden;background:#000}.mnu-top-img-back img{position:relative;left:-100px}.mnu-top-logo{width:149px;top:56px}.mnu-gp-top-logo,.mnu-top-logo{height:28px;display:block;position:relative;left:18px}.mnu-gp-top-logo{width:233px;top:60px}.mnu-top-logo-big{width:260px;height:49px;top:34px}.mnu-gp-top-logo-big,.mnu-top-logo-big{display:block;position:relative;left:18px}.mnu-gp-top-logo-big{width:300px;height:36px;top:50px}.mnu-gp-top-logo-big:hover,.mnu-gp-top-logo:hover,.mnu-top-logo-big:hover,.mnu-top-logo:hover{opacity:.7}.mnu-top-tit-a{position:absolute;left:17px;top:18px;display:block;font-weight:300;font-size:34px;line-height:34px;letter-spacing:-1px;color:#fff;text-transform:uppercase;opacity:.9}.mnu-top-tit-a:hover{text-decoration:none;opacity:.7}.g17-hamb-c{width:49px;height:49px;display:block;cursor:pointer;position:absolute;top:40px;right:8px;opacity:1}.g17-hamb{display:block;width:70%;height:15%;background:#fff;position:relative;top:40%;left:15%}.g17-hamb:before{top:150%}.g17-hamb:after,.g17-hamb:before{content:"";position:absolute;left:0;background:#fff}.g17-hamb:after{bottom:150%}.g17-hamb-close{background:none}.g17-hamb-close:before{content:"";position:absolute;left:0;top:0;transform:rotate(45deg)}.g17-hamb-close:after{content:"";position:absolute;left:0;bottom:0;transform:rotate(-45deg)}.g17-hamb-close:after,.g17-hamb-close:before,.g17-hamb:after,.g17-hamb:before{display:block;background:#fff;width:100%;height:100%;transition:all .2s}.g17-hamb-close:after,.g17-hamb-close:before{background:#fff}.g17-hamb-c:hover{opacity:.8}.mnu-ico-fb,.mnu-ico-tw,.mnu-ico-yt{width:22px;height:22px;display:block}.mnu-ico-fb svg{width:22px;height:22px}.mnu-ico-fb svg,.mnu-ico-tw svg circle,.mnu-ico-yt svg,.mnu-ico-yt svg circle{fill:#4a4a4a}.mnu-ico-fb svg path,.mnu-ico-tw svg path,.mnu-ico-yt svg path{fill:#ccc}.mnu-top .mnu-ico-fb{position:absolute;right:80px;top:11px}.mnu-ico-fb:hover svg circle{fill:#3b5998}.mnu-top .mnu-ico-yt{position:absolute;right:50px;top:11px}.mnu-ico-yt:hover svg circle{fill:#ca3737}.mnu-top .mnu-ico-tw{position:absolute;right:20px;top:11px}.mnu-ico-tw:hover svg circle{fill:#1da1f2}.mnu-ico-fb:hover svg path,.mnu-ico-tw:hover svg path,.mnu-ico-yt:hover svg path{fill:#fff}.mnu-top-close{width:16px;height:16px;display:block;position:absolute;top:17px;right:70px}.mnu-top-close svg{fill:#777}.mnu-top-close:hover svg{fill:#ccc;cursor:pointer}.mnu-top-logowanie{position:absolute;right:130px;top:13px;text-align:right}.mnu-top-logowanie2{position:absolute;right:90px;top:14px;text-align:right}.mnu-but{font-size:14px;line-height:22px;display:inline-block;margin-left:15px;color:#a7a7a7}.mnu-but:hover{cursor:pointer;text-decoration:none;color:#e66400;border-bottom:1px dotted #e66400}.mnu-top-logowanie2 p{display:inline-block;font-size:14px;line-height:23px;color:#999}.mnu-top-logowanie2 p .mnu-top-ksyw{font-weight:700;margin-right:5px;color:#c9b214;text-decoration:none}.mnu-top-logowanie2 p .mnu-top-abo{margin-right:5px;color:#b3b3b3;border-bottom:1px dotted #666;text-decoration:none}.mnu-top-logowanie2 p .mnu-top-abo2{color:#ccc}.mnu-top-logowanie2 p .mnu-top-abo:hover,.mnu-top-logowanie2 p .mnu-top-ksyw:hover{text-decoration:none;color:#e66400;border-bottom:1px dotted #e66400}.mnu-top-pow{position:absolute;right:22px;top:12px;display:block;font-size:15px;line-height:23px;font-weight:700;margin-left:10px;background:#df0000;width:23px;text-align:center;color:#fff;border-radius:11.5px;padding-top:1px;text-decoration:none}.mnu-top-pow:hover{cursor:pointer;opacity:.7;text-decoration:none}.mnu-main-c{min-height:34px;width:100%;position:absolute;bottom:0;left:0}.mnu-main{width:1000px;margin-left:auto;margin-right:auto;height:34px;position:relative;background:rgba(180,0,0,.85)}.mnu-main:after{content:"";display:block;clear:both}.mnu-main-li{display:block;float:left;font-size:14px;line-height:34px;color:#fff;padding-left:10px;padding-right:10px;font-weight:500;height:34px}.mnu-main-li:hover{background:rgba(0,0,0,.4);text-decoration:none}.mnu-main-li-h{display:block;height:34px;float:left;padding:5px;padding-top:8px;padding-left:8px;padding-right:7px}.mnu-main-li-h svg{width:17px;height:15px;fill:#fff}.mnu-main-li-h:hover{background:rgba(0,0,0,.4)}.mnu-main-p{visibility:hidden;position:absolute;left:0;top:34px;width:100%;min-height:172px;z-index:2147483647;background:#f9f9f9;border-bottom:2px solid #ccc;border-left:1px solid #ccc;border-right:1px solid #ccc;padding-top:15px}.mnu-main-p:after{content:"";display:block;clear:both}.mnu-main-p-mnu{padding-left:15px;padding-right:10px;width:150px;float:left}.mnu-main-p-mnu:after{content:"";display:block;clear:both}.mnu-main-p-mnu a{display:block;font-size:14px;line-height:23px;color:#000}.mnu-third{width:1000px;margin-left:auto;margin-right:auto;background:#f4f4f4;height:35px;border-top:1px solid #ddd;border-bottom:1px solid #ddd;overflow:hidden}.mnu-third:after{content:"";display:block;clear:both}.mnu-third a{color:#333;line-height:33px;height:33px;display:block;float:left;font-size:14px;padding-left:11px;padding-right:11px;font-weight:500;border-right:1px solid #e1e1e1;border-top:1px solid #fff;border-bottom:1px solid #fff;border-left:1px solid #fff}.mnu-third a span{color:#06c;font-weight:400;letter-spacing:-.5px}a.mnu-third-act{color:#e44600;background:#fff;border:none;height:34px;border-right:1px solid #e1e1e1;font-weight:700}a.mnu-third-act span{color:#e44600}.mnu-third a:hover{background:#dedede;text-decoration:none;color:#000}.mnu-mobi-top{width:100%;height:50px;background:#000;max-width:1023px;margin-left:auto;margin-right:auto;position:relative;padding:10px;margin-bottom:10px}.mnu-mobi-top-hamb{width:50px;height:50px;display:block;position:absolute;left:10px;top:0;cursor:pointer}.mnu-mobi-top-hamb svg{fill:#fff;width:50px;height:50px}.mnu-mobi-top-logo{width:176px;height:33px;display:block;position:absolute;left:70px;top:9px}.mnu-mobi-gp-top-logo{width:220px;height:26px;position:absolute;left:60px;top:16px}.mnu-mobi-top-title{position:absolute;right:20px;top:14px;height:24px;line-height:24px;font-size:24px;color:#ccc;font-weight:300;letter-spacing:-.7px}.mnu-mobi-black-back,.mnu-mobi-close,.mnu-mobi-main-c,.mnu-mobi-top{display:none}.mnu-mobi-main:after{content:"";display:block;clear:both}.mnu-third .mnu-mn3{background:#e2e2e2}a.no-short-desk{display:none}@media screen and (min-width:1680px){.mnu-main,.mnu-top,.mnu-top-c{width:1300px}.mnu-main-li{padding-left:12px;padding-right:12px;font-size:15px}.mnu-top-img-back{width:1300px}.mnu-top-img-back img{position:relative;left:0}a.no-short-desk{display:block}.mnu-third{width:1300px}}@media screen and (max-width:1023px){.mnu-third,.mnu-top-c{display:none}.mnu-mobi-top{display:block}.mnu-mobi-top-hamb-login .mnu-mob-3-ham{fill:#54a8f6}.mnu-mobi-top-hamb-pow .mnu-mob-3-ham{fill:#e62117}}@media screen and (max-width:480px){.mnu-mobi-top-hamb{position:absolute;left:0}.mnu-mobi-top-logo{width:144px;height:27px;position:absolute;left:55px;top:12px}.mnu-mobi-top-title{position:absolute;right:10px;top:15px;height:24px;line-height:24px;font-size:19px;letter-spacing:-.6px}.mnu-mobi-gp-top-logo{width:160px;height:19px;position:absolute;left:50px;top:20px}}@media screen and (max-width:350px){.mnu-mobi-top-title{position:absolute;right:10px;top:16px;height:24px;line-height:24px;font-size:15px;letter-spacing:-.2px}}.search17-box-c{margin:10px;margin-top:0;margin-bottom:20px;padding:15px;background:#f4f4f4;border-radius:3px}.search17-box{background:#fff;height:38px;width:100%;border:1px solid #ccc;border-radius:3px;position:relative}.search17-box:hover{border:1px solid #e44600}.download-main .search17-h3,.search17-h3{margin:0;padding:0;margin-bottom:10px;text-align:center;font-weight:400;font-size:18px;line-height:18px;color:#333;border:none;letter-spacing:0}.search17-txt{width:calc(100% - 36px);line-height:36px;border:none;padding:0;margin:0;outline:none;left:0;border-radius:3px;padding-left:10px;font-size:15px}.search17-but,.search17-txt{height:36px;position:absolute;top:0}.search17-but{cursor:pointer;right:0}.search17-but,.search17-but input{width:36px;border:none;background:none}.search17-but input{height:36px;display:none}.search17-but svg{width:36px;height:36px}.search17-but svg path{fill:#b5b5b5}.search17-but:hover svg path{fill:#333}.search17-news-dodatek{padding-top:15px}.search17-news-dodatek p{margin-bottom:5px}.search17-podp-c{position:relative;width:100%}.search17-podp a{display:block;font-size:15px;line-height:19px;background:#fff;border-left:1px solid #dedede;border-right:1px solid #dedede;border-bottom:1px dashed #dedede;padding:10px;padding-top:7px;padding-bottom:7px;color:#333}.search17-podp a:last-child{border-bottom:1px solid #dedede}.search17-podp a:hover{background:#efefef;color:#e44600;text-decoration:none}.search17-podp a span{color:#e44600}.search17-podp-c img{width:100%;margin-bottom:5px;max-width:250px}.search17-top-c{margin:0;padding:0;background:none;width:270px;position:absolute;top:45px;right:70px}.search17-top-c .search17-box{border:1px solid #ccc;border-radius:0}.search17-top-c .search17-box:hover{border:1px solid #ccc}.search17-top-c .search17-podp-c{position:absolute;top:38px;left:0;z-index:2147483647}.search17-guides-c{margin:0;margin-bottom:15px}.search17-tvgry{margin:0;margin-bottom:20px;margin-right:20px}.search17-gpc{margin:0;background:none;padding:0;margin-bottom:10px;width:280px;position:relative}.search17-gpc .search17-h3{position:absolute;right:-120px;top:0;float:none}@media screen and (max-width:299px){#screensizecheck{display:none;width:1px}}@media screen and (min-width:300px) and (max-width:319px){#screensizecheck{display:none;width:2px}}@media screen and (min-width:320px) and (max-width:479px){#screensizecheck{display:none;width:3px}}@media screen and (min-width:480px) and (max-width:727px){#screensizecheck{display:none;width:4px}}@media screen and (min-width:728px) and (max-width:767px){#screensizecheck{display:none;width:5px}}@media screen and (min-width:768px) and (max-width:969px){#screensizecheck{display:none;width:6px}}@media screen and (min-width:970px) and (max-width:1023px){#screensizecheck{display:none;width:7px}}@media screen and (min-width:1024px) and (max-width:1679px){#screensizecheck{display:none;width:8px}}@media screen and (min-width:1680px) and (max-width:1919px){#screensizecheck{display:none;width:9px}}@media screen and (min-width:1920px){#screensizecheck{display:none;width:10px}}</style>
+<link rel="stylesheet" href="https://cdn.gracza.pl/c/go18-main-2018-03-06.css"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>
+var url_root = '//www.gry-online.pl/';
+var url_root_gol = '//www.gry-online.pl/';
+var skin = '1';
+</script>
+<script type="application/javascript" src="//ced.sascdn.com/tag/2300/smart.js" async></script>
+<script type="application/javascript">
+    var sas = sas || {};
+    sas.cmd = sas.cmd || [];
+    sas.cmd.push(function() {
+        sas.setup({ networkid: 2300, domain: "//www14.smartadserver.com", async: true });
+    });
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-606212-20', 'auto');
+ga('set', 'anonymizeIp', true);
+ga('set', 'dimension1', 'NIEZALOGOWANY');
+
+var adbstatus = false;
+
+ga('provide', 'adblockTracker', function(tracker, opts) {
+  var ad = document.createElement('ins');
+  ad.className = 'AdSense';
+  ad.style.display = 'block';
+  ad.style.position = 'absolute';
+  ad.style.top = '-1px';
+  ad.style.height = '1px';
+  document.body.appendChild(ad);
+  tracker.set('dimension' + opts.dimensionIndex, !ad.clientHeight);
+  adbstatus = !ad.clientHeight;
+  document.body.removeChild(ad);
+});
+ga('require', 'adblockTracker', {dimensionIndex: 7});
+ga('send', 'pageview');	
+ga('create', 'UA-606212-5', '.gry-online.pl', {'name': 'globalTracker'});
+ga('globalTracker.set', 'anonymizeIp', true);
+ga('globalTracker.send', 'pageview');
+ga('create', 'UA-606212-31', 'auto', {'name': 'additionalTracker'});
+ga('additionalTracker.send', 'pageview');
+</script>
+<!-- (C)2000-2013 Gemius SA - gemiusAudience / pp.gry-online / strona glowna -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'zNFFZnS3GYXah8iHyDal73aInMjZF7.VZskP.8hrELb.E7';
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');
+gt.setAttribute('defer','defer'); gt.src=l+'://gapl.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script>
+</head>
+<body>
+<div id="screensizecheck"></div>
+<script type="text/javascript" src="https://cdn.gracza.pl/js/screensizecheck.js"></script>
+<div class="top-extra-tlo">
+<div id="logowanie-panel-cnt" class="login-panel17-c"></div>
+
+<nav class="mnu-top-c">
+<div class="mnu-top">
+<div class="mnu-top-img-back"><img src="https://cdn.gracza.pl/im/mnu/mnu-top-pic4.jpg"></div>
+<a href="https://www.gry-online.pl/" class="mnu-top-logo-big" title="GRY-Online.pl"><img src="https://cdn.gracza.pl/im/svg/gol-logo.svg" alt="GRY-Online.pl"></a>
+<div data-menu-bigpanel="0" class="g17-hamb-c"><div class="g17-hamb"></div></div>
+<div id="gol-szukaj-1" class="search17-box-c search17-top-c">
+
+<form id="qs_form-1" action="//www.gry-online.pl/szukaj.asp" method="post" onsubmit="return qs_check(1);" autocomplete="off">
+<input type="hidden" name="form_type" value="search">
+
+<div class="search17-box" id="qs_cnt-1">
+<input class="search17-txt" id="qs_inp-1" name="search" type="text" placeholder="wpisz tytu³ szukanej gry ..." onkeyup="quicksearch(event,this.value,'//www.gry-online.pl/ajax/xml/gry.asp',1)" onclick="this.value='';" onblur="setTimeout('qs_reset(1)',300);">
+<label class="search17-but"><input id="qs_but-1" type="submit" value=""><svg viewBox="0 0 30 30" width="10" height="10" fill="none"><path d="M24.07,21.85l-4.6-4.6a7.44,7.44,0,1,0-2.22,2.22l4.6,4.6a.39.39,0,0,0,.56,0l1.67-1.67A.39.39,0,0,0,24.07,21.85ZM8.17,13.24a5.07,5.07,0,1,1,5.07,5.07A5.07,5.07,0,0,1,8.17,13.24Z"/></svg></label>
+<input type="hidden" name="dzial" value="">
+</div>
+<div class="search17-podp-c"><div id="qs_list_cnt-1" class="search17-podp"></div></div>
+
+</form>
+
+</div>
+<a href="https://www.facebook.com/golpl" target="_blank" class="mnu-ico-fb"><svg viewBox="0 0 25 25" width="25" height="25" fill="none"><circle cx="12.5" cy="12.5" r="12.5"/><path d="M16.44,7.35a3.12,3.12,0,0,0-1.15-.24q-1.49,0-1.49,1.62V9.81h2.3v2.29H13.8v7.76H10.71V12.09H9V9.81h1.69V8.56a3.62,3.62,0,0,1,1.12-2.77,4.27,4.27,0,0,1,3-1.05,5.34,5.34,0,0,1,1.57.2Z"/></svg></a>
+<a href="https://www.youtube.com/user/TVGRYpl" target="_blank" class="mnu-ico-yt"><svg viewBox="0 0 25 25" width="25" height="25" fill="none"><circle cx="12.5" cy="12.5" r="12.5"/><path d="M20.34,9.3a3.46,3.46,0,0,0-.64-1.59A2.29,2.29,0,0,0,18.1,7c-2.24-.16-5.6-.16-5.6-.16h0s-3.36,0-5.6.16a2.29,2.29,0,0,0-1.6.68A3.46,3.46,0,0,0,4.66,9.3a24.19,24.19,0,0,0-.16,2.59V13.1a24.19,24.19,0,0,0,.16,2.59,3.46,3.46,0,0,0,.64,1.59A2.71,2.71,0,0,0,7.06,18c1.28.12,5.44.16,5.44.16s3.36,0,5.6-.17a2.29,2.29,0,0,0,1.6-.68,3.46,3.46,0,0,0,.64-1.59,24.23,24.23,0,0,0,.16-2.59V11.89A24.23,24.23,0,0,0,20.34,9.3Zm-9.48,5.27V10.09l4.31,2.25Z"/></svg></a>
+<a href="https://twitter.com/golpl" target="_blank" class="mnu-ico-tw"><svg viewBox="0 0 25 25" width="25" height="25" fill="none"><circle cx="12.5" cy="12.5" r="12.5"/><path d="M9.72,18.58a8.68,8.68,0,0,0,8.74-8.74q0-.2,0-.4A6.25,6.25,0,0,0,20,7.86a6.13,6.13,0,0,1-1.76.48,3.08,3.08,0,0,0,1.35-1.7,6.16,6.16,0,0,1-2,.75,3.07,3.07,0,0,0-5.23,2.8A8.72,8.72,0,0,1,6.06,7a3.07,3.07,0,0,0,1,4.1,3,3,0,0,1-1.39-.38v0a3.07,3.07,0,0,0,2.46,3,3.07,3.07,0,0,1-1.39.05,3.07,3.07,0,0,0,2.87,2.13,6.16,6.16,0,0,1-3.82,1.31,6.24,6.24,0,0,1-.73,0,8.69,8.69,0,0,0,4.71,1.38"/></svg></a>
+<div class="mnu-top-logowanie">
+<div data-zaloguj="desktop" class="mnu-but">zaloguj siê</div>
+<a href="https://www.gry-online.pl/rejestracja.asp" class="mnu-but">rejestracja</a>
+</div>
+<style id="mmp-css"></style>
+<div class="mnu-main-c">
+<div class="mnu-main ">
+<a href="https://www.gry-online.pl/" class="mnu-main-li-h"><svg viewBox="0 0 28 25" width="28" height="25" fill="none"><path d="M27,15a.58.58,0,0,1-.81,0l-11.76-11a.63.63,0,0,0-.84,0L2.14,14.78a.57.57,0,0,1-.81,0L.15,13.49a.58.58,0,0,1,0-.81L13.61.16a.63.63,0,0,1,.84,0L28.16,13a.58.58,0,0,1,0,.81Z M13.78,6.57,4,15.58v9.34a.58.58,0,0,0,.58.58H11V17.08a.58.58,0,0,1,.58-.58h4.84a.58.58,0,0,1,.58.58V25.5h6.42a.58.58,0,0,0,.58-.58v-9Z"/></svg></a>
+<div class="mnu-main1" data-nav-mm="1"><a href="https://www.gry-online.pl/newsroom.asp" class="mnu-main-li">Newsroom</a><div data-nav-mmp="1" class="mnu-main-p"></div></div>
+<div class="mnu-main2" data-nav-mm="2"><a href="https://www.gry-online.pl/gry/" class="mnu-main-li">Encyklopedia Gier</a><div data-nav-mmp="2" class="mnu-main-p"></div></div>
+<div class="mnu-main7" data-nav-mm="7"><a href="https://tvgry.pl/" class="mnu-main-li">tvgry.pl</a><div data-nav-mmp="7" class="mnu-main-p"></div></div>
+<div class="mnu-main3" data-nav-mm="3"><a href="https://www.gry-online.pl/poradniki-do-gier.asp" class="mnu-main-li">Poradniki</a><div data-nav-mmp="3" class="mnu-main-p"></div></div>
+<div class="mnu-main4" data-nav-mm="4"><a href="https://www.gry-online.pl/czytaj-o-grach.asp" class="mnu-main-li">Teksty</a><div data-nav-mmp="4" class="mnu-main-p"></div></div>
+<div class="mnu-main5" data-nav-mm="5"><a href="https://www.gry-online.pl/download.asp" class="mnu-main-li">Pobierz</a><div data-nav-mmp="5" class="mnu-main-p"></div></div>
+<div class="mnu-main9" data-nav-mm="9"><a href="https://darmowe.gry-online.pl/" class="mnu-main-li">Darmowe</a><div data-nav-mmp="9" class="mnu-main-p"></div></div>
+<div class="mnu-main10" data-nav-mm="10"><a href="https://sklep.gry-online.pl/" class="mnu-main-li">Sklep</a><div data-nav-mmp="10" class="mnu-main-p"></div></div>
+<div class="mnu-main6" data-nav-mm="6"><a href="https://www.gry-online.pl/gpc.asp" class="mnu-main-li">GPC</a><div data-nav-mmp="6" class="mnu-main-p"></div></div>
+<div class="mnu-main11" data-nav-mm="11"><a href="https://www.gry-online.pl/S008.asp" class="mnu-main-li">Forum</a><div data-nav-mmp="11" class="mnu-main-p"></div></div>
+<a href="https://www.gry-online.pl/abonamenty.asp" class="mnu-main-li">Premium</a>
+</div>
+</div>
+
+</div>
+<div id="main-menu-big-panel-cnt" class="mnu-big-p"></div>
+</nav>
+<script>
+var user_logged = '';
+var main_menu_static = '1';
+</script><div class="mnu-mobi-top-c">
+<div class="mnu-mobi-top">
+<div class="mnu-mobi-top-hamb" onclick="$('html').toggleClass('mnu-mobi-on-html');"><svg viewBox="0 0 50 50" width="5" height="5" fill="none"><rect x="11.5" y="13.5" width="27" height="5"/><rect x="11.5" y="22.5" width="27" height="5"/><rect class="mnu-mob-3-ham" x="11.5" y="31.5" width="27" height="5"/></svg></div>
+<a href="https://www.gry-online.pl/" class="mnu-mobi-top-logo"><img src="https://cdn.gracza.pl/im/svg/gol-logo.svg" alt="GRY-Online.pl"></a>
+
+</div>
+
+<div class="mnu-mobi-black-back"></div>	
+
+<div id="main-menu-mobile-cnt" data-section="0"></div>	
+</div>
+<div class="ad-2016-top-outer"><div class="ad-2016-top">
+<div id="sas_49272"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.call("std", {
+            siteId: 133818, // 
+            pageId: 746332, // Strona : GRY-OnLine.pl/strona_glowna
+            formatId: 49272, // Format : Billboard 970x300
+            target: '' // Targetowanie
+        });
+    });
+</script>
+<noscript>
+    <a href="//www14.smartadserver.com/ac?jump=1&nwid=2300&siteid=133818&pgname=strona_glowna&fmtid=49272&visit=m&tmstp=[timestamp]&out=nonrich" target="_blank">
+        <img src="//www14.smartadserver.com/ac?out=nonrich&nwid=2300&siteid=133818&pgname=strona_glowna&fmtid=49272&visit=m&tmstp=[timestamp]" border="0" alt="" />
+    </a>
+</noscript>
+
+<div id="RAI-731314" style="display:none;"></div>
+<script>
+
+if (typeof(adbstatus) == 'undefined') {
+	var adbstatus = false;
+};	
+	
+$(window).ready(function() {
+	if (adbstatus) {
+		if ($('.ad-2016-top').find('div[id^=sas]').is(':empty')) {
+			$('#RAI-731314').html('<a href="//multigry.gry-online.pl/?GRA=DragonII&utm_source=gol_sg&utm_medium=banner&utm_campaign=DragonII' + ('#' + Math.floor(Math.random() * 1000000) + 1) + '" style="display:block;width:100%;max-width:979px;margin-left:auto;margin-right:auto;padding-top:10px;padding-bottom:10px;"><img src="/im/z3zxc36az2xyxca223yyxz2b22ca22z.jpg#' + ('RI' + Math.floor(Math.random() * 1000000) + 1) + '" style="max-width:100%;"></a>');
+			$('#RAI-731314').show();
+			$('#RAI-731314').attr('id','R' + Math.floor(Math.random() * 1000000) + 1);
+		};
+	};
+});
+</script>
+</div></div>
+</div>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement":
+	[
+		{
+			"@type": "ListItem",
+			"position": 1,
+			"item":
+			{
+				"@id": "https://www.gry-online.pl/",
+				"name": "www.gry-online.pl"
+			}
+		}
+	]
+}
+</script>
+<div class="suphot2014-top"><div class="sh14t-box sh14t-box1"><a href="/tania-gra.asp?ID=34637"><img src="/i/h/7/4809776.jpg"><div class="sh14t-box-cut sh14t-box-cut-v3"><p class="p1">Kup najtaniej</p><p class="p2">Monster Hunter: World</p></div></a></div>
+<div class="sh14t-box sh14t-box2"><a href="/warto-zagrac.asp#przed-premiera"><img src="/i/h/7/95689671.jpg"><div class="sh14t-box-cut sh14t-box-cut-v3"><p class="p1">Gry, na które czekamy</p><p class="p2">Wojna Krwi – wiedŸmiñskie RPG na 30 godz.</p></div></a></div>
+<div onmouseenter="pokaz_darmowe()" onmouseleave="ukryj_darmowe()">
+<a href="http://darmowe.gry-online.pl/?utm_source=gol_sg&utm_campaign=darmowe&utm_medium=zagraj" class="sh14t-box sh14t-box3" title="zagraj w damowe gry"><img src="/im/dgry/fp-hoty/9.jpg" alt="zagraj w damowe gry"></a>
+<div id="fp_dgc14_ID" class="fp-dgc14">
+
+</div>
+</div>
+<div class="clr"></div>
+</div><script type="text/javascript">
+jest_tapeta = 1;
+</script>
+<div class="suphot2014-c">
+<div class="suphot2014-menu">
+<div id="hot-01-buttons" class="suphot2014-menu-right">
+<div id="hot-01-button-down" class="sh-bu-a sh-bu-al" onclick="scroll_panel(-1)"></div><div id="hot-01-button-1" onclick="show_panel(1)" class="sh-bu-a sh-bu-a1-act"></div><div id="hot-01-button-2" onclick="show_panel(2)" class="sh-bu-a sh-bu-a2"></div><div id="hot-01-button-3" onclick="show_panel(3)" class="sh-bu-a sh-bu-a3"></div><div id="hot-01-button-4" onclick="show_panel(4)" class="sh-bu-a sh-bu-a4"></div><div id="hot-01-button-5" onclick="show_panel(5)" class="sh-bu-a sh-bu-a5"></div><div id="hot-01-button-up" class="sh-bu-a sh-bu-ar" onclick="scroll_panel(1)"></div>
+</div>
+<div class="suphot2014-menu-left">
+<div id="hot-01-sekcja-1" class="menu-left-act" onclick="show_panel(1)">Najciekawsze</div><div id="hot-01-sekcja--1" onclick="show_panel(-1)">Aktualnoœci</div><div id="hot-01-sekcja--2" onclick="show_panel(-2)">Video</div><div id="hot-01-sekcja--3" onclick="show_panel(-3)" class="no-mobile">Zagraj za Darmo</div></div><div class="clr"></div></div>
+<div id="hot-01-tapeta" class="suphot2014">
+<div class="shot-roll shot-roll-trans shot-roll-1">
+<div class="shot-roll-c">
+<div id="hot-01-panel-1" class="sh-pad sh-pad1 sh-set1 sh-setx">
+<img src="im/sup-hot-2-2-3-3-3.png" class="sup-hot-2-2-3-3-3">
+
+<a href="https://www.gry-online.pl/S013.asp?ID=111520" class="sh-hot sh-hot1b sh-hot-sm" onclick="hot_01_impression(22062)">
+<picture>
+<source media="(max-width:479px)" srcset="https://www.gry-online.pl/i/h/7/76294312.jpg, https://www.gry-online.pl/i/h/10/76294312.jpg 2x">
+<source media="(min-width:480px) and (max-width:700px)" srcset="https://www.gry-online.pl/i/h/10/76294312.jpg, https://www.gry-online.pl/i/h/5/76294312.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/5/76294312.jpg, https://www.gry-online.pl/i/h/1/76294312.jpg 2x">
+<source media="(min-width:1680px)" srcset="https://www.gry-online.pl/i/h/19/76294312.jpg">
+<img src="https://www.gry-online.pl/i/h/1/76294312.jpg">
+</picture>
+<div><h4>Wiemy kto zagra Ciri i Yennefer w serialu WiedŸmin</h4><h5>Ujawniono równie¿ listê aktorów drugoplanowych</h5>
+<h6>Poznaliœmy serialow¹ Ciri i Yennefer</h6><p>Poznaliœmy aktorki, które wciel¹ siê w Ciri i Yennefer w przygotowywanym przez serwis Netfilx serialu opartym na powieœciach i opowiadaniach o WiedŸminie, które stworzone zosta³y przez Andrzeja Sapkowskiego.</p></div></a>
+<a href="https://www.gry-online.pl/S020.asp?ID=12998" class="sh-hot sh-hot2m sh-hot-btxt-m sh-hot-sm" onclick="hot_01_impression(22066)">
+<picture>
+<source media="(max-width:479px)" srcset="https://www.gry-online.pl/i/h/7/98622031.jpg, https://www.gry-online.pl/i/h/10/98622031.jpg 2x">
+<source media="(min-width:480px) and (max-width:700px)" srcset="https://www.gry-online.pl/i/h/10/98622031.jpg, https://www.gry-online.pl/i/h/5/98622031.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/5/98622031.jpg, https://www.gry-online.pl/i/h/1/98622031.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/5/98622031.jpg">
+</picture>
+<div><h4>Niez³e RPG, ale...</h4><h5>Recenzja Pathfinder: Kingmaker</h5>
+<h6>Recenzja Pathfinder: Kingmaker – klasyczne RPG</h6><p>Dobry w³adca spór rozstrzygnie, miasto postawi, a potem smoka w³asnorêcznie ubije. I tak to bêdzie wygl¹da³o w Pathfinder: Kingmaker debiutuj¹cego Owlcat Games. To niez³e RPG z kilkoma powa¿nymi „ale”.</p></div></a>
+<a href="https://www.gry-online.pl/S022.asp?ID=12995" class="sh-hot sh-hot3m sh-hot-btxt-m sh-hot-sm" onclick="hot_01_impression(22060)">
+<picture>
+<source media="(max-width:479px)" srcset="https://www.gry-online.pl/i/h/7/12980781.jpg, https://www.gry-online.pl/i/h/10/12980781.jpg 2x">
+<source media="(min-width:480px) and (max-width:700px)" srcset="https://www.gry-online.pl/i/h/10/12980781.jpg, https://www.gry-online.pl/i/h/5/12980781.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/5/12980781.jpg, https://www.gry-online.pl/i/h/1/12980781.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/5/12980781.jpg">
+</picture>
+<div><h4>Fallout 76 niepokoi</h4><h5>Nie o takiego Fallouta nic nie robiliœmy</h5>
+<h6>Nie o takiego Fallouta nic nie robiliœmy</h6><p>W sieci pojawi³o siê w ostatnich dniach mnóstwo materia³ów z budz¹cego spore kontrowersje Fallouta 76. I wygl¹da na to, ¿e tym razem t³um zmierzaj¹cy pod siedzibê Bethesdy z wid³ami i pochodniami ma trochê racji. Nie o takiego Fallouta nic nie robiliœmy.</p></div></a>
+<a href="https://www.gry-online.pl/S020.asp?ID=12982" class="sh-hot sh-hot4s sh-hot-sm" onclick="hot_01_impression(22014)">
+<picture>
+<source media="(max-width:479px)" srcset="https://www.gry-online.pl/i/h/7/187813843.jpg, https://www.gry-online.pl/i/h/10/187813843.jpg 2x">
+<source media="(min-width:480px) and (max-width:700px)" srcset="https://www.gry-online.pl/i/h/10/187813843.jpg, https://www.gry-online.pl/i/h/5/187813843.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/5/187813843.jpg, https://www.gry-online.pl/i/h/1/187813843.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/10/187813843.jpg">
+</picture>
+<div><h4>Recenzja AC Odyssey – zamach na tron WiedŸmina 3</h4>
+<h6>Recenzja AC Odyssey – zamach na tron WiedŸmina 3</h6><p>Zrobiwszy udane przymiarki z AC Origins, Ubisoft pos³a³ wszystkie swoje si³y do boju z rozkazem: „Zróbcie mi pogromcê WiedŸmina 3!”. Ze starcia z polskim RPG Assassin’s Creed Odyssey nie wychodzi zwyciêsko – ale i tak wraca z niego z tarcz¹.</p></div></a>
+<a href="/S024.asp?ID=1925" class="sh-hot sh-hot5s sh-hot-sm" onclick="hot_01_impression(18368)">
+<picture>
+<source media="(max-width:700px)" srcset="https://www.gry-online.pl/i/h/7/610200703.jpg, https://www.gry-online.pl/i/h/10/610200703.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/10/610200703.jpg, https://www.gry-online.pl/i/h/5/610200703.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/10/610200703.jpg">
+</picture>
+<div><h4>Nowoœci w poradniku My Memory of Us</h4>
+<h6>Nowoœci w poradniku My Memory of Us</h6></div></a>
+<a href="https://www.gry-online.pl/S018.asp?ID=1750" class="sh-hot sh-hot6s sh-hot-sm" onclick="hot_01_impression(22041)">
+<picture>
+<source media="(max-width:700px)" srcset="https://www.gry-online.pl/i/h/7/196483546.jpg, https://www.gry-online.pl/i/h/10/196483546.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/10/196483546.jpg, https://www.gry-online.pl/i/h/5/196483546.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/10/196483546.jpg">
+</picture>
+<div><h4>Jak Rockstar zabi³ westerny?</h4>
+<h6>Jak Rockstar zabi³ westerny?</h6><p>Kto chce zagraæ w solidn¹ grê wideo, osadzon¹ na Dzikim Zachodzie, poza Red Dead Redemption nie ma ogromnego wyboru. Wiêkszoœæ deweloperów unika tej tematyki – i trudno im siê dziwiæ, bo zrobienie i sprzedanie dobrego westernu to diablo ciê¿ka robota.</p></div></a>
+<a href="https://multigry.gry-online.pl/?GRA=Islandoom" class="sh-hot sh-hot7s sh-hot-sm" onclick="hot_01_impression(20291)">
+<picture>
+<source media="(max-width:700px)" srcset="https://www.gry-online.pl/i/h/7/92243031.jpg, https://www.gry-online.pl/i/h/10/92243031.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/10/92243031.jpg, https://www.gry-online.pl/i/h/5/92243031.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/10/92243031.jpg">
+</picture>
+<div><h4>Islandoom - Polskie MMO - Otwarto nowy œwiat!</h4>
+<h6>Islandoom - Polskie MMO - Otwarto nowy œwiat!</h6></div></a>
+<a href="https://www.gry-online.pl/S022.asp?ID=12983" class="sh-hot sh-hot8t sh-hot-sm" onclick="hot_01_impression(22047)">
+<picture>
+<source media="(max-width:700px)" srcset="https://www.gry-online.pl/i/h/7/437167515.jpg, https://www.gry-online.pl/i/h/10/437167515.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/10/437167515.jpg, https://www.gry-online.pl/i/h/5/437167515.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/7/437167515.jpg">
+</picture>
+<div><h4>Graliœmy w Resident Evil 2 – klasyk odnowiony</h4>
+<h6>Graliœmy w Resident Evil 2 – klasyk odnowiony</h6><p>Lepsze zazwyczaj jest wrogiem dobrego – a przy nowej wersji Resident Evil 2 Capcom zamierza doœæ sporo namieszaæ w formule pierwowzoru. Po zagraniu w nowego Residenta jestem jednak przekonany, ¿e Japoñczycy wiedz¹, co robi¹.</p></div></a>
+<a href="https://www.gry-online.pl/S018.asp?ID=1753" class="sh-hot sh-hot9t sh-hot-sm" onclick="hot_01_impression(22056)">
+<picture>
+<source media="(max-width:700px)" srcset="https://www.gry-online.pl/i/h/7/605491390.jpg, https://www.gry-online.pl/i/h/10/605491390.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/10/605491390.jpg, https://www.gry-online.pl/i/h/5/605491390.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/7/605491390.jpg">
+</picture>
+<div><h4>Skórki za... 1700 z³ – fakty z Fortnite &#128176;</h4>
+<h6>Skórki za... 1700 z³ – fakty z Fortnite &#128176;</h6><p>Ogromny sukces gry Fortnite: Battle Royale sprawi³, ¿e produkcja nie schodzi z ust nie tylko graczy. Wokó³ tytu³u potrafi wydarzyæ siê naprawdê sporo zaskakuj¹cych sytuacji, a gra kipi od ciekawych przypadków, które tylko czekaj¹ na opisanie.</p></div></a>
+<a href="https://www.gry-online.pl/S013.asp?ID=111498" class="sh-hot sh-hot10t sh-hot-sm" onclick="hot_01_impression(22059)">
+<picture>
+<source media="(max-width:700px)" srcset="https://www.gry-online.pl/i/h/7/606121984.jpg, https://www.gry-online.pl/i/h/10/606121984.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/10/606121984.jpg, https://www.gry-online.pl/i/h/5/606121984.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/7/606121984.jpg">
+</picture>
+<div><h4>Microsoft finalizuje zakup studia Obsidian</h4>
+<h6>Microsoft finalizuje zakup studia Obsidian</h6><p>Serwis Kotaku dotar³ do informacji, wedle których firma Microsoft mia³aby dopinaæ ostatnie kwestie w sprawie przejêcia zespo³u Obsidian Entertainment. Studio mia³oby pomóc gigantowi z Redmond w zwiêkszeniu obecnoœci na rynku pecetowych produkcji.</p></div></a>
+<a href="https://www.gry-online.pl/S013.asp?ID=111490" class="sh-hot sh-hot11t sh-hot-sm" onclick="hot_01_impression(22057)">
+<picture>
+<source media="(max-width:700px)" srcset="https://www.gry-online.pl/i/h/7/534225781.jpg, https://www.gry-online.pl/i/h/10/534225781.jpg 2x">	
+<source media="(min-width:701px) and (max-width:1023px)" srcset="https://www.gry-online.pl/i/h/10/534225781.jpg, https://www.gry-online.pl/i/h/5/534225781.jpg 2x">
+<img src="https://www.gry-online.pl/i/h/7/534225781.jpg">
+</picture>
+<div><h4>Myœliwiec z Top Gun na imponuj¹cym zwiastunie</h4>
+<h6>Myœliwiec z Top Gun na imponuj¹cym zwiastunie</h6><p>W sieci pojawi³ siê zwiastun prezentuj¹cy myœliwiec F-14 Tomcat, który wkrótce pojawi siê na darmowej platformie Digital Combat Simulator World. Grafika zaprezentowana na trailerze robi ogromne wra¿enie.</p></div></a>
+</div>
+<div id="hot-01-panel-2" class="sh-pad sh-pad2 sh-set2 sh-setx"></div>
+<div id="hot-01-panel-3" class="sh-pad sh-pad3 sh-set3 sh-setx"></div>
+<div id="hot-01-panel-4" class="sh-pad sh-pad4 sh-set4 sh-setx"></div>
+<div id="hot-01-panel-5" class="sh-pad sh-pad5 sh-set5 sh-setx"></div>
+</div>
+</div>
+
+<div id="hot-01-up" class="sh-arr-r" onclick="show_panel(hot_01_panel + 1)"><div class="sh-arr-r-b"></div></div>
+<div id="hot-01-down" class="sh-arr-l" onclick="show_panel(hot_01_panel - 1)" style="display:none;"><div class="sh-arr-l-b"></div></div>
+<div class="clr"></div>
+</div>
+
+</div>
+<div class="clr"></div>
+
+<script type="text/javascript">
+var hot_01_layout = 5;
+</script>
+<div class="baner-pod-hotami">
+<div style="display:inline-block;">
+
+<div id="sas_49273"></div>
+<script type="application/javascript">
+    sas.cmd.push(function() {
+        sas.call("std", {
+            siteId: 133818, // 
+            pageId: 746332, // Strona : GRY-OnLine.pl/strona_glowna
+            formatId: 49273, // Format : Rectangle 300x250
+            target: '' // Targetowanie
+        });
+    });
+</script>
+<noscript>
+    <a href="//www14.smartadserver.com/ac?jump=1&nwid=2300&siteid=133818&pgname=strona_glowna&fmtid=49273&visit=m&tmstp=[timestamp]&out=nonrich" target="_blank">
+        <img src="//www14.smartadserver.com/ac?out=nonrich&nwid=2300&siteid=133818&pgname=strona_glowna&fmtid=49273&visit=m&tmstp=[timestamp]" border="0" alt="" />
+    </a>
+</noscript>
+</div>
+</div><div class="block-mainp block-blue">
+<div class="block-nav">
+<a href="newsroom.asp" class="box-bread box-bread-main">Newsroom<span class="arr"></span></a>
+<a href="S012.asp" class="box-bread">Wiadomoœci<span class="arr"></span></a>
+<a href="komiksy.asp" class="box-bread">Komiksy<span class="arr"></span></a>
+<a href="S012.asp?GRU=3" class="box-bread">Popularne<span class="arr"></span></a>
+<a href="gpc.asp" class="box-bread">Okazje tygodnia<span class="arr"></span></a>
+</div>
+<div class="block-hot">
+<div class="hot hot-60-large-opis">
+<a href="/S013.asp?ID=111531">
+<div class="img-c">
+<picture><source media="(max-width:480px)" srcset="/i/h/5/95519718.jpg, /i/h/5/95519718.jpg 2x">
+<source media="(min-width:481px) and (max-width:1024px)" srcset="/i/h/5/95519718.jpg, /i/h/5/95519718.jpg 2x">
+<img src="/i/h/5/95519718.jpg" class="img-hot"></picture>
+<p class="img-label">wiadomoœci</p>
+</div>
+<div class="txt-c">
+<h4>AC Odyssey z najlepszym debiutem w serii od lat</h4>
+<p class="txt-opis">Firma Ubisoft pochwali³a siê sukcesem Assassin’s Creed Odyssey. Gra zaliczy³a najlepszy debiut dla tej serii na obecnej generacji konsol, jeœli chodzi o przychody ze sprzeda¿y samej produkcji i mikrop³atnoœci. </p>
+</div></a></div>
+<div class="hot hot-mid">
+<a href="/S013.asp?ID=111528">
+<div class="img-c">
+<picture><source media="(max-width:480px)" srcset="/i/h/7/89374906.jpg, /i/h/10/89374906.jpg 2x">
+<source media="(min-width:481px) and (max-width:1024px)" srcset="/i/h/10/89374906.jpg, /i/h/5/89374906.jpg 2x">
+<img src="/i/h/10/89374906.jpg" class="img-hot"></picture>
+<p class="img-label">sprzêt i soft</p>
+</div>
+<div class="txt-c">
+<h4>ROG Phone – smartfon z dedykowanym coolerem</h4>
+</div></a></div>
+<div class="hot hot-mid">
+<a href="/S013.asp?ID=111517">
+<div class="img-c">
+<picture><source media="(max-width:480px)" srcset="/i/h/7/76764140.jpg, /i/h/10/76764140.jpg 2x">
+<source media="(min-width:481px) and (max-width:1024px)" srcset="/i/h/10/76764140.jpg, /i/h/5/76764140.jpg 2x">
+<img src="/i/h/10/76764140.jpg" class="img-hot"></picture>
+<p class="img-label">wiadomoœci</p>
+</div>
+<div class="txt-c">
+<h4>Szczegó³y Assassin's Creed 3 Remastered</h4>
+</div></a></div>
+</div>
+<ul class="block-super-news">
+<h3>Najnowsze Wiadomoœci</h3>
+<li class="hot"><a href="/S013.asp?ID=111541"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_276987497.jpg" class="img-hot"><p class="img-label">wiadomoœci</p></div><div class="txt-c"><h4>Nadci¹gaj¹ remastery klasycznych ods³on serii Command & Conquer?</h4></div></a></li>
+<li class="hot"><a href="/S013.asp?ID=111540"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_276985409.jpg" class="img-hot"><p class="img-label">wiadomoœci</p></div><div class="txt-c"><h4>Poznajcie Pax Nova – kosmiczn¹ strategiê 4X od twórców Dawn of Andromeda</h4></div></a></li>
+<li class="hot"><a href="/S013.asp?ID=111539"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_276984300.jpg" class="img-hot"><p class="img-label">wiadomoœci</p></div><div class="txt-c"><h4>Znamy datê premiery drugiego dodatku do Kingdom Come: Deliverance</h4></div></a></li>
+<li class="hot"><a href="/S013.asp?ID=111537"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_276975574.jpg" class="img-hot"><p class="img-label">wiadomoœci</p></div><div class="txt-c"><h4>Cities Skylines otrzyma „przemys³owy” dodatek Industries</h4></div></a></li>
+<li class="hot"><a href="/S013.asp?ID=111536"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_276970820.jpg" class="img-hot"><p class="img-label">wiadomoœci</p></div><div class="txt-c"><h4>15 mln graczy For Honor, tajemniczy projekt Naughty Dog i inne wieœci</h4></div></a></li>
+<li class="hot"><a href="/S013.asp?ID=111535"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_276969353.jpg" class="img-hot"><p class="img-label">wiadomoœci</p></div><div class="txt-c"><h4>PaŸdziernikowa aktualizacja Quake Champions – nowe tryby i czempionka Athena</h4></div></a></li>
+<li class="hot"><a href="/S013.asp?ID=111484"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_276967813.jpg" class="img-hot"><p class="img-label">wiadomoœci</p></div><div class="txt-c"><h4>Red Dead Redemption 2 - wy³¹cz minimapê, a us³yszysz inne dialogi [Aktualizacja: RDN wprowadzi³o w b³¹d]</h4></div></a></li>
+<li class="hot"><a href="/S013.asp?ID=111534"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_276971417.jpg" class="img-hot"><p class="img-label">filmy</p></div><div class="txt-c"><h4>Monster Hunter - kolejne informacje na temat ekranizacji</h4></div></a></li>
+<li class="hot"><a href="/S013.asp?ID=111533"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_276963205.jpg" class="img-hot"><p class="img-label">wiadomoœci</p></div><div class="txt-c"><h4>Znamy listê trofeów i rozmiar instalacji Red Dead Redemption 2</h4></div></a></li>
+<li class="hot"><a href="/S013.asp?ID=110208"><div class="img-c"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="./i/w/h1/720_270130232.jpg" class="img-hot"><p class="img-label">kompendia</p></div><div class="txt-c"><h4>Wszystko o Call of Duty: Black Ops 4 (data premiery, wymagania sprzêtowe, mapy) - akt. #3</h4></div></a></li>
+</ul>
+<div class="block-hot block-hot4 block-extra-super-news">
+<div class="hot hot-small-5">
+<a href="/S013.asp?ID=111520">
+<div class="img-c">
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/i/w/h1/720_276920661.jpg" class="img-hot">
+<p class="img-label">wiadomoœci</p>
+</div>
+<div class="txt-c">
+<h4>WiedŸmin – znamy aktorki wcielaj¹ce siê w Ciri i Yennefer </h4>
+</div></a></div>
+<div class="hot hot-small-5">
+<a href="/S013.asp?ID=111533">
+<div class="img-c">
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/i/w/h1/720_276963205.jpg" class="img-hot">
+<p class="img-label">wiadomoœci</p>
+</div>
+<div class="txt-c">
+<h4>Znamy listê trofeów i rozmiar instalacji Red Dead Redemption 2</h4>
+</div></a></div>
+<div class="hot hot-small-5">
+<a href="/S013.asp?ID=111523">
+<div class="img-c">
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/i/w/h1/720_276897941.jpg" class="img-hot">
+<p class="img-label">filmy</p>
+</div>
+<div class="txt-c">
+<h4>Rambo 5 – poznaliœmy podtytu³ filmu, pierwsze zdjêcia bohatera</h4>
+</div></a></div>
+<div class="hot hot-small-5">
+<a href="/S013.asp?ID=111530">
+<div class="img-c">
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/i/w/h1/720_276959450.jpg" class="img-hot">
+<p class="img-label">pog³oski</p>
+</div>
+<div class="txt-c">
+<h4>Rockstar Games pracuje nad Bully 2?</h4>
+</div></a></div>
+<div class="hot hot-small-5">
+<a href="/S013.asp?ID=111529">
+<div class="img-c">
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/i/w/h1/720_276970334.jpg" class="img-hot">
+<p class="img-label">wiadomoœci</p>
+</div>
+<div class="txt-c">
+<h4>Star Citizen - gwiazdorski zwiastun Squadron 42 i aktualizacja 3.3</h4>
+</div></a></div>
+</div>
+</div>
+<div class="clr"></div>
+<div class="block-mainp block-red">
+<div class="block-nav">
+<a href="/gry/" class="box-bread box-bread-main">Encyklopedia<n480> Gier</n480><span class="arr"></span></a>
+<a href="top-gry.asp" class="box-bread">Top Gry<span class="arr"></span></a>
+<a href="daty-premier-gier.asp" class="box-bread">Premiery<span class="arr"></span></a>
+<a href="download.asp" class="box-bread">Download<span class="arr"></span></a>
+<a href="beta-testy.asp" class="box-bread">Beta Testy<span class="arr"></span></a>
+<a href="galerie-z-gier.asp" class="box-bread">Screeny<span class="arr"></span></a>
+<a href="slownik-gracza.asp" class="box-bread">S³ownik Gracza<span class="arr"></span></a>
+<a href="gry-katalog-firm.asp" class="box-bread">Katalog firm<span class="arr"></span></a>
+<div class="enc-plat-sel">
+<a href="/gry/pc/" class="but1">PC</a>
+<a href="/gry/ps4/" class="but2">PS4</a>
+<a href="/gry/ps3/" class="but3">PS3</a>
+<a href="/gry/xboxone/" class="but4">Xbox One</a>
+<a href="/gry/xbox360/" class="but5">Xbox 360</a>
+<a href="/gry/android/" class="but6">Android</a>
+<a href="/gry/ios/" class="but7">iOS</a>
+</div>
+</div>
+<div class="block-hot">
+<div class="hot hot-wide">
+<a href="/gry/call-of-duty-black-ops-iiii/zf51ed">
+<div class="img-c">
+<picture><source media="(max-width:480px)" srcset="/i/h/21/83468171.jpg, /i/h/20/83468171.jpg 2x">
+<source media="(min-width:481px) and (max-width:1024px)" srcset="/i/h/20/83468171.jpg, /i/h/4/83468171.jpg 2x">
+<img src="/i/h/20/83468171.jpg" class="img-hot"></picture>
+<p class="img-label">dziœ polska premiera</p>
+</div>
+<div class="txt-c">
+<h4>Call of Duty: Black Ops IIII</h4>
+<p class="txt-data">Akcji</p>
+</div>
+</a>
+</div>
+<div class="hot hot-mid hot-mid2">
+<a href="/gry/fallout-76/z3537d">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/8477156.jpg" class="img-hot">
+<p class="img-label">RPG</p>
+</div>
+<div class="txt-c">
+<h4>Fallout 76</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-mid hot-mid2">
+<a href="/gry/red-dead-redemption-ii/zb4a0f">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/441353145.jpg" class="img-hot">
+<p class="img-label">Akcji</p>
+</div>
+<div class="txt-c">
+<h4>Red Dead Redemption II</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-mid hot-mid2">
+<a href="/gry/cyberpunk-2077/za30e2">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/86616578.jpg" class="img-hot">
+<p class="img-label">RPG</p>
+</div>
+<div class="txt-c">
+<h4>Cyberpunk 2077</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="block-list">
+<div class="hot-lista2">
+<h3>Najwa¿niejsze premiery</h3>
+<ul class="ul1">
+<li><a href="/gry/forza-horizon-4/zb532a"><span>2 PaŸ</span> Forza Horizon 4</a></li>
+<li><a href="/gry/the-surge-the-good-the-bad-and-the-augmented/z254fc"><span></span> The Surge: The Good, the Bad and the Augmented</a></li>
+<li><a href="/gry/mega-man-11/z75101"><span></span> Mega Man 11</a></li>
+<li><a href="/gry/achtung-cthulhu-tactics/z85469"><span>4 PaŸ</span> Achtung! Cthulhu Tactics</a></li>
+<li><a href="/gry/american-truck-simulator-oregon/z05308"><span></span> American Truck Simulator: Oregon</a></li>
+<li><a href="/gry/assassins-creed-odyssey/z1537b"><span>5 PaŸ</span> Assassin's Creed Odyssey</a></li>
+<li><a href="/gry/wwe-2k19/z353f5"><span>9 PaŸ</span> WWE 2K19</a></li>
+<li><a href="/gry/space-hulk-tactics/zf5163"><span></span> Space Hulk: Tactics</a></li>
+<li><a href="/gry/my-memory-of-us/z44b77"><span></span> My Memory of Us</a></li>
+<li><a href="/gry/call-of-duty-black-ops-iiii/zf51ed"><span>12 PaŸ</span> Call of Duty: Black Ops IIII</a></li>
+<li><a href="/gry/rimworld/z839f6"><span>17 PaŸ</span> RimWorld</a></li>
+<li><a href="/gry/soulcalibur-vi/zc50dc"><span>19 PaŸ</span> Soulcalibur VI</a></li>
+</ul>
+<h3>Gry o których siê mówi</h3>
+<ul>
+<li><a href="/gry/fallout-76/z3537d">Fallout 76</a></li>
+<li><a href="/gry/digital-combat-simulator-world/zf35a6">Digital Combat Simulator World</a></li>
+<li><a href="/gry/fortnite-battle-royale/z14f1f">Fortnite: Battle Royale</a></li>
+</ul>
+</div>
+</div>
+<div class="block-game-box-c">
+<div class="block-game-selector">
+<div data-fpg-btn="1" class="show-arrow" onclick="$('div[data-fpg-btn]').removeClass('show-arrow');$(this).addClass('show-arrow');$('div[data-fpg-cnt]').hide();$('div[data-fpg-cnt=' + $(this).attr('data-fpg-btn') + ']').show();">Top Gry <span class="arr2-game-selector"></span></div>
+<div data-fpg-btn="2" onclick="$('div[data-fpg-btn]').removeClass('show-arrow');$(this).addClass('show-arrow');$('div[data-fpg-cnt]').hide();$('div[data-fpg-cnt=' + $(this).attr('data-fpg-btn') + ']').show();init_img();">Nowoœci <span class="arr2-game-selector"></span></div>
+<div data-fpg-btn="3" onclick="$('div[data-fpg-btn]').removeClass('show-arrow');$(this).addClass('show-arrow');$('div[data-fpg-cnt]').hide();$('div[data-fpg-cnt=' + $(this).attr('data-fpg-btn') + ']').show();init_img();">Oczekiwane <span class="arr2-game-selector"></span></div>
+</div>
+<div data-fpg-cnt="1"><a href="https://www.gry-online.pl/gry/assassins-creed-odyssey/z1537b" title="Assassin's Creed Odyssey" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/4619234.jpg" alt="Assassin's Creed Odyssey"></a>
+<a href="https://www.gry-online.pl/gry/forza-horizon-4/zb532a" title="Forza Horizon 4" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/352607796.jpg" alt="Forza Horizon 4"></a>
+<a href="https://www.gry-online.pl/gry/call-of-duty-black-ops-iiii/zf51ed" title="Call of Duty: Black Ops IIII" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/592579937.jpg" alt="Call of Duty: Black Ops IIII"></a>
+<a href="https://www.gry-online.pl/gry/rimworld/z839f6" title="RimWorld" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/605123697.jpg" alt="RimWorld"></a>
+<a href="https://www.gry-online.pl/gry/my-memory-of-us/z44b77" title="My Memory of Us" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/511440978.jpg" alt="My Memory of Us"></a>
+<a href="https://www.gry-online.pl/gry/red-dead-redemption-ii/zb4a0f" title="Red Dead Redemption II" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/176136890.jpg" alt="Red Dead Redemption II"></a>
+<a href="https://www.gry-online.pl/gry/euro-truck-simulator-2/z5287d" title="Euro Truck Simulator 2" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/347827098.jpg" alt="Euro Truck Simulator 2"></a>
+<a href="https://www.gry-online.pl/gry/the-witcher-3-wild-hunt/z83579" title="WiedŸmin 3: Dziki Gon" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/7612209.jpg" alt="WiedŸmin 3: Dziki Gon"></a>
+<a href="https://www.gry-online.pl/gry/shadow-warrior-2/za42ca" title="Shadow Warrior 2" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/420332307.jpg" alt="Shadow Warrior 2"></a>
+</div>
+<div data-fpg-cnt="2" class="display-none"><a href="https://www.gry-online.pl/gry/assassins-creed-odyssey/z1537b" title="Assassin's Creed Odyssey" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/4619234.jpg" alt="Assassin's Creed Odyssey"></a>
+<a href="https://www.gry-online.pl/gry/call-of-duty-black-ops-iiii/zf51ed" title="Call of Duty: Black Ops IIII" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/592579937.jpg" alt="Call of Duty: Black Ops IIII"></a>
+<a href="https://www.gry-online.pl/gry/forza-horizon-4/zb532a" title="Forza Horizon 4" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/352607796.jpg" alt="Forza Horizon 4"></a>
+<a href="https://www.gry-online.pl/gry/fifa-19/z45366" title="FIFA 19" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/170675531.jpg" alt="FIFA 19"></a>
+<a href="https://www.gry-online.pl/gry/pathfinder-kingmaker/zc4cda" title="Pathfinder: Kingmaker" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/434438198.jpg" alt="Pathfinder: Kingmaker"></a>
+<a href="https://www.gry-online.pl/gry/my-memory-of-us/z44b77" title="My Memory of Us" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/511440978.jpg" alt="My Memory of Us"></a>
+<a href="https://www.gry-online.pl/gry/insomnia-the-ark/z13a49" title="InSomnia: The Ark" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/504625591.jpg" alt="InSomnia: The Ark"></a>
+<a href="https://www.gry-online.pl/gry/shadow-of-the-tomb-raider/ze5090" title="Shadow of the Tomb Raider" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/96150984.jpg" alt="Shadow of the Tomb Raider"></a>
+<a href="https://www.gry-online.pl/gry/maplestory-2/z93ab3" title="MapleStory 2" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/86718927.jpg" alt="MapleStory 2"></a>
+</div>
+<div data-fpg-cnt="3" class="display-none"><a href="https://www.gry-online.pl/gry/red-dead-redemption-ii/zb4a0f" title="Red Dead Redemption II" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/176136890.jpg" alt="Red Dead Redemption II"></a>
+<a href="https://www.gry-online.pl/gry/rimworld/z839f6" title="RimWorld" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/605123697.jpg" alt="RimWorld"></a>
+<a href="https://www.gry-online.pl/gry/thronebreaker-the-witcher-tales/z054d3" title="Wojna Krwi: WiedŸmiñskie opowieœci" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/521034718.jpg" alt="Wojna Krwi: WiedŸmiñskie opowieœci"></a>
+<a href="https://www.gry-online.pl/gry/soulcalibur-vi/zc50dc" title="Soulcalibur VI" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/16848185.jpg" alt="Soulcalibur VI"></a>
+<a href="https://www.gry-online.pl/gry/fallout-76/z3537d" title="Fallout 76" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/430517109.jpg" alt="Fallout 76"></a>
+<a href="https://www.gry-online.pl/gry/cyberpunk-2077/za30e2" title="Cyberpunk 2077" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/347504098.jpg" alt="Cyberpunk 2077"></a>
+<a href="https://www.gry-online.pl/gry/mount-blade-ii-bannerlord/z12e4f" title="Mount & Blade II: Bannerlord" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/78445851.jpg" alt="Mount & Blade II: Bannerlord"></a>
+<a href="https://www.gry-online.pl/gry/resident-evil-2/z145a7" title="Resident Evil 2" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/513490218.jpg" alt="Resident Evil 2"></a>
+<a href="https://www.gry-online.pl/gry/battlefield-v/zb5321" title="Battlefield V" class="block-game-box"><img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="/galeria/gry13/606450265.jpg" alt="Battlefield V"></a>
+</div>
+</div>
+</div>
+<div class="clr"></div>
+<div class="block-mainp block-violet">
+<div class="block-nav">
+<a href="https://tvgry.pl/" class="box-bread box-bread-main">TVGRY.pl<span class="arr"></span></a>
+<a href="/video.asp?GRU=1" class="box-bread">Video z gier<span class="arr"></span></a>
+<a href="/video.asp?GRU=2" class="box-bread">Kino i Seriale<span class="arr"></span></a>
+</div>
+<div class="block-hot block-hot-4-full">
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=7648">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://tvgry.pl/galeria/hots/N300/353_352471813.jpg" class="img-hot">
+<p class="img-label">tvgry.pl</p>
+<p class="img-czas">11:00</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Czy Sapkowski zablokuje WiedŸmina 4?</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=7647">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://tvgry.pl/galeria/hots/N300/297_352035317.jpg" class="img-hot">
+<p class="img-label">tvgry.pl</p>
+<p class="img-czas">19:30</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Assassin's Creed: Odyssey konta rzeczywistoœæ</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=7646">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://tvgry.pl/galeria/hots/N300/716_351528796.jpg" class="img-hot">
+<p class="img-label">tvgry.pl</p>
+<p class="img-czas">13:20</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Gramy w Wojnê Krwi! Oto nowy RPG w wiedŸmiñskim œwiecie</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=7645">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://tvgry.pl/galeria/hots/N300/931_351254196.jpg" class="img-hot">
+<p class="img-label">tvgry.pl</p>
+<p class="img-czas">10:00</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>7 powodów, dla których czekamy na Dying Light 2</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=7644">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://tvgry.pl/galeria/hots/N300/968_351254125.jpg" class="img-hot">
+<p class="img-label">tvgry.pl</p>
+<p class="img-czas">15:34</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Dlaczego Pcim jest wiêkszy ni¿ Los Santos?</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=7643">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://tvgry.pl/galeria/hots/N300/766_351254029.jpg" class="img-hot">
+<p class="img-label">tvgry.pl</p>
+<p class="img-czas">9:13</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Czy zap³acisz 6 000 Z£ za lepsz¹ grafikê?</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=7642">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://tvgry.pl/galeria/hots/N300/198_351253792.jpg" class="img-hot">
+<p class="img-label">tvgry.pl</p>
+<p class="img-czas">10:57</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>5 najgorszych nagród, które wrêcz kara³y gracza</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=7641">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://tvgry.pl/galeria/hots/N300/159_351253616.jpg" class="img-hot">
+<p class="img-label">tvgry.pl</p>
+<p class="img-czas">6:47</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Czemu zmiana ustawieñ grafiki wymaga restartu gry?</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=-37780">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="/galeria/filmy/286x161/102421828.jpg" class="img-hot">
+<p class="img-label">video z gier</p>
+<p class="img-czas">2:57</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Squadron 42 - zwiastun z CitizenCon</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=-37737">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="/galeria/filmy/286x161/444321312.jpg" class="img-hot">
+<p class="img-label">video z gier</p>
+<p class="img-czas">4:23</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Red Dead Redemption II - gameplay #2</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=-37712">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="/galeria/filmy/286x161/601040984.jpg" class="img-hot">
+<p class="img-label">Kino i seriale</p>
+<p class="img-czas">2:18</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Fantastyczne zwierzêta: Zbrodnie Grindelwalda - zwiastun filmu</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-video">
+<a href="https://tvgry.pl/wideo.asp?ID=-37676">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="/galeria/filmy/286x161/8054203.jpg" class="img-hot">
+<p class="img-label">Kino i seriale</p>
+<p class="img-czas">1:58</p>
+<p class="img-play"></p>
+</div>
+<div class="txt-c">
+<h4>Kapitan Marvel - zwiastun filmu #1 (PL)</h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="clr"></div>
+<div class="block-mainp block-green">
+<div class="block-nav">
+<a href="/czytaj-o-grach.asp" class="box-bread box-bread-main">Czytaj<n480> o grach</n480><span class="arr"></span></a>
+<a href="/recenzje-gier.asp" class="box-bread">Recenzje<span class="arr"></span></a>
+<a href="/publicystyka-o-grach-i-nie-tylko.asp" class="box-bread">Publicystyka<span class="arr"></span></a>
+<a href="/gry-przed-premiera.asp" class="box-bread">Przed Premier¹<span class="arr"></span></a>
+<a href="/warto-zagrac.asp" class="box-bread">Warto Zagraæ <span class="arr"></span></a>
+</div>
+<div class="block-hot">
+<div class="hot hot-60-large-opis">
+<a href="S020.asp?ID=12998">
+<div class="img-c">
+<picture><source media="(max-width:480px)" srcset="/i/h/5/98621296.jpg, /i/h/1/98621296.jpg 2x">
+<source media="(min-width:481px) and (max-width:1024px)" srcset="/i/h/5/98621296.jpg, /i/h/1/98621296.jpg 2x">
+<img src="/i/h/5/98621296.jpg" class="img-hot"></picture>
+<p class="img-label">recenzja</p>
+</div>
+<div class="txt-c">
+<h4>Recenzja Pathfinder: Kingmaker – klasyczne RPG</h4>
+<p class="txt-opis">Dobry w³adca spór rozstrzygnie, miasto postawi, a potem smoka w³asnorêcznie ubije. I tak to bêdzie wygl¹da³o w Pathfinder: Kingmaker debiutuj¹cego Owlcat Games. To niez³e RPG z kilkoma powa¿nymi „ale”.</p>
+</div>
+</a>
+</div>
+<div class="hot hot-mid">
+<a href="S022.asp?ID=12995">
+<div class="img-c">
+<picture><source media="(max-width:480px)" srcset="/i/h/7/13060406.jpg, /i/h/10/13060406.jpg 2x">
+<source media="(min-width:481px) and (max-width:1024px)" srcset="/i/h/10/13060406.jpg, /i/h/5/13060406.jpg 2x">
+<img src="/i/h/10/13060406.jpg" class="img-hot"></picture>
+<p class="img-label">przed premier¹</p>
+</div>
+<div class="txt-c">
+<h4>Nie o takiego Fallouta nic nie robiliœmy</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-mid">
+<a href="S018.asp?ID=1753">
+<div class="img-c">
+<picture><source media="(max-width:480px)" srcset="/i/h/7/531494921.jpg, /i/h/10/531494921.jpg 2x">
+<source media="(min-width:481px) and (max-width:1024px)" srcset="/i/h/10/531494921.jpg, /i/h/5/531494921.jpg 2x">
+<img src="/i/h/10/531494921.jpg" class="img-hot"></picture>
+<p class="img-label">artyku³</p>
+</div>
+<div class="txt-c">
+<h4>Skórki za... 1700 z³ – fakty z Fortnite &#128176;</h4>
+</div>
+</a>
+</div>
+</div>
+<div class="block-list">
+<div class="hot-lista">
+<h3>Popularna publicystyka:</h3>
+<ul>
+<li><a href="/S018.asp?ID=1746">Czy gra mo¿e byæ zbyt du¿a? Assassin’s Creed Odyssey nie wie, kiedy skoñczyæ</a></li>
+<li><a href="/S018.asp?ID=1743">Gry paŸdziernika 2018 – najciekawsze premiery i konkurs</a></li>
+<li><a href="/S018.asp?ID=1748">Polski sukces wysokich lotów – jak tworzy siê DLC lepsze od podstawowej gry</a></li>
+<li><a href="/S018.asp?ID=1751">Recenzja filmu Venom – zmarnowany potencja³</a></li>
+<li><a href="/S018.asp?ID=1744">30 najlepszych tycoonów w historii – top strategie ekonomiczne na PC</a></li>
+<li><a href="/S018.asp?ID=1750">Jak olewano Dziki Zachód, czyli dlaczego growe westerny to nisza</a></li>
+<li><a href="/S018.asp?ID=1747">Smartfon do 1200 z³otych? 10 telefonów, które warto kupiæ w 2018 roku</a></li>
+<li><a href="/S018.asp?ID=1749">Czy pójdzie Ci Assassin's Creed: Odyssey?</a></li>
+<li><a href="/S018.asp?ID=1753">Niesamowite fakty i historie z Fortnite – najwiêksza darmowa gra i jej kulisy</a></li>
+</ul>
+</div>
+</div>
+<div class="block-hot block-hot4">
+<div class="hot hot-small-5">
+<a href="S018.asp?ID=1752">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="/i/h/10/442999406.jpg" class="img-hot">
+<p class="img-label">artyku³</p>
+</div>
+<div class="txt-c">
+<h4>Obudowy komputerowe dla graczy</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="S022.asp?ID=12994">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="/i/h/10/437335109.jpg" class="img-hot">
+<p class="img-label">przed premier¹</p>
+</div>
+<div class="txt-c">
+<h4>Graliœmy w DMC5 – fani zap³acz¹ z radoœci</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="S022.asp?ID=12983">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="/i/h/10/437166828.jpg" class="img-hot">
+<p class="img-label">przed premier¹</p>
+</div>
+<div class="txt-c">
+<h4>Graliœmy w Resident Evil 2 – klasyk odnowiony</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="S018.asp?ID=1750">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="/i/h/10/196482812.jpg" class="img-hot">
+<p class="img-label">artyku³</p>
+</div>
+<div class="txt-c">
+<h4>Jak Rockstar zabi³ westerny?</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="S018.asp?ID=1751">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="/i/h/10/269662140.jpg" class="img-hot">
+<p class="img-label">artyku³</p>
+</div>
+<div class="txt-c">
+<h4>Recenzja filmu Venom</h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="clr"></div>
+<div class="block-mainp block-red">
+<div class="block-nav">
+<a href="/poradniki-do-gier.asp" class="box-bread box-bread-main">Poradniki<n480> do gier</n480><span class="arr"></span></a>
+<a href="/kody-i-trainery-do-gier.asp" class="box-bread">Kody i Trainery<span class="arr"></span></a>
+<a href="/poradniki-do-gier.asp?SOR=1" class="box-bread">Nowe<n480> Poradniki</n480><span class="arr"></span></a>
+<a href="/poradniki-do-gier.asp?SOR=2" class="box-bread">Popularne<n480> Poradniki</n480><span class="arr"></span></a>
+</div>
+<div class="block-hot block-hot-4-full block-hot-4-full-guides">
+<div class="hot hot-guide hot-guide-big">
+<a href="/S024.asp?ID=1921">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/441518609.jpg" class="img-hot">
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://www.gry-online.pl/i/h/18/447630796.jpg" class="img-hot-big">
+<p class="img-label">Poradnik</p>
+</div>
+<div class="txt-c">
+<h4>Assassin's Creed Odyssey - poradnik do gry</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-guide hot-guide-big">
+<a href="/S024.asp?ID=1747">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/516063381.jpg" class="img-hot">
+<img src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" data-src="https://www.gry-online.pl/i/h/18/92684889.jpg" class="img-hot-big">
+<p class="img-label">Poradnik</p>
+</div>
+<div class="txt-c">
+<h4>Divinity: Original Sin 2 - poradnik do gry</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-guide">
+<a href="/S024.asp?ID=1925">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/610199813.jpg" class="img-hot">
+<p class="img-label">Poradnik</p>
+</div>
+<div class="txt-c">
+<h4>My Memory of Us - poradnik do gry</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-guide">
+<a href="/S024.asp?ID=1924">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/439294062.jpg" class="img-hot">
+<p class="img-label">Poradnik</p>
+</div>
+<div class="txt-c">
+<h4>Life is Strange 2 - poradnik do gry</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-guide">
+<a href="/S024.asp?ID=1715">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/550222327.jpg" class="img-hot">
+<p class="img-label">Poradnik</p>
+</div>
+<div class="txt-c">
+<h4>WiedŸmin 3: Krew i wino - poradnik do gry</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-guide">
+<a href="/S024.asp?ID=985">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/596396937.jpg" class="img-hot">
+<p class="img-label">Poradnik</p>
+</div>
+<div class="txt-c">
+<h4>God of War III - poradnik do gry</h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="clr"></div>
+<div class="block-mainp block-green">
+<div class="block-nav">
+<a href="https://gameplay.pl/" class="box-bread box-bread-main">Gameplay.pl<span class="arr"></span></a>
+<a href="https://gameplay.pl/temat.asp?TAG=5-filmy" class="box-bread">Filmy i seriale<span class="arr"></span></a>
+<a href="https://gameplay.pl/temat.asp?TAG=7-muzyka" class="box-bread">Muzyka<span class="arr"></span></a>
+<a href="https://gameplay.pl/temat.asp?TAG=1-gry" class="box-bread">Gry<span class="arr"></span></a>
+<a href="https://gameplay.pl/temat.asp?TAG=6-ksiazki" class="box-bread">Ksi¹¿ki<span class="arr"></span></a>
+</div>
+<div class="block-hot-gameplay">
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=111390">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/120850125.jpg" class="img-hot">
+<p class="img-label">gry</p>
+</div>
+<div class="txt-c">
+<h4>Epitafium dla Telltale Games</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=111354">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/422620578.jpg" class="img-hot">
+<p class="img-label">filmy i seriale</p>
+</div>
+<div class="txt-c">
+<h4>Recenzja filmu Kler - ma³o sacrum, du¿o profanum</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=111231">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/187479953.jpg" class="img-hot">
+<p class="img-label">filmy i seriale</p>
+</div>
+<div class="txt-c">
+<h4>Recenzja filmu Predator - przygody œmiesznego ufoluda</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=111152">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/31303171.jpg" class="img-hot">
+<p class="img-label">filmy i seriale</p>
+</div>
+<div class="txt-c">
+<h4>Recenzja filmu Kin - ma³y ch³opiec z du¿¹ giwer¹</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=111047">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/334904296.jpg" class="img-hot">
+<p class="img-label">gry</p>
+</div>
+<div class="txt-c">
+<h4>W co gracie w weekend? #266: Dragon Quest XI - Wielki powrót smoczej serii</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=110895">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/100721968.jpg" class="img-hot">
+<p class="img-label">filmy i seriale</p>
+</div>
+<div class="txt-c">
+<h4>Recenzja filmu The Meg - Jason kontra rekin</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=110849">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/376338171.jpg" class="img-hot">
+<p class="img-label">gry</p>
+</div>
+<div class="txt-c">
+<h4>Snajper na  polskiej gie³dzie</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=110585">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/524344468.jpg" class="img-hot">
+<p class="img-label">filmy i seriale</p>
+</div>
+<div class="txt-c">
+<h4>Recenzja filmu Ant-Man i Osa - ma³a rzecz, a cieszy</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=110387">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/252806593.jpg" class="img-hot">
+<p class="img-label">filmy i seriale</p>
+</div>
+<div class="txt-c">
+<h4>13 lat minê³o - Batman: Pocz¹tek</h4>
+</div>
+</a>
+</div>
+<div class="hot hot-small-5">
+<a href="https://gameplay.pl/news.asp?ID=110287">
+<div class="img-c">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAQAAAB9cObUAAAAC0lEQVR42mNkIAAAAEIAAgMZgEoAAAAASUVORK5CYII=" data-src="https://www.gry-online.pl/i/h/10/133716390.jpg" class="img-hot">
+<p class="img-label">gry</p>
+</div>
+<div class="txt-c">
+<h4>Co wiemy o Death Stranding?</h4>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="clr"></div>
+
+<div data-waypoint="default-sklepgry"></div>
+<div class="block-mainp block-blue">
+
+<div class="block-nav">	
+<a href="http://firma.gry-online.pl/" class="box-bread box-bread-main" target="_blank">Firma GRY-Online S.A.<span class="arr"></span></a>
+<a href="abonamenty.asp" class="box-bread">Us³ugi Premium<span class="arr"></span></a>
+<a href="pomoc.asp" class="box-bread">Kontakt i Pomoc<span class="arr"></span></a>
+<a href="team.asp" class="box-bread">Redakcja<span class="arr"></span></a>
+</div>
+<div class="mp-social-bottom">
+
+<div class="mp-social-bottom-2">	
+<div class="fb-page" data-href="https://www.facebook.com/golpl" data-width="300" data-height="250" data-hide-cover="false" data-show-facepile="false" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/golpl"><a href="https://www.facebook.com/golpl">GRYOnline.pl</a></blockquote></div></div>
+</div>
+<div class="mp-social-bottom-3">
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<div class="g-ytsubscribe-c g-ytsubscribe-c-mp"><div class="g-ytsubscribe" data-channel="TVGRYpl" data-layout="full" data-count="default" data-onytevent="onYtEvent"></div></div>
+<div class="g-ytsubscribe-c g-ytsubscribe-c-mp"><div class="g-ytsubscribe" data-channelid="UCBuapzlArSNwZk-n4gQIsRQ" data-layout="full" data-count="default"></div></div>
+</div>
+<div class="mp-social-bottom-1 uni-txt">
+<h1>GRYOnline.pl - gry dla ka¿dego i wszystko o grach</h1>
+<p>Na GRYOnline.pl znajdziesz wiadomoœci o grach i <a href="http://darmowe.gry-online.pl/">darmowe gry</a> do grania. <a href="/gry/">Encyklopedia gier</a> zawiera opisy 38543 gier na PC, konsole PS4, Xbox One, Switch, urz¹dzenia mobilne i inne platformy. Znajdziecie u nas 1175 <a href="poradniki-do-gier.asp">poradniki do gier</a>, 27532 filmy <a href="https://tvgry.pl/trailery-z-gier.asp">video z gier</a>, w dziale Czytaj o Grach s¹ przygotowane dla Ciebie 2808 <a href="recenzje-gier.asp">recenzje</a> i 2725 <a href="gry-przed-premiera.asp">zapowiedzi</a> gier oraz growe teksty publicystyczne. Nasza telewizja dla graczy <a href="https://tvgry.pl/">tvgry.pl</a> zaprasza Ciê codziennie na nowe programy. W dziale <a href="download.asp">Pobierz</a> znajdziesz pliki zwi¹zane z grami. Je¿eli chcesz porozmawiaæ z innymi graczami, zapraszamy na <a href="S008.asp">Forum Dyskusyjne</a>. </p>
+</div>
+
+</div>
+</div><footer data-waypoint="footer"></footer>
+<script type="text/javascript" src="https://cdn.gracza.pl/js/library.js"></script>
+<script type="text/javascript" src="https://cdn.gracza.pl/js/go-2018-09-13.js"></script>
+<script>
+function CP_setCookie(n, t, i){
+var r = new Date,u;
+r.setDate(r.getDate() + i);
+u = escape(t) + (i == null ? "" : "; expires=" + r.toUTCString());
+document.cookie = n + "=" + u
+}
+CP_setCookie("CP_status", 1, 365);
+</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.6&appId=118783244813558&kidDirectedSite=1&kid_directed_site=true";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript">
+var main_dzial_serwisu = 0;
+</script>
+<script>
+function init_img() {
+	$('[data-src]').each(function() {
+		if ($(this).is(':visible') & ($(this).offset().top < window.pageYOffset + window.innerHeight + 150)) {
+			$(this).attr('src',$(this).attr('data-src'));
+			$(this).attr('data-src',null);
+		};
+	});
+};
+$(window).ready(init_img);
+$(window).scroll(init_img);
+</script><script src="https://cdn.gracza.pl/js/fontfaceobserver.js"></script>
+<script>
+(function(w1){
+	if (w1.document.documentElement.className.indexOf('fonts-loaded') > -1){
+		return;
+	}
+	var font1 = new w1.FontFaceObserver( 'Roboto', {weight: 400});
+	var font2 = new w1.FontFaceObserver( 'Roboto', {weight: 500});
+	var font3 = new w1.FontFaceObserver( 'Roboto', {weight: 700});
+	var font4 = new w1.FontFaceObserver( 'Roboto Condensed', {weight: 300});
+	var font5 = new w1.FontFaceObserver( 'Roboto Condensed', {weight: 400});
+	var font6 = new w1.FontFaceObserver( 'Roboto Condensed', {weight: 700});
+	w1.Promise
+	.all([font1.load(), font2.load(), font3.load(), font4.load(), font5.load(), font6.load()])
+	.then(function(){
+		w1.document.documentElement.className += ' fonts-loaded';
+	});
+}(this));
+</script>
+<script type="text/javascript" src="//cdn.tradelab.fr/tag/9a70938621.js" async></script><style>
+.cookie-alert-2018-c{position:fixed;bottom:0px;left:0px;width:100%;height:auto;z-index:2147483647;background:rgba(255,255,255,0.9);border-top:3px solid #e44600;display:grid;grid-template-columns:auto;grid-gap:20px;padding-top:30px;padding-bottom:30px}
+.cookie-alert-2018-c-hide{display:none}
+.cookie-alert-2018-1{max-width:1000px;width:90%;margin-left:auto;margin-right:auto;background:#ffffff;padding:30px;align-self:center;border:1px solid #cccccc;box-shadow:3px 3px 3px #cccccc;position:relative}
+.cookie-alert-2018-1-hide{display:none}
+.fonts-loaded .cook18-tit,.cook18-tit{font-family:"Roboto Condensed","Helvetica Neue",Helvetica,Arial,sans-serif;text-align:center;font-size:32px;line-height:32px;margin-bottom:20px;font-weight:700;color:#e44600;letter-spacing:-1px}
+.cook18-txt{font-size:15px;line-height:21px;}
+.cook18-txt a{color: #06c;border-bottom: 1px dotted #4084c7;text-decoration: none}
+.cook18-txt a:hover{color: #e66400;border-bottom: 1px dotted #c65600;text-decoration: none}
+.cook18-close{position:absolute;right:15px;top:15px}
+.cook18-close svg{fill:#cccccc;width:40px;height:40px}
+.cook18-close:hover svg{fill:#06c;cursor:pointer}
+.cook18-close2{position:absolute;right:-15px;top:-15px}
+.cook18-buttons-c{text-align:center;margin-bottom:10px}
+.cook18-button{margin-left:auto;margin-right:auto;background:#e44600;padding:10px;padding-left:15px;padding-right:15px;margin-right:10px;margin-bottom:10px;margin-left:10px;text-align:center;color:#ffffff;font-weight:500;border-radius:5px;font-size:16px;display:inline-block}
+.cook18-button:hover{background:#06c;cursor:pointer}
+.cook18-link{display:inline-block;margin-left:auto;margin-right:auto;color:#06c;border-bottom:1px dotted #06c;margin-left:10px;margin-bottom:10px;margin-right:10px}
+.cook18-link:hover{color:#e44600;border-bottom:1px dotted #e44600;cursor:pointer}
+.cookie-alert-2018-2-c{max-width:1000px;width:90%;margin-left:auto;margin-right:auto;background:#ffffff;padding:30px;align-self:center;border:1px solid #cccccc;box-shadow:3px 3px 3px #cccccc;padding:30px}
+.cookie-alert-2018-2-c{display:none}
+.cookie-alert-2018-2-c-show{display:block}
+.cookie-alert-2018-2{display:grid;grid-template-columns:auto auto;grid-row-gap:10px;position:relative}
+.fonts-loaded .cook18-tit2,.cook18-tit2{font-family:"Roboto Condensed","Helvetica Neue",Helvetica,Arial,sans-serif;text-align:center;font-size:24px;line-height:24px;font-weight:400;color:#e44600;letter-spacing:-0.5px;grid-column: 1 / span 2;margin-bottom:10px;}
+.cook18-button2{grid-column: 1 / span 2;margin-bottom:0px;margin-bottom:10px;justify-self: center;}
+.cook18-txt2{font-size:15px;line-height:21px;padding-top:10px;border-top:1px dotted #cccccc}
+.cook18-txt2 a{color: #06c;border-bottom: 1px dotted #4084c7;text-decoration: none}
+.cook18-txt2 a:hover{color: #e66400;border-bottom: 1px dotted #c65600;text-decoration: none}
+.cook18-but-sw-line-top{padding-top:10px;border-top:1px dotted #cccccc;padding-left:20px}
+.cook18-but-sw{background:#76d571;border:2px solid #76d571;width:48px;height:28px;border-radius:14px}
+.cook18-but-sw-on{background:#76d571;border:2px solid #76d571;width:28px;height:28px;border-radius:14px;margin-left:auto}
+.cook18-but-sw svg{fill:#76d571}
+.cook18-but-sw-on svg{fill:#ffffff}
+.cook18-but-sw span{display:block;width:24px;height:24px;background:#ffffff;margin-left:20px;border-radius:12px}
+.cook18-but-sw-off{background:#cccccc;border:2px solid #cccccc}
+.cook18-but-sw-off span{margin-left:0px}
+.cook18-but-sw-off svg{display:none}
+.cook18-but-sw:hover,.cook18-but-sw-off:hover{cursor:pointer}
+
+@media screen and (max-width:600px) {
+.cookie-alert-2018-c{height:60%;display:block;}
+.cookie-alert-2018-c-hide{display:none}
+.cookie-alert-2018-1{width:100%;background:#ffffff;padding:10px;border:none;box-shadow:none;position:relative;padding-top:70px;padding-bottom:20px}
+.cookie-alert-2018-2-c{width:100%;padding:10px;border:none;box-shadow:none;padding-top:70px}
+.cook18-txt2{font-size:14px;line-height:19px;padding-top:5px;border-top:1px dotted #cccccc}
+.cook18-txt{font-size:14px;line-height:19px;padding-top:5px;text-align:center}
+.fonts-loaded .cook18-tit,.cook18-tit{font-size:24px;line-height:24px;letter-spacing:-0.5px}
+.cook18-close2{position:absolute;right:0px;top:-55px}
+.cookie-alert-2018-c{overflow:auto;max-height:100%}
+}
+</style>
+<div class="cookie-alert-2018-c">
+
+<div class="cookie-alert-2018-1">
+<div id="rodo-cookies-all-3" class="cook18-close"><svg viewBox="0 0 100 100"><path d="M68.71,35.75a4.69,4.69,0,0,0-8-3.12L50,43.37,39.26,32.63a4.69,4.69,0,0,0-6.63,6.63L43.37,50,32.63,60.74a4.69,4.69,0,0,0,6.63,6.63L50,56.63,60.75,67.37a4.69,4.69,0,0,0,6.63-6.63L56.63,50,67.37,39.26A4.63,4.63,0,0,0,68.71,35.75ZM50,0a50,50,0,1,0,50,50A50,50,0,0,0,50,0Zm0,90.63A40.63,40.63,0,1,1,90.63,50,40.67,40.67,0,0,1,50,90.63Z"></path></svg></div>
+<div class="cook18-tit"></div>
+
+<div class="cook18-buttons-c">
+<div id="rodo-cookies-all-1" class="cook18-button">Akceptujê cookies</div>
+<div id="rodo-cookies-settings" class="cook18-link">Ustawienia cookies</div>
+</div>
+
+<div class="cook18-txt" style="margin-bottom:5px">U¿ywamy informacji zapisanych za pomoc¹ plików cookies i podobnych technologii w celach technicznych, reklamowych, statystycznych oraz by dostosowaæ Serwis do indywidualnych potrzeb U¿ytkowników.</div>
+<div class="cook18-txt" style="margin-bottom:5px">Mo¿na je podzieliæ na cookies niezbêdne, czyli takie, bez których Serwis nie mo¿e funkcjonowaæ poprawnie, cookies dotycz¹ce personalizacji, potrzebne, by zapisaæ ustawienia i preferencje U¿ytkowników, oraz cookies dotycz¹ce optymalizacji reklam, które zbieraj¹ informacje na temat reklam wyœwietlanych U¿ytkownikowi oraz mog¹ s³u¿yæ do tworzenia Twojego profilu.</div>
+<div class="cook18-txt" style="margin-bottom:5px">W przegl¹darce internetowej mo¿na zmieniæ ustawienia dotycz¹ce wszystkich powy¿szych plików cookies - szczegó³y mo¿na znaleŸæ w naszej <a href="https://www.gry-online.pl/regulamin.asp?ID=5">Polityce cookies</a>, w dokumencie <a href="https://www.gry-online.pl/regulamin.asp?ID=8">Kontrola cookies</a>.</div>
+<div class="cook18-txt" style="margin-bottom:5px">Mo¿esz przejœæ do korzystania z Serwisu wybieraj¹c "Akceptujê cookies" lub te¿ skorzystaæ z opcji "Ustawienia cookies", gdzie mo¿esz w³¹czyæ i wy³¹czyæ cookies dotycz¹ce personalizacji oraz optymalizacji reklam. Zawsze mo¿esz zmieniæ swój wybór w tym oknie lub na stronie <a href="https://www.gry-online.pl/regulamin.asp?ID=5">Polityki cookies</a>.</div>
+<div class="cook18-txt" style="margin-bottom:5px">Wiêcej informacji o ustawieniach prywatnoœci i o ochronie Danych Osobowych naszych U¿ytkowników znajdziesz w naszej <a href="https://www.gry-online.pl/regulamin.asp?ID=12">Polityce Prywatnoœci</a>.</div>
+</div>
+
+<div class="cookie-alert-2018-2-c">
+<div class="cookie-alert-2018-2">
+<div id="rodo-cookies-all-4" class="cook18-close cook18-close2"><svg viewBox="0 0 100 100"><path d="M68.71,35.75a4.69,4.69,0,0,0-8-3.12L50,43.37,39.26,32.63a4.69,4.69,0,0,0-6.63,6.63L43.37,50,32.63,60.74a4.69,4.69,0,0,0,6.63,6.63L50,56.63,60.75,67.37a4.69,4.69,0,0,0,6.63-6.63L56.63,50,67.37,39.26A4.63,4.63,0,0,0,68.71,35.75ZM50,0a50,50,0,1,0,50,50A50,50,0,0,0,50,0Zm0,90.63A40.63,40.63,0,1,1,90.63,50,40.67,40.67,0,0,1,50,90.63Z"></path></svg></div>
+<div class="cook18-tit2">Ustawienia cookies</div>
+<div id="rodo-cookies-all-2" class="cook18-button cook18-button2">Akceptujê wszystkie cookies</div>
+<div id="rodo-cookies-close-3" class="cook18-button cook18-button2" style="display:none;">Zakoñcz i zamknij</div>
+<div class="cook18-txt2"><b>Pliki cookies niezbêdne do funkcjonowania Serwisu</b>  - S¹ to pliki cookies bez których Serwis nie mo¿e funkcjonowaæ poprawnie, przez co ta kategoria musi byæ zaakceptowana, byœmy mogli zagwarantowaæ optymalne doœwiadczenie w Serwisie gry-online.pl. Mo¿esz je zawsze wy³¹czyæ korzystaj¹c z ustawieñ przegl¹darki, co jest opisane w <a href="https://www.gry-online.pl/regulamin.asp?ID=8">Kontrola cookies</a>, jednak¿e nie zalecamy tego ze wzglêdu na potencjalne powa¿ne problemy z funkcjonowaniem Serwisu GRY-ONLINE.</div>
+<div class="cook18-but-sw-line-top"><div class="cook18-but-sw-on"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.41,6.55a1.3,1.3,0,0,0-1.34-1.32,1.59,1.59,0,0,0-.78.25c-3.52,1.89-9.14,8.26-9.14,8.26-.41-.34-2.91-2.64-2.91-2.64h0l0,0h0a1.74,1.74,0,0,0-1.07-.43,1.53,1.53,0,0,0-1.54,1.53,1.8,1.8,0,0,0,.56,1.17A34.72,34.72,0,0,1,8,17.76a1.8,1.8,0,0,0,1.48,1,1.46,1.46,0,0,0,1.13-.54,3,3,0,0,0,.34-.47c1-1.6,4.41-6.83,8.45-9.82C20,7.49,20.41,7.18,20.41,6.55Z"/></svg></span></div></div>
+<div class="cook18-txt2"><b>Pliki cookies dotycz¹ce personalizacji</b> - Te pliki s¹ potrzebne, by zapisaæ ustawienia i preferencje U¿ytkowników dotycz¹ce wygl¹du i funkcjonalnoœci Serwisu, takich jak forum czy kolorystyka. Mo¿esz je wy³¹czyæ, jednak¿e pewne funkcjonalnoœci Serwisu stan¹ siê dla Ciebie niedostêpne.</div>
+<div class="cook18-but-sw-line-top"><div id="rodo-cookies-switch-1" class="cook18-but-sw"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.41,6.55a1.3,1.3,0,0,0-1.34-1.32,1.59,1.59,0,0,0-.78.25c-3.52,1.89-9.14,8.26-9.14,8.26-.41-.34-2.91-2.64-2.91-2.64h0l0,0h0a1.74,1.74,0,0,0-1.07-.43,1.53,1.53,0,0,0-1.54,1.53,1.8,1.8,0,0,0,.56,1.17A34.72,34.72,0,0,1,8,17.76a1.8,1.8,0,0,0,1.48,1,1.46,1.46,0,0,0,1.13-.54,3,3,0,0,0,.34-.47c1-1.6,4.41-6.83,8.45-9.82C20,7.49,20.41,7.18,20.41,6.55Z"/></svg></span></div></div>
+<div class="cook18-txt2"><b>Pliki cookies dotycz¹ce optymalizacji reklam</b> - S¹ to pliki cookies, które zbieraj¹ informacje na temat reklam wyœwietlanych U¿ytkownikowi oraz mog¹ tworzyæ profil Twojej osoby - wykorzystujemy je zarówno my, jak i nasi Partnerzy reklamowi. Jeœli ta opcja jest w³¹czona, pozwala nam to mierzyæ skutecznoœæ naszych kampanii reklamowych, umo¿liwia wyœwietlanie trafniejszych reklam o produktach i us³ugach, które Ciê interesuj¹, oraz ogranicza liczbê wyœwietleñ tej samej reklamy. Wy³¹czenie tej opcji nie spowoduje wy³¹czenia reklam, mog¹ one natomiast byæ niedopasowane do Twoich zainteresowañ i wyœwietlaæ siê czêœciej.</div>
+<div class="cook18-but-sw-line-top"><div id="rodo-cookies-switch-2" class="cook18-but-sw"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.41,6.55a1.3,1.3,0,0,0-1.34-1.32,1.59,1.59,0,0,0-.78.25c-3.52,1.89-9.14,8.26-9.14,8.26-.41-.34-2.91-2.64-2.91-2.64h0l0,0h0a1.74,1.74,0,0,0-1.07-.43,1.53,1.53,0,0,0-1.54,1.53,1.8,1.8,0,0,0,.56,1.17A34.72,34.72,0,0,1,8,17.76a1.8,1.8,0,0,0,1.48,1,1.46,1.46,0,0,0,1.13-.54,3,3,0,0,0,.34-.47c1-1.6,4.41-6.83,8.45-9.82C20,7.49,20.41,7.18,20.41,6.55Z"/></svg></span></div></div>
+</div>
+</div>
+
+</div>
+<script>
+
+var rodo_cookies_nbr_of_switches = 2;
+var rodo_cookies_reload = false;
+
+function set_rodo_cookies(val) {
+	$.ajax({
+		url : '/ajax/rodo.asp',
+		type : 'GET',
+		data : {'rodo': val},
+   	success : function(data) {
+   	}
+	})
+	rodo_cookies_reload = true;
+}
+
+function close_rodo_cookies_panel(obj) {
+	$('.cookie-alert-2018-c').addClass('cookie-alert-2018-c-hide');
+	send_rodo_event(obj);
+	if (rodo_cookies_reload) {
+		setTimeout(function(){location.reload();}, 500);
+	};
+}
+$('[id^=rodo-cookies-close-]').bind('click',function(){close_rodo_cookies_panel(this)});
+
+function show_rodo_cookies_settings(obj) {
+	$('.cookie-alert-2018-1').addClass('cookie-alert-2018-1-hide');
+	$('.cookie-alert-2018-2-c').addClass('cookie-alert-2018-2-c-show');
+	send_rodo_event(obj);
+}
+$('#rodo-cookies-settings').bind('click',function(){show_rodo_cookies_settings(this)});
+
+function toggle_rodo_cookies_switch(obj) {
+	var rodo_cookies_switch = ($(obj).attr('id')).replace('rodo-cookies-switch-','');
+	$('#rodo-cookies-switch-' + rodo_cookies_switch).toggleClass('cook18-but-sw-off');
+	var val = '2';
+	for (var i = 1;i <= rodo_cookies_nbr_of_switches;i++) {
+		if (!$('#rodo-cookies-switch-' + i).hasClass('cook18-but-sw-off')) {
+			val = val + '1';
+		} else {
+			val = val + '0';
+		};
+	};
+	set_rodo_cookies(val);
+	send_rodo_event(obj);
+	$('#rodo-cookies-all-2').hide();
+	$('#rodo-cookies-close-3').show();
+}
+$('[id^=rodo-cookies-switch-]').bind('click',function(){toggle_rodo_cookies_switch(this)});
+
+function accept_all_rodo_cookies(obj) {
+	set_rodo_cookies(1);
+	close_rodo_cookies_panel(obj);
+}
+$('[id^=rodo-cookies-all-]').bind('click',function(){accept_all_rodo_cookies(this)});
+
+function send_rodo_event(obj) {
+	ga('send', 'event', 'rodopopup', 'click', $(obj).attr('id'));
+};
+
+</script>
+<script>
+$.ajax({
+	url: '/ajax/rodo-stats.asp', type: 'POST', data: {'source': 1}, async: true, success: function(){}
+})
+</script>
+</body>
+</html>

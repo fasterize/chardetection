@@ -1,0 +1,2893 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pl">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- header dfp -->
+
+
+
+
+
+   
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+<!-- mobile-agora -->
+
+
+	
+
+
+
+
+
+
+<head>
+	
+
+	
+
+
+
+
+<!-- canonical_start -->
+
+
+<!-- canonical_end -->
+
+<!--5642, [ /fix/modules/canonical.jsp ], canonicalModule-->
+
+	
+
+
+
+
+<!-- nextPrevUrl_start -->
+
+
+<!-- nextPrevUrl_end -->
+
+<!--5644, [ /fix/modules/next_prev_seo.jsp ], nextPrevModule-->
+
+	
+
+<!--Bigdata Module-->
+
+  <script>
+  var gazeta_pl = gazeta_pl || {};
+  gazeta_pl.rootSectionId = 78645;
+  </script>
+
+
+<!--6853, [ /tpl/prod/modules/bigdata/bigdataProviderModule.jsp ], portalRootSectionIdProviderModule-->
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<!-- url=http://www.plotek.pl/plotek/0,0.html, url_pattern=/plotek/0,0.html-->
+
+<meta property="fb:pages" content="56246989582" /> <meta property="fb:pages" content="298331982240" /> <meta property="fb:pages" content="358261633959" /> <meta property="fb:pages" content="120100868137" /> <meta property="fb:pages" content="445704509134847" /> <meta property="fb:pages" content="104916112903173" /> <meta property="fb:pages" content="226679594453952" /> <meta property="fb:pages" content="428256930555433" /> <meta property="fb:pages" content="331860956887755" /> <meta property="fb:pages" content="1260108960670728" /> <meta property="fb:pages" content="111959162224699" /> <meta property="fb:pages" content="681680815253072" /> <meta property="fb:pages" content="776969662398234" /> <meta property="fb:pages" content="154212147987030" /> <meta property="fb:pages" content="197807986928953" /> <meta property="fb:pages" content="179884032054270" /> <meta property="fb:pages" content="326171408104" /> <meta property="fb:pages" content="159693330707372" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<!-- head_page_body_dfp 1.1 -->
+<meta charset="iso-8859-2">
+<title>Plotek.pl - Najnowsze Plotki, Gwiazdy, Zdjêcia bez Cenzury</title>
+
+<!-- headerNoIndex=nie,headerNoFollow=nie,headerNoArchive=nie -->
+
+<META NAME="ROBOTS" CONTENT="NOARCHIVE">
+
+
+
+
+
+
+<meta name="application-name" content="Plotek.pl" />
+<meta name="msapplication-tooltip" content="Plotek.pl - ¿ycie gwiazd" />
+<meta name="msapplication-starturl" content="http://www.plotek.pl/plotek/0,0.html" />
+<meta name="msapplication-task" content="name=Galerie zdjêæ; action-uri=http://www.plotek.pl/plotek/0,79592.html; icon-uri=/aliasy/plotek/ico/favicon.ico" />
+<meta name="msapplication-task" content="name=Tylko u nas; action-uri=http://www.plotek.pl/plotek/0,111483.html; icon-uri=/aliasy/plotek/ico/favicon.ico" />
+<meta name="msapplication-task" content="name=Wpadki gwiazd; action-uri=http://www.plotek.pl/plotek/0,111483.html; icon-uri=/aliasy/plotek/ico/favicon.ico" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+<!-- fbopengraph 2.1 -->
+ 	
+
+
+<meta property="og:image" content="http://bi.gazeta.pl/im/3/17656/m17656693,ZASLEPKA-FB.jpg" />
+<meta name="twitter:image" content="http://bi.gazeta.pl/im/3/17656/m17656693,ZASLEPKA-FB.jpg" />
+<meta name="twitter:card" content="summary_large_image">
+ 	
+
+ 
+	
+<meta property="og:site_name" content="plotek.pl"/> 
+
+		
+	<meta property="fb:app_id" content="127354450674219"/>
+		
+
+
+<meta property="og:locale" content="pl_PL" />
+
+
+
+
+<!-- imageQueue blacked out! -->
+
+<!-- xxxxx -->
+
+
+<META name="google-site-verification" content="Rc6y-67fwVpFkvpUNHAhCkbJDkgqW66BNO7bZfjlVjI" />
+<meta name="Description" content="Plotki o Gwiazdach - Najnowsze Informacje, Sensacje i Skandale z ¯ycia Znanych Ludzi 24H na dobê - Wejd¼ na PLOTEK.PL">
+
+<meta name="Keywords" content="Plotki, skandale, gwiazdy, celebrities, seriale, Doda, Górniak, Cichopek, Wojewódzki, Paris Hilton">
+<meta name="news_keywords" content="Plotki, skandale, gwiazdy, celebrities, seriale, Doda, Górniak, Cichopek, Wojewódzki, Paris Hilton">
+
+
+
+
+
+
+
+
+
+<!-- zzz metatags app -->
+
+
+<link rel="alternate" type="application/rss+xml" title="RSS Plotek.pl" href="http://rss.gazeta.pl/pub/rss/plotek.xml">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+
+<!-- videoScript -->
+
+
+<!-- rwdglobal -->
+
+        <script src="//static.im-g.pl/static/front/rwd-global-assets/master/production/js/1.1.4/main.jsgz" async></script>
+ <link rel="stylesheet" href="//static.im-g.pl/static/front/rwd-global-assets/master/production/css/1.1.4/main.cssgz" type="text/css">
+    
+
+<link rel="stylesheet" href="http://static.im-g.pl/static/content/front/plotek/master/css/production/4.0.64/2.4.4/style-min.cssgz"/><script>var now = new Date(2018, 9, 12, 8, 42, 27);</script>
+<link rel="shortcut icon" href="http://static.gazeta.pl/i/obrazki/plotek/plotek_favicona.ico">
+
+
+<!-- canonical_old_start -->
+
+
+    
+
+    
+    
+
+
+<!-- canonical_old_stop -->
+
+
+<!-- v2 rdGuid: 1 -->
+<!-- v3 Cookie :  -->
+<script src="//rodo.agora.pl/agreement/check?gid=1&params="></script>
+
+<script>
+    function createCookie(name,value,days,hours,domain){if(days){var date=new Date();date.setTime(date.getTime()+(days*24*60*60*1000)+(hours*60*60*1000));var expires="; expires="+date.toGMTString();}else var expires = "";document.cookie=name+"="+value+expires+"; path=/"+((domain)?';domain='+domain : '');}
+    function readCookie(name){var nameEQ=name+"=";var ca=document.cookie.split(';');var i;for(i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' ') c=c.substring(1,c.length);if(c.indexOf(nameEQ)==0) return c.substring(nameEQ.length,c.length);}return null;}
+    var profileCookie=readCookie('USER_PROF');
+</script>
+
+
+
+<script><!--
+if (window != top) { top.location.href = location.href; };
+// --></script>
+
+
+
+        
+
+
+    
+    
+
+
+    
+    
+
+<!-- (C)2000-2014 Gemius SA - gemiusAudience -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+    var pp_gemius_identifier = new String('zCs66Hhfy3qZY6ROBXb6gHZ3roEZQ4M8XJh.xaC4D5..77/arg=78645/sarg='+'|'+profileCookie);
+
+
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+setTimeout(function() {
+    gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+    (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l=((location.protocol=='https:')?'https://bis.gazeta.pl/info/http/xgemius-min.jsgz':'http://static.gazeta.pl/info/http/xgemius-min.jsgz'); gt.setAttribute('async','async');
+    gt.setAttribute('defer','defer'); gt.src=l; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+}, 50);
+//--><!]]>
+</script> 
+
+
+
+    
+
+<!-- bigdata -->
+<script src="https://bis.gazeta.pl/info/bluewhale/2.5.0/main-min.jsgz"></script>
+
+
+
+<script>
+//<![CDATA[
+var gazeta_pl = gazeta_pl || {};
+
+gazeta_pl.documentParam = {"root": "/plotek/"};
+gazeta_pl.fbConnect= 'false';
+
+
+gazeta_pl.topLayerNewsletterConfig = {
+  uri: '',
+  closed_cookie_name: '',
+  signed_cookie_name: ''
+};
+
+gazeta_pl.mobileInfo = {
+        "isMobileDevice": true
+        };
+
+//]]>
+</script>
+
+
+
+
+<!--[if lt IE 9]>
+<script>
+var e = ("abbr,article,aside,audio,canvas,datalist,details," +
+"figure,figcaption,footer,header,hgroup,mark,menu,meter,nav,output," +
+"progress,section,time,video").split(',');
+for (var i = 0; i < e.length; i++) {
+document.createElement(e[i]);
+}
+</script>
+<![endif]-->
+
+  <!-- Google Tag Manager --> <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WZGWLQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-WZGWLQ');</script> <!-- End Google Tag Manager -->
+
+
+
+<script>var gazeta_404={root:null,readHash:function(){var h=document.location.hash;if(h!=''&&h.match("error=4"))gazeta_404.probe()},probe:function(){if(document.body&&document.body.childNodes.length){gazeta_404.createErrorHTML()}else{setTimeout(gazeta_404.probe,1)}},createErrorHTML:function(){var htm='<div id="g404_overlay_holder_bg"></div><div id="g404_overlay"><div id="g404_overlay_bg"></div><div id="g404_overlay_inner"><div id="g404_close"><span>x</span></div><span class="first">Nie znaleziono strony o podanym adresie</span><p>Przepraszamy. Strona, kt\u00f3rej szukasz nie zosta\u0142a odnaleziona.</p><p>Prawdopodobnie zosta\u0142a skasowana, zmieniono jej nazw\u0119 albo zosta\u0142a czasowo usuni\u0119ta.</p><span>Page not found</span><p>We are sorry, but the page you requested cannot be found.</p><p>The page you are looking for might have been removed, had its name changed, or is temporarilly unavailable.</p></div></div>';gazeta_404.root=document.createElement('div');gazeta_404.root.setAttribute('id','g404_overlay_holder');gazeta_404.root.innerHTML=htm;document.body.insertBefore(gazeta_404.root,document.body.firstChild);gazeta_404.setOpacity(document.getElementById('g404_overlay_holder_bg'),'70');gazeta_404.setOpacity(document.getElementById('g404_overlay_bg'),'60');document.getElementById('g404_overlay').style.top=((document.documentElement.clientHeight-document.getElementById('g404_overlay').offsetHeight)/2)+'px';gazeta_404.root.style.visibility="visible";gazeta_404.aEv(document.getElementById('g404_close'),'click',function(){document.body.removeChild(gazeta_404.root)})},aEv:function(obj,type,fn){if(obj.addEventListener){obj.addEventListener(type,fn,false)}else if(obj.attachEvent){obj["e"+type+fn]=fn;obj[type+fn]=function(){obj["e"+type+fn](window.event)};obj.attachEvent("on"+type,obj[type+fn])}},setOpacity:function(el,val){el.style.opacity=val/100;el.style.filter='alpha(opacity='+val+')'}};gazeta_404.readHash();</script>
+
+
+
+    <script src="//static.im-g.pl/info/portal/top/2.3.53/portal-top.jsgz"></script>
+
+
+
+
+
+	
+
+
+
+ 
+
+
+
+
+
+
+<script type='text/javascript'>
+
+	
+
+
+	
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+			if(!window.AG){
+    window.AG = window.AG || {};
+    window.AG.rodoAccepted = -1;
+}
+		
+
+		
+
+
+    
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+				var
+    adviewDFP = adviewDFP || {};
+adviewDFP.DFPTargeting = [];
+			
+	
+			
+	
+			
+				// [HB] Core-prod-1 - HEADER_START
+var PREBID_TIMEOUT = (window.AG && window.AG.rodoAccepted === 1) ? 500 : 0;
+var pbjs_currency = 1; // -> to $1
+var pbjs_ga = true;
+var pbjs_yb_hb = false;
+var eur2usd = 1.1;
+var yb_dosamplerate = 100;
+var yb_seg = '';
+var _st0=new Date();
+
+// BIG data
+BigData = {
+    notify: function(eventName){
+        var event = BigData.createEvent(eventName);
+        BigData.fireEvent(event);
+    },
+    createEvent: function(eventName) {
+        var event;
+        if (document.createEvent) {
+            event = document.createEvent("HTMLEvents");
+            event.initEvent(eventName, true, true);
+        } else {
+            event = document.createEventObject();
+            event.eventType = eventName;
+        }
+        event.eventName = eventName;
+        return event;
+    },
+    fireEvent: function(event) {
+        if (document.createEvent) {
+            document.dispatchEvent(event);
+        } else {
+            document.fireEvent("on" + event.eventType, event);
+        }
+    }
+};
+//bwGuidv2
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+    }
+    return "";
+}
+function getJSON (url, callback) {
+	var xhr = new XMLHttpRequest();
+	xhr.open("get", url, true);
+	xhr.responseType = "json";
+	xhr.onload = function() {
+		var status = xhr.status;
+		if (status == 200) {
+			callback(null, xhr.response);
+		} else {
+			callback(status);
+		}
+	};
+	xhr.send();
+};
+//*****************************************
+
+if(Math.random()*100 <= yb_dosamplerate ) {
+	var bwGuidv2 = getCookie("bwGuidv2");
+	if (bwGuidv2 != "") {
+		getJSON("https://squid.gazeta.pl/do/p/v1/gpfgo?g=" + bwGuidv2 + "&p=30000",
+			function(err, data) {
+			  if (err != null) {
+			    console.log("getJSON: Something went wrong: " + err);
+			  } else {
+			  	try{
+			  		var segments = [];
+				    for(index in data.profile.features){
+				    	segments.push(String(index));
+				    }
+				    yb_seg = segments;
+			  	}catch(e){}
+			  }
+		});	
+	}
+}
+if(location.host==='horoskopy.gazeta.pl'){ document.write('\x3Cscript type="text/javascript" src="https://bi.adview.pl/static/adview/front/master/dfp/tools/adview/prebid-v1.17.0-pre.js">\x3C/script>'); } else { document.write('\x3Cscript type="text/javascript" src="https://bi.adview.pl/static/adview/front/master/dfp/tools/adview/prebid.js">\x3C/script>'); }
+
+			
+	
+
+	
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+				var adUnits = [{
+  //plotek.pl_101-TOPBOARD-MOBI
+  code: 'div-gpt-ad-101-TOPBOARD-MOBI-0',
+  sizes: [[300,250]], 
+  bids: [{
+        bidder: 'appnexus',
+        params: { placementId: '11523744' }
+       },{
+        bidder: 'adform',
+        params: { mid: '425570' }
+       },{
+        bidder: 'openx',
+        params: { unit: '539084556', delDomain: 'yieldbird-d.openx.net' }
+       },{
+        bidder: 'smartadserver',
+        params: { currency: 'USD', domain: '//prg.smartadserver.com',  siteId:  '174864', pageId: '852664', formatId: '59460' }
+       },{
+        bidder: 'rubicon',
+        params: { accountId: '11734', siteId: '43872', zoneId: '771966' }
+       },{
+        bidder: 'indexExchange',
+        params: { id: '1', siteID: '232368' }
+       },{
+        bidder: 'districtmDMX',
+        params: { id: '183301' }
+       },{
+        bidder: 'rtbhouse',
+        params: { region: 'prebid-eu', publisherId: 'da39a3ee5e6b4b0d' }
+       }]
+},{
+  //plotek.pl_104-RECTANGLE-MOBI
+  code: 'div-gpt-ad-104-RECTANGLE-MOBI-0',
+  sizes: [[300,250]], 
+  bids: [{
+        bidder: 'appnexus',
+        params: { placementId: '11415968' }
+       },{
+        bidder: 'adform',
+        params: { mid: '403445' }
+       },{
+        bidder: 'openx',
+        params: { unit: '539084557', delDomain: 'yieldbird-d.openx.net' }
+       },{
+        bidder: 'smartadserver',
+        params: { currency: 'USD', domain: '//prg.smartadserver.com',  siteId:  '174864', pageId: '852666', formatId: '59460' }
+       },{
+        bidder: 'rubicon',
+        params: { accountId: '11734', siteId: '43872', zoneId: '771964' }
+       },{
+        bidder: 'indexExchange',
+        params: { id: '2', siteID: '232369' }
+       },{
+        bidder: 'districtmDMX',
+        params: { id: '183222' }
+       },{
+        bidder: 'rtbhouse',
+        params: { region: 'prebid-eu', publisherId: 'da39a3ee5e6b4b0d' }
+       }]
+}];
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+
+	
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+				// [HB] Core-prod-2 - OVER_GT
+if(pbjs_yb_hb){
+	    var yb_hb = (pbjs_yb_hb ? Math.round(Math.random()) : 1);
+	    PREBID_TIMEOUT *= yb_hb;
+	}
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    pbjs.que.push(function() {
+    	for (var i = 0; i < adUnits.length; i++){shuffle(adUnits[i].bids);}
+  		if(PREBID_TIMEOUT>0) pbjs.addAdUnits(adUnits);
+        pbjs.requestBids({
+            bidsBackHandler: function(bidResponses) {
+                pbjs.dataPrebidReady=true;
+                BigData.notify("data-prebid-ready");
+            }
+        });
+		pbjs.bidderSettings = {
+			standard: {
+			  adserverTargeting: [{
+			    key: "hb_bidder", val: function(bidResponse) { return bidResponse.bidderCode; }},{
+			    key: "hb_adid", val: function(bidResponse) { return bidResponse.adId; }},{
+			    key: "hb_pb", val: function(bidResponse) { return (bidResponse.pbHg*pbjs_currency).toFixed(2); }},{
+			    key: "hb_size", val: function(bidResponse) { return bidResponse.size; }
+			  }]
+			},
+		    audienceNetwork: { bidCpmAdjustment : function(bidCpm){ return (bidCpm * 0.75); }},
+			districtmDMX: { bidCpmAdjustment : function(bidCpm){ return (bidCpm * 0.85); }},
+			aol: { bidCpmAdjustment : function(bidCpm){ return (bidCpm * 0.8); }},
+			adform: { bidCpmAdjustment : function(bidCpm){ return (bidCpm * 0.9)*eur2usd; }},
+			rubicon: { bidCpmAdjustment : function(bidCpm){ return (bidCpm * 0.82)*eur2usd; }},
+			smartadserver: { bidCpmAdjustment : function(bidCpm){ return (bidCpm * 0.9); }},
+			pubmatic: { bidCpmAdjustment : function(bidCpm){ return (bidCpm * 0.9); }}, 
+		  	appnexusAst: { bidCpmAdjustment : function(bidCpm){ return (bidCpm * 0.65); }}
+		};
+	  if(pbjs_ga) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-84607356-7', 'auto', 'yb', {'sampleRate': 0.1});
+		pbjs.enableAnalytics({
+		  provider: 'ga',
+		  options: {
+		    global: 'ga', // String name of GA global. Default is 'ga'
+		    enableDistribution: false,
+		    trackerName: 'yb'
+		  }
+		});    
+	  }
+    });
+	function shuffle(a) {
+	  var i = 0, j = 0, temp = null;
+	  for (i = a.length-1; i > 0; i--) {
+	    j = Math.floor(Math.random() * (i + 1));
+	    temp = a[i];
+	    a[i] = a[j];
+	    a[j] = temp;
+	  }
+	}
+
+var lazyGPT = true;
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+
+	
+
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	var lazyGPT = lazyGPT || false;
+
+	if(!lazyGPT) {
+
+	(function() {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+      })();
+    }
+
+	var dfpParams = dfpParams || {};
+	dfpParams.video = dfpParams.video || {};
+	dfpParams.slots = dfpParams.slots || {};
+	dfpParams.jsp = 30;
+	dfpParams.dir = 'plotek';
+	dfpParams.dx = '78645';
+	
+	dfpParams.prefix = '/75224259/AGORA-IN/Plotek/hp';
+	   
+	     
+			dfpParams.video.preroll = '//pubads.g.doubleclick.net/gampad/ads?sz=400x300|640x480&iu=/75224259/AGORA-IN/Plotek/hp/090-PREROLL&cust_params=pos%3D090-PREROLL%26dx%3D78645%26jsp%3D30%26dir%3Dplotek%26kw%3D[brandsafe]%26dystrybutor%3D[distributor_id]%26passback_id%3D[passback_id]%26domena%3D[adview_hostname]%26cb%3D[cb]&url=[locationhref]&description_url=[locationhref]&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&correlator=[timestamp]';
+		 
+	  
+	  
+	     
+			dfpParams.slots['101-TOPBOARD-MOBI'] = { url: "fif.htm?adUnit=/75224259/AGORA-IN/Plotek/hp/101-TOPBOARD-MOBI&adUnitCode=101-TOPBOARD-MOBI&adUnitSize=[[300,250],[320,250],[300,150],[320,150],[336,280]]&dx=78645&dir=plotek&jsp=30", sizes: [[300,250],[320,250],[300,150],[320,150],[336,280]], autoLoad: false, autoLoadMargin: 200 };
+		 
+			dfpParams.slots['104-RECTANGLE-MOBI'] = { url: "fif.htm?adUnit=/75224259/AGORA-IN/Plotek/hp/104-RECTANGLE-MOBI&adUnitCode=104-RECTANGLE-MOBI&adUnitSize=[[300,250],[320,250],[300,150],[320,150],[336,280],'fluid']&dx=78645&dir=plotek&jsp=30", sizes: [[300,250],[320,250],[300,150],[320,150],[336,280],'fluid'], autoLoad: false, autoLoadMargin: 200 };
+		 
+			dfpParams.slots['108-FOOTBOARD-MOBI'] = { url: "fif.htm?adUnit=/75224259/AGORA-IN/Plotek/hp/108-FOOTBOARD-MOBI&adUnitCode=108-FOOTBOARD-MOBI&adUnitSize=[[300,250],[320,250],[300,150],[320,150],[336,280]]&dx=78645&dir=plotek&jsp=30", sizes: [[300,250],[320,250],[300,150],[320,150],[336,280]], autoLoad: true, autoLoadMargin: 20 };
+		 
+			dfpParams.slots['019-TOPLAYER-MOBI'] = { url: "fif.htm?adUnit=/75224259/AGORA-IN/Plotek/hp/019-TOPLAYER-MOBI&adUnitCode=019-TOPLAYER-MOBI&adUnitSize=[]&dx=78645&dir=plotek&jsp=30", sizes: [], autoLoad: false, autoLoadMargin: 0 };
+		 
+	  
+	
+
+</script>
+
+<!-- IBA Analytics -->
+<!-- 20180116 -->
+<script type="text/javascript">
+    var IBA=IBA||{};IBA.dfp={adUnits:[],rendered:[],exmplUrl:null,onSlotRendered:function(t){null===IBA.dfp.exmplUrl&&(IBA.dfp.exmplUrl=t.slot.ba);var e=t.slot.getAdUnitPath();IBA.dfp.adUnits.push(e),t.isEmpty===!1&&IBA.dfp.rendered.push(e),IBA.adb.update(),"4"==IBA.adb.status&&IBA.adb.onReady()},update:function(){var t=[],e=[];if("undefined"!=typeof googletag&&"function"==typeof googletag.pubads&&"undefined"!=typeof googletag.pubads().getSlots)for(var a=googletag.pubads().getSlots(),n=0;n<a.length;n++)null!==a[n].J&&e.push(a[n].getAdUnitPath()),t.push(a[n].getAdUnitPath());e.length>IBA.dfp.rendered.length&&(IBA.dfp.rendered=e),t.length>IBA.dfp.adUnits.length&&(IBA.dfp.adUnits=t),IBA.adb.onReady()},testUrlAndDispatch:function(){var t=!1,e=new XMLHttpRequest;if(e.open("HEAD",IBA.dfp.exmplUrl,!0),e.onreadystatechange=function(){console.log(e.readyState+" | status|  "+e.status),0===e.status&&(IBA.adb.status="5"),IBA.adb.dispatch()},IBA.dfp.exmplUrl)try{e.send(),t=!0}catch(a){IBA.adb.status="5",IBA.adb.dispatch()}else console.warn("IBA exmplUrl"+IBA.dfp.exmplUrl)}},IBA.adb={states:{0:"Not available",1:"Partially available but not rendered",2:"Partially available at least one rendered",3:"Available but not rendered",4:"Available at least one rendered",5:"Not available but lib loaded",9:"Default : unknown"},gem:{0:"AfHgvarrP4PC7igzOLWh7dVpTGP109BuRIffksuYjfT.c7",1:"ofhA3bsKT7xY8Cgj4cuRX8cQ.qiY_fsP1VURxgCyYv3.F7",2:"ofhA3bsKT7xY8Cgj4cuRX8cQ.qiY_fsP1VURxgCyYv3.F7",3:"nF5K4QQDK9TNGw_ql.fdc9U7XrD1irt.GoVhWXaFu6b.Z7",4:"nF5K4QQDK9TNGw_ql.fdc9U7XrD1irt.GoVhWXaFu6b.Z7",5:"ofhA3bsKT7xY8Cgj4cuRX8cQ.qiY_fsP1VURxgCyYv3.F7",9:"__unknown__"},status:"9",update:function(){var t=IBA.dfp.adUnits.length,e=IBA.dfp.rendered.length,a=window.abp||!1;0===t?IBA.adb.status="0":0===e&&a===!0?IBA.adb.status="1":e>0&&a===!0?IBA.adb.status="2":0===e?IBA.adb.status="3":e>0&&(IBA.adb.status="4")},onReady:function(){IBA.adb.ready!==!0&&(IBA.adb.ready=!0,IBA.adb.update(),"3"==IBA.adb.status?IBA.dfp.testUrlAndDispatch():IBA.adb.dispatch())},ready:!1,dispatch:function(){var t=IBA.adb.status;window.gemius_identifier=IBA.adb.gem[t];var e=document.createElement("script"),a=document.getElementsByTagName("script")[0];e.onerror=function(t){},e.src="//gazeta.hit.gemius.pl/gemius.js",a.parentNode.insertBefore(e,a),IBA.BigData.notify("adblockdataready")}},IBA.BigData={notify:function(t){var e=IBA.BigData.createEvent(t);IBA.BigData.fireEvent(e)},createEvent:function(t){var e;return document.createEvent?(e=document.createEvent("HTMLEvents"),e.initEvent(t,!0,!0)):(e=document.createEventObject(),e.eventType=t),e.eventName=t,e},fireEvent:function(t){document.createEvent?document.dispatchEvent(t):document.fireEvent("on"+t.eventType,t)}},setTimeout(function(){try{"complete"===document.readyState?IBA.dfp.update():window.addEventListener("load",IBA.dfp.update,!1)}catch(t){}},20);
+</script>
+
+
+
+
+	
+
+	
+		
+	
+		
+	
+		
+		<script type="text/javascript">
+  if (window.dfpParams) {
+    window.dfpParams.isMobile = true;
+  }
+</script>
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+
+	<script type='text/javascript'>
+	googletag.cmd.push(function() {
+
+		var mobileSizeMap = googletag.sizeMapping()
+				.addSize([336,0], [[1,1],[300,250],[320,250],[300,150],[320,150],[336,280],[267,310],[155,290],[320,100],[320,50],[320,125],[320,266],[320,300],[200,130],[300,600], 'fluid'])
+				.addSize([0,0],   [[1,1],[300,250],[320,250],[300,150],[320,150],[267,310],[155,290],[320,100],[320,50],[320,125],[320,266],[320,300],[200,130],[300,600], 'fluid'])
+				.build();
+
+		
+				
+					
+						var mobileSizeMap_101_topboard_mobi = googletag.sizeMapping().addSize([336,0], [[300,250],[320,250],[300,150],[320,150],[336,280]]).addSize([0,0], [[300,250],[320,250],[300,150],[320,150]]).build();
+					
+						var mobileSizeMap_104_rectangle_mobi = googletag.sizeMapping().addSize([336,0], [[300,250],[320,250],[300,150],[320,150],[336,280],'fluid']).addSize([0,0], [[300,250],[320,250],[300,150],[320,150],'fluid']).build();
+					
+						var mobileSizeMap_108_footboard_mobi = googletag.sizeMapping().addSize([336,0], [[300,250],[320,250],[300,150],[320,150],[336,280]]).addSize([0,0], [[300,250],[320,250],[300,150],[320,150]]).build();
+					
+						var mobileSizeMap_019_toplayer_mobi = googletag.sizeMapping().addSize([336,0], []).addSize([0,0], []).build();
+					
+				
+		
+
+		googletag.defineSlot('/75224259/AGORA-IN/Plotek/hp/101-TOPBOARD-MOBI', [[300,250],[320,250],[300,150],[320,150],[336,280]], 'div-gpt-ad-101-TOPBOARD-MOBI-0').setTargeting('pos', ['101-TOPBOARD-MOBI']).defineSizeMapping(mobileSizeMap_101_topboard_mobi).addService(googletag.pubads());
+googletag.defineSlot('/75224259/AGORA-IN/Plotek/hp/104-RECTANGLE-MOBI', [[300,250],[320,250],[300,150],[320,150],[336,280],'fluid'], 'div-gpt-ad-104-RECTANGLE-MOBI-0').setTargeting('pos', ['104-RECTANGLE-MOBI']).defineSizeMapping(mobileSizeMap_104_rectangle_mobi).addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/75224259/AGORA-IN/Plotek/hp/019-TOPLAYER-MOBI', 'div-gpt-ad-019-TOPLAYER-MOBI-0').setTargeting('pos', ['019-TOPLAYER-MOBI']).addService(googletag.pubads());
+
+		
+			googletag.pubads().setTargeting('dx','78645');
+		
+			googletag.pubads().setTargeting('dir','plotek');
+		
+			googletag.pubads().setTargeting('jsp','30');
+		
+      googletag.pubads().setTargeting('cb', [''+window.AG.rodoAccepted]);
+
+		
+
+		
+			
+				var _YB=_YB||{ab:function(){return (Math.random()>=0.1?"b":"a"+Math.floor(Math.random()*10));}};
+    googletag.pubads().getSlots().forEach(function(slot){slot.setTargeting('yb_ab', _YB.ab());});
+			
+		
+			
+				if (typeof randRodoAB !== 'undefined') {
+    googletag.pubads().setTargeting("kw", "testyab_rodo_" + randRodoAB);
+    adviewDFP.DFPTargeting.push('kw|testyab_rodo_' + randRodoAB);
+}
+
+(function(){
+    var _pm = window.location.search.match(/\?i=([0-9]+)/);
+    if (window.adviewDFP && adviewDFP.DFPTargeting && _pm) adviewDFP.DFPTargeting.push("yb_page|" + String(_pm[1]));
+    if (_pm) return googletag.pubads().setTargeting('yb_page', String(_pm[1]));
+})();
+
+googletag.pubads().setTargeting('domena', ""+window.top.location.hostname+"");
+
+var
+	adviewKW = []; 
+
+if(typeof window.gExVariation !== 'undefined') {
+	adviewKW.push('testyab_' + gExVariation);
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push('kw|testyab_' + gExVariation);
+}
+if (/\/2,|\/14,/.test(window.location.href)) {
+	adviewKW.push('relacja');
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push('kw|relacja');
+}
+if (/\/15,/.test(window.location.href)) {
+	adviewKW.push('quiz-new');
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push('kw|quiz-new');
+}
+if (/\/13,/.test(window.location.href)) {
+	adviewKW.push('quiz-old');
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push('kw|quiz-old');
+}
+if (/\/5,/.test(window.location.href)) {
+	adviewKW.push('jsp-5');
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push('kw|jsp-5');
+}
+if (/\/51,/.test(window.location.href)) {
+	adviewKW.push('jsp-51');
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push('kw|jsp-51');
+}
+if (typeof adviewKW !== 'undefined' && adviewKW.length) {
+	googletag.pubads().setTargeting('kw', adviewKW);
+}
+
+
+			
+		
+			
+		
+			
+				// [HB] Core-prod-3 - AFTER_SLOTS
+if(window.yb_seg && yb_seg!='') {
+    googletag.pubads().setTargeting('yb_seg', yb_seg);
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("yb_seg|" + yb_seg);
+}
+if(window.pbjs_yb_hb) {
+    googletag.pubads().getSlots().forEach(function(slot){
+        slot.setTargeting('yb_hb', String(yb_hb));
+    });
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("yb_hb|" + String(yb_hb));
+}
+if(window.pbjs) pbjs.que.push(function() {
+    pbjs.setTargetingForGPTAsync();
+});
+			
+		
+			
+		
+			
+		
+			
+		
+			
+				var
+    cookieIfr = null;
+if (document.referrer) {
+
+    var
+        url_domain = function(data) {
+                var a = document.createElement('a');
+                a.href = data;
+                return a.protocol + '//' + a.hostname;
+            };
+
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4 && this.status == 200) {
+            cookieIfr = JSON.parse(this.responseText).dfpreferrer;
+        }
+    };
+    xhttp.withCredentials = true;
+    xhttp.open('GET', '//dfp.gazeta.pl/c.servlet?cn=dfpreferrer', false);
+    try {
+        xhttp.send();
+    } catch (ex) {
+        console.info('Error xhttp DFP');
+    }
+}
+
+function _setCookieDFP(name) {
+    var xhttp = new XMLHttpRequest();
+    xhttp.withCredentials = true;
+    xhttp.open('GET', '//dfp.gazeta.pl/c.servlet?cn=dfpreferrer&cv=' + name, true);
+    try {
+        xhttp.send();
+    } catch (ex) {
+        console.info('Error xhttp DFP');
+    }
+}
+
+function _getCookieValueDFP(a) {
+    var b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)');
+    return b ? b.pop() : '';
+}
+
+
+
+
+// 20180410
+var hashArrDFP = ['BoxBizCzol1','BoxBizImg1','BoxBizImg2','BoxBizImg3','BoxBizLink','BoxBizLinkImg','BoxBizMT','BoxBizNav','BoxGWImg','BoxHor','BoxMTPromoImg','BoxMTPromo','BoxKultIko','BoxKultImg1','BoxKultImg2','BoxKultImg3','BoxKultLink','BoxKultLinkImg','BoxKultNav','BoxKultNavLink','BoxLoBbImg1','BoxLoBbImg2','BoxLoBbImg3','BoxLoBbImg4','BoxLoBbLink','BoxLoBbMT','BoxLoBbNavLink','BoxLoBiImg1','BoxLoBiImg2','BoxLoBiImg3','BoxLoBiImg4','BoxLoBiLink','BoxLoBiMT','BoxLoByImg1','BoxLoByImg2','BoxLoByImg3','BoxLoByImg4','BoxLoByLink','BoxLoByMT','BoxLoByNavLink','BoxLoCzImg1','BoxLoCzImg2','BoxLoCzImg3','BoxLoCzImg4','BoxLoCzNav','BoxLoCzLink','BoxLoCzMT','BoxLoCzNavLink','BoxLoGLImg1','BoxLoGLImg2','BoxLoGLImg3','BoxLoGLImg4','BoxLoGLLink','BoxLoGLMT','BoxLoGLNavLink','BoxLoGwImg1','BoxLoGwImg2','BoxLoGwImg3','BoxLoGwImg4','BoxLoGwLink','BoxLoGwMT','BoxLoKaImg1','BoxLoKaImg2','BoxLoKaImg3','BoxLoKaImg4','BoxLoKaLink','BoxLoKaMT','BoxLoKaNavLink','BoxLoKiImg1','BoxLoKiImg2','BoxLoKiImg3','BoxLoKiImg4','BoxLoKiLink','BoxLoKiMT','BoxLoKiNavLink','BoxLoKrImg1','BoxLoKrImg2','BoxLoKrImg3','BoxLoKrImg4','BoxLoKrLink','BoxLoKrMT','BoxLoKrNavLink','BoxLoLoImg1','BoxLoLoImg2','BoxLoLoImg3','BoxLoLoImg4','BoxLoLoLink','BoxLoLoMT','BoxLoLoNavLink','BoxLoLuImg1','BoxLoLuImg2','BoxLoLuImg3','BoxLoLuImg4','BoxLoLuLink','BoxLoLuMT','BoxLoLuNavLink','BoxLoOlsztynImg1','BoxLoOlsztynImg2','BoxLoOlsztynImg3','BoxLoOlsztynImg4','BoxLoOlsztynLink','BoxLoOlsztynMT','BoxLoOlsztynNavLink','BoxLoOlsztynNav','BoxLoOpImg1','BoxLoOpImg2','BoxLoOpImg3','BoxLoOpImg4','BoxLoOpLink','BoxLoOpMT','BoxLoOpNavLink','BoxLoPlImg1','BoxLoPlImg2','BoxLoPlImg3','BoxLoPlImg4','BoxLoPlLink','BoxLoPlMT','BoxLoPoImg1','BoxLoPoImg2','BoxLoPoImg3','BoxLoPoImg4','BoxLoPoLink','BoxLoPoMT','BoxLoPoNavLink','BoxLoRaImg1','BoxLoRaImg2','BoxLoRaImg3','BoxLoRaImg4','BoxLoRaLink','BoxLoRaMT','BoxLoRaNavLink','BoxLoRzImg2','BoxLoRzImg3','BoxLoRzImg4','BoxLoRzLink','BoxLoRzNavLink','BoxLoSoImg1','BoxLoSoImg2','BoxLoSoImg3','BoxLoSoImg4','BoxLoSoLink','BoxLoSoMT','BoxLoSoNavLink','BoxLoSzImg1','BoxLoSzImg2','BoxLoSzImg3','BoxLoSzImg4','BoxLoSzLink','BoxLoSzMT','BoxLoSzNavLink','BoxLoTrImg1','BoxLoTrImg2','BoxLoTrImg3','BoxLoTrImg4','BoxLoTrLink','BoxLoTrMT','BoxLoTrNavLink','BoxLoTrNav','BoxLoWaImg1','BoxLoWaImg2','BoxLoWaImg3','BoxLoWaImg4','BoxLoWaLink','BoxLoWaMT','BoxLoWaNav','BoxLoWrImg1','BoxLoWrImg2','BoxLoWrImg3','BoxLoWrImg4','BoxLoWrLink','BoxLoWrMT','BoxLoWrNavLink','BoxLoZgImg1','BoxLoZgImg2','BoxLoZgImg3','BoxLoZgImg4','BoxLoZgLink','BoxLoZgMT','BoxLoZgNavLink','BoxLSCzol1','BoxLSCzol2','BoxMotMT','BoxMotImg1','BoxMotImg2','BoxMotImg3','BoxMotImg4','BoxMotLink','BoxMotLinkImg','BoxMotNav','BoxLSFCZOL1','BoxLSFImg1','BoxLSFImg2','BoxLSFImg3','BoxLSFImg4','BoxLSFLink','BoxLSFMT','BoxLSImg1','BoxLSImg2','BoxLSLink','BoxLSLinkImg','BoxLSMT','BoxLSNav','ECON','BoxNewestNav','BoxNewsImg1','BoxNewsImg2','BoxNewsImg3','BoxNewsImg4','BoxNewsLink','BoxNewsLinkImg','BoxNewsLinkMore','BoxNewsMT','BoxNewsNav','BoxNewsNavLink','BoxNPrzeCzol1','BoxNPrzeCzol10','BoxNPrzeCzol11','BoxNPrzeCzol12','BoxNPrzeCzol13','BoxNPrzeCzol14','BoxNPrzeCzol15','BoxNPrzeCzol16','BoxNPrzeCzol17','BoxNPrzeCzol18','BoxNPrzeCzol19','BoxNPrzeCzol2','BoxNPrzeCzol20','BoxNPrzeCzol21','BoxNPrzeCzol22','BoxNPrzeCzol23','BoxNPrzeCzol24','BoxNPrzeCzol25','BoxNPrzeCzol26','BoxNPrzeCzol27','BoxNPrzeCzol3','BoxNPrzeCzol4','BoxNPrzeCzol5','BoxNPrzeCzol6','BoxNPrzeCzol7','BoxNPrzeCzol8','BoxNPrzeCzol9','BoxOpCzol1','BoxOpCzol2','BoxOpCzol3','BoxOpImg1','BoxOpImg2','BoxOpImg3','BoxOpImg4','BoxOpImg5','BoxOpImg6','BoxOpImg7','BoxOpImg8','BoxOpImg9','BoxOpImg10','BoxOpImg11','BoxOpLink','BoxOpMT','BoxPloCzol1','BoxPloImg1','BoxPloImg2','BoxPloImg3','BoxPloLink','BoxPloLinkImg','BoxPloMT','BoxPloNavLink','BoxRozCzol1','BoxRozImg1','BoxRozImg2','BoxRozImg3','BoxRozImg4','BoxRozMT','BoxRozNavLink','BoxSportImg1','BoxSportImg2','BoxSportImg3','BoxSportLink','BoxSportLinkImg','BoxSportMT','BoxSportNav','BoxWyboImg1','BoxWyboImg2','BoxWyboImg3','BoxWyboImg4','BoxWyboLink','BoxWyboLinkImg','BoxWyboMT','BoxWyboNav','NavMoreSeo','PublioBoxEcom1','PublioBoxEcom2','PublioBoxEcom3','PublioBoxEcom4','NavLinks','NavLinksSm','NavIco','NavIcoSm','BoxOpMT1','BoxOpMT2','BoxOpMT3','BoxOpMT4','BoxPogTer','BoxPogNast','BoxPogJut','BoxPog7','BoxPogMi','BoxSportImg4','BoxSportCzol1','BoxSportLinkMore','BoxBizImg4','BoxBizLinkMore','BoxLSImg3','BoxLSImg4','BoxLSLinkMore','BoxPloNav','BoxPloLinkMore','BoxLSFCzol1','BoxLSFNav','BoxLSFLinkMore','BoxKultLinkMore','BoxRozNav','BoxRozLink','BoxRozLinkMore','BoxWyboNavLink','BoxWyboLinkMore','BoxLoWaNavLink','BoxLoWaLinkMore','BoxLoKrNav','BoxLoKrLinkMore','BoxLoKiNav','BoxLoKiLinkMore','BoxLoBiNav','BoxLoBiNavLink','BoxLoBiLinkMore','BoxLoBbNav','BoxLoBbLinkMore','BoxLoByNav','BoxLoByLinkMore','BoxLoGlMT','BoxLoGlImg1','BoxLoGlImg2','BoxLoGlImg3','BoxLoGlImg4','BoxLoGlLink','BoxLoGlNav','BoxLoGlNavLink','BoxLoGlLinkMore','BoxLoTrLinkMore','BoxLoGwNav','BoxLoGwNavLink','BoxLoGwLinkMore','BoxLoKaNav','BoxLoKaLinkMore','BoxLoLuNav','BoxLoLuLinkMore','BoxLoLoNav','BoxLoLoLinkMore','BoxLoOlMT','BoxLoOlImg1','BoxLoOlImg2','BoxLoOlImg3','BoxLoOlImg4','BoxLoOlLink','BoxLoOlNav','BoxLoOlNavLink','BoxLoOlLinkMore','BoxLoOpNav','BoxLoOpLinkMore','BoxLoPlNav','BoxLoPlNavLink','BoxLoPlLinkMore','BoxLoPoNav','BoxLoPoLinkMore','BoxLoCzLinkMore','BoxLoRaNav','BoxLoRaLinkMore','BoxLoRzMT','BoxLoRzImg1','BoxLoRzNav','BoxLoRzLinkMore','BoxLoSoNav','BoxLoSoLinkMore','BoxLoSzNav','BoxLoSzLinkMore','BoxLoToMT','BoxLoToImg1','BoxLoToImg2','BoxLoToImg3','BoxLoToImg4','BoxLoToLink','BoxLoToNav','BoxLoToNavLink','BoxLoToLinkMore','BoxLoWrNav','BoxLoWrLinkMore','BoxLoZgNav','BoxLoZgLinkMore','BoxLoCpMT','BoxLoCpImg1','BoxLoCpImg2','BoxLoCpImg3','BoxLoCpImg4','BoxLoCpLink','BoxLoCpNav','BoxLoCpNavLink','BoxLoCpLinkMore','BoxC2COp1','BoxC2COp2','BoxC2COp10','BoxC2COp3','BoxC2COp4','BoxC2COp5','BoxC2COp6','BoxC2COp7','BoxC2COp8','BoxC2COp9','BoxC2CLS1','BoxC2CLS10','BoxC2CLS2','BoxC2CLS3','BoxC2CLS4','BoxC2CLS5','BoxC2CLS6','BoxC2CLS7','BoxC2CLS8','BoxC2CLS9','BoxC2CMot1','BoxC2CMot10','BoxC2CMot2','BoxC2CMot3','BoxC2CMot4','BoxC2CMot5','BoxC2CMot6','BoxC2CMot7','BoxC2CMot8','BoxC2CMot9','BoxC2CPlo1','BoxC2CPlo10','BoxC2CPlo2','BoxC2CPlo3','BoxC2CPlo4','BoxC2CPlo5','BoxC2CPlo6','BoxC2CPlo7','BoxC2CPlo8','BoxC2CPlo9','BoxC2CSport1','BoxC2CSport10','BoxC2CSport2','BoxC2CSport3','BoxC2CSport4','BoxC2CSport5','BoxC2CSport6','BoxC2CSport7','BoxC2CSport8','BoxC2CSport9','BoxWeSl_1_1','BoxWeSl_1_2','BoxWeSl_2_1','BoxWeSl_2_2','BoxWeSl_3_1','BoxWeSl_3_2','BoxWeSl_4_1','BoxWeSl_4_2','BoxWeSl_5_1','BoxWeSl_5_2','BoxWeFr','BoxLoBbLinkImg','BoxLoBiLinkImg','BoxLoByLinkImg','BoxLoCzLinkImg','BoxLoGLLinkImg','BoxLoGwLinkImg','BoxLoKaLinkImg','BoxLoKiLinkImg','BoxLoKrLinkImg','BoxLoLoLinkImg','BoxLoLuLinkImg','BoxLoOlsztynLinkImg','BoxLoOpLinkImg','BoxLoPlLinkImg','BoxLoPoLinkImg','BoxLoRaLinkImg','BoxLoRzLinkImg','BoxLoSoLinkImg','BoxLoSzLinkImg','BoxLoTrLinkImg','BoxLoWaLinkImg','BoxLoWrLinkImg','BoxLoZgLinkImg','BoxLoGlLinkImg','BoxLoOlLinkImg','BoxLoToLinkImg','BoxLoCpLinkImg','BoxBizCz','BoxBizImg','BoxDesCz','BoxDesImg','BoxDesNav','BoxDWCz','BoxDWImg','BoxDWNav','BoxLSECom','BoxFiBImg','BoxFiBNav','FiBImg','FiBNav','BoxGWNav','BoxHorNav','BoxIkoBook','BoxIkoGie','BoxIkoGry','BoxIkoHor','BoxIkoKina','BoxIkoLotto','BoxIkoPog','BoxIkoTV','BoxKultImg','BoxLSCz','BoxLSImg','BoxLokKrajImg','BoxLokKrajLink','BoxLokKrajLinkImg','BoxLokBialImg','BoxLokBialLink','BoxLokBialNav','BoxLokBialLinkImg','BoxLokBieImg','BoxLokBieLink','BoxLokBieLinkImg','BoxLokBieNav','BoxLokBydImg','BoxLokBydLink','BoxLokBydLinkImg','BoxLokBydNav','BoxLokCzeImg','BoxLokCzeLink','BoxLokCzeLinkImg','BoxLokCzeNav','BoxLokGlwImg','BoxLokGlwLink','BoxLokGlwLinkImg','BoxLokGorzImg','BoxLokGorzLink','BoxLokGorzLinkImg','BoxLokKatImg','BoxLokKatLink','BoxLokKatLinkImg','BoxLokKatNav','BoxLokKielImg','BoxLokKielLink','BoxLokKielLinkImg','BoxLokKielNav','BoxLokKrakImg','BoxLokKrakLink','BoxLokKrakLinkImg','BoxLokKrakNav','BoxLokLubImg','BoxLokLubLink','BoxLokLubLinkImg','BoxLokLubNav','BoxLokLodzImg','BoxLokLodzLink','BoxLokLodzLinkImg','BoxLokLodzNav','BoxLokOlsImg','BoxLokOlsLink','BoxLokOlsNav','BoxLokOlsLinkImg','BoxLokOpoImg','BoxLokOpoLink','BoxLokOpoLinkImg','BoxLokOpoNav','BoxLokPloImg','BoxLokPloLink','BoxLokPloNav','BoxLokPloLinkImg','BoxLokPozImg','BoxLokPozLink','BoxLokPozNav','BoxLokPozLinkImg','BoxLokRadImg','BoxLokRadLink','BoxLokRadNav','BoxLokRadLinkImg','BoxLokRzeImg','BoxLokRzeLink','BoxLokRzeLinkImg','BoxLokRzeNav','BoxLokSosImg','BoxLokSosLink','BoxLokSosLinkImg','BoxLokSosNav','BoxLokSznImg','BoxLokSznLink','BoxLokSznLinkImg','BoxLokSznNav','BoxLokTorImg','BoxLokTorLink','BoxLokTorLinkImg','BoxLokTorNav','BoxLokTrojImg','BoxLokTrojLink','BoxLokTrojLinkImg','BoxLokTrojNav','BoxLokWawImg','BoxLokWawNav','BoxLokWawLink','BoxLokWawLinkImg','BoxLokWrocImg','BoxLokWrocLink','BoxLokWrocLinkImg','BoxLokWrocNav','BoxLokZielImg','BoxLokZielLink','BoxLokZielLinkImg','BoxLokZielNav','MegaMT','BoxMU2Img','ModaUroda2Img','BoxMUCz','BoxMUImg','BoxMotoImg','BoxMotoNav','MotoImg','MTstream','mBoxNajcz','BoxNiePrzeg','NiePrzeg','BoxOferty','BoxNextImg','Czolka3Img','MT','MT2','Prze','BoxPloCz2','BoxPloCz3','BoxPloPrze','BoxTripImg','BoxTrvCz','BoxTrvImg','BoxTrvNav','PodrozeCz','PodrozeImg','TRPog','BoxPubImg','BoxRekrCz','BoxRekrImg','BoxRekrNav','BoxSpecImg','BoxSpecLink','BoxSpecialNav','BoxSpecial','BoxSportCz','BoxSportImg','BoxSportPrze','Weekend','TRwknd','BoxNewsImg','BoxVidImg','BoxVidLifeImg','BoxVODImg','BoxWN','gospoIco','Img','Ogl_all','Czolka3Img2','Prze2','HatNav','NavLinksCz','HatNavCz','NavMore','TROgl','BoxPubNav','A_BoxBizCzol1','A_BoxBizImg1','A_BoxBizImg2','A_BoxBizImg3','A_BoxBizLink','A_BoxBizLinkImg','A_BoxBizMT','A_BoxBizNav','A_BoxGWImg','A_BoxHor','A_BoxMTPromoImg','A_BoxMTPromo','A_BoxKultIko','A_BoxKultImg1','A_BoxKultImg2','A_BoxKultImg3','A_BoxKultLink','A_BoxKultLinkImg','A_BoxKultNav','A_BoxKultNavLink','A_BoxLoBbImg1','A_BoxLoBbImg2','A_BoxLoBbImg3','A_BoxLoBbImg4','A_BoxLoBbLink','A_BoxLoBbMT','A_BoxLoBbNavLink','A_BoxLoBiImg1','A_BoxLoBiImg2','A_BoxLoBiImg3','A_BoxLoBiImg4','A_BoxLoBiLink','A_BoxLoBiMT','A_BoxLoByImg1','A_BoxLoByImg2','A_BoxLoByImg3','A_BoxLoByImg4','A_BoxLoByLink','A_BoxLoByMT','A_BoxLoByNavLink','A_BoxLoCzImg1','A_BoxLoCzImg2','A_BoxLoCzImg3','A_BoxLoCzImg4','A_BoxLoCzNav','A_BoxLoCzLink','A_BoxLoCzMT','A_BoxLoCzNavLink','A_BoxLoGLImg1','A_BoxLoGLImg2','A_BoxLoGLImg3','A_BoxLoGLImg4','A_BoxLoGLLink','A_BoxLoGLMT','A_BoxLoGLNavLink','A_BoxLoGwImg1','A_BoxLoGwImg2','A_BoxLoGwImg3','A_BoxLoGwImg4','A_BoxLoGwLink','A_BoxLoGwMT','A_BoxLoKaImg1','A_BoxLoKaImg2','A_BoxLoKaImg3','A_BoxLoKaImg4','A_BoxLoKaLink','A_BoxLoKaMT','A_BoxLoKaNavLink','A_BoxLoKiImg1','A_BoxLoKiImg2','A_BoxLoKiImg3','A_BoxLoKiImg4','A_BoxLoKiLink','A_BoxLoKiMT','A_BoxLoKiNavLink','A_BoxLoKrImg1','A_BoxLoKrImg2','A_BoxLoKrImg3','A_BoxLoKrImg4','A_BoxLoKrLink','A_BoxLoKrMT','A_BoxLoKrNavLink','A_BoxLoLoImg1','A_BoxLoLoImg2','A_BoxLoLoImg3','A_BoxLoLoImg4','A_BoxLoLoLink','A_BoxLoLoMT','A_BoxLoLoNavLink','A_BoxLoLuImg1','A_BoxLoLuImg2','A_BoxLoLuImg3','A_BoxLoLuImg4','A_BoxLoLuLink','A_BoxLoLuMT','A_BoxLoLuNavLink','A_BoxLoOlsztynImg1','A_BoxLoOlsztynImg2','A_BoxLoOlsztynImg3','A_BoxLoOlsztynImg4','A_BoxLoOlsztynLink','A_BoxLoOlsztynMT','A_BoxLoOlsztynNavLink','A_BoxLoOlsztynNav','A_BoxLoOpImg1','A_BoxLoOpImg2','A_BoxLoOpImg3','A_BoxLoOpImg4','A_BoxLoOpLink','A_BoxLoOpMT','A_BoxLoOpNavLink','A_BoxLoPlImg1','A_BoxLoPlImg2','A_BoxLoPlImg3','A_BoxLoPlImg4','A_BoxLoPlLink','A_BoxLoPlMT','A_BoxLoPoImg1','A_BoxLoPoImg2','A_BoxLoPoImg3','A_BoxLoPoImg4','A_BoxLoPoLink','A_BoxLoPoMT','A_BoxLoPoNavLink','A_BoxLoRaImg1','A_BoxLoRaImg2','A_BoxLoRaImg3','A_BoxLoRaImg4','A_BoxLoRaLink','A_BoxLoRaMT','A_BoxLoRaNavLink','A_BoxLoRzImg2','A_BoxLoRzImg3','A_BoxLoRzImg4','A_BoxLoRzLink','A_BoxLoRzNavLink','A_BoxLoSoImg1','A_BoxLoSoImg2','A_BoxLoSoImg3','A_BoxLoSoImg4','A_BoxLoSoLink','A_BoxLoSoMT','A_BoxLoSoNavLink','A_BoxLoSzImg1','A_BoxLoSzImg2','A_BoxLoSzImg3','A_BoxLoSzImg4','A_BoxLoSzLink','A_BoxLoSzMT','A_BoxLoSzNavLink','A_BoxLoTrImg1','A_BoxLoTrImg2','A_BoxLoTrImg3','A_BoxLoTrImg4','A_BoxLoTrLink','A_BoxLoTrMT','A_BoxLoTrNavLink','A_BoxLoTrNav','A_BoxLoWaImg1','A_BoxLoWaImg2','A_BoxLoWaImg3','A_BoxLoWaImg4','A_BoxLoWaLink','A_BoxLoWaMT','A_BoxLoWaNav','A_BoxLoWrImg1','A_BoxLoWrImg2','A_BoxLoWrImg3','A_BoxLoWrImg4','A_BoxLoWrLink','A_BoxLoWrMT','A_BoxLoWrNavLink','A_BoxLoZgImg1','A_BoxLoZgImg2','A_BoxLoZgImg3','A_BoxLoZgImg4','A_BoxLoZgLink','A_BoxLoZgMT','A_BoxLoZgNavLink','A_BoxLSCzol1','A_BoxLSCzol2','A_BoxMotMT','A_BoxMotImg1','A_BoxMotImg2','A_BoxMotImg3','A_BoxMotImg4','A_BoxMotLink','A_BoxMotLinkImg','A_BoxMotNav','A_BoxLSFCZOL1','A_BoxLSFImg1','A_BoxLSFImg2','A_BoxLSFImg3','A_BoxLSFImg4','A_BoxLSFLink','A_BoxLSFMT','A_BoxLSImg1','A_BoxLSImg2','A_BoxLSLink','A_BoxLSLinkImg','A_BoxLSMT','A_BoxLSNav','A_ECON','A_BoxNewestNav','A_BoxNewsImg1','A_BoxNewsImg2','A_BoxNewsImg3','A_BoxNewsImg4','A_BoxNewsLink','A_BoxNewsLinkImg','A_BoxNewsLinkMore','A_BoxNewsMT','A_BoxNewsNav','A_BoxNewsNavLink','A_BoxNPrzeCzol1','A_BoxNPrzeCzol10','A_BoxNPrzeCzol11','A_BoxNPrzeCzol12','A_BoxNPrzeCzol13','A_BoxNPrzeCzol14','A_BoxNPrzeCzol15','A_BoxNPrzeCzol16','A_BoxNPrzeCzol17','A_BoxNPrzeCzol18','A_BoxNPrzeCzol19','A_BoxNPrzeCzol2','A_BoxNPrzeCzol20','A_BoxNPrzeCzol21','A_BoxNPrzeCzol22','A_BoxNPrzeCzol23','A_BoxNPrzeCzol24','A_BoxNPrzeCzol25','A_BoxNPrzeCzol26','A_BoxNPrzeCzol27','A_BoxNPrzeCzol3','A_BoxNPrzeCzol4','A_BoxNPrzeCzol5','A_BoxNPrzeCzol6','A_BoxNPrzeCzol7','A_BoxNPrzeCzol8','A_BoxNPrzeCzol9','A_BoxOpCzol1','A_BoxOpCzol2','A_BoxOpCzol3','A_BoxOpImg1','A_BoxOpImg2','A_BoxOpImg3','A_BoxOpImg4','A_BoxOpImg5','A_BoxOpImg6','A_BoxOpImg7','A_BoxOpImg8','A_BoxOpImg9','A_BoxOpImg10','A_BoxOpImg11','A_BoxOpLink','A_BoxOpMT','A_BoxPloCzol1','A_BoxPloImg1','A_BoxPloImg2','A_BoxPloImg3','A_BoxPloLink','A_BoxPloLinkImg','A_BoxPloMT','A_BoxPloNavLink','A_BoxRozCzol1','A_BoxRozImg1','A_BoxRozImg2','A_BoxRozImg3','A_BoxRozImg4','A_BoxRozMT','A_BoxRozNavLink','A_BoxSportImg1','A_BoxSportImg2','A_BoxSportImg3','A_BoxSportLink','A_BoxSportLinkImg','A_BoxSportMT','A_BoxSportNav','A_BoxWyboImg1','A_BoxWyboImg2','A_BoxWyboImg3','A_BoxWyboImg4','A_BoxWyboLink','A_BoxWyboLinkImg','A_BoxWyboMT','A_BoxWyboNav','A_NavMoreSeo','A_PublioBoxEcom1','A_PublioBoxEcom2','A_PublioBoxEcom3','A_PublioBoxEcom4','A_NavLinks','A_NavLinksSm','A_NavIco','A_NavIcoSm','A_BoxOpMT1','A_BoxOpMT2','A_BoxOpMT3','A_BoxOpMT4','A_BoxPogTer','A_BoxPogNast','A_BoxPogJut','A_BoxPog7','A_BoxPogMi','A_BoxSportImg4','A_BoxSportCzol1','A_BoxSportLinkMore','A_BoxBizImg4','A_BoxBizLinkMore','A_BoxLSImg3','A_BoxLSImg4','A_BoxLSLinkMore','A_BoxPloNav','A_BoxPloLinkMore','A_BoxLSFCzol1','A_BoxLSFNav','A_BoxLSFLinkMore','A_BoxKultLinkMore','A_BoxRozNav','A_BoxRozLink','A_BoxRozLinkMore','A_BoxWyboNavLink','A_BoxWyboLinkMore','A_BoxLoWaNavLink','A_BoxLoWaLinkMore','A_BoxLoKrNav','A_BoxLoKrLinkMore','A_BoxLoKiNav','A_BoxLoKiLinkMore','A_BoxLoBiNav','A_BoxLoBiNavLink','A_BoxLoBiLinkMore','A_BoxLoBbNav','A_BoxLoBbLinkMore','A_BoxLoByNav','A_BoxLoByLinkMore','A_BoxLoGlMT','A_BoxLoGlImg1','A_BoxLoGlImg2','A_BoxLoGlImg3','A_BoxLoGlImg4','A_BoxLoGlLink','A_BoxLoGlNav','A_BoxLoGlNavLink','A_BoxLoGlLinkMore','A_BoxLoTrLinkMore','A_BoxLoGwNav','A_BoxLoGwNavLink','A_BoxLoGwLinkMore','A_BoxLoKaNav','A_BoxLoKaLinkMore','A_BoxLoLuNav','A_BoxLoLuLinkMore','A_BoxLoLoNav','A_BoxLoLoLinkMore','A_BoxLoOlMT','A_BoxLoOlImg1','A_BoxLoOlImg2','A_BoxLoOlImg3','A_BoxLoOlImg4','A_BoxLoOlLink','A_BoxLoOlNav','A_BoxLoOlNavLink','A_BoxLoOlLinkMore','A_BoxLoOpNav','A_BoxLoOpLinkMore','A_BoxLoPlNav','A_BoxLoPlNavLink','A_BoxLoPlLinkMore','A_BoxLoPoNav','A_BoxLoPoLinkMore','A_BoxLoCzLinkMore','A_BoxLoRaNav','A_BoxLoRaLinkMore','A_BoxLoRzMT','A_BoxLoRzImg1','A_BoxLoRzNav','A_BoxLoRzLinkMore','A_BoxLoSoNav','A_BoxLoSoLinkMore','A_BoxLoSzNav','A_BoxLoSzLinkMore','A_BoxLoToMT','A_BoxLoToImg1','A_BoxLoToImg2','A_BoxLoToImg3','A_BoxLoToImg4','A_BoxLoToLink','A_BoxLoToNav','A_BoxLoToNavLink','A_BoxLoToLinkMore','A_BoxLoWrNav','A_BoxLoWrLinkMore','A_BoxLoZgNav','A_BoxLoZgLinkMore','A_BoxLoCpMT','A_BoxLoCpImg1','A_BoxLoCpImg2','A_BoxLoCpImg3','A_BoxLoCpImg4','A_BoxLoCpLink','A_BoxLoCpNav','A_BoxLoCpNavLink','A_BoxLoCpLinkMore','A_BoxC2COp1','A_BoxC2COp2','A_BoxC2COp10','A_BoxC2COp3','A_BoxC2COp4','A_BoxC2COp5','A_BoxC2COp6','A_BoxC2COp7','A_BoxC2COp8','A_BoxC2COp9','A_BoxC2CLS1','A_BoxC2CLS10','A_BoxC2CLS2','A_BoxC2CLS3','A_BoxC2CLS4','A_BoxC2CLS5','A_BoxC2CLS6','A_BoxC2CLS7','A_BoxC2CLS8','A_BoxC2CLS9','A_BoxC2CMot1','A_BoxC2CMot10','A_BoxC2CMot2','A_BoxC2CMot3','A_BoxC2CMot4','A_BoxC2CMot5','A_BoxC2CMot6','A_BoxC2CMot7','A_BoxC2CMot8','A_BoxC2CMot9','A_BoxC2CPlo1','A_BoxC2CPlo10','A_BoxC2CPlo2','A_BoxC2CPlo3','A_BoxC2CPlo4','A_BoxC2CPlo5','A_BoxC2CPlo6','A_BoxC2CPlo7','A_BoxC2CPlo8','A_BoxC2CPlo9','A_BoxC2CSport1','A_BoxC2CSport10','A_BoxC2CSport2','A_BoxC2CSport3','A_BoxC2CSport4','A_BoxC2CSport5','A_BoxC2CSport6','A_BoxC2CSport7','A_BoxC2CSport8','A_BoxC2CSport9','A_BoxWeSl_1_1','A_BoxWeSl_1_2','A_BoxWeSl_2_1','A_BoxWeSl_2_2','A_BoxWeSl_3_1','A_BoxWeSl_3_2','A_BoxWeSl_4_1','A_BoxWeSl_4_2','A_BoxWeSl_5_1','A_BoxWeSl_5_2','A_BoxWeFr','A_BoxLoBbLinkImg','A_BoxLoBiLinkImg','A_BoxLoByLinkImg','A_BoxLoCzLinkImg','A_BoxLoGLLinkImg','A_BoxLoGwLinkImg','A_BoxLoKaLinkImg','A_BoxLoKiLinkImg','A_BoxLoKrLinkImg','A_BoxLoLoLinkImg','A_BoxLoLuLinkImg','A_BoxLoOlsztynLinkImg','A_BoxLoOpLinkImg','A_BoxLoPlLinkImg','A_BoxLoPoLinkImg','A_BoxLoRaLinkImg','A_BoxLoRzLinkImg','A_BoxLoSoLinkImg','A_BoxLoSzLinkImg','A_BoxLoTrLinkImg','A_BoxLoWaLinkImg','A_BoxLoWrLinkImg','A_BoxLoZgLinkImg','A_BoxLoGlLinkImg','A_BoxLoOlLinkImg','A_BoxLoToLinkImg','A_BoxLoCpLinkImg','Z_BoxBizCz','Z_BoxBizImg','Z_BoxBizLink','Z_BoxBizLinkImg','Z_BoxBizNav','Z_BoxDesCz','Z_BoxDesImg','Z_BoxDesNav','Z_BoxDWCz','Z_BoxDWImg','Z_BoxDWNav','Z_BoxLSECom','Z_BoxFiBImg','Z_BoxFiBNav','Z_FiBImg','Z_FiBNav','Z_BoxGWImg','Z_BoxGWNav','Z_BoxHor','Z_BoxHorNav','Z_BoxIkoBook','Z_BoxIkoGie','Z_BoxIkoGry','Z_BoxIkoHor','Z_BoxIkoKina','Z_BoxIkoLotto','Z_BoxIkoPog','Z_BoxIkoTV','Z_BoxKultImg','Z_BoxKultNav','Z_BoxLSCz','Z_BoxLSImg','Z_BoxLSLink','Z_BoxLSLinkImg','Z_BoxLSNav','Z_BoxLokKrajImg','Z_BoxLokKrajLink','Z_BoxLokKrajLinkImg','Z_BoxLokBialImg','Z_BoxLokBialLink','Z_BoxLokBialNav','Z_BoxLokBialLinkImg','Z_BoxLokBieImg','Z_BoxLokBieLink','Z_BoxLokBieLinkImg','Z_BoxLokBieNav','Z_BoxLokBydImg','Z_BoxLokBydLink','Z_BoxLokBydLinkImg','Z_BoxLokBydNav','Z_BoxLokCzeImg','Z_BoxLokCzeLink','Z_BoxLokCzeLinkImg','Z_BoxLokCzeNav','Z_BoxLokGlwImg','Z_BoxLokGlwLink','Z_BoxLokGlwLinkImg','Z_BoxLokGorzImg','Z_BoxLokGorzLink','Z_BoxLokGorzLinkImg','Z_BoxLokKatImg','Z_BoxLokKatLink','Z_BoxLokKatLinkImg','Z_BoxLokKatNav','Z_BoxLokKielImg','Z_BoxLokKielLink','Z_BoxLokKielLinkImg','Z_BoxLokKielNav','Z_BoxLokKrakImg','Z_BoxLokKrakLink','Z_BoxLokKrakLinkImg','Z_BoxLokKrakNav','Z_BoxLokLubImg','Z_BoxLokLubLink','Z_BoxLokLubLinkImg','Z_BoxLokLubNav','Z_BoxLokLodzImg','Z_BoxLokLodzLink','Z_BoxLokLodzLinkImg','Z_BoxLokLodzNav','Z_BoxLokOlsImg','Z_BoxLokOlsLink','Z_BoxLokOlsNav','Z_BoxLokOlsLinkImg','Z_BoxLokOpoImg','Z_BoxLokOpoLink','Z_BoxLokOpoLinkImg','Z_BoxLokOpoNav','Z_BoxLokPloImg','Z_BoxLokPloLink','Z_BoxLokPloNav','Z_BoxLokPloLinkImg','Z_BoxLokPozImg','Z_BoxLokPozLink','Z_BoxLokPozNav','Z_BoxLokPozLinkImg','Z_BoxLokRadImg','Z_BoxLokRadLink','Z_BoxLokRadNav','Z_BoxLokRadLinkImg','Z_BoxLokRzeImg','Z_BoxLokRzeLink','Z_BoxLokRzeLinkImg','Z_BoxLokRzeNav','Z_BoxLokSosImg','Z_BoxLokSosLink','Z_BoxLokSosLinkImg','Z_BoxLokSosNav','Z_BoxLokSznImg','Z_BoxLokSznLink','Z_BoxLokSznLinkImg','Z_BoxLokSznNav','Z_BoxLokTorImg','Z_BoxLokTorLink','Z_BoxLokTorLinkImg','Z_BoxLokTorNav','Z_BoxLokTrojImg','Z_BoxLokTrojLink','Z_BoxLokTrojLinkImg','Z_BoxLokTrojNav','Z_BoxLokWawImg','Z_BoxLokWawNav','Z_BoxLokWawLink','Z_BoxLokWawLinkImg','Z_BoxLokWrocImg','Z_BoxLokWrocLink','Z_BoxLokWrocLinkImg','Z_BoxLokWrocNav','Z_BoxLokZielImg','Z_BoxLokZielLink','Z_BoxLokZielLinkImg','Z_BoxLokZielNav','Z_MegaMT','Z_BoxMU2Img','Z_ModaUroda2Img','Z_BoxMUCz','Z_BoxMUImg','Z_BoxMotoImg','Z_BoxMotoNav','Z_MotoImg','Z_BoxMTPromoImg','Z_BoxMTPromo','Z_MTstream','Z_mBoxNajcz','Z_BoxNiePrzeg','Z_NiePrzeg','Z_BoxOferty','Z_BoxNextImg','Z_Czolka3Img','Z_MT','Z_MT2','Z_Prze','Z_BoxPloCz2','Z_BoxPloCz3','Z_BoxPloMT','Z_BoxPloPrze','Z_BoxPloNav','Z_BoxSportNav','Z_BoxTripImg','Z_BoxTrvCz','Z_BoxTrvImg','Z_BoxTrvNav','Z_PodrozeCz','Z_PodrozeImg','Z_BoxPogJut','Z_BoxPogMi','Z_BoxPogTer','Z_TRPog','Z_BoxPubImg','Z_BoxRekrCz','Z_BoxRekrImg','Z_BoxRekrNav','Z_BoxSpecImg','Z_BoxSpecLink','Z_BoxSpecialNav','Z_BoxSpecial','Z_BoxSportCz','Z_BoxSportImg','Z_BoxSportLink','Z_BoxSportLinkImg','Z_BoxSportPrze','Z_Weekend','Z_TRwknd','Z_BoxNewsImg','Z_BoxNewsNav','Z_BoxNewsLink','Z_BoxNewsLinkImg','Z_BoxVidImg','Z_BoxVidLifeImg','Z_BoxVODImg','Z_BoxWN','Z_gospoIco','Z_Img','Z_Ogl_all','Z_Czolka3Img2','Z_Prze2','Z_NavLinks','Z_HatNav','Z_NavLinksCz','Z_HatNavCz','Z_NavIco','Z_NavMore','Z_TROgl','Z_BoxPubNav','BoxMTPPush','Z_BoxMTPPush','A_BoxMTPPush','BoxMTPAuto','A_BoxMTPAuto','Z_BoxMTPAuto']; 
+
+
+
+
+if (( !document.referrer && (window.location.host === 'www.gazeta.pl' || window.location.host === 'm.gazeta.pl') &&
+    (window.location.href.indexOf('0,0.html?p=') !== -1 || window.location.href.indexOf('0,0.html?promocja=') !== -1)) || 
+    ((document.referrer.indexOf('www.gazeta.pl') !== -1 || document.referrer.indexOf('m.gazeta.pl') !== -1) && 
+     (document.referrer.indexOf('0,0.html?p=') !== -1 || document.referrer.indexOf('0,0.html?promocja=') !== -1))) {
+
+    var hashTag = '';
+    if (window.location.hash) {
+        var
+            hash = window.location.hash,
+            n = hash.indexOf('&');
+        hash = hash.substring(0, n != -1 ? n : hash.length);
+        var getHash = hash.split('#').pop();
+        if (hashArrDFP.indexOf(getHash) !== -1) { hashTag = '_' + getHash; }
+    }
+
+    googletag.pubads().setTargeting('src','HPGAZETA-DHP' + hashTag);
+    _setCookieDFP('HPGAZETA-DHP' + hashTag);
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("src|HPGAZETA-DHP" + hashTag);
+
+} else if ( document.referrer.split("?")[0].indexOf('facebook.com') !== -1 ||
+    ( !document.referrer && document.location.href.indexOf('utm_source=facebook.com') !== -1 ) ) {
+
+    if (window.location.href.indexOf('utm_content') !== -1 || document.referrer.indexOf('utm_content') !== -1) {
+    
+        var paramsObject = function ( name, url ) {
+            if (!url) url = location.href;
+                name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+                var regexS = "[\\?&]"+name+"=([^&#]*)";
+                var regex = new RegExp( regexS );
+                var results = regex.exec( url );
+                return results == null ? null : results[1];
+            },
+            checkHrefDFP = paramsObject('utm_content', window.location.href),
+            checkReferrerDFP = paramsObject('utm_content', document.referrer),
+            newValueDFP = checkHrefDFP || checkReferrerDFP;
+
+        googletag.pubads().setTargeting('src', 'FACEBOOK_CPC_' + newValueDFP);
+        _setCookieDFP('FACEBOOK_CPC_' + newValueDFP);
+        if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("src|FACEBOOK_CPC_" + newValueDFP);
+
+    } else {
+        googletag.pubads().setTargeting('src','FACEBOOK');
+        _setCookieDFP('FACEBOOK');
+        if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("src|FACEBOOK");
+    }
+
+
+} else if ( ( document.location.href.indexOf('utm_medium=cpc') !== -1 && document.location.href.indexOf('utm_source=facebook.com') === -1) ||
+    (document.location.href.indexOf('adw=1') !== -1 || document.location.href.indexOf('gclid=') !== -1) ||
+    (document.referrer.indexOf('googleads.g.doubleclick.net') !== -1 || document.referrer.indexOf('googleadservices.com') !== -1) ) {
+
+    googletag.pubads().setTargeting('src','CPC');
+    _setCookieDFP('CPC');
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("src|CPC");
+
+} else if( (document.location.href.indexOf('www.gazeta.pl') !== -1 || document.location.href.indexOf('m.gazeta.pl') !== -1) ||
+    (document.referrer.indexOf('www.gazeta.pl') !== -1 || document.referrer.indexOf('m.gazeta.pl') !== -1) ) {
+
+    var hashTag = '';
+    if (window.location.hash) {
+        var
+            hash = window.location.hash,
+            n = hash.indexOf('&');
+        hash = hash.substring(0, n != -1 ? n : hash.length);
+        var getHash = hash.split('#').pop();
+        if (hashArrDFP.indexOf(getHash) !== -1) { hashTag = '_' + getHash; }
+    }
+
+    googletag.pubads().setTargeting('src','HPGAZETA' + hashTag);
+    _setCookieDFP('HPGAZETA' + hashTag);
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("src|HPGAZETA" + hashTag);
+
+} else if (!document.referrer) {
+
+    googletag.pubads().setTargeting('src','DIRECT');
+    _setCookieDFP('DIRECT');
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("src|DIRECT");
+
+} else if ( (document.referrer.indexOf('szukaj.gazeta.pl') === -1) &&
+    (document.referrer.indexOf('?q=') !== -1 || document.referrer.indexOf('&q=') !== -1 || document.referrer.indexOf('?query=') !== -1 || document.referrer.indexOf('search.yahoo.com') !== -1 || document.referrer.indexOf('&query=') !== -1 || document.referrer.indexOf('?szukaj=') !== -1 || document.referrer.indexOf('&szukaj') !== -1 || (document.referrer.indexOf('//www.google.') !== -1 && document.referrer.indexOf('logout') === -1)) &&
+    document.location.href.indexOf('0,0.html') !== -1 || window.location.href.slice(-3) === '.pl' || window.location.href.slice(-4) === '.biz' || window.location.href.slice(-3) === '.tv' || window.location.href.slice(-8) === '.pl/html') {
+
+    googletag.pubads().setTargeting('src','DIRECT-SEO');
+    _setCookieDFP('DIRECT-SEO');
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("src|DIRECT-SEO");
+
+} else if ( document.referrer.indexOf('szukaj.gazeta.pl') === -1 &&
+    (document.referrer.indexOf('?q=') !== -1 || document.referrer.indexOf('&q=') !== -1 || document.referrer.indexOf('?query=') !== -1 || document.referrer.indexOf('search.yahoo.com') !== -1 || document.referrer.indexOf('&query=') !== -1 || document.referrer.indexOf('?szukaj=') !== -1 || document.referrer.indexOf('&szukaj') !== -1 || (document.referrer.indexOf('//www.google.') !== -1 && document.referrer.indexOf('logout') === -1)) ) {
+
+    googletag.pubads().setTargeting('src','SEO');
+    _setCookieDFP('SEO');
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("src|SEO");
+
+} else if (cookieIfr) {
+
+    googletag.pubads().setTargeting('src', cookieIfr);
+    if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("src|" + cookieIfr);
+
+} 
+
+
+if (window.location.host == "www.gazeta.pl") {
+	if (window.location.href.indexOf('pushpushgo')!== -1 && window.location.href.indexOf('mtp=')!== -1) {
+		googletag.pubads().setTargeting('test','MTP_PUSH');
+		if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("test|MTP_PUSH");
+	} else if ((window.location.href.indexOf('utm_source=facebook')!== -1 && window.location.href.indexOf('mtp=')!== -1) || window.location.href.indexOf('boxmtpautosp=')!== -1) {
+		googletag.pubads().setTargeting('test','MTP_FBCPC');
+		if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("test|MTP_FBCPC");
+	} else if (window.location.href.indexOf('boxmtpauto=')!== -1) {
+		googletag.pubads().setTargeting('test','MTP_FBORG');
+		if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("test|MTP_FBORG");
+	} else if ((window.location.href.indexOf('?p=')!== -1 || window.location.href.indexOf('?promocja=')!== -1) && document.referrer == "") {
+		googletag.pubads().setTargeting('test','MTP_DHP');
+		if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("test|MTP_DHP");
+	} else if (window.location.href.indexOf('?404')!== -1) {
+		googletag.pubads().setTargeting('test','MTP_404');
+		if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("test|MTP_404");
+	} else {
+		googletag.pubads().setTargeting('test','MTP_NULL');
+		if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("test|MTP_NULL");
+	}
+}
+
+			
+		
+			
+				var yb_ff = String(Math.round(Math.random())); 
+googletag.pubads().setTargeting('yb_ff', yb_ff);
+var _yt=new Date(),yb_th=_yt.getUTCHours()-8,yb_tm=_yt.getUTCMinutes(),yb_wd=_yt.getUTCDay(); 
+if(yb_th<0){yb_th=24+yb_th;yb_wd-=1;};if(yb_wd<0){yb_wd=7+yb_wd}; 
+googletag.pubads().setTargeting('yb_th', yb_th.toString()); 
+googletag.pubads().setTargeting('yb_tm', yb_tm.toString()); 
+googletag.pubads().setTargeting('yb_wd', yb_wd.toString()); 
+
+if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("yb_th|" + yb_th.toString());
+if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("yb_tm|" + yb_tm.toString());
+if (window.adviewDFP && adviewDFP.DFPTargeting) adviewDFP.DFPTargeting.push("yb_wd|" + yb_wd.toString());
+			
+		
+			
+		
+			
+		
+			
+		
+
+		if(window.AG.rodoAccepted === -1) {
+			googletag.pubads().setRequestNonPersonalizedAds(1);
+		}
+
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().enableSyncRendering();
+		googletag.pubads().collapseEmptyDivs();
+		<!-- IBA Analytics -->
+		googletag.pubads().addEventListener('slotRenderEnded', function(data) {
+		    adviewDFP.adviewRendered(data);
+			if(typeof IBA != 'undefined' && typeof IBA.dfp != 'undefined') IBA.dfp.onSlotRendered(data);
+		});
+		if(window.AG.rodoAccepted !== 0) {
+		   googletag.enableServices();
+		}
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+
+	});
+
+    var adviewDFP=adviewDFP||{};function putBanDFP(e,t,a,i){if(!t||"string"!=typeof t)return!1;if(!dfpParams.slots[e])return console.warn("dfpParams slot: "+e+" not exists"),!1;var n=window.location.protocol+"//"+window.location.host+"/dfptools/adview/",d=n+dfpParams.slots[e].url;a&&"object"==typeof a&&(d=d.replace(/adUnitSize=\[\[(.*?)\]]/g,"adUnitSize="+JSON.stringify(a))),i&&"string"==typeof i&&(d+="&addKeysKw="+i),adviewDFP.iframeBan(t,d,n+"autoslot.js",0,0)}function putBanDFPInView(e,t,a,i){var n=parseInt(a)?parseInt(a):300;adviewDFP.DFPTargeting.push("kw|oldScroll"),window.addEventListener("scroll",function(){adviewDFP.isElementInViewport(t,n)&&(putBanDFP(e,t,i),this.removeEventListener("scroll",arguments.callee,!1))})}function putBanDFPInViewObject(e){if(!e.slot||!e.divId)return e.slot||console.warn("Slot ID is empty"),e.divId||console.warn("divId id empty"),!1;"021-IMK"!==e.slot&&"067-RECTANGLE-BTF"!==e.slot&&"035-RECTANGLE-BTF"!==e.slot||(e.margin=parseInt(adviewDFP.randomMargin),e.kw?e.kw+=", margin_"+adviewDFP.randomMargin:e.kw="margin_"+adviewDFP.randomMargin);var t=parseInt(e.margin)?parseInt(e.margin):300;window.addEventListener("scroll",function(){adviewDFP.isElementInViewport(e.divId,t)&&(putBanDFP(e.slot,e.divId,e.unitSize,e.kw),this.removeEventListener("scroll",arguments.callee,!1))})}function putBan(){}adviewDFP.scrollSlot=[],adviewDFP.DFPTargeting=adviewDFP.DFPTargeting||[],adviewDFP.allSlotsForRODO=[],adviewDFP.arrayLabel=["001-TOPBOARD","003-RECTANGLE","000-MAINBOARD","042-FOOTBOARD","087-ADBOARD-A","071-WINIETA","004-PAYPER","007-CONTENTBOARD","021-IMK","059-BUTTON","078-STYLBOARD","044-BIZBOARD","035-RECTANGLE-BTF","067-RECTANGLE-BTF","101-TOPBOARD-MOBI","104-RECTANGLE-MOBI","107-MAINBOARD-MOBI","150-BIZBOARD-MOBI","151-FUNBOARD-MOBI","152-STYLBOARD-MOBI","153-MOTOBOARD-MOBI","150-ADBOARD-A-MOBI","150-ADBOARD-B-MOBI","150-ADBOARD-C-MOBI","150-ADBOARD-D-MOBI","108-FOOTBOARD-MOBI","000-SPORTBOARD","076-MAINBUTTON-0"],adviewDFP.check=!0,adviewDFP.init=function(){var d=setInterval(function(){if("complete"===document.readyState){clearInterval(d);var e=document.getElementsByClassName("activeBan"),t=document.getElementsByTagName("body")[0];-1!==window.navigator.userAgent.indexOf("Firefox")&&adviewDFP.firefox(),adviewDFP.check&&adviewDFP.checkAgain(),adviewDFP.checkBan(),adviewDFP.adBlock();for(var a=0;a<e.length;a++){var i=e[a],n=[parseInt(i.getAttribute("data-ad-width")),parseInt(i.getAttribute("data-ad-height"))];if(1===n[0]&&(n=[i.scrollWidth,i.scrollHeight]),"007-CONTENTBOARD"!==i.id||750!==n[0]||"pageTypeId_7"!==t.id&&"pageTypeId_1"!==t.id||-1!==window.location.href.indexOf("0,0.")?"007-CONTENTBOARD"!==i.id||750===n[0]||"pageTypeId_7"!==t.id&&"pageTypeId_1"!==t.id||adviewDFP.cleanWideContentBoard(i.id):adviewDFP.wideContentBoard(i.id,n),("pageTypeId_7"===t.id||"pageTypeId_1"===t.id)&&"007-CONTENTBOARD"===i.id)750!==document.getElementById("div-gpt-ad-007-CONTENTBOARD-0").clientWidth&&adviewDFP.cleanWideContentBoard(i.id)}}},100)},adviewDFP.getQueryParams=function(e){var t=new RegExp("[\\?&]"+e+"=([^&#]*)").exec(window.location.href);return null!==t?t[1]:null},adviewDFP.adviewRendered=function(e){var i=e.slot,n=null;Object.keys(i).map(function(e,t){var a=i[e];"string"==typeof a&&a.length&&-1!==a.indexOf("/75224259/")&&(n=a)}),"string"==typeof n&&n.length||console.warn("DFP slot is empty");var t=/[0-9]{3}-(.+)/.exec(n)[0],a=document.getElementById(t),d=document.getElementById("div-gpt-ad-"+t+"-0"),r=a.getElementsByTagName("span")[0],o=a.getElementsByTagName("iframe")[0],s=document.getElementsByTagName("body")[0];if(void 0!==window.top.dfpRendered&&window.top.dfpRendered({active:e.isEmpty,id:t,height:e.size?e.size[1]:"creative"}),e.isEmpty)return!1;-1===a.className.indexOf("activeBan")&&(a.className+=" activeBan"),a.setAttribute("data-ad-width",e.size[0]),a.setAttribute("data-ad-height",e.size[1]),10<e.size[0]&&(d.style.maxWidth=e.size[0]+"px",r.style.maxWidth=e.size[0]+"px"),r.style.marginLeft="auto",r.style.marginRight="auto",window.dfpParams.adsType&&window.dfpParams.adsType.scrollBanner&&adviewDFP.setClassToBody("scrollBannerDFP"),adviewDFP.setLabel(a),dfpParams.iframeResponsive&&o.getAttribute("responsive-iframe")&&adviewDFP.setIframeResponsive(o),"007-CONTENTBOARD"!==t||750!==e.size[0]||"pageTypeId_7"!==s.id&&"pageTypeId_1"!==s.id||-1!==window.location.href.indexOf("0,0.")?"007-CONTENTBOARD"!==ban.id||750===banSize[0]||"pageTypeId_7"!==s.id&&"pageTypeId_1"!==s.id||adviewDFP.cleanWideContentBoard(t):adviewDFP.wideContentBoard(t,e.size),"071-WINIETA"===t&&-1!==adviewDFP.arrayLabel.indexOf(t)&&adviewDFP.setWinieta()},adviewDFP.setClassToBody=function(e){var t=document.getElementsByTagName("body")[0];-1===t.className.indexOf(e)&&(t.className+=" "+e)},adviewDFP.wideContentBoard=function(e,t){var a=document.getElementById(e),i=document.getElementById("div-gpt-ad-"+e+"-0"),n=a.getElementsByClassName("banLabel")[0];-1===a.className.indexOf("wideContentBoard")&&(a.className+=" wideContentBoard"),a.style.marginBottom="30px",a.style.height=t[1]+n.clientHeight+"px",i.style.position="absolute",i.style.right=0},adviewDFP.cleanWideContentBoard=function(e){var t=document.getElementById(e),a=document.getElementById("div-gpt-ad-"+e+"-0");t.style.cssText="",a.style.cssText="",t.classList.remove("wideContentBoard")},adviewDFP.setWinieta=function(){var e=document.getElementById("pageHead"),t=document.createElement("span");t.className="banLabel winieta-lab",t.appendChild(document.createTextNode("REKLAMA")),e.appendChild(t)},adviewDFP.checkBan=function(){for(var e=document.getElementsByClassName("adviewDFPBanner"),t=0;t<e.length;t++){var a=e[t];40<a.offsetHeight&&adviewDFP.setLabel(a)}},adviewDFP.setLabel=function(e){var t=e,a=t.getElementsByClassName("banLabel")[0];if(a){if(-1!==adviewDFP.arrayLabel.indexOf(t.id)&&40<t.offsetHeight){a.style.display="block";for(var i=t.getElementsByTagName("*"),n=0,d=0;d<i.length;d++){var r=i[d],o=parseInt(r.style.width);o&&n<o?n=o:parseInt(r.width)&&parseInt(r.width)>n&&(n=r.width)}a.style.maxWidth=n+"px"}"undefined"!=typeof abp&&abp&&-1===t.className.indexOf("adblock")&&(t.className+=" adblock"),-1===t.className.indexOf("activeBan")&&40<t.offsetHeight&&(t.className+=" activeBan")}},adviewDFP.firefox=function(){var e=document.getElementsByClassName("banIndexDFP")[0];e&&(e.style.display="block",setTimeout(function(){"0px"===e.getElementsByTagName("iframe")[0].style.height&&e.parentNode.removeChild(e)},500))},adviewDFP.adBlock=function(){for(var e=["div-001-TOPBOARD-ABP","div-003-RECTANGLE-ABP","div-000-MAINBOARD-ABP","div-087-ADBOARD-A-ABP","div-087-ADBOARD-B-ABP","div-111-BIZBUTTON-ABP"],t=0;t<e.length;t++){var a=document.getElementById(e[t]);if(a&&40<a.clientHeight){var i=document.createElement("span");i.className="banLabel",i.appendChild(document.createTextNode("Reklama")),a.insertBefore(i,a.getElementsByTagName("div")[0]),-1===a.className.indexOf("activeBan")&&(a.className+="activeBan")}}},adviewDFP.iframeBan=function(e,t,a,i,n){if(!e)return!1;for(var d=document,r=d.getElementById(e);r.hasChildNodes();)r.removeChild(r.lastChild);var o=d.createElement("iframe"),s=d.createElement("div");s.className="fifContainer fif-container-"+e,o.src=t,o.style.width=i+"px",o.style.height=n+"px",o.style.margin=0,o.style.borderWidth=0,o.style.padding=0,o.scrolling="no",o.frameBorder=0,o.allowTransparency=!0,o.className="banDfpFIF",o.id=e+"_FIF",o.EAS_src=a,o.setAttribute("data-type","fif"),s.appendChild(o),r.appendChild(s)},adviewDFP.checkAgain=function(){setTimeout(function(){adviewDFP.checkBan()},3e3)},adviewDFP.onElementHeightChange=function(t,a){var i,n=t.clientHeight;!function e(){i=t.clientHeight,n!=i&&a(i),n=i,t.onElementHeightChangeTimer&&clearTimeout(t.onElementHeightChangeTimer),t.onElementHeightChangeTimer=setTimeout(e,200)}()},adviewDFP.scrollRect=function(){var e=document.getElementById("col_left");if(!e)return!1;var t=e.clientHeight,a=document.getElementById("col_right"),i=document.getElementById("holder_301"),n=document.getElementsByTagName("body")[0];a.style.minHeight=t+"px",i.style.minHeight=t+"px",document.getElementById("page").style.overflow="initial",-1===n.className.indexOf("scroll035Rectangle")&&(n.className+=" scroll035Rectangle")},adviewDFP.findClosestClass=function(e,t){for(;(e=e.parentElement)&&!e.classList.contains(t););return e},adviewDFP.setIframeResponsive=function(e){var t=e,a=t.getAttribute("data-prop"),i=parseInt(t.getAttribute("width")),n=parseInt(t.contentWindow.document.body.clientWidth);document.getElementsByTagName("body")[0].className,parseInt(adviewDFP.findClosestClass(t,"adviewDFPBanner").getAttribute("data-ad-height"));if(a||(a=parseInt(t.getAttribute("height"))/i,t.setAttribute("data-prop",a)),n!=i){var d=Math.round(n*a);t.style.height=d+"px"}},adviewDFP.getMobileIframe=function(){var e=document.querySelectorAll('iframe[id^="google_ads_iframe"]');if(!e.length&&!dfpParams.iframeResponsive)return!1;for(var t=0;t<e.length;t++){var a=e[t];40<a.clientHeight&&a.getAttribute("responsive-iframe")&&adviewDFP.setIframeResponsive(a)}},adviewDFP.removeDefaultLabel=function(e){var t=adviewDFP.arrayLabel.indexOf(e);-1!==adviewDFP.arrayLabel&&adviewDFP.arrayLabel.splice(t,1)},adviewDFP.isElementInViewport=function(e,t){var a=document.getElementById(e);if(!a)return console.warn('(DFP) ID: "'+e+'" not exists'),!1;var i=a.getBoundingClientRect();return t=t?Number(t):300,0<i.bottom&&0<i.right&&i.left<(window.innerWidth||document.documentElement.clientWidth)&&i.top<(window.innerHeight||document.documentElement.clientHeight)+t},window.onresize=function(){document.getElementsByTagName("body")[0];dfpParams.iframeResponsive&&adviewDFP.getMobileIframe()},adviewDFP.videoTargeting=function(){adviewDFP.getQueryParams("dfp_target_kw")&&adviewDFP.DFPTargeting.push("kw|"+adviewDFP.getQueryParams("dfp_target_kw"));for(var e="",t="",a=0;a<adviewDFP.DFPTargeting.length;a++){var i=adviewDFP.DFPTargeting[a],n=i.split("|");-1!==i.indexOf("kw")?-1===e.indexOf(n[1])&&(e+="%2C"+n[1]):t+="%26"+n[0]+"%3D"+n[1]}t+="%26yb_ab%3D"+(window.top._YB||{ab:function(){return.1<=Math.random()?"b":"a"+Math.floor(10*Math.random())}}).ab(),t+="%26yb_ff%3D"+String(Math.round(Math.random())),dfpParams&&dfpParams.video&&dfpParams.video.preroll&&(dfpParams.video.preroll=dfpParams.video.preroll.replace("%26dystrybutor",e+t+"%26dystrybutor")),dfpParams&&dfpParams.video&&dfpParams.video.skin&&(dfpParams.video.skin=dfpParams.video.skin.replace("%26dystrybutor",e+t+"%26dystrybutor")),dfpParams&&dfpParams.video&&dfpParams.video.overlay&&(dfpParams.video.overlay=dfpParams.video.overlay.replace("%26dystrybutor",e+t+"%26dystrybutor")),dfpParams&&dfpParams.video&&dfpParams.video.pausead&&(dfpParams.video.pausead=dfpParams.video.pausead.replace("%26dystrybutor",e+t+"%26dystrybutor"))},adviewDFP.init(),document.addEventListener("DOMContentLoaded",function(){adviewDFP.videoTargeting(),document.getElementsByTagName("body")[0].className+=" dfp-"+dfpParams.dir,adviewDFP.randomLoadMargin(),dfpParams.isMobile||-1!==window.location.href.indexOf("wyborcza.pl")||document.getElementById("content_wrap")&&(adviewDFP.scrollRect(),adviewDFP.onElementHeightChange(document.getElementById("content_wrap"),function(){-1===window.location.href.indexOf("bryla.pl")&&adviewDFP.scrollRect()})),adviewDFP.scrollSlot.forEach(function(e){putBanDFPInViewObject({slot:e,divId:e})},this)}),adviewDFP.randomLoadMargin=function(){var e=[0,100,200,300,400,500,600,700,800,900,1e3];adviewDFP.randomMargin=e[Math.floor(Math.random()*e.length)]},adviewDFP.setAdsForRodo=function(){};
+
+	
+
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+				// [HB] Core-prod-4 - HEADER_END
+var _sts = new Date();
+var _sleeptime = PREBID_TIMEOUT - (_sts - _st0);
+if(_sleeptime > 0){
+	document.write('<scr'+'ipt type="text/javascript" src="https://g.gazeta.pl/przerwa?ttl=' + _sleeptime + '"></scr'+'ipt>');
+}
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+			
+	
+
+	if(lazyGPT) {
+
+	(function() {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+      })();
+    }
+
+	</script>
+
+
+
+
+
+
+<style type="text/css">.adviewDFPBanner{text-align:center}.banLabel{text-transform:uppercase;margin-top:6px;font:normal 10px Arial,sans-serif;padding-bottom:2px;text-align:left;color:#999}.adviewDFPBanner.activeBan,.adviewDFPBanner.activeBan .banLabel{display:block}.adviewDFPBanner.activeBan{padding:5px 0}.adviewDFPBanner.activeBan>div{margin-left:auto;margin-right:auto}body.screeningLabel-001-TOPBOARD .DFP-001-TOPBOARD{padding-top:5px}body.screeningLabel-001-TOPBOARD .DFP-001-TOPBOARD .banLabel{position:absolute;top:35px;left:10px;max-width:none!important}@media screen and (max-width:1320px){body#pageTypeId_7.screeningLabel-001-TOPBOARD .DFP-001-TOPBOARD{position:relative}body#pageTypeId_7.screeningLabel-001-TOPBOARD .DFP-001-TOPBOARD .banLabel{top:0;left:-53px}}.adviewDFPBanner.activeBan a:hover{background:0 0!important}.DFP-007-CONTENTBOARD{width:100%;position:relative}body.winieta #page-top:not(.fixed){position:relative}body.winieta #page-top:not(.fixed) #pageHead .imgw img{position:absolute;top:0;left:0;z-index:2}body.winieta #page-top:not(.fixed) #pageHead.hasBanner{min-height:90px}#pageHead.hasBanner .banLabel{position:absolute;top:20px;right:-40px;padding:3px 5px;margin:0;transform:rotate(-90deg);background:#fff}body.dfp-forum #pageHead.hasBanner .banLabel{right:-36px}body.dfp-forum.winieta{width:auto!important}#pageHead.hasBanner .column.col1{display:inline-block;position:relative;z-index:2;height:100%}body.dfp-gazetawyborcza #pageHead.hasBanner .c0{top:40px;position:absolute}.DFP-091-RELATED .kd_ns_logo{background:0 0!important;width:auto!important;height:auto!important;margin:auto!important}#div-gpt-ad-091-RELATED-0{max-width:100%!important}body.screeningADFP #page{position:initial}.isScreening #page-top{cursor:pointer}body.screeningADFP.desk .DFP-001-TOPBOARD.activeBan{background:0 0}body.scrollBannerDFP .DFP-001-TOPBOARD .banLabel{position:absolute}#article-list .banner,.indexBanner,div.banIndexDFP,li.banIndexDFP,li.entry.banIndexDFP{display:none}div[id*="-MOBI"].adviewDFPBanner a img{width:100%;height:auto}div[id*="-MOBI"].adviewDFPBanner iframe[responsive-iframe=true]{max-width:100%;width:100%!important;height:auto}body.dfp-mobiHP .banLabel,body.dfp-mobiHP div[id*=div-gpt-ad-]{max-width:100%!important}.dfp-video-bg #page{overflow:initial}.dfp-video-bg .photostoryNextPage,.dfp-video-bg .photostoryPrevPage{z-index:1!important}#div-001-TOPBOARD-ABP .banLabel,#div-003-RECTANGLE-ABP .banLabel{display:block!important}body.scroll035Rectangle .DFP-035-RECTANGLE-BTF{position:sticky!important;position:-webkit-sticky!important;position:-moz-sticky!important;top:40px!important}body.socialContent .DFP-001-TOPBOARD,body.socialContent .DFP-101-TOPBOARD-MOBI{position:relative}body.socialContent .DFP-001-TOPBOARD.activeBan .banLabel,body.socialContent .DFP-101-TOPBOARD-MOBI.activeBan .banLabel{width:100%;position:absolute;left:0;top:0;margin:0;padding:10px;box-sizing:border-box;font-family:Roboto,sans-serif;font-size:8px;letter-spacing:.7px;max-width:none!important;background:-webkit-linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,0));background:-o-linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,0));background:-moz-linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,0));background:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,0))}body.socialContent .DFP-007-CONTENTBOARD .banLabel,body.socialContent .DFP-104-RECTANGLE-MOBI .banLabel{display:none!important}body.socialContent .DFP-101-TOPBOARD-MOBI>div,body.socialContent .DFP-104-RECTANGLE-MOBI>div{max-width:none!important}body[id^=pageTypeId_0] .adviewDFPBanner.activeBan,body[id^=pageTypeId_56] .adviewDFPBanner.activeBan,body[id^=pageTypeId_7] .adviewDFPBanner.activeBan{margin-bottom:30px;padding-bottom:0}.desk .adviewDFPBanner.DFP-001-TOPBOARD.activeBan{margin-bottom:15px}body.alternative .adviewDFPBanner.activeBan{padding-top:0!important;padding-bottom:20px!important;margin-top:0!important;margin-bottom:0!important}body.alternative .adviewDFPBanner.activeBan .banLabel{padding-top:15px!important;padding-bottom:10px!important;margin-top:0!important;margin-bottom:0!important}body.alternative .DFP-003-RECTANGLE.adviewDFPBanner.activeBan .banLabel{padding-top:0!important}body.alternative .article .adviewDFPBanner.activeBan{margin-bottom:20px!important}body.alternative .DFP-035-RECTANGLE-BTF,body.alternative .DFP-067-RECTANGLE-BTF{position:sticky;top:30px}#banC1.activeBan,#banC2.activeBan,#banC3.activeBan{position:relative}#banC1.wideContentBoard>iframe,#banC2.wideContentBoard>iframe,#banC3.wideContentBoard>iframe{position:absolute;right:0}#article_body #banC1.wideContentBoard iframe,#article_body #banC2.wideContentBoard iframe,#article_body #banC3.wideContentBoard iframe{max-width:initial}.DFP-201-PREMIUMBOARD-MOBI.activeBan,.DFP-201-PREMIUMBOARD.activeBan{display:none}@media screen and (orientation:portrait){div.oaoa__interstitial{height:100%!important}}@media all and (max-width:330px){.responsive .adviewDFPBanner.activeBan{padding-left:0!important;padding-right:0!important}}.DFP-019-TOPLAYER{margin:0!important}body.path_sport-hp .DFP-087-ADBOARD-A{position:relative;z-index:9}body.path_sport-hp .DFP-087-ADBOARD-A .banLabel{background:linear-gradient(rgba(255,255,255,0),#fff)}body.path_sport-hp .DFP-087-ADBOARD-A:before{content:"";position:absolute;bottom:-7px;left:0;width:100%;height:13px;background:linear-gradient(#fff,rgba(255,255,255,0))}.desk.screeningADFP.none #content #content_wrap{margin-top:0!important}body.screeningADFP.dfp-czterykaty #bottom_wrapper,body.screeningADFP.dfp-czterykaty #main_wrapper,body.screeningADFP.dfp-czterykaty #top_wrapper,body.screeningADFP.dfp-czterykaty .aside_wrapper{max-width:1242px;margin:0 auto}.fifContainer{font-size:.1px;line-height:0}</style>
+<!-- v2.6 -->
+
+
+<!-- v2.8 adapter plotek /plotek-->
+
+<!--5656, [ /tpl/ads/prod/dfpHeader.jsp ], dfpBanersHeaderBean-->
+
+	
+  
+
+
+
+<!--13675916, [ /fix/modules/jsonld/index-jsonld.jsp ], jsonldIndexModule-->
+
+</head>
+
+<!--5647, [ /fix/modules/headerLego_dfp.jsp ], headerLegoPojoBean-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="pagetype_index" class="simpleIndex rwd  responsive path_78645 path_plotek   unknown Other unknown">
+
+
+
+<div id="019-TOPLAYER-MOBI" class="adviewDFPBanner DFP-019-TOPLAYER-MOBI">
+    <span class="banLabel" style="display: none;">REKLAMA</span>
+	<div id='div-gpt-ad-019-TOPLAYER-MOBI-0'>
+    <script type='text/javascript'>
+    	if(dfpParams.slots['019-TOPLAYER-MOBI'] && dfpParams.slots['019-TOPLAYER-MOBI'].autoLoad) {
+    		if (adviewDFP && adviewDFP.scrollSlot) adviewDFP.scrollSlot.push('019-TOPLAYER-MOBI'); 
+		} else {
+		    googletag.cmd.push(function() { googletag.display('div-gpt-ad-019-TOPLAYER-MOBI-0'); });
+		}
+       
+    </script>
+    </div>
+</div>
+
+
+
+
+
+	<script type="text/javascript">/*Neustar*/if(window.AG&&1===window.AG.rodoAccepted){function setUpAgknTag(t){t.setBpId("agora"),t.setCat(""),t.setGdpr("1"),t.setGdprConsent("")}var script=document.createElement("script");script.type="text/javascript",script.src="//js.agkn.com/prod/v0/tag.js",document.body.appendChild(script)}</script>
+ 
+<!-- v1.0 -->
+<!--13590, [ /tpl/ads/prod/dfpSlotScripts.jsp ], dfpBanersSlotScriptsBean-->
+
+<!-- v2.2 -->
+<!--13589, [ /tpl/ads/prod/dfpSlot.jsp ], dfpBanersSlotBean-->
+
+
+
+
+<!-- wurfl start -->
+
+
+<!-- wurfl end -->
+
+
+	
+
+
+
+<!-- facebookConnect v1.41 -->
+
+
+
+
+
+
+<!--[if IE]><script>(function(t) { for (var i = 0, l = t.length; i < l; i++) document.createElement(t[i]); })(['fb','og']);</script><![endif]-->
+
+	
+	
+		<div id="fb-root"></div>
+		<script>
+		window.gazeta_pl = window.gazeta_pl || {};
+		window.gazeta_pl.functionQueue = window.gazeta_pl.functionQueue || [];
+		window.gazeta_pl.functionQueue.push(function(){
+			setTimeout(function() {
+                (function(d){
+                   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+                   js = d.createElement('script'); js.id = id; js.async = true;
+                   js.src = "//connect.facebook.net/pl_PL/all.js";
+                   d.getElementsByTagName('head')[0].appendChild(js);
+                 }(document));
+			}, 2000);
+			function facebookReady(){
+				FB.init({
+			      appId  : 127354450674219,
+			      status : true,
+			      cookie : true,
+			      xfbml  : true,
+			      oauth  : true,
+			      version: 'v2.2'
+			    });
+			}
+			if(window.FB) {
+				facebookReady();
+			} else {
+				window.fbAsyncInit = facebookReady;
+			}
+		});
+		</script>
+	
+
+
+<!--5638, [ /fix/modules/facebook/facebookConnect.jsp ], null-->
+
+
+
+
+
+
+
+    <script type="text/javascript">
+        window.___gcfg = {
+            lang: 'pl'
+        };
+
+        /*check if functionQueue defined*/
+        window.gazeta_pl = window.gazeta_pl || {};
+        window.gazeta_pl.functionQueue = window.gazeta_pl.functionQueue || [];
+        
+        window.gazeta_pl.functionQueue.push(function(){
+	        setTimeout(function() {
+		        (function() {
+		            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		            po.src = 'https://apis.google.com/js/client:plusone.js';
+		            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		        })();
+		        gazeta_pl.trace('load delayed plusone');
+	        }, 400); 
+        });
+    </script>
+
+<!--5641, [ /fix/modules/google/googlePlus.jsp ], null-->
+
+
+<script>
+	var gazeta_pl = gazeta_pl || {};
+	gazeta_pl.adTailyId = "Ei7tRxMXzKfKmW3";
+	
+	    
+	    var idPogoda="";
+	
+</script>
+
+
+
+
+<!-- app16:tomcat-serwisy: - 30 - 3801104 - LegoIndex /rze/3800/s3800000_P20_p2gx_dfp 1.16  DFP -->
+
+
+
+<div id="page" class="layout_uniwersalny n_hat2014">
+
+
+
+ 
+	
+				
+				
+		<div id="page-top" class="rwdTop">
+
+		
+			
+		  	
+				<!-- cap_2014 -->
+				<nav class="mod mod_hat2014">
+					<div class="gridWrap">
+						<ul class="c0">
+							<li>
+								<div class="logo"><a href="http://www.plotek.pl/plotek/0,0.html" title="Plotek.pl" class="logo gazeta c1"><img title="Plotek.pl" alt="Plotek.pl" src="https://bis.gazeta.pl/im/0/20083/m20083360.png"/></a></div><!-- UZREditor --><!-- htmEOF -->
+							</li>
+			        	</ul>
+			        	<ul class="c1">
+				        	<li class="more bar">
+				        	    <input type="checkbox" class="menu">
+				            	<ul class="links">
+				                	<li class="deskNav">
+				                	
+				                	<!-- nst tak -->
+							        
+
+
+
+
+
+<!-- Menubar20_nst API ver 1.0 -->
+
+	<!-- ver 0.45 newMenuBar:true, menuType: 2, nst:tak, szukaj:false, szukajNSTAlias:null -->
+	
+		<nav data-position="nawigacja" id="rwdNav" class="level0"><ul class='p0'><li id='e1' class=' '><a href='http://www.plotek.pl/plotek/0,78882,398208420.html?tag=ko%B3o+plotka#TRNavSST' title='Ko³o Plotka '>Ko³o Plotka</a></li><li id='e2' class=' '><a href='http://www.plotek.pl/plotek/0,78649.html#TRNavSST' title='News '>News</a></li><li id='e3' class=' '><a href='http://www.plotek.pl/plotek/0,156651.html#TRNavSST' title='MODA '>MODA</a></li><li id='e4' class=' '><a href='http://www.plotek.pl/plotek/0,79592.html#TRNavSST' title='Galerie '>Galerie</a></li><li id='e5' class=' '><a href='http://www.plotek.pl/plotek/0,82573.html#TRNavSST' title='Wywiady '>Wywiady</a></li><li id='e6' class=' '><a href='http://www.plotek.pl/plotek/0,78882,398208420.html?tag=wpadki+gwiazd#TRNavSST' title='Wpadki gwiazd '>Wpadki gwiazd</a></li><li id='e7' class=' '><a href='http://www.plotek.pl/plotek/0,78882,398208420.html?tag=dieta+odchudzaj%B1ca#TRNavSST' title='Diety '>Diety</a></li></ul>
+		</nav>
+
+									 </li>
+									 <li>
+							    		<style>
+body {padding-top: 34px;}
+body.rwd.responsive {margin-top: 0;}
+.rwd.desk #page {padding-top:0}
+#cookieInfoMsgWrapper {margin-bottom: -2px;}
+</style>
+<ul class="c0">
+<li class="home bar">
+<a href="http://www.gazeta.pl/0,0.html" data-hvr="Gazeta.pl" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'Gazeta.pl', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Gazeta.pl' , location.hostname ,, true]);">Gazeta.pl</a>
+</li>
+<li class="bar">
+<a href="http://weekend.gazeta.pl/weekend/0,0.html" data-hvr="Weekend" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'Weekend', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Weekend' , location.hostname ,, true]);">Weekend</a>
+</li>
+<li class="bar">
+<a data-channel="wiadomosci" href="http://wiadomosci.gazeta.pl/wiadomosci/0,0.html" data-hvr="Wiadomo¶ci" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'Wiadomo¶ci', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Wiadomo¶ci' , location.hostname ,, true]);">Wiadomo¶ci</a>
+</li>
+<li class="bar">
+<a data-channel="sport" href="http://www.sport.pl/sport-hp/0,0.html" data-hvr="Sport" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'Sport', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Sport' , location.hostname ,, true]);">Sport</a>
+</li>
+<li class="bar">
+<a data-channel="plotek" href="http://www.plotek.pl/plotek/0,0.html" data-hvr="Plotek" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'Plotek', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Plotek' , location.hostname ,, true]);">Plotek</a>
+</li>
+<li class="bar">
+<a data-channel="next" href="http://next.gazeta.pl/next/0,0.html" data-hvr="Next" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'Next', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Next' , location.hostname ,, true]);">Next</a>
+</li>
+<li class="bar">
+<a data-channel="kultura" href="http://kultura.gazeta.pl/kultura/0,0.html" data-hvr="Kultura" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'Kultura', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Kultura' , location.hostname ,, true]);">Kultura</a>
+</li>
+<li class="bar">
+<a data-channel="kobieta" href="http://kobieta.gazeta.pl/kobieta/0,0.html" data-hvr="Kobieta" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'Kobieta', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Kobieta' , location.hostname ,, true]);">Kobieta</a>
+</li>
+<li class="bar">
+<a data-channel="dziecko" href="http://www.edziecko.pl/edziecko/0,0.html" data-hvr="Dziecko" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'Dziecko', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Dziecko' , location.hostname ,, true]);">Dziecko</a>
+</li>
+<li class="bar">
+<a data-channel="metro" href="http://www.tokfm.pl/Tokfm/0,0.html" data-hvr="TOK FM" onClick="gazeta_pl.tagManager ? dataLayer.push({'category': 'CzapeczkaRWD',
+'action': 'TOK FM', 'label': location.hostname, 'value': 0, 'nonInteraction': false,  'event': 'zdarzenie'}) : _gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'TOK FM' , location.hostname ,, true]);">TOK FM</a>
+</li>
+</ul>
+<!-- 16586336 -->
+<!-- htmEOF --><!-- UZREditor --><!-- htmEOF -->
+							    		<!-- 2014 /aliasy/czapeczka/rwd/rozrywka2014.htm -->
+							 		</li>
+							 		<li>
+							 		    
+							 			
+								   			
+
+
+
+
+
+<!-- czapeczka -->
+
+<!--CZAPECZKA - START -->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<!-- 2014###capMobile=1 -->
+
+					
+					    <a name="profile">Twój profil</a>
+					
+					<ul class="user">
+ 					 
+ 					    
+						<li>
+    						<a id="hatLogin" href="https://konto.gazeta.pl/konto/logowanie,.html?utm_nooverride=1&back=http%3A%2F%2Fwww.plotek.pl%2Fplotek%2F0%2C0.html" onClick="_gaq.push(['_trackEvent', 'CzapeczkaRWD' , 'Zaloguj siê' , location.hostname ,, true]);"> Zaloguj siê</a>
+    					</li>
+    				 
+					</ul>
+				  
+		
+		<!-- partner (tylko desk) -->
+		
+		<!-- /partner (tylko desk) -->
+		
+		
+<!-- czap-end   -->
+
+
+<!--CZAPECZKA - END -->
+
+<!--5646, [ /fix/modules/cap.jsp ], capPojoBean-->
+
+											
+							 		</li>
+							 	</ul>
+						 	</li>
+					 	</ul>						
+						
+					</div>
+				</nav>
+			
+            
+				
+		
+		<div id="navtop_wrap">
+	    	<div class="c0">
+	     		
+	       	</div> <!-- .c0 -->
+	    </div> <!-- #navtop_wrap -->
+		
+			 
+		
+		<!-- ...3...  -->
+    
+
+    
+
+
+
+<div id="navbot_wrap">
+    <div class="c0">
+        
+    </div> <!-- .c0 -->
+    <div class="c1">
+    </div> <!-- .c1 -->
+</div> <!-- #navbot_wrap -->
+
+</div> <!-- #page-top -->
+
+
+
+<div id="101-TOPBOARD-MOBI" class="adviewDFPBanner DFP-101-TOPBOARD-MOBI">
+    <span class="banLabel" style="display: none;">REKLAMA</span>
+	<div id='div-gpt-ad-101-TOPBOARD-MOBI-0'>
+    <script type='text/javascript'>
+    	if(dfpParams.slots['101-TOPBOARD-MOBI'] && dfpParams.slots['101-TOPBOARD-MOBI'].autoLoad) {
+    		if (adviewDFP && adviewDFP.scrollSlot) adviewDFP.scrollSlot.push('101-TOPBOARD-MOBI'); 
+		} else {
+		    googletag.cmd.push(function() { googletag.display('div-gpt-ad-101-TOPBOARD-MOBI-0'); });
+		}
+       
+    </script>
+    </div>
+</div>
+
+
+<!-- v2.2 -->
+<!--5657, [ /tpl/ads/prod/dfpSlot.jsp ], dfpBanersSlotBean-->
+
+
+<div id="content">
+<div id="content_wrap">
+
+
+
+
+
+
+	<div id="sitePath">
+		
+
+		
+			<ul id="breadcrumbs">
+			    
+				    <li class="bc_item">
+					    <a href="http://www.plotek.pl/plotek/0,0.html" title=" Plotek" class="bc_item_link"> Plotek</a>
+				    </li>
+			    
+			    
+				    <li class="bc_item">Plotek.pl - Najnowsze Plotki, Gwiazdy, Zdjêcia bez Cenzury</li>
+			    
+			</ul>
+		
+	</div>
+
+
+
+
+
+
+<!--13329090, [ /fix/modules/jsonld/breadcrumbs-jsonld.jsp ], jsonldBreadcrumbsModule-->
+
+
+<!--5649, [ /tpl/prod/modules/breadcrumbs/breadcrumbs.jsp ], pathIndexPojoBean-->
+
+
+<div id="top_wrap">
+    
+
+    <div id="holder_101" class="holder_top">
+    	
+    		<!-- universalIndexRWD_DFP v0.33 --><!-- (~MODSTART : 7 :15968876) --><article class="mod mod_indexRWD hp_grid lazy_load index1"><header><h2>NAJNOWSZE</h2></header><section class="body"><ul><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24033677,anna-lewandowska-kibicowala-robertowi-na-meczu-polska-portugalia.html" title="Anna Lewandowska kibicowa³a Robertowi na meczu Polska-Portugalia. Wcze¶niej wrzuci³a urocze zdjêcie z Klar±. Mamo, jadê z Tob±" id="LinkArea:newsy1"><img data-src="//bi.im-g.pl/im/94/eb/16/z24033684M,Anna-Lewandowska.jpg" alt="Anna Lewandowska" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24033677,anna-lewandowska-kibicowala-robertowi-na-meczu-polska-portugalia.html" id="LinkArea:newsy1">Anna Lewandowska kibicowa³a Robertowi na meczu Polska-Portugalia. Wcze¶niej wrzuci³a urocze zdjêcie z Klar±. &#034;Mamo, jadê z Tob±&#034;</a></h3><span class="date">12-10-2018 08:30</span><ul class="tags"><li class="first"><a id="LinkArea:newsy1" title="anna lewandowska" href="/plotek/0,78882,398208420.html?tag=anna+lewandowska">anna lewandowska </a></li></ul></header></section></li>    </ul></section><footer></footer></article><!-- (~MODEND:8:15968876 sr43:5,959,711) -->
+
+<!--15968876, [ /tpl/prod/universalIndex/universalIndexModuleRWD.jsp ], universalIndexBean-->
+
+    		<div>
+
+
+<div id="107-MAINBOARD-MOBI" class="adviewDFPBanner DFP-107-MAINBOARD-MOBI">
+    <span class="banLabel" style="display: none;">REKLAMA</span>
+	<div id='div-gpt-ad-107-MAINBOARD-MOBI-0'>
+    <script type='text/javascript'>
+    	if(dfpParams.slots['107-MAINBOARD-MOBI'] && dfpParams.slots['107-MAINBOARD-MOBI'].autoLoad) {
+    		if (adviewDFP && adviewDFP.scrollSlot) adviewDFP.scrollSlot.push('107-MAINBOARD-MOBI'); 
+		} else {
+		    googletag.cmd.push(function() { googletag.display('div-gpt-ad-107-MAINBOARD-MOBI-0'); });
+		}
+       
+    </script>
+    </div>
+</div>
+
+
+<!-- v2.2 -->
+<!--11887298, [ /tpl/ads/prod/dfpSlot.jsp ], dfpBanersSlotBean-->
+</div>
+    		
+    	
+        
+
+    </div> <!-- #holder_101 .holder_top -->
+    
+    <div id="holder_102" class="holder_top">
+        
+    </div> <!-- #holder_102 .holder_top -->
+</div> <!-- #top_wrap -->
+
+<div id="columns_wrap">
+<div id="col_left">
+
+
+
+
+<div id="row_1" class="content_row">
+    <div id="holder_201" class="holder_cl1 holder_cl ">
+        
+<!-- tagHead  -->
+
+<!-- !tagHead  -->
+
+<!--5636, [ /fix/tags/tagHead.jsp ], tagHeadBean-->
+
+        <!-- universalIndexRWD_DFP v0.33 --><!-- (~MODSTART : 7 :17340307) --><article class="mod mod_indexRWD hp_grid  index2"><header></header><section class="body"><ul><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24033540,ten-wizerunek-macaulaya-culkina-to-przeszlosc-krotkie-wlosy.html" title="Ten wizerunek Macaulaya Culkina to przesz³o¶æ! Krótkie w³osy, brak zarostu... Od razu o niebo lepiej " id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/46/8f/11/z18413126M,Macaulay-Culkin.jpg" alt="Macaulay Culkin" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24033540,ten-wizerunek-macaulaya-culkina-to-przeszlosc-krotkie-wlosy.html" id="LinkArea:newsy2">Ten wizerunek Macaulaya Culkina to przesz³o¶æ! Krótkie w³osy, brak zarostu... Od razu o niebo lepiej </a></h3><span class="date">12-10-2018 06:16</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,111485,24033479,tvn-nie-chcial-wyemitowac-tego-odcinka-kuchennych-rewolucji.html" title="TVN nie chcia³ wyemitowaæ tego odcinka Kuchennych rewolucji. To przed t± restauracj± napadniêto Gessler! Pominiêto jednak istotny szczegó³" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/d1/b9/16/z23826641M,Magda-Gessler.jpg" alt="Magda Gessler" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,111485,24033479,tvn-nie-chcial-wyemitowac-tego-odcinka-kuchennych-rewolucji.html" id="LinkArea:newsy2">TVN nie chcia³ wyemitowaæ tego odcinka &#034;Kuchennych rewolucji&#034;. To przed t± restauracj± napadniêto Gessler! Pominiêto jednak istotny szczegó³</a></h3><span class="date">11-10-2018 23:24</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/56,79592,24033317,daniel-i-ewelina-martyniukowie-nie-udzielaja-wywiadow-ale-sporo.html" title="Daniel i Ewelina Martyniukowie nie udzielaj± wywiadów, ale sporo pokazuj± na Instagramie! Nie brakuje tam seksownych zdjêæ 19-latki" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/96/eb/16/z24033430M,Ewelina-Golczynska-i-Daniel-Martyniuk.jpg" alt="Ewelina Golczyñska i Daniel Martyniuk" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/56,79592,24033317,daniel-i-ewelina-martyniukowie-nie-udzielaja-wywiadow-ale-sporo.html" id="LinkArea:newsy2">Daniel i Ewelina Martyniukowie nie udzielaj± wywiadów, ale sporo pokazuj± na Instagramie! Nie brakuje tam seksownych zdjêæ 19-latki</a></h3><span class="date">11-10-2018 21:29</span><ul class="tags"></ul></header></section></li><li id="banP99_DFP"  class="entry banEntry banIndexDFP"><script type="text/javascript">putBanDFP('099-BOMBKA', 'banP99_DFP');</script></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154484,23987946,sukienki-w-kolorach-jesieni-jesien-nie-musi-byc-nudna.html" title="Bordowe, br±zowe, zielone - sukienki do pracy w jesiennych kolorach! Najtañsz± kupisz ju¿ za 60 z³" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/f9/e0/16/z23988473M,sukienki-w-jesiennych-kolorach-mat--partnera-WBF.jpg" alt="sukienki w jesiennych kolorach/mat. partnera/WBF" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154484,23987946,sukienki-w-kolorach-jesieni-jesien-nie-musi-byc-nudna.html" id="LinkArea:newsy2">Bordowe, br±zowe, zielone - sukienki do pracy w jesiennych kolorach! Najtañsz± kupisz ju¿ za 60 z³</a></h3><span class="date">11-10-2018 21:20</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/56,79592,24033095,wszyscy-kochalismy-ja-za-serial-matki-zony-i-kochanki-potem.html" title="Wszyscy kochali¶my j± za Matki, ¿ony i kochanki. Potem zniknê³a z ekranu. Dzi¶ El¿bieta Zaj±cówna znów bryluje na salonach. W ¶wietnej formie!" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/cc/eb/16/z24033228M,Elzbieta-Zajacowna-w-filmie--Matki--zony-i-kochank.jpg" alt="El¿bieta Zaj±cówna w filmie 'Matki, ¿ony i kochanki'" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/56,79592,24033095,wszyscy-kochalismy-ja-za-serial-matki-zony-i-kochanki-potem.html" id="LinkArea:newsy2">Wszyscy kochali¶my j± za &#034;Matki, ¿ony i kochanki&#034;. Potem zniknê³a z ekranu. Dzi¶ El¿bieta Zaj±cówna znów bryluje na salonach. W ¶wietnej formie!</a></h3><span class="date">11-10-2018 20:30</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24029403,dorota-szelagowska-nie-zaprosila-matki-na-swoj-slub-katarzyna.html" title="Dorota Szel±gowska nie zaprosi³a matki na swój ¶lub. Katarzyna Grochola t³umaczy zachowanie córki" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/f5/ea/16/z24029685M,Dorota-Szelagowska---Katarzyna-Grochola.jpg" alt="Dorota Szel±gowska / Katarzyna Grochola" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24029403,dorota-szelagowska-nie-zaprosila-matki-na-swoj-slub-katarzyna.html" id="LinkArea:newsy2">Dorota Szel±gowska nie zaprosi³a matki na swój ¶lub. Katarzyna Grochola t³umaczy zachowanie córki</a></h3><span class="date">11-10-2018 19:40</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,78649,24030542,channing-tatum-wiosna-rozstal-sie-z-jenna-dewan-a-juz-ma-nowa.html" title="Channing Tatum wiosn± rozsta³ siê z Jenn± Dewan, a ju¿ ma now± partnerkê. Doskonale j± znacie " id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/4b/ea/16/z24030795M,Channing-Tatum.jpg" alt="Channing Tatum" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,78649,24030542,channing-tatum-wiosna-rozstal-sie-z-jenna-dewan-a-juz-ma-nowa.html" id="LinkArea:newsy2">Channing Tatum wiosn± rozsta³ siê z Jenn± Dewan, a ju¿ ma now± partnerkê. Doskonale j± znacie </a></h3><span class="date">11-10-2018 18:30</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24030164,dominika-gwit-w-koncu-uslyszala-prawidlowa-diagnoze-od-lekarzy.html" title="Dominika Gwit w koñcu us³ysza³a prawid³ow± diagnozê od lekarzy. Dzi¶ wiem, co mi jest, i jak to leczyæ" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/da/ea/16/z24030426M,Dominika-Gwit.jpg" alt="Dominika Gwit" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24030164,dominika-gwit-w-koncu-uslyszala-prawidlowa-diagnoze-od-lekarzy.html" id="LinkArea:newsy2">Dominika Gwit w koñcu us³ysza³a prawid³ow± diagnozê od lekarzy. &#034;Dzi¶ wiem, co mi jest, i jak to leczyæ&#034;</a></h3><span class="date">11-10-2018 18:00</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24030070,syn-martyniuka-dostal-w-prezentach-slubnych-lacznie-800-tys.html" title="Syn Martyniuka dosta³ w prezentach ¶lubnych ³±cznie 800 tys. z³! Pieni±dze przeznacz± na podró¿ po¶lubn±" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/7e/eb/16/z24031358M,Slub-Daniela-Martyniuka.jpg" alt="¦lub Daniela Martyniuka" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24030070,syn-martyniuka-dostal-w-prezentach-slubnych-lacznie-800-tys.html" id="LinkArea:newsy2">Syn Martyniuka dosta³ w prezentach ¶lubnych ³±cznie 800 tys. z³! Pieni±dze przeznacz± na podró¿ po¶lubn±</a></h3><span class="date">11-10-2018 17:39</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154484,24029816,klasyczne-plaszcze-na-jesien-i-zime-bezowy-czy-rozowy-w-stylu.html" title="Klasyczne p³aszcze na jesieñ i zimê: be¿owy czy ró¿owy w stylu Karoliny Szostak? Mamy piêkne modele!" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/bc/ea/16/z24030396M,klasyczne-plaszcze-dp.jpg" alt="klasyczne p³aszcze dp" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154484,24029816,klasyczne-plaszcze-na-jesien-i-zime-bezowy-czy-rozowy-w-stylu.html" id="LinkArea:newsy2">Klasyczne p³aszcze na jesieñ i zimê: be¿owy czy ró¿owy w stylu Karoliny Szostak? Mamy piêkne modele!</a></h3><span class="date">11-10-2018 17:00</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24030694,jacek-borkowski-napisal-kolejny-wiersz-dla-ukochanej-moze.html" title="Jacek Borkowski napisa³ kolejny wiersz dla ukochanej. Mo¿e zwariowa³em, ale ju¿ my¶lê o ¶lubie " id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/c5/ea/16/z24031173M,Jacek-Borkowski.jpg" alt="Jacek Borkowski" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24030694,jacek-borkowski-napisal-kolejny-wiersz-dla-ukochanej-moze.html" id="LinkArea:newsy2">Jacek Borkowski napisa³ kolejny wiersz dla ukochanej. &#034;Mo¿e zwariowa³em, ale ju¿ my¶lê o ¶lubie&#034; </a></h3><span class="date">11-10-2018 16:30</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24028910,popek-w-programie-twoja-twarz-brzmi-znajomo-jak-oryginal.html" title="Nie, to nie prawdziwy Popek. W rapera wcieli³ siê uczestnik Twoja twarz brzmi znajomo. Posz³o mu rewelacyjnie " id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/57/ea/16/z24029783M,Popek-w--Twoja-twarz-brzmi-znajomo-.jpg" alt="Popek w 'Twoja twarz brzmi znajomo'" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24028910,popek-w-programie-twoja-twarz-brzmi-znajomo-jak-oryginal.html" id="LinkArea:newsy2">Nie, to nie prawdziwy Popek. W rapera wcieli³ siê uczestnik &#034;Twoja twarz brzmi znajomo&#034;. Posz³o mu rewelacyjnie </a></h3><span class="date">11-10-2018 16:00</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24031594,justin-bieber-przechodzi-zalamanie-nerwowe-nie-tego-sie-spodziewal.html" title="Justin Bieber przechodzi za³amanie nerwowe? Nie tego siê spodziewa³ po ma³¿eñstwie" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/57/91/16/z23664727M,Justin-Bieber--Hailey-Baldwin.jpg" alt="Justin Bieber, Hailey Baldwin" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24031594,justin-bieber-przechodzi-zalamanie-nerwowe-nie-tego-sie-spodziewal.html" id="LinkArea:newsy2">Justin Bieber przechodzi za³amanie nerwowe? Nie tego siê spodziewa³ po ma³¿eñstwie</a></h3><span class="date">11-10-2018 15:36</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24030631,joanna-kulig-na-okladce-francuskiego-elle-francuzi-sa-zachwyceni.html" title="Joanna Kulig na ok³adce francuskiego Elle! Francuzi s± zachwyceni. Nowa sensacja kina, piêkna" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/81/ea/16/z24031105M,Joanna-Kulig-we-francuskim--Elle-.jpg" alt="Joanna Kulig we francuskim 'Elle'" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24030631,joanna-kulig-na-okladce-francuskiego-elle-francuzi-sa-zachwyceni.html" id="LinkArea:newsy2">Joanna Kulig na ok³adce francuskiego &#034;Elle&#034;! Francuzi s± zachwyceni. &#034;Nowa sensacja kina, piêkna&#034;</a></h3><span class="date">11-10-2018 15:15</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24029752,na-anne-skure-spadla-fala-krytyki-za-jej-wyjazd-na-bali-blogerka.html" title="Anna Skura polecia³a na Bali bez pó³toramiesiêcznej córki. W koñcu zabra³a g³os. Pokaza³a te¿ wymowne zdjêcie " id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/99/ea/16/z24030617M,Anna-Skura.jpg" alt="Anna Skura" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24029752,na-anne-skure-spadla-fala-krytyki-za-jej-wyjazd-na-bali-blogerka.html" id="LinkArea:newsy2">Anna Skura polecia³a na Bali bez pó³toramiesiêcznej córki. W koñcu zabra³a g³os. Pokaza³a te¿ wymowne zdjêcie </a></h3><span class="date">11-10-2018 14:40</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24029733,ksiezniczka-eugenia-bierze-slub-w-ten-piatek-z-tej-okazji-postanowila.html" title="Ksiê¿niczka Eugenia wychodzi za m±¿ w ten pi±tek. Przed ¶lubem postanowi³a zrzuciæ zbêdne kilogramy. I wygl±da ¶wietnie! " id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/4f/ea/16/z24030543M,Ksiezniczka-Eugenia.jpg" alt="Ksiê¿niczka Eugenia" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24029733,ksiezniczka-eugenia-bierze-slub-w-ten-piatek-z-tej-okazji-postanowila.html" id="LinkArea:newsy2">Ksiê¿niczka Eugenia wychodzi za m±¿ w ten pi±tek. Przed ¶lubem postanowi³a zrzuciæ zbêdne kilogramy. I wygl±da ¶wietnie! </a></h3><span class="date">11-10-2018 14:05</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154063,24029811,gessler-zaatakowana-podczas-krecenia-kuchennych-rewolucji.html" title="Kuchenne rewolucje. Dzi¶ odcinek, w którym zaatakowano Gessler. Sama nalega³a, by TVN go nie emitowa³. Jest za ostry " id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/49/ea/16/z24030025M,Magda-Gessler.jpg" alt="Magda Gessler" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154063,24029811,gessler-zaatakowana-podczas-krecenia-kuchennych-rewolucji.html" id="LinkArea:newsy2">&#034;Kuchenne rewolucje&#034;. Dzi¶ odcinek, w którym zaatakowano Gessler. Sama nalega³a, by TVN go nie emitowa³. &#034;Jest za ostry&#034; </a></h3><span class="date">11-10-2018 13:30</span><ul class="tags"></ul></header></section></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,154484,24016751,gwiazdy-uwielbiaja-marki-z-lat-90-ktore-wracaja-do-lask.html" title="Moda lat 90. wraca. Bluzy w stylu Lewandowskiej marek Fila, Kappa i Levis to must have tego sezonu" id="LinkArea:newsy2"><img src="//bi.im-g.pl/im/a8/e7/16/z24017832M,bluzy-mat--partnera-www-instagram-com-annalewandow.jpg" alt="bluzy/mat. partnera/www.instagram.com/annalewandowskahpba" /></a></div><header><h3><a href="http://www.plotek.pl/plotek/7,154484,24016751,gwiazdy-uwielbiaja-marki-z-lat-90-ktore-wracaja-do-lask.html" id="LinkArea:newsy2">Moda lat 90. wraca. Bluzy w stylu Lewandowskiej marek Fila, Kappa i Levis to &#034;must have&#034; tego sezonu</a></h3><span class="date">11-10-2018 13:00</span><ul class="tags"></ul></header></section></li>    </ul></section><footer><div class="pages"><span>1</span>  <a id="LinkArea:newsy2" href="/plotek/0,0.html?str=2_17340307">2</a>   <a id="LinkArea:newsy2" href="/plotek/0,0.html?str=3_17340307">3</a>   <a id="LinkArea:newsy2" href="/plotek/0,0.html?str=4_17340307">4</a>   <a id="LinkArea:newsy2" href="/plotek/0,0.html?str=5_17340307">5</a> <span class="dots">...</span><a id="LinkArea:newsy2" class="next" href="/plotek/0,0.html?str=2_17340307">nast&#281;pna &raquo;</a></div></footer></article><!-- (~MODEND:8:17340307 sr43:1,689,146) -->
+
+<!--17340307, [ /tpl/prod/universalIndex/universalIndexModuleRWD.jsp ], universalIndexBean-->
+
+        
+    </div> <!-- #holder_201 .holder_cl1 holder_cl -->
+</div> <!-- #row_1 .content_row -->
+
+<div id="row_2" class="content_row">
+    <div id="holder_205" class="holder_cl2 holder_cl">
+        
+    </div> <!-- #holder_205 .holder_cl2 holder_cl -->
+    <div id="holder_206" class="holder_cl2 holder_cl">
+        
+    </div> <!-- #holder_206 .holder_cl2 holder_cl -->
+</div> <!-- #row_2 .content_row -->
+
+<div id="row_3" class="content_row">
+    <div id="holder_209" class="holder_cl3 holder_cl">
+        
+    </div> <!-- #holder_209 .holder_cl3 holder_cl -->	
+</div> <!-- #row_3 .content_row -->
+
+
+<div id="row_4" class="content_row">
+</div> <!-- #row_4 .content_row -->
+
+<div id="row_5" class="content_row">
+    <div id="holder_217" class="holder_cl5 holder_cl">
+        
+    </div> <!-- #holder_217 .holder_cl5 holder_cl -->
+</div> <!-- #row_5 .content_row -->
+<div id="row_6" class="content_row">
+    <div id="holder_221" class="holder_cl6 holder_cl">
+        
+    </div> <!-- #holder_221 .holder_cl6 holder_cl -->
+    <div id="holder_222" class="holder_cl6 holder_cl">
+        
+    </div> <!-- #holder_222 .holder_cl6 holder_cl -->	
+</div> <!-- #row_6 .content_row -->
+
+
+
+<div id="104-RECTANGLE-MOBI" class="adviewDFPBanner DFP-104-RECTANGLE-MOBI">
+    <span class="banLabel" style="display: none;">REKLAMA</span>
+	<div id='div-gpt-ad-104-RECTANGLE-MOBI-0'>
+    <script type='text/javascript'>
+    	if(dfpParams.slots['104-RECTANGLE-MOBI'] && dfpParams.slots['104-RECTANGLE-MOBI'].autoLoad) {
+    		if (adviewDFP && adviewDFP.scrollSlot) adviewDFP.scrollSlot.push('104-RECTANGLE-MOBI'); 
+		} else {
+		    googletag.cmd.push(function() { googletag.display('div-gpt-ad-104-RECTANGLE-MOBI-0'); });
+		}
+       
+    </script>
+    </div>
+</div>
+
+
+
+
+
+<!-- v1.0 -->
+<!--10067, [ /tpl/ads/prod/dfpSlotScripts.jsp ], dfpBanersSlotScriptsBean-->
+
+<!-- v2.2 -->
+<!--5659, [ /tpl/ads/prod/dfpSlot.jsp ], dfpBanersSlotBean-->
+
+<div id="row_11" class="content_row">
+    <div id="holder_241" class="holder_cl11 holder_cl">
+        
+    </div> <!-- #holder_241 .holder_cl11 holder_cl -->
+</div> <!-- #row_11 .content_row -->
+
+</div> <!-- #col_left -->
+<div id="col_right">
+    <div id="holder_301" class="holder_cr">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- millNST.jsp ver 1.8.1  -->
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+	
+		
+	
+	
+
+
+
+	
+		
+	
+	
+
+
+
+	
+	
+		
+	
+
+
+
+
+<div class="mod_mlyn mod_mlyn_zr2 static loaded right_side  mod_polecane_new"
+	style="height: auto;" >
+
+	<div class="node_head typeY">
+		
+			
+			
+				<span>
+					MODA &amp; SHOPPING
+				</span>
+			
+		
+		<span></span>
+	</div>
+	<div class="node_body">
+		
+			
+			
+				
+			
+
+			<div
+				class=" node_entry n2 n3 n4 n6"
+				data-id="285402"
+				data-mill-categories="1078"
+				data-skip-hp="true"
+				target="">
+
+
+				<a href="http://www.plotek.pl/plotek/7,154484,23902631,jeansy-push-up-i-inne-w-ktorych-bedziesz-wygladala-swietnie.html?utm_source=plotek.pl&amp;utm_medium=modashopping&amp;utm_campaign=plotekecom"
+					id="LinkArea:Wstylugwiazd" title="To najlepsze spodnie dla kobiet o pe³nych kszta³tach. S± modne, wyszczuplaj± i unosz± po¶ladki">  <img src="http://bi.gazeta.pl/im/cd/cb/16/z23903437Y.jpg">
+					
+						<span class="caption">To najlepsze spodnie dla kobiet o pe³nych kszta³tach. S± modne, wyszczuplaj± i unosz± po¶ladki</span>
+					 
+				</a>
+			</div>
+		
+			
+			
+				
+			
+
+			<div
+				class=" node_entry "
+				data-id="285401"
+				data-mill-categories="1078"
+				data-skip-hp="true"
+				target="">
+
+
+				<a href="http://www.plotek.pl/plotek/7,154484,23914310,adidas-falcon-buty-ktore-na-mysl-przywoluja-lata-90.html?utm_source=plotek.pl&amp;utm_medium=modashopping&amp;utm_campaign=plotekecom"
+					id="LinkArea:Wstylugwiazd" title="Buty Adidas falcon podbi³y serca gwiazd. Znalaz³y¶my dla Was najlepsze oferty ze sklepów internetowych">  <img src="http://bi.gazeta.pl/im/2f/ce/16/z23915055Y.jpg">
+					
+						<span class="caption">Buty Adidas falcon podbi³y serca gwiazd. Znalaz³y¶my dla Was najlepsze oferty ze sklepów internetowych</span>
+					 
+				</a>
+			</div>
+		
+	</div>
+	
+
+</div>
+
+<!--20734678, [ /fix/mill/millNST.jsp ], null-->
+
+        
+        <article class="mod mod_uzr9">
+<header>
+<h2>zobacz wideo</h2>
+</header>
+<section class="body">
+<div data-xx="24021109" data-xxd="82573" data-pjs="video" data-pjs-skin="portal" data-pjs-query="mute=true" data-pjs-tag="" data-pjs-slave="false" data-pjs-dynamictitle="false" style="width:300px;height:203px;"></div>
+</section>
+</article><!-- UZREditor --><!-- htmEOF -->
+<!--22411775, [ /htm/22411/j22411775.htm ], null-->
+
+        <div class="nadBan3"></div>
+        
+
+        <div class="nadBan13"></div>
+
+        
+
+        
+        <div class="nadMod2"></div>
+        <!-- proxy:right3 -->
+        <!--n.cz., tr:#TRNajCzytSST--><article class="mod mod_most_read mod_most_read1 lazy_load"><header>Najczê¶ciej czytane</header><section class="body"><ul><li class=""><span class="number">1.</span><h3 class="title"><a href="http://www.plotek.pl/plotek/7,154063,24022916,wykonturowana-twarz-mocny-makijaz-az-trudno-uwierzyc-ze.html#TRNajCzytSST" title="Zosia z &quot;Rodzinki.pl&quot; na Instagramie wygl±da zupe³nie inaczej ni¿ w serialu. Tê 13-latkê zna ju¿ ca³a Polska">Zosia z "Rodzinki.pl" na Instagramie wygl±da zupe³nie inaczej ni¿ w serialu. Tê 13-latkê zna ju¿ ca³a Polska</a></h3></li><li class=""><span class="number">2.</span><h3 class="title"><a href="http://www.plotek.pl/plotek/7,154063,24025255,syn-martyniuka-ozenil-sie-z-corka-milionerow-wiemy-jakie-dania.html#TRNajCzytSST" title="Syn Martyniuka o¿eni³ siê z 19-letni± c&oacute;rk± milioner&oacute;w. Wiemy, jakie dania serwowano na ich weselu. By³o na bogato!">Syn Martyniuka o¿eni³ siê z 19-letni± córk± milionerów. Wiemy, jakie dania serwowano na ich weselu. By³o na bogato!</a></h3></li><li class=""><span class="number">3.</span><h3 class="title"><a href="http://www.plotek.pl/plotek/7,78649,24025912,malgorzata-rozenek-zrezygnowala-z-doczepow-wartych-35-tys-zlotych.html#TRNajCzytSST" title="Ma³gorzata Rozenek zrezygnowa³a z doczep&oacute;w za 35 tys.z³? R&oacute;¿nica jest znacz±ca. &quot;Ale kr&oacute;tkie w³osy!&quot;">Ma³gorzata Rozenek zrezygnowa³a z doczepów za 35 tys.z³? Ró¿nica jest znacz±ca. "Ale krótkie w³osy!"</a></h3></li><li class=""><span class="number">4.</span><h3 class="title"><a href="http://www.plotek.pl/plotek/7,154063,24021359,bogumila-wander-skonczyla-75-lat-maz-zabral-ja-na-romantyczna.html#TRNajCzytSST" title="Bogumi³a Wander ¶wiêtuje 75. urodziny. W towarzystwie mê¿a raczy³a siê winem">Bogumi³a Wander ¶wiêtuje 75. urodziny. W towarzystwie mê¿a raczy³a siê winem</a></h3></li><li class=""><span class="number">5.</span><h3 class="title"><a href="http://www.plotek.pl/plotek/7,154063,24029435,ksiezna-kate-kocha-modowy-recykling-teraz-zalozyla-nowa-sukienke.html#TRNajCzytSST" title="Ksiê¿na Kate kocha modowy recykling. Teraz za³o¿y³a jednak now± sukienkê o nietypowym dla niej kroju. Podobn± niedawno mia³a Meghan">Ksiê¿na Kate kocha modowy recykling. Teraz za³o¿y³a jednak now± sukienkê o nietypowym dla niej kroju. Podobn± niedawno mia³a Meghan</a></h3></li><li class=""><span class="number">6.</span><h3 class="title"><a href="http://www.plotek.pl/plotek/7,78649,24025200,ich-romansem-zyla-cala-polska-teraz-maserak-publikuje-zdjecia.html#TRNajCzytSST" title="Ich romansem ¿y³a ca³a Polska. Teraz Maserak publikuje zdjêcia z Foremniak. &quot;Kiedy to by³o!&quot;">Ich romansem ¿y³a ca³a Polska. Teraz Maserak publikuje zdjêcia z Foremniak. "Kiedy to by³o!"</a></h3></li></ul></section></article>
+<!--17517786, [ /htm/17517/j17517786.htm ], null-->
+
+
+		
+
+        
+
+<!-- licz=2 n-->
+	
+	
+
+
+<!--11870881, [ /fix/bajery/rotujacyRedmonster.jsp ], null-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- millNST.jsp ver 1.8.1  -->
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+
+
+
+	
+		
+	
+	
+
+
+
+	
+		
+	
+	
+
+
+
+	
+	
+		
+	
+
+
+
+
+<div class="mod_mlyn mod_mlyn_zr2 static loaded right_side  mod_polecane_new"
+	style="height: auto;" >
+
+	<div class="node_head typeY">
+		
+			
+			
+				<span>
+					NAJCIEKAWSZE
+				</span>
+			
+		
+		<span></span>
+	</div>
+	<div class="node_body">
+		
+			
+			
+				
+			
+
+			<div
+				class=" node_entry n2 n3 n4 n6"
+				data-id="287483"
+				data-mill-categories="1029"
+				data-skip-hp="true"
+				target="">
+
+
+				<a href="http://www.plotek.pl/plotek/7,154063,24015231,agnieszka-kaczorowska-odslonila-zgrabne-nogi-ale-wszyscy-patrzyli.html"
+					id="LinkArea:PrawyMlyn" title="Agnieszka Kaczorowska ods³oni³a zgrabne, d³ugie nogi. Ale wszyscy patrzyli w inne miejsce">  <img src="http://bi.gazeta.pl/im/25/e7/16/z24015397Y.jpg">
+					
+						<span class="caption">Agnieszka Kaczorowska ods³oni³a zgrabne, d³ugie nogi. Ale wszyscy patrzyli w inne miejsce</span>
+					 
+				</a>
+			</div>
+		
+			
+			
+				
+			
+
+			<div
+				class=" node_entry "
+				data-id="287477"
+				data-mill-categories="1029"
+				data-skip-hp="true"
+				target="">
+
+
+				<a href="http://www.plotek.pl/plotek/7,154063,24019832,tomasz-karolak-pojawil-sie-na-premierze-filmu-z-nowa-partnerka.html"
+					id="LinkArea:PrawyMlyn" title="Tomasz Karolak z NOW¡ partnerk± na ¶ciance. Trzeba przyznaæ, ¿e to piêkna kobieta!">  <img src="http://bi.gazeta.pl/im/83/e8/16/z24019843Y.jpg">
+					
+						<span class="caption">Tomasz Karolak z NOW¡ partnerk± na ¶ciance. Trzeba przyznaæ, ¿e to piêkna kobieta!</span>
+					 
+				</a>
+			</div>
+		
+			
+			
+				
+			
+
+			<div
+				class=" node_entry n2"
+				data-id="287479"
+				data-mill-categories="1029"
+				data-skip-hp="true"
+				target="">
+
+
+				<a href="http://www.plotek.pl/plotek/7,154063,24018135,renata.html"
+					id="LinkArea:PrawyMlyn" title="Kaczoruk chwali siê zdjêciami pupy. Internauci &#034;Jakie to niskie&#034;. Szybko odpowiedzia³a">  <img src="http://bi.gazeta.pl/im/fd/e7/16/z24018173Y.jpg">
+					
+						<span class="caption">Kaczoruk chwali siê zdjêciami pupy. Internauci &#034;Jakie to niskie&#034;. Szybko odpowiedzia³a</span>
+					 
+				</a>
+			</div>
+		
+			
+			
+				
+			
+
+			<div
+				class=" node_entry n3"
+				data-id="287481"
+				data-mill-categories="1029"
+				data-skip-hp="true"
+				target="">
+
+
+				<a href="http://www.plotek.pl/plotek/7,78649,24010797,dominika-gwit-po-latach-mam-diagnoze-ta-wypowiedz-aktorki.html"
+					id="LinkArea:PrawyMlyn" title="Gwit: Po latach mam diagnozê. Ta wypowied¼ wzbudzi³a kontrowersje. &#034;Kogo chcesz oszukaæ?&#034;">  <img src="http://bi.gazeta.pl/im/5a/68/16/z23495258Y.jpg">
+					
+						<span class="caption">Gwit: Po latach mam diagnozê. Ta wypowied¼ wzbudzi³a kontrowersje. &#034;Kogo chcesz oszukaæ?&#034;</span>
+					 
+				</a>
+			</div>
+		
+	</div>
+	
+
+</div>
+
+<!--20042688, [ /fix/mill/millNST.jsp ], null-->
+<!-- universalIndexRWD_DFP v0.33 --><!-- (~MODSTART : 7 :22535194) --><article class="mod mod_indexRWD blog lazy_load "><header><h1>Co nowego w telewizji</h1></header><section class="body"><ul><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,111485,24033479,tvn-nie-chcial-wyemitowac-tego-odcinka-kuchennych-rewolucji.html"><img data-src="//bi.im-g.pl/im/d1/b9/16/z23826641Q,Magda-Gessler.jpg" /></a></div></section><header><h2><a href="http://www.plotek.pl/plotek/7,111485,24033479,tvn-nie-chcial-wyemitowac-tego-odcinka-kuchennych-rewolucji.html">TVN nie chcia³ wyemitowaæ tego odcinka &#034;Kuchennych rewolucji&#034;. To przed t± restauracj± napadniêto Gessler! Pominiêto jednak istotny szczegó³</a></h2></header><footer><time>11-10-2018 23:24</time><ul><li><a href="/plotek/0,78882,398208420.html?tag=kuchenne+rewolucje">kuchenne rewolucje</a></li><li><a href="/plotek/0,78882,398208420.html?tag=magda+gessler">magda gessler</a></li></ul></footer></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,111485,24028919,wpadka-produkcji-w-ameryce-express-widzowie-od-razu-ja-wylapali.html"><img data-src="//bi.im-g.pl/im/48/ea/16/z24029000Q,-Ameryka-Express-.jpg" /></a></div></section><header><h2><a href="http://www.plotek.pl/plotek/7,111485,24028919,wpadka-produkcji-w-ameryce-express-widzowie-od-razu-ja-wylapali.html">Wpadka produkcji w &#034;Ameryce Express&#034;. Widzowie od razu j± wy³apali: Mega wtopa!</a></h2></header><footer><time>11-10-2018 10:45</time><ul><li><a href="/plotek/0,78882,398208420.html?tag=wpadki+telewizyjne">wpadki telewizyjne</a></li><li><a href="/plotek/0,78882,398208420.html?tag=ameryka+express">ameryka express</a></li></ul></footer></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,111485,24028779,ameryka-express-lara-miala-swoj-sposob-na-zlapanie-stopa.html"><img data-src="//bi.im-g.pl/im/79/ea/16/z24028793Q,Lara-Gessler-w--Ameryka-Express-.jpg" /></a></div></section><header><h2><a href="http://www.plotek.pl/plotek/7,111485,24028779,ameryka-express-lara-miala-swoj-sposob-na-zlapanie-stopa.html">&#034;Ameryka Express&#034;. Lara mia³a swój sposób na z³apanie stopa. Nie wszystkim widzom siê spodoba³. &#034;To jest niesmaczne&#034;</a></h2></header><footer><time>10-10-2018 23:52</time><ul><li><a href="/plotek/0,78882,398208420.html?tag=lara+gessler">lara gessler</a></li><li><a href="/plotek/0,78882,398208420.html?tag=ameryka+express">ameryka express</a></li></ul></footer></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,111485,24024672,rolnik-szuka-zony-lukasz-oszukuje-kandydatki-tak-twierdza.html"><img data-src="//bi.im-g.pl/im/86/e9/16/z24025478Q,Rolnik-szuka-zony.jpg" /></a></div></section><header><h2><a href="http://www.plotek.pl/plotek/7,111485,24024672,rolnik-szuka-zony-lukasz-oszukuje-kandydatki-tak-twierdza.html">&#034;Rolnik szuka ¿ony&#034;. £ukasz oszukuje kandydatki? Tak twierdz± widzowie! &#034;On siê z Agat± ju¿ wcze¶niej zapozna³&#034;</a></h2></header><footer><time>10-10-2018 12:10</time><ul><li><a href="/plotek/0,78882,398208420.html?tag=rolnik+szuka+%BFony">rolnik szuka ¿ony</a></li></ul></footer></li><li class="entry "><section><div class="imgw"><a href="http://www.plotek.pl/plotek/7,111485,24024274,smolasty-u-kuby-wojewodzkiego-nikt-nie-chce-miec-klody-w-lozku.html"><img data-src="//bi.im-g.pl/im/d0/e9/16/z24024272Q,Kuba-Wojewodzki.jpg" /></a></div></section><header><h2><a href="http://www.plotek.pl/plotek/7,111485,24024274,smolasty-u-kuby-wojewodzkiego-nikt-nie-chce-miec-klody-w-lozku.html">Smolasty u Kuby Wojewódzkiego  &#034;Nikt nie chce mieæ k³ody w ³ó¿ku&#034;.    Opowiedzia³ o zwi±zku z Honorat± Skarbek </a></h2></header><footer><time>09-10-2018 23:37</time><ul><li><a href="/plotek/0,78882,398208420.html?tag=kuba+wojew%F3dzki">kuba wojewódzki</a></li></ul></footer></li></ul></section><footer></footer></article><!-- (~MODEND:8:22535194 sr43:1,414,686) -->
+
+<!--22535194, [ /tpl/prod/universalIndex/universalIndexModuleRWD.jsp ], universalIndexBean-->
+
+        <!-- /proxy:right3 -->
+        
+        
+        
+    </div> <!-- #holder_301 .holder_cr -->
+</div> <!-- #col_right -->
+</div> <!-- #columns_wrap -->
+<div id="bottom_wrap">
+    <div id="holder_401" class="holder_bottom">
+        <section class="mod box_video">
+<ul class="photo_list">
+<li class="photo_item n0">
+<a id="LinkArea:wideo" class="" href="http://www.plotek.pl/plotek/7,78649,24021940,sara-boruc-na-okladce-be-active-figure-ma-wrecz-obledna.html" title="Sara Boruc na ok³adce &quot;Be Active&quot;. Figurê ma ob³êdn±! Ale takiego komentarza od Mariny siê nie spodziewali¶my">
+<img src="//bi.im-g.pl/im/44/e8/16/z24022084K.jpg" alt="Sara Boruc na ok³adce &quot;Be Active&quot;. Figurê ma ob³êdn±! Ale takiego komentarza od Mariny siê nie spodziewali¶my" />
+</a>
+<h3 class="title_content">
+<a id="LinkArea:wideo" href="http://www.plotek.pl/plotek/7,78649,24021940,sara-boruc-na-okladce-be-active-figure-ma-wrecz-obledna.html" title="Sara Boruc na ok³adce &quot;Be Active&quot;. Figurê ma ob³êdn±! Ale takiego komentarza od Mariny siê nie spodziewali¶my">
+<span class="title">Sara Boruc na ok³adce &quot;Be Active&quot;. Figurê ma ob³êdn±! Ale takiego komentarza od Mariny siê nie spodziewali¶my</span>
+</a>
+</h3>
+</li>
+<li class="photo_item n1">
+<a id="LinkArea:wideo" class="" href="http://www.plotek.pl/plotek/7,154063,24013509,anna-skura-zostawila-poltora-miesieczna-corke-i-poleciala-na.html" title="Anna Skura zostawi³a pó³toramiesiêczn± córkê i... polecia³a na Bali. &quot;Brak mi s³ów!&quot;. Odpowiedzia³ jej m±¿">
+<img src="//bi.im-g.pl/im/2f/e6/16/z24013615K.jpg" alt="Anna Skura zostawi³a pó³toramiesiêczn± córkê i... polecia³a na Bali. &quot;Brak mi s³ów!&quot;. Odpowiedzia³ jej m±¿" />
+</a>
+<h3 class="title_content">
+<a id="LinkArea:wideo" href="http://www.plotek.pl/plotek/7,154063,24013509,anna-skura-zostawila-poltora-miesieczna-corke-i-poleciala-na.html" title="Anna Skura zostawi³a pó³toramiesiêczn± córkê i... polecia³a na Bali. &quot;Brak mi s³ów!&quot;. Odpowiedzia³ jej m±¿">
+<span class="title">Anna Skura zostawi³a pó³toramiesiêczn± córkê i... polecia³a na Bali. &quot;Brak mi s³ów!&quot;. Odpowiedzia³ jej m±¿</span>
+</a>
+</h3>
+</li>
+<li class="photo_item n2">
+<a id="LinkArea:wideo" class="" href="http://www.plotek.pl/plotek/7,154063,24014602,tak-wygladalo-wesele-syna-martyniuka-zaspiewal-nie-tylko-tata.html" title="Tak wygl±da³o wesele syna Martyniuka. Za¶piewa³ nie tylko tata, ale te¿ inny znany discopolowiec">
+<img src="//bi.im-g.pl/im/b8/e6/16/z24014776K.jpg" alt="Tak wygl±da³o wesele syna Martyniuka. Za¶piewa³ nie tylko tata, ale te¿ inny znany discopolowiec" />
+</a>
+<h3 class="title_content">
+<a id="LinkArea:wideo" href="http://www.plotek.pl/plotek/7,154063,24014602,tak-wygladalo-wesele-syna-martyniuka-zaspiewal-nie-tylko-tata.html" title="Tak wygl±da³o wesele syna Martyniuka. Za¶piewa³ nie tylko tata, ale te¿ inny znany discopolowiec">
+<span class="title">Tak wygl±da³o wesele syna Martyniuka. Za¶piewa³ nie tylko tata, ale te¿ inny znany discopolowiec</span>
+</a>
+</h3>
+</li>
+</ul>
+</section><!-- UZREditor --><!-- htmEOF -->
+<!--22693987, [ /htm/22693/j22693987.htm ], null-->
+<section class="mod  box_mt opt1">
+<header>
+<h2>
+HITY TYGODNIA
+</h2>
+</header>
+<ul class="photo_list">
+<li class="photo_item">
+<a id="LinkArea:hitytyg1" href="http://www.plotek.pl/plotek/56,79592,24017738,agata-buzek-i-jacek-braciak-sa-para-przytulali-sie-i-calowali.html" title="Agata Buzek i Jacek Braciak s± par±? Przytulali siê i ca³owali. Te zdjêcia mówi± same za siebie">
+<img src="//bi.im-g.pl/im/24/e7/16/z24017700Q.jpg" alt="Agata Buzek i Jacek Braciak s± par±? Przytulali siê i ca³owali. Te zdjêcia mówi± same za siebie" />
+</a>
+<h3 class="title_content">
+<a id="LinkArea:hitytyg1" href="http://www.plotek.pl/plotek/56,79592,24017738,agata-buzek-i-jacek-braciak-sa-para-przytulali-sie-i-calowali.html" title="Agata Buzek i Jacek Braciak s± par±? Przytulali siê i ca³owali. Te zdjêcia mówi± same za siebie">
+<span class="title">Agata Buzek i Jacek Braciak s± par±? Przytulali siê i ca³owali. Te zdjêcia mówi± same za siebie</span>
+</a>
+</h3>
+</li>
+</ul>
+</section><!-- UZREditor --><!-- htmEOF -->
+<!--17386874, [ /htm/17386/j17386874.htm ], null-->
+
+        <div>
+
+
+<div id="150-ADBOARD-A-MOBI " class="adviewDFPBanner DFP-150-ADBOARD-A-MOBI ">
+    <span class="banLabel" style="display: none;">REKLAMA</span>
+	<div id='div-gpt-ad-150-ADBOARD-A-MOBI -0'>
+    <script type='text/javascript'>
+    	if(dfpParams.slots['150-ADBOARD-A-MOBI '] && dfpParams.slots['150-ADBOARD-A-MOBI '].autoLoad) {
+    		if (adviewDFP && adviewDFP.scrollSlot) adviewDFP.scrollSlot.push('150-ADBOARD-A-MOBI '); 
+		} else {
+		    googletag.cmd.push(function() { googletag.display('div-gpt-ad-150-ADBOARD-A-MOBI -0'); });
+		}
+       
+    </script>
+    </div>
+</div>
+
+
+<!-- v2.2 -->
+<!--11887299, [ /tpl/ads/prod/dfpSlot.jsp ], dfpBanersSlotBean-->
+</div>
+         
+
+
+
+
+	
+			
+				 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+	
+	
+		
+	
+
+ 
+ 
+	
+	
+		
+		
+	
+
+
+ 
+	
+		
+	
+	
+
+
+ 
+	
+	
+		
+	
+
+
+ 
+	
+		
+		
+	
+	
+
+
+<div class="mod_mlyn mod_mlyn_zr2 static loaded mod_polecane_new" style="height: auto;" data-servlet="http://polecamy.gazeta.pl/zobacz/msnpostsjson.servlet?mill_cols=3&amp;mill_rows=2&amp;max_promo=1&amp;mill_header=&amp;mill_newWindow=false&amp;mill_categories=341&amp;mill_skip_hp=true&amp;mill_img=K&amp;losujCzas=1&amp;sortuj=standard&amp;ctrCzas=3&amp;str=nie&amp;strIle=null&amp;linkarea=MlynHP&amp;skipTitle=false&amp; ">
+
+	<div class="node_head typeK">
+		 
+			
+			
+				<span></span>
+			
+						
+		<span></span>
+	</div>
+	<div class="node_body">
+									
+            
+            
+                
+            
+			<div class=" node_entry n2 n3 n4 n6" 
+				data-id="287492" 
+				data-mill-categories="341"
+				data-skip-hp="true" 
+				target="">
+				<a href="http://www.plotek.pl/plotek/7,78649,23998065,karl-lagerfeld-bez-okularow-przeciwslonecznych-to-mozliwe.html" id="LinkArea:MlynHP" >
+					<img src="http://bi.gazeta.pl/im/92/e2/16/z23998354K.jpg">
+					
+						<span class="caption">Karl Lagerfeld na Fashion Weeku bez okularów przeciws³onecznych. Nie do poznania! </span>
+					
+                    
+				</a>
+			</div>
+									
+            
+            
+                
+            
+			<div class=" node_entry " 
+				data-id="287486" 
+				data-mill-categories="341"
+				data-skip-hp="true" 
+				target="">
+				<a href="http://www.plotek.pl/plotek/7,154063,24013326,syn-zenka-martyniuka-juz-po-slubie.html" id="LinkArea:MlynHP" >
+					<img src="http://bi.gazeta.pl/im/c4/e6/16/z24013508K.jpg">
+					
+						<span class="caption">Kim jest synowa Zenka Martyniuka? Ewelinê i Daniela dzieli spora ró¿nica wieku. To nie wszystko, co wiemy</span>
+					
+                    
+				</a>
+			</div>
+									
+            
+            
+                
+            
+			<div class=" node_entry n2" 
+				data-id="287491" 
+				data-mill-categories="341"
+				data-skip-hp="true" 
+				target="">
+				<a href="http://www.plotek.pl/plotek/7,78649,24005694,tupac-jednak-zyje-sa-nowe-doniesienia-i-zdjecia-wiadomo-tez.html" id="LinkArea:MlynHP" >
+					<img src="http://bi.gazeta.pl/im/f9/e4/16/z24006137K.jpg">
+					
+						<span class="caption">Tupac jednak ¿yje? S± nowe doniesienia i zdjêcia! Wiadomo te¿, gdzie mieszka</span>
+					
+                    
+				</a>
+			</div>
+									
+            
+            
+                
+            
+			<div class=" node_entry n3" 
+				data-id="287489" 
+				data-mill-categories="341"
+				data-skip-hp="true" 
+				target="">
+				<a href="http://www.plotek.pl/plotek/7,78649,24011725,slub-od-pierwszego-wejrzenia-ania-ma-nowego-partnera-pokazala.html" id="LinkArea:MlynHP" >
+					<img src="http://bi.gazeta.pl/im/fe/e6/16/z24011774K.jpg">
+					
+						<span class="caption">&#034;¦lub od pierwszego wejrzenia&#034;. Ania ma nowego partnera. Pokaza³a zdjêcia</span>
+					
+                    
+				</a>
+			</div>
+									
+            
+            
+                
+            
+			<div class=" node_entry n2 n4" 
+				data-id="287482" 
+				data-mill-categories="341"
+				data-skip-hp="true" 
+				target="">
+				<a href="http://www.plotek.pl/plotek/7,154063,24009710,dawno-niewidziana-agnieszka-perepeczko-na-salonach-wszyscy.html" id="LinkArea:MlynHP" >
+					<img src="http://bi.gazeta.pl/im/37/e5/16/z24009783K.jpg">
+					
+						<span class="caption">76-letnia Perepeczko na salonach. Wszyscy patrzyli na ogromny dekolt gwiazdy! Robi wra¿enie</span>
+					
+                    
+				</a>
+			</div>
+									
+            
+            
+                
+            
+			<div class=" node_entry " 
+				data-id="287493" 
+				data-mill-categories="341"
+				data-skip-hp="true" 
+				target="">
+				<a href="http://www.plotek.pl/plotek/7,154063,23995390,lata-operacji-zniszczyly-twarz-donatelli-versace-teraz-projektantka.html" id="LinkArea:MlynHP" >
+					<img src="http://bi.gazeta.pl/im/31/e2/16/z23995441K.jpg">
+					
+						<span class="caption">Operacje plastyczne zniszczy³y twarz Donatelli Versace. Podda³a siê kolejnym i wygl±da du¿o lepiej!</span>
+					
+                    
+				</a>
+			</div>
+						
+	</div>
+	
+</div>
+
+
+			
+<!--17364675, [ /fix/mill/bombonierkaMSN.jsp ], null-->
+<section class="mod mod_uzr6 eventim">
+<header>
+<h2>
+Na topie
+</h2>
+</header>
+<div class="body">
+<ul>
+<li class="n2 n3 n4 n5 n6 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,157292.html" ><img src="https://bis.gazeta.pl/im/56/10/15/z22086998D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,157292.html"  title="">Produkty</a>
+</li>
+</ul>
+</li>
+<li class=" ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=doda" ><img src="https://bis.gazeta.pl/im/e4/22/10/z16918244D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=doda"  title="">Doda</a>
+</li>
+</ul>
+</li>
+<li class="n2 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=kinga+rusin" ><img src="https://bis.gazeta.pl/im/92/3b/10/z17022866D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=kinga+rusin"  title="">Kinga Rusin</a>
+</li>
+</ul>
+</li>
+<li class="n3 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=kim+kardashian" ><img src="https://bis.gazeta.pl/im/35/ad/10/z17486901D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=kim+kardashian"  title="">Kim Kardashian</a>
+</li>
+</ul>
+</li>
+<li class="n2 n4 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=anna+mucha" ><img src="https://bis.gazeta.pl/im/07/be/10/z17559303D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=anna+mucha"  title="">Anna Mucha</a>
+</li>
+</ul>
+</li>
+<li class="n5 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=natalia+siwiec" ><img src="https://bis.gazeta.pl/im/70/91/10/z17375088D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=natalia+siwiec"  title="">Natalia Siwiec</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</section><!-- UZREditor --><!-- htmEOF -->
+<!--17365162, [ /htm/17365/j17365162.htm ], null-->
+<section class="mod mod_uzr6 eventim">
+<header>
+<h2>
+W telewizji
+</h2>
+</header>
+<div class="body">
+<ul>
+<li class="n2 n3 n4 n5 n6 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,144890.html" ><img src="https://bis.gazeta.pl/im/c8/eb/14/z21936584D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=projekt+lady"  title="">Projekt Lady</a>
+</li>
+</ul>
+</li>
+<li class=" ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=milionerzy" ><img src="https://bis.gazeta.pl/im/66/6a/14/z21409126D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=milionerzy"  title="">Milionerzy</a>
+</li>
+</ul>
+</li>
+<li class="n2 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=m+jak+mi%B3o%B6%E6" ><img src="https://bis.gazeta.pl/im/ce/ed/13/z20896206D.jpg" alt="M jak mi³o¶æ" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=m+jak+mi%B3o%B6%E6"  title="">M jak mi³o¶æ</a>
+</li>
+</ul>
+</li>
+<li class="n3 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=na+wsp%F3lnej" ><img src="https://bis.gazeta.pl/im/b5/74/10/z17255605D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=na+wsp%F3lnej"  title="">Na Wspólnej</a>
+</li>
+</ul>
+</li>
+<li class="n2 n4 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=Przyjaci%F3%B3ki" ><img src="https://bis.gazeta.pl/im/52/6e/12/z19325522D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=Przyjaci%F3%B3ki"  title="">Przyjació³ki</a>
+</li>
+</ul>
+</li>
+<li class="n5 ">
+
+
+<div class="imgw">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=kuba+wojew%F3dzki" ><img src="https://bis.gazeta.pl/im/f8/2c/12/z19056120D.jpg" alt="" title=""></a>
+</div>
+<ul>
+<li class="el  restriction_0">
+<a id="LinkArea:natopie" href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=kuba+wojew%F3dzki"  title="">Kuba Wojewódzki</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</section><!-- UZREditor --><!-- htmEOF -->
+<!--17915677, [ /htm/17915/j17915677.htm ], null-->
+
+    </div> <!-- #holder_401 .holder_bottom -->
+    <div id="holder_404" class="holder_bottom">
+
+        
+        <div class="box_seo">
+<ul class="content">
+<li class="seo_column">
+<h3>
+NAJLEPSZE
+</h3>
+<ul>
+<li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,79592.html" title="Galerie">Galerie</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,111483.html" title="Exclusive">Exclusive</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,111485.html" title="Tv Show">Tv Show</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,82573.html" title="Wideo">Wideo</a>
+</li><li class="seo_row">
+<a  href="http://buzz.gazeta.pl/buzz/0,0.html" title="Buzz">Buzz</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,111486.html" title="18+">18+</a>
+</li>
+</ul>
+</li>
+<li class="seo_column">
+<h3>
+GWIAZDY POLSKIE
+</h3>
+<ul>
+<li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=kora+jackowska" title="Kora Jackowska">Kora Jackowska</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=ma%B3gorzata+ko%BFuchowska" title="Ma³gorzata Ko¿uchowska">Ma³gorzata Ko¿uchowska</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=anna+lewandowska" title="Anna Lewandowska">Anna Lewandowska</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=alicja+bachleda-curu%B6" title="Alicja Bachleda-Curu¶">Alicja Bachleda-Curu¶</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=renata+kaczoruk" title="Renata Kaczoruk">Renata Kaczoruk</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=edyta+g%F3rniak" title="Edyta Górniak">Edyta Górniak</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=agnieszka+wi%EAd%B3ocha" title="Agnieszka Wiêd³ocha">Agnieszka Wiêd³ocha</a>
+</li>
+</ul>
+</li>
+<li class="seo_column">
+<h3>
+GWIAZDY ZAGRANICZNE
+</h3>
+<ul>
+<li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=kate+middleton" title="Kate Middleton">Kate Middleton</a>
+</li><li class="seo_row">
+<a  href="www.plotek.pl/plotek/0,78882,398208420.html?tag=meghan+markle" title="Meghan Markle">Meghan Markle</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=angelina+jolie" title="Angelina Jolie">Angelina Jolie</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=miley+cyrus" title="Miley Cyrus">Miley Cyrus</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=taylor+swift" title="Taylor Swift">Taylor Swift</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=rihanna" title="Rihanna">Rihanna</a>
+</li>
+</ul>
+</li>
+<li class="seo_column">
+<h3>
+TV SHOW
+</h3>
+<ul>
+<li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=masterchef+junior" title="MasterChef Junior">MasterChef Junior</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=agent+-+gwiazdy" title="Agent Gwiazdy">Agent Gwiazdy</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=rolnik+szuka+%BFony" title="Rolnik Szuka ¯ony">Rolnik Szuka ¯ony</a>
+</li><li class="seo_row">
+<a  href="www.plotek.pl/plotek/0,78882,398208420.html?tag=m+jak+mi%B3o%B6%E6" title="M jak mi³o¶æ">M jak mi³o¶æ</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=kuchenne+rewolucje" title="Kuchenne Rewolucje">Kuchenne Rewolucje</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/0,78882,398208420.html?tag=warsaw+shore" title="Warsaw Shore">Warsaw Shore</a>
+</li>
+</ul>
+</li>
+<li class="seo_column">
+<h3>
+Kontakt
+</h3>
+<ul>
+<li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/1,100953,17505663,Kontakt.html" title="Redakcja">Redakcja</a>
+</li><li class="seo_row">
+<a  href="http://www.plotek.pl/plotek/1,100953,17505648,O_nas.html" title="O nas">O nas</a>
+</li><li class="seo_row">
+<a  href="https://www.facebook.com/Plotek" title="Plotek na Facebooku">Plotek na Facebooku</a>
+</li><li class="seo_row">
+<a  href="https://www.youtube.com/user/WideoPlotekPl" title="Plotek na YT">Plotek na YT</a>
+</li><li class="seo_row">
+<a  href="https://plus.google.com/+WideoPlotekPl" title="Plotek na G+">Plotek na G+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div><!-- UZREditor --><!-- htmEOF -->
+<!--20173590, [ /htm/20173/j20173590.htm ], null-->
+
+    </div> <!-- #holder_404 .holder_bottom -->
+</div> <!-- #bottom_wrap -->
+</div> <!-- #content_wrap -->
+
+
+
+<div id="108-FOOTBOARD-MOBI" class="adviewDFPBanner DFP-108-FOOTBOARD-MOBI">
+    <span class="banLabel" style="display: none;">REKLAMA</span>
+	<div id='div-gpt-ad-108-FOOTBOARD-MOBI-0'>
+    <script type='text/javascript'>
+    	if(dfpParams.slots['108-FOOTBOARD-MOBI'] && dfpParams.slots['108-FOOTBOARD-MOBI'].autoLoad) {
+    		if (adviewDFP && adviewDFP.scrollSlot) adviewDFP.scrollSlot.push('108-FOOTBOARD-MOBI'); 
+		} else {
+		    googletag.cmd.push(function() { googletag.display('div-gpt-ad-108-FOOTBOARD-MOBI-0'); });
+		}
+       
+    </script>
+    </div>
+</div>
+
+
+<!-- v2.2 -->
+<!--5658, [ /tpl/ads/prod/dfpSlot.jsp ], dfpBanersSlotBean-->
+
+</div> <!-- #content -->
+
+
+
+
+
+    
+
+
+<!-- footerRWD: -->
+
+
+
+
+
+
+
+
+
+<!--   DFP -->
+
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+
+
+
+
+
+<!-- proxy:footer v1.3.3 .. DFP -->
+
+
+
+
+
+
+
+ 
+
+    
+
+<!-- /nltwp -->
+<!-- zdefstop10 rwd=tak ...... -->
+<!-- nav footer -->
+<footer id="rwdFooter">
+    
+
+
+
+ 
+  
+  
+  
+
+
+<div class="ft_top">
+  
+  <ul class="icons l3">
+    <li class="spr mail"><a href="http://poczta.gazeta.pl/"><span></span>Poczta</a></li>
+    <li class="spr nlt"><a href="https://newslettery.gazeta.pl/newsletter?fromnlt=stopka&refnlt=http/plotek/"><span></span>Newsletter</a></li>
+        
+    <li class="rss spr"><a href="http://rss.gazeta.pl/pub/rss/plotek.xml"><span></span>RSS</a></li>
+    
+  </ul>
+    
+  
+  <div class="c0">
+  		<!-- stopka_temat: /aliasy/stopka/temat_rozrywka.htm -->
+      <ul><li class="caption">Na skr&oacute;ty:</li><li class="f"><a title="Gazeta.pl" href="http://www.gazeta.pl/0,0.html">Gazeta.pl</a></li><li class=""><a title="Wiadomo¶ci" href="http://wiadomosci.gazeta.pl/wiadomosci/0,0.html">Wiadomo¶ci</a></li><li class=""><a title="Sport.pl" href="http://www.sport.pl/sport-hp/0,0.html">Sport.pl</a></li><li class=""><a title="Biznes" href="http://wyborcza.biz/biznes/0,0.html">Biznes</a></li><li class=""><a title="Gazeta Wyborcza" href="http://wyborcza.pl/0,0.html">Gazeta Wyborcza</a></li><li class=""><a title="Praca" href=" https://www.goldenline.pl">Praca</a></li><li class=""><a title="Program TV" href="http://tv.gazeta.pl/program_tv/0,0.html">Program TV</a></li></ul>					
+      <ul><li class="caption">Polecamy:</li><li class="f"><a title="Horoskop" href="http://horoskopy.gazeta.pl/horoskop/0,0.html">Horoskop</a></li><li class=""><a title="Gry online" href="http://www.naprzerwie.pl/naprzerwie/0,0.html">Gry online</a></li></ul>
+  </div>
+
+    
+    
+</div>
+
+
+<div class="ft_bot">
+  
+    <ul class="c0">
+      <li class="copy"><a href="http://www.agora.pl/" >Copyright</a> &copy; <a href="http://www.agora.pl/" >Agora SA</a></li>
+      <li class="f"><a href="http://onas.gazeta.pl/" rel="nofollow">O nas</a></li>
+      <li><a href="http://kariera.agora.pl/kariera/0,0.html" rel="nofollow">Sta¿e u nas</a></li> 
+      <li><a href="http://reklama.gazeta.pl/content-marketing/0,0.html" rel="nofollow">Reklama</a></li>
+      <li><a href="http://pomoc.gazeta.pl/pomoc/1,154322,8856779,Ochrona_prywatnosci.html" rel="nofollow">Prywatno¶æ</a></li>
+      <li><a href="/plotek/3660000,0.html" >Wszystkie artyku³y</a></li>
+      
+      <li><a href="http://kontent.gazeta.pl/kontent/0,0.html" >Licencje/Kontent</a></li>
+      
+      <li><a href="http://www.gazeta.tv/Wideo/1,132358,13718326,Dostawca_VOD.html" >Dostawca VOD</a></li>
+            
+      
+      
+         <li class="f"><strong><a href="javascript:pop('http://www.plotek.pl/plotek/2029030,78645.html?b=0&amp;x=0&amp;d=0&amp;utm_source=recommend&amp;utm_medium=email&amp;utm_campaign=recommend&amp;home=http%3A%2F%2Fwww.plotek.pl%2Fplotek%2F0%2C0.html',568,330)" rel="nofollow">Poleæ stronê</a></strong></li>
+         
+                
+                <li>
+                <strong><a href="javascript:pop('http://pomoc.gazeta.pl/zglos_blad/0,0.html?sv=http%3A%2F%2Fwww.plotek.pl%2Fplotek%2F0%2C0.html',650,505)" rel="nofollow">Zg³o¶ b³±d</a></strong></li>
+         
+             
+      
+      <li class="more"><a href="#">Wi&#281;cej &#x00bb;</a></li>
+    </ul> 
+   
+
+    
+   
+</div>
+
+
+
+
+
+</footer>
+
+<!-- /nav footer -->
+<!-- /proxy:footer -->
+    <script language="javascript"><!--
+        function getCookie(name) {
+            var start = document.cookie.indexOf(name+"=");
+            var len = start+name.length+1;
+            if ((!start) && (name != document.cookie.substring(0,name.length))) return null;
+            if (start == -1) return null;
+            var end = document.cookie.indexOf(";",len);
+            if (end == -1) end = document.cookie.length;
+            return unescape(document.cookie.substring(len,end));
+        }
+        document.write('<'+'img style="display: none;" src="https://p.gazeta.pl/?b=0&x=0&d=0&o=1&t='+(new Date()).getTime()+'&w=78645"'+'>');
+    //--></script>
+
+<!-- xsDir:/plotek/,null -->
+
+
+
+
+
+
+
+
+
+
+
+<!--gx dfp-->
+
+
+
+
+<!-- -->
+<!-- skryptdx -->
+
+<!-- /skryptdx -->  
+
+	
+
+	<!-- showAllR =  , pageTypeR = LegoIndex -->
+
+
+
+
+<!--5648, [ /fix/modules/footer_p2gs_dfp.jsp ], footerDefaultPojoBean-->
+
+</div> <!-- #page -->
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<script src="//static.im-g.pl/info/portal/3.4.98/portal.jsgz"></script>
+
+	
+
+
+<!-- cyfryzacja script wyborcza js -->
+
+	
+
+<!-- cyfryzacja-script-end -->
+
+
+
+	
+		
+				
+			
+				<script src="http://bi.im-g.pl/static/content/front/plotek/master/js/production/2.3.0/main-min.jsgz" async></script>
+			
+		
+	
+
+
+
+	
+
+
+
+<!--5645, [ /fix/modules/bottomScripts.jsp ], bottomScriptsPojoBean-->
+
+
+	
+
+
+
+
+
+<script>
+	function postFbInit() {
+		
+    	
+    	if(typeof enableFBComments != 'undefined' && enableFBComments == true) {
+    		gazeta_pl.FBComments.init();
+    	}
+
+    	if(typeof facebookMessageBody != 'undefined') {
+    		facebookMessageBody = facebookMessageBody.replace(/\[\/?\s*(quote|b|u|i|url|email|code|sonda|spoiler|video|\*).*?\]/g, '');
+    		var FBCommentsConfig = {
+				message: facebookMessageBody,
+	    		link:'http://www.plotek.pl/plotek/0,0.html?utm_source=facebook.com&utm_medium=SM&utm_campaign=FB_Komentarze',
+	    		name:'Przejd&#378; do strony'
+  			};
+  			gazeta_pl.FBComments.send(FBCommentsConfig);
+    	}
+  
+		
+		
+        
+        gazeta_pl.FBC.init();
+        
+	}  
+</script>
+<!--5652, [ /fix/modules/facebookBottomScriptIndeks.jsp ], facebookBottomScriptPojoBean-->
+
+
+
+
+
+
+</body>
+</html>

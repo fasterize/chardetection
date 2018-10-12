@@ -1,0 +1,37 @@
+{
+  "name": "chardetection",
+  "description": "Character encoding auto-detection in JavaScript (using jschardet and chardet)",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org"
+  },
+  "author": "Anthony BARRE <a@fasterize.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fasterize/chardetection.git"
+  },
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "prettier": "prettier --list-different \"./**/**.js\"",
+    "pretest": "npm run lint && npm run prettier",
+    "test": "nyc mocha test/chardetector.test.js",
+    "posttest": "nyc check-coverage --statements 90 --branches 90 --functions 90 --lines 90"
+  },
+  "dependencies": {
+    "chardet": "^0.7.0",
+    "jschardet": "^1.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "iconv-lite": "^0.4.24",
+    "mmmagic": "^0.5.2",
+    "mocha": "^5.2.0",
+    "nyc": "^13.0.1",
+    "prettier": "^1.14.3",
+    "should": "^13.2.3"
+  }
+}
