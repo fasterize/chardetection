@@ -47,13 +47,13 @@ const normalizeUTF8 = charset => {
 
 module.exports = (
   buffer,
+  debug = false,
+  // eslint-disable-next-line
+  logger = console.log,
   bufferMaxLength = defaultBufferMaxLength,
   charsetsWithLowConfidence = defaultCharsetsWithLowConfidence,
   jschardetCharsetList = defaultJschardetCharsetList,
   chardetCharsetList = defaultChardetCharsetList,
-  debug = false,
-  // eslint-disable-next-line
-  logger = console.log,
 ) => {
   if (buffer.length > 0) {
     const bodyPart = buffer.slice(0, bufferMaxLength);
