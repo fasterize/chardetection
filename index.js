@@ -7,7 +7,6 @@ const defaultJschardetCharsetList = [
   'ISO-8859-5',
   'KOI8-R',
   'TIS-620',
-  'windows-1251',
   'SHIFT_JIS',
   'EUC-JP',
   'EUC-KR',
@@ -118,10 +117,16 @@ module.exports = (
       return 'ISO-8859-7';
     }
 
-    if (chardetResult.name === 'ISO-8859-1') {
+    if (chardetResult.name === 'ISO-8859-1' && chardetResult.confidence > 50) {
+      if (debug) {
+        logger('heuristic for ISO-8859-1');
+      }
       return 'ISO-8859-1';
     }
 
+    if (debug) {
+      logger('default to jschardet detection');
+    }
     return normalizeUTF8(jschardetResult.encoding);
   }
   return null;

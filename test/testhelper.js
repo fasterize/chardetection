@@ -38,7 +38,7 @@ module.exports = function charsetFullSuite(detector) {
   const charsetDirectory = path.join(__dirname, '/encodings');
   const charsets = fs.readdirSync(charsetDirectory);
   charsets.filter(charset => !deprecatedCharset.includes(charset)).forEach(charset => {
-    describe(`charset ${charset}`, () => {
+    describe(`charset ${charset} detection`, () => {
       const files = fs.readdirSync(`${charsetDirectory}/${charset}`);
       files.forEach(file => {
         const expectedCharset = charset.replace(

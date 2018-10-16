@@ -1,7 +1,7 @@
 {
   "name": "chardetection",
   "description": "Character encoding auto-detection in JavaScript (using jschardet and chardet)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
   },

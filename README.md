@@ -31,7 +31,7 @@ This module comes with an extensive tests suite compiled from other detectors te
 
 ## Benchmark
 
-- chardetector : 92 errors over 540 files
+- chardetector : 81 errors over 540 files
 - jschardet : 133 errors over 540 files
 - chardet : 147 errors over 540 files
 - mmmagic : 434 errors over 540 files
